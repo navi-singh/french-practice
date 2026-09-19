@@ -1,0 +1,10 @@
+{
+  "name": "French Practice",
+  "short_name": "French",
+  "description": "Mobile-friendly French lessons, exercises, and review plans.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f2e9",
+  "theme_color": "#12372a",
+  "icons": []
+}

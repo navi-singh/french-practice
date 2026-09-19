@@ -1,0 +1,22 @@
+front,back,gender_or_note
+le quartier,the neighborhood,masculine
+la cuisine,the kitchen,feminine
+l'appartement,the apartment,masculine
+l'université,the university,feminine
+la fenêtre,the window,feminine
+le jardin,the garden,masculine
+le voisin,the male neighbor,masculine
+la voisine,the female neighbor,feminine
+un cahier,a notebook,masculine
+une lampe,a lamp,feminine
+petit / petite,small,adjective
+grand / grande,big or tall,adjective
+heureux / heureuse,happy,adjective
+sportif / sportive,athletic,adjective
+canadien / canadienne,Canadian,lowercase as adjective
+français / française,French,lowercase as adjective
+noir / noire,black,color after noun
+blanc / blanche,white,color after noun
+beau / belle / bel,beautiful,bel before masculine vowel sound
+nouveau / nouvelle / nouvel,new,nouvel before masculine vowel sound
+vieux / vieille / vieil,old,vieil before masculine vowel sound

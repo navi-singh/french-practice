@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#12372a">
+    <meta
+      name="description"
+      content="Mobile-friendly French lessons, exercises, answers, and review plans."
+    >
+    <title>French Practice</title>
+    <link rel="manifest" href="manifest.webmanifest">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <button id="menu-button" class="icon-button" aria-label="Open chapters">☰</button>
+        <a class="brand" href="#/">
+          <span class="brand-mark">FR</span>
+          <span>
+            <strong>French Practice</strong>
+            <small>Learn · write · speak · review</small>
+          </span>
+        </a>
+        <div class="topbar-actions">
+          <button id="theme-button" class="icon-button" aria-label="Toggle dark mode">◐</button>
+        </div>
+      </header>
+
+      <aside id="sidebar" class="sidebar" aria-label="Course navigation">
+        <div class="search-wrap">
+          <label for="search">Search the course</label>
+          <input id="search" type="search" placeholder="e.g. adjective, passé composé">
+        </div>
+        <div id="progress-summary" class="progress-summary"></div>
+        <nav id="chapter-list"></nav>
+      </aside>
+
+      <main id="main" class="main-content" tabindex="-1">
+        <noscript>This site requires JavaScript for course navigation.</noscript>
+      </main>
+    </div>
+
+    <button id="speak-selection" class="speak-button" type="button">
+      <span>🔊</span> Pronounce selection
+    </button>
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+    <div id="backdrop" class="backdrop"></div>
+
+    <script src="content.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
