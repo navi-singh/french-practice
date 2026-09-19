@@ -16,7 +16,7 @@ This is an original companion course for Chapter 1 of *Easy French Step-by-Step*
 
 Use the materials in this order:
 
-1. Read one short lesson in [`lessons/`](lessons/).
+1. Study one unit at a time in [`lessons.md`](lessons.md).
 2. Read the side-by-side English meaning, then say every French example aloud.
 3. Complete the matching section in [`practice/writing-drills.md`](practice/writing-drills.md) by hand.
 4. Close the lesson and answer from memory.
