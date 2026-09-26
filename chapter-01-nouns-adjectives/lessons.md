@@ -23,6 +23,8 @@ Before beginning, make sure you can identify a noun and an adjective in English.
 
 French adds two decisions that English often does not show: grammatical gender and visible agreement.
 
+This chapter asks you to read every French example aloud. If you are not yet sure how French letters sound, work through [Chapter 0](../chapter-00-getting-started/) first: it covers the alphabet, silent letters, nasal vowels, elision, and liaison. If a grammar term here is unfamiliar, look it up in the [glossary](../chapter-00-getting-started/glossary.md).
+
 ## How to study this chapter
 
 For each unit, read the explanation, say every French example aloud, cover the English and test comprehension, then cover the French and write it from memory. Complete the substitution prompts before moving to the next unit.

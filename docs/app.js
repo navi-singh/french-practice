@@ -46,9 +46,9 @@ function renderHome() {
   main.innerHTML = `
     <section class="content-card">
       <div class="document-header">
-        <div class="eyebrow">16-chapter course</div>
+        <div class="eyebrow">Beginner course · Chapters 0-16</div>
         <h1>Learn French by using it</h1>
-        <p>Read, listen, write from memory, correct, and review. Your progress is saved on this device.</p>
+        <p>New to French? Start with Chapter 0 for pronunciation and your first phrases. Read, listen, write from memory, correct, and review. Your progress is saved on this device.</p>
       </div>
       <div class="home-grid">
         ${course.chapters.map((chapter) => `

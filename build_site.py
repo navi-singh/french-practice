@@ -154,6 +154,10 @@ def document_type(path):
         return "Overview"
     if "lesson" in name:
         return "Lessons"
+    if "phrase" in name:
+        return "Phrasebook"
+    if "glossary" in name or "reference" in name:
+        return "Reference"
     if "writing" in name:
         return "Writing"
     if "exercise" in name:
@@ -178,12 +182,14 @@ def chapter_data(folder):
     priority = {
         "Overview": 0,
         "Lessons": 1,
-        "Writing": 2,
-        "Exercises": 3,
-        "Answers": 4,
-        "Review": 5,
-        "Audio": 6,
-        "Resource": 7,
+        "Phrasebook": 2,
+        "Writing": 3,
+        "Exercises": 4,
+        "Answers": 5,
+        "Review": 6,
+        "Audio": 7,
+        "Reference": 8,
+        "Resource": 9,
     }
     documents = []
     for path in paths:

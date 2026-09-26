@@ -1,6 +1,8 @@
 # French Practice Course
 
-This folder contains an original 16-chapter companion course organized around the progression in *Easy French Step-by-Step*. The exercises and explanations are newly written and do not reproduce the textbook.
+This folder contains an original 17-chapter companion course organized around the progression in *Easy French Step-by-Step*. The exercises and explanations are newly written and do not reproduce the textbook.
+
+**New to French? Start with [Chapter 0](chapter-00-getting-started/).** It teaches pronunciation, the alphabet, silent letters, nasal vowels, liaison, greetings, and your first phrases. Chapters 1-16 assume you can already read a French example aloud.
 
 ## How to use the course
 
@@ -10,15 +12,23 @@ For each chapter:
 
 1. Learn one small unit.
 2. Read every French example and its side-by-side English meaning.
-3. Cover the example and write it from memory.
+3. Say it aloud, then cover the example and write it from memory.
 4. Transform the sentence by changing its subject, number, tense, or polarity.
 5. Complete the exercises without notes.
 6. Correct by rule, not merely by answer.
 7. Review after 1, 3, 7, and 30 days.
 
+If a grammar term is unfamiliar at any point, look it up in the [glossary](chapter-00-getting-started/glossary.md), which defines every term used across all chapters in plain English.
+
 Writing is valuable because it forces you to retrieve spelling, agreement, conjugation, and word order. It is most effective when paired with listening and speaking:
 
 > Listen -> repeat -> cover -> write from memory -> check -> say the corrected form
+
+## Phase 0: Before any grammar
+
+| Chapter | Focus | Folder |
+|---:|---|---|
+| 0 | Pronunciation, alphabet, greetings, survival phrases, glossary | [Chapter 0](chapter-00-getting-started/) |
 
 ## Phase 1: Build present-tense foundations
 
@@ -53,6 +63,8 @@ Writing is valuable because it forces you to retrieve spelling, agreement, conju
 
 ## Recommended pacing
 
+Complete Chapter 0 first. It takes 3-7 days and is not optional for a true beginner.
+
 - **Light pace:** one chapter every two weeks
 - **Standard pace:** one chapter per week
 - **Intensive pace:** two chapters per week, only if your closed-book score stays above 85%
@@ -85,10 +97,18 @@ The generated website is in [`docs/`](docs/) and is ready for GitHub Pages. It i
 - pronunciation of selected French text;
 - offline caching after the first visit.
 
+Tap-to-pronounce pairs naturally with Chapter 0: tap any French phrase, listen, then imitate it immediately.
+
 Regenerate the website after changing lesson files:
 
 ```bash
 python3 build_site.py
+```
+
+Check the generator after changing it:
+
+```bash
+python3 -m unittest test_build_site
 ```
 
 Preview it locally:
