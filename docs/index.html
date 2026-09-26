@@ -39,6 +39,11 @@
           <select id="voice-select"></select>
           <p id="voice-hint" class="voice-hint"></p>
         </div>
+        <div class="search-wrap voice-wrap">
+          <label for="speed-range">Speaking speed — <span id="speed-value">88%</span></label>
+          <input id="speed-range" class="speed-range" type="range" min="20" max="100" step="5" value="88" />
+          <p class="voice-hint">100% is normal French speed; 50% is half speed. Slow it down to hear every syllable, then build back up.</p>
+        </div>
         <nav id="chapter-list"></nav>
       </aside>
 
@@ -47,9 +52,14 @@
       </main>
     </div>
 
-    <button id="speak-selection" class="speak-button" type="button">
-      <span>🔊</span> Pronounce selection
-    </button>
+    <div class="speak-bar">
+      <button id="speak-slow" class="speak-button speak-button-secondary" type="button" title="Pronounce the selection at half speed">
+        <span>🐢</span> Slower
+      </button>
+      <button id="speak-selection" class="speak-button" type="button">
+        <span>🔊</span> Pronounce selection
+      </button>
+    </div>
     <div id="toast" class="toast" role="status" aria-live="polite"></div>
     <div id="backdrop" class="backdrop"></div>
 

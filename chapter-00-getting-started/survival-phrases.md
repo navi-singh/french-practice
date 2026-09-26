@@ -2,7 +2,7 @@
 
 This is a phrasebook, not a grammar lesson. Every sentence here is a **fixed chunk** you can use today without understanding how it is built. The grammar behind each one arrives in Chapters 1-16.
 
-Tap any French phrase on the website to hear it. Say it aloud immediately after.
+Tap any French phrase on the website to hear it. Say it aloud immediately after. If it goes by too fast, slow **Speaking speed** down in the sidebar, or select the phrase and press **Slower**.
 
 ## How to use this page
 

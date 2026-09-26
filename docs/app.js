@@ -9,9 +9,13 @@ const backdrop = document.querySelector("#backdrop");
 const completionKey = "french-practice-completed";
 const themeKey = "french-practice-theme";
 const voiceKey = "french-practice-voice";
+const rateKey = "french-practice-rate";
+const defaultRate = 88;
 
 const voiceSelect = document.querySelector("#voice-select");
 const voiceHint = document.querySelector("#voice-hint");
+const speedRange = document.querySelector("#speed-range");
+const speedValue = document.querySelector("#speed-value");
 
 // Ranked fallbacks used when the learner has not picked a voice explicitly.
 const voicePreference = [
@@ -197,7 +201,7 @@ function bindSpeakableExamples() {
   });
 }
 
-function speakFrench(text) {
+function speakFrench(text, ratePercent) {
   if (!("speechSynthesis" in window)) {
     showToast("Speech is not supported in this browser.");
     return;
@@ -208,10 +212,13 @@ function speakFrench(text) {
     const voice = preferredVoice();
     const utterance = new SpeechSynthesisUtterance(text);
     utterance.lang = voice ? voice.lang : "fr-FR";
-    utterance.rate = 0.88;
+    utterance.rate = speechRate(ratePercent);
     if (voice) utterance.voice = voice;
     speechSynthesis.cancel();
     speechSynthesis.speak(utterance);
+    // iOS only populates the voice list after a gesture-driven utterance.
+    refreshVoices();
+    renderVoiceOptions();
     if (!voice) showToast("No French voice installed; see “French voice” in the menu.");
   });
 }
@@ -219,6 +226,40 @@ function speakFrench(text) {
 function refreshVoices() {
   availableVoices = speechSynthesis.getVoices() || [];
   return availableVoices;
+}
+
+// The slider is a percentage of normal French speed, so 50 really is half
+// speed. Engines below about 0.2 produce unusable audio, hence the floor.
+function speechRate(ratePercent) {
+  const percent = Number(ratePercent ?? localStorage.getItem(rateKey) ?? defaultRate);
+  if (!Number.isFinite(percent)) return defaultRate / 100;
+  return Math.min(1, Math.max(0.2, percent / 100));
+}
+
+function renderSpeed() {
+  if (!speedRange || !speedValue) return;
+  const percent = Math.round(speechRate() * 100);
+  speedRange.value = String(percent);
+  speedValue.textContent = `${percent}%`;
+}
+
+// Several engines (notably iOS Safari and some Android builds) never fire
+// voiceschanged, so polling is the only reliable way to notice voices that
+// load after startup. Re-render whenever the French list actually changes.
+function watchForVoices() {
+  let seen = -1;
+  let elapsed = 0;
+  const tick = () => {
+    refreshVoices();
+    const count = frenchVoices().length;
+    if (count !== seen) {
+      seen = count;
+      renderVoiceOptions();
+    }
+    elapsed += 400;
+    if (elapsed < 10000) setTimeout(tick, 400);
+  };
+  tick();
 }
 
 function whenVoicesReady(callback) {
@@ -234,12 +275,17 @@ function whenVoicesReady(callback) {
     renderVoiceOptions();
     callback();
   };
-  speechSynthesis.addEventListener("voiceschanged", finish, { once: true });
+  speechSynthesis.addEventListener?.("voiceschanged", finish, { once: true });
   setTimeout(finish, 1000);
 }
 
+function voiceLang(voice) {
+  // Some Android builds report fr_FR rather than the fr-FR of the spec.
+  return (voice.lang || "").toLowerCase().replace("_", "-");
+}
+
 function frenchVoices() {
-  return availableVoices.filter((voice) => voice.lang.toLowerCase().startsWith("fr"));
+  return availableVoices.filter((voice) => voiceLang(voice).startsWith("fr"));
 }
 
 function voiceId(voice) {
@@ -252,33 +298,37 @@ function preferredVoice() {
   const saved = voices.find((voice) => voiceId(voice) === localStorage.getItem(voiceKey));
   if (saved) return saved;
   // France French first: the course teaches standard metropolitan forms.
-  const ranked = [
-    ...voices.filter((voice) => voice.lang.toLowerCase() === "fr-fr"),
-    ...voices,
-  ];
-  for (const pattern of voicePreference) {
-    const match = ranked.find((voice) => pattern.test(voice.name));
-    if (match) return match;
+  // Locale is the primary key, so a nicer-sounding voice from another French
+  // region never outranks a France French one.
+  const france = voices.filter((voice) => voiceLang(voice) === "fr-fr");
+  for (const group of [france, voices]) {
+    if (!group.length) continue;
+    for (const pattern of voicePreference) {
+      const match = group.find((voice) => pattern.test(voice.name));
+      if (match) return match;
+    }
+    return group[0];
   }
-  return ranked[0];
+  return voices[0];
 }
 
 function renderVoiceOptions() {
   if (!voiceSelect || !voiceHint) return;
   const voices = frenchVoices();
   if (!voices.length) {
-    voiceSelect.innerHTML = "<option>No French voice found</option>";
+    voiceSelect.innerHTML = "<option>Looking for French voices…</option>";
     voiceSelect.disabled = true;
     voiceHint.textContent =
-      "French is being read with an English voice. Install a French voice in your "
-      + "system speech settings, or open this site in Chrome, which includes Google français.";
+      "If none appear, add a French voice in your device's speech settings. "
+      + "iPhone: Settings › Accessibility › Spoken Content › Voices › French. "
+      + "Android: Settings › Accessibility › Text-to-speech › install French.";
     return;
   }
   voiceSelect.disabled = false;
   const current = preferredVoice();
   const sorted = [...voices].sort((a, b) => {
-    const aFrance = a.lang.toLowerCase() === "fr-fr" ? 0 : 1;
-    const bFrance = b.lang.toLowerCase() === "fr-fr" ? 0 : 1;
+    const aFrance = voiceLang(a) === "fr-fr" ? 0 : 1;
+    const bFrance = voiceLang(b) === "fr-fr" ? 0 : 1;
     return aFrance - bFrance || a.name.localeCompare(b.name);
   });
   voiceSelect.innerHTML = sorted.map((voice) => {
@@ -321,6 +371,10 @@ function escapeAttribute(value) {
 document.querySelector("#menu-button").addEventListener("click", () => {
   sidebar.classList.toggle("open");
   backdrop.classList.toggle("show");
+  if (sidebar.classList.contains("open") && "speechSynthesis" in window) {
+    refreshVoices();
+    renderVoiceOptions();
+  }
 });
 backdrop.addEventListener("click", closeSidebar);
 search.addEventListener("input", () => renderChapters(search.value));
@@ -349,19 +403,42 @@ speakSelectionButton.addEventListener("click", () => {
   speakFrench(text);
 });
 
+const speakSlowButton = document.querySelector("#speak-slow");
+speakSlowButton.addEventListener("pointerdown", (event) => {
+  const text = getSelection()?.toString().trim();
+  if (text) lastSelectedText = text;
+  event.preventDefault();
+});
+speakSlowButton.addEventListener("click", () => {
+  const text = getSelection()?.toString().trim() || lastSelectedText;
+  if (!text) {
+    showToast("Select French text first.");
+    return;
+  }
+  speakFrench(text, Math.round(speechRate() * 100) / 2);
+});
+
 if ("serviceWorker" in navigator && location.protocol.startsWith("http")) {
   navigator.serviceWorker.register("sw.js");
 }
 
 if ("speechSynthesis" in window) {
-  refreshVoices();
-  renderVoiceOptions();
-  speechSynthesis.addEventListener("voiceschanged", () => {
+  watchForVoices();
+  renderSpeed();
+  speechSynthesis.addEventListener?.("voiceschanged", () => {
     refreshVoices();
     renderVoiceOptions();
   });
   voiceSelect?.addEventListener("change", () => {
     localStorage.setItem(voiceKey, voiceSelect.value);
+    speakFrench("Bonjour, je parle français.");
+  });
+  speedRange?.addEventListener("input", () => {
+    localStorage.setItem(rateKey, speedRange.value);
+    renderSpeed();
+  });
+  // Sampling on every input event would stutter, so speak once per release.
+  speedRange?.addEventListener("change", () => {
     speakFrench("Bonjour, je parle français.");
   });
 } else if (voiceHint) {

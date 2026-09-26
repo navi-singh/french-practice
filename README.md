@@ -94,13 +94,16 @@ The generated website is in [`docs/`](docs/) and is ready for GitHub Pages. It i
 - local completion tracking;
 - dark mode;
 - tap-to-pronounce French examples;
-- pronunciation of selected French text;
+- pronunciation of selected French text, with a **Slower** button that repeats it at half your current speed;
 - a French voice picker, defaulting to a France French (`fr-FR`) voice;
+- a speaking-speed slider from 20% to 100% of normal French speed;
 - offline caching after the first visit.
 
 Tap-to-pronounce pairs naturally with Chapter 0: tap any French phrase, listen, then imitate it immediately.
 
-Speech uses the browser's built-in Web Speech API, so the available voices come from your device. If French sounds like it is being read by an English voice, no French voice is installed: add one in your system speech settings, or use Chrome, which ships a `Google français` voice. Pick the voice you prefer under **French voice** in the sidebar.
+Speech uses the browser's built-in Web Speech API, so the available voices come from your device. The list can take a moment to appear, because some mobile browsers load voices lazily and never announce them. If the picker still shows no voices, none are installed for French: add one under Settings › Accessibility › Spoken Content › Voices (iPhone) or Settings › Accessibility › Text-to-speech (Android), or use Chrome, which ships a `Google français` voice. Pick the voice you prefer under **French voice** in the sidebar.
+
+**Speaking speed** sets how fast French is read aloud, as a percentage of normal speed: 100% is full speed and 50% is half speed. It applies to tap-to-pronounce and to the selection buttons, and it is saved on your device. Native speed is the goal, so treat slow playback as a tool rather than a habit: listen slowly once to catch every syllable, then raise the slider and imitate at a natural pace. The **Slower** button repeats a selection at half your current setting without changing it, which is the quickest way to unpick a liaison or a nasal vowel. The floor is 20%, because most speech engines turn unintelligible below that.
 
 Regenerate the website after changing lesson files:
 

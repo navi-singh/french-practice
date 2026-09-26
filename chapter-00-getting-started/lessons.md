@@ -27,6 +27,8 @@ You do **not** need to know any grammar words yet. If a term such as *noun*, *vo
 
 Pronunciation is a physical skill, not a fact to memorize. Read silently once, then **say every example out loud**. On the website, tap any French text to hear it spoken, then imitate it immediately. Copy the rhythm before worrying about individual sounds.
 
+If a phrase goes past too quickly, drag **Speaking speed** in the sidebar down to about 60% and listen again: French runs its words together, and slowing it down is often the only way to hear where one ends and the next begins. Select the phrase and press **Slower** to hear it at half speed without changing your setting. Then put the speed back up to 90-100% and imitate it there. Practising only at slow speed teaches you to speak in a way no French person does, so treat slow playback as a magnifying glass, not a comfort zone.
+
 Work through one unit per session. Return to this chapter briefly whenever a later chapter introduces words you cannot pronounce.
 
 > A useful loop for every example: **listen -> imitate immediately -> compare -> repeat twice**
