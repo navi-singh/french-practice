@@ -8,6 +8,19 @@ const toast = document.querySelector("#toast");
 const backdrop = document.querySelector("#backdrop");
 const completionKey = "french-practice-completed";
 const themeKey = "french-practice-theme";
+const voiceKey = "french-practice-voice";
+
+const voiceSelect = document.querySelector("#voice-select");
+const voiceHint = document.querySelector("#voice-hint");
+
+// Ranked fallbacks used when the learner has not picked a voice explicitly.
+const voicePreference = [
+  /google/i,
+  /natural|premium|enhanced|siri/i,
+  /thomas|am[ée]lie|audrey|marie|virginie|chantal/i,
+];
+
+let availableVoices = [];
 
 let completed = new Set(JSON.parse(localStorage.getItem(completionKey) || "[]"));
 let lastSelectedText = "";
@@ -189,17 +202,94 @@ function speakFrench(text) {
     showToast("Speech is not supported in this browser.");
     return;
   }
-  const utterance = new SpeechSynthesisUtterance(text);
-  utterance.lang = "fr-FR";
-  utterance.rate = 0.88;
-  const frenchVoices = speechSynthesis.getVoices().filter(
-    (voice) => voice.lang.toLowerCase().startsWith("fr")
-  );
-  utterance.voice = frenchVoices.find((voice) =>
-    /natural|premium|enhanced|google|microsoft|thomas|audrey|amelie|amélie/i.test(voice.name)
-  ) || frenchVoices[0] || null;
-  speechSynthesis.cancel();
-  speechSynthesis.speak(utterance);
+  // getVoices() is empty until the engine finishes loading, so defer the
+  // first utterance rather than letting it fall back to an English voice.
+  whenVoicesReady(() => {
+    const voice = preferredVoice();
+    const utterance = new SpeechSynthesisUtterance(text);
+    utterance.lang = voice ? voice.lang : "fr-FR";
+    utterance.rate = 0.88;
+    if (voice) utterance.voice = voice;
+    speechSynthesis.cancel();
+    speechSynthesis.speak(utterance);
+    if (!voice) showToast("No French voice installed; see “French voice” in the menu.");
+  });
+}
+
+function refreshVoices() {
+  availableVoices = speechSynthesis.getVoices() || [];
+  return availableVoices;
+}
+
+function whenVoicesReady(callback) {
+  if (refreshVoices().length) {
+    callback();
+    return;
+  }
+  let settled = false;
+  const finish = () => {
+    if (settled) return;
+    settled = true;
+    refreshVoices();
+    renderVoiceOptions();
+    callback();
+  };
+  speechSynthesis.addEventListener("voiceschanged", finish, { once: true });
+  setTimeout(finish, 1000);
+}
+
+function frenchVoices() {
+  return availableVoices.filter((voice) => voice.lang.toLowerCase().startsWith("fr"));
+}
+
+function voiceId(voice) {
+  return `${voice.name}::${voice.lang}`;
+}
+
+function preferredVoice() {
+  const voices = frenchVoices();
+  if (!voices.length) return null;
+  const saved = voices.find((voice) => voiceId(voice) === localStorage.getItem(voiceKey));
+  if (saved) return saved;
+  // France French first: the course teaches standard metropolitan forms.
+  const ranked = [
+    ...voices.filter((voice) => voice.lang.toLowerCase() === "fr-fr"),
+    ...voices,
+  ];
+  for (const pattern of voicePreference) {
+    const match = ranked.find((voice) => pattern.test(voice.name));
+    if (match) return match;
+  }
+  return ranked[0];
+}
+
+function renderVoiceOptions() {
+  if (!voiceSelect || !voiceHint) return;
+  const voices = frenchVoices();
+  if (!voices.length) {
+    voiceSelect.innerHTML = "<option>No French voice found</option>";
+    voiceSelect.disabled = true;
+    voiceHint.textContent =
+      "French is being read with an English voice. Install a French voice in your "
+      + "system speech settings, or open this site in Chrome, which includes Google français.";
+    return;
+  }
+  voiceSelect.disabled = false;
+  const current = preferredVoice();
+  const sorted = [...voices].sort((a, b) => {
+    const aFrance = a.lang.toLowerCase() === "fr-fr" ? 0 : 1;
+    const bFrance = b.lang.toLowerCase() === "fr-fr" ? 0 : 1;
+    return aFrance - bFrance || a.name.localeCompare(b.name);
+  });
+  voiceSelect.innerHTML = sorted.map((voice) => {
+    const id = voiceId(voice);
+    const selected = current && id === voiceId(current) ? " selected" : "";
+    return `<option value="${escapeHtml(id)}"${selected}>`
+      + `${escapeHtml(voice.name)} — ${escapeHtml(voice.lang)}</option>`;
+  }).join("");
+  voiceHint.textContent = voices.length === 1
+    ? "1 French voice available."
+    : `${voices.length} French voices available.`;
 }
 
 function saveProgress() {
@@ -261,6 +351,21 @@ speakSelectionButton.addEventListener("click", () => {
 
 if ("serviceWorker" in navigator && location.protocol.startsWith("http")) {
   navigator.serviceWorker.register("sw.js");
+}
+
+if ("speechSynthesis" in window) {
+  refreshVoices();
+  renderVoiceOptions();
+  speechSynthesis.addEventListener("voiceschanged", () => {
+    refreshVoices();
+    renderVoiceOptions();
+  });
+  voiceSelect?.addEventListener("change", () => {
+    localStorage.setItem(voiceKey, voiceSelect.value);
+    speakFrench("Bonjour, je parle français.");
+  });
+} else if (voiceHint) {
+  voiceHint.textContent = "This browser does not support speech.";
 }
 
 renderChapters();

@@ -95,9 +95,12 @@ The generated website is in [`docs/`](docs/) and is ready for GitHub Pages. It i
 - dark mode;
 - tap-to-pronounce French examples;
 - pronunciation of selected French text;
+- a French voice picker, defaulting to a France French (`fr-FR`) voice;
 - offline caching after the first visit.
 
 Tap-to-pronounce pairs naturally with Chapter 0: tap any French phrase, listen, then imitate it immediately.
+
+Speech uses the browser's built-in Web Speech API, so the available voices come from your device. If French sounds like it is being read by an English voice, no French voice is installed: add one in your system speech settings, or use Chrome, which ships a `Google français` voice. Pick the voice you prefer under **French voice** in the sidebar.
 
 Regenerate the website after changing lesson files:
 
@@ -109,6 +112,12 @@ Check the generator after changing it:
 
 ```bash
 python3 -m unittest test_build_site
+```
+
+Check the pronunciation voice selection after changing `docs/app.js`:
+
+```bash
+node --test test_voice_preference.mjs
 ```
 
 Preview it locally:

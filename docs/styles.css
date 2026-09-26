@@ -118,6 +118,21 @@ button { color: inherit; }
   background: var(--bg);
   color: var(--text);
 }
+.search-wrap select {
+  width: 100%;
+  padding: 10px 12px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--bg);
+  color: var(--text);
+}
+.voice-wrap { padding-top: 0; }
+.voice-hint {
+  margin: 6px 0 0;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.45;
+}
 .progress-summary {
   margin: 0 7px 16px;
   padding: 12px;
