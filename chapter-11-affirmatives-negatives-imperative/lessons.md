@@ -20,6 +20,19 @@ Before beginning, make sure you can already:
 - understand comparison phrases such as `plus que moi`, because stressed pronouns appear there too.
 If any of those still feel weak, review them before going on.
 
+
+:::answer
+Test the prerequisite skills actively. Answer these five, then read the rule after each answer.
+
+1. Give the present-tense `tu` form of `parler`. — `tu parles`. The subject `tu` takes a silent final written `s` in the present tense.
+2. Now give the `tu` command for `parler`. — `Parle !` Regular -er verbs drop that final written `s` in the ordinary `tu` command.
+3. Make `Je vois Paul` negative. — `Je ne vois pas Paul.` The negative frame surrounds the conjugated verb.
+4. Replace `Marie` in **with Marie**. — `avec elle`. After a preposition, French uses a stressed pronoun, not a subject pronoun.
+5. Change `Donne le livre !` to a command with a pronoun. — `Donne-le !` In an affirmative command, the object pronoun follows the verb and is linked with a hyphen.
+
+If you missed two or more, review ordinary negation, object pronouns, and present-tense `tu`, `nous`, and `vous` forms first. This chapter turns those pieces into commands, where word order matters.
+:::
+
 ## How to study this chapter
 Read every example aloud with energy. Commands are easier to remember when you hear them as complete speech chunks: `Attends !`, `Ne bougez pas !`, `Donne-le-moi !`.
 
@@ -79,6 +92,24 @@ Also remember `moi non plus` matches a negative statement, not a positive one.
 2. Rewrite one positive sentence with `moi aussi` and one negative sentence with `moi non plus`.
 3. Write four short answers using `si`, `pas du tout`, `jamais`, and `plus`.
 
+:::answer
+1. Short answers:
+   - `Tu aimes le chocolat ?` -> `Oui.` — an ordinary positive question takes `oui` for yes.
+   - `Tu n'aimes pas le chocolat ?` -> `Si.` — use `si` to contradict a negative question.
+   - `Nous partons demain.` -> `Moi aussi.` — agree with a positive statement.
+   - `Nous ne partons pas demain.` -> `Moi non plus.` — agree with a negative statement.
+2. Rewrites:
+   - `Nous partons demain. Moi aussi.` — `moi aussi` means **me too** for a positive idea.
+   - `Nous ne partons pas demain. Moi non plus.` — `moi non plus` means **me neither** for a negative idea.
+3. Four short answers:
+   - `Si, j'aime le chocolat.` — contradicts a negative question.
+   - `Pas du tout.` — a strong negative answer.
+   - `Jamais.` — short answer meaning never.
+   - `Plus.` — short answer meaning no longer / not anymore.
+
+The main trap is answering a negative question with `oui`. If you mean **yes, actually I do**, French uses `si`.
+:::
+
 ## Unit 2: Stressed pronouns
 ### Core idea
 Stressed pronouns are the stronger forms: `moi`, `toi`, `lui`, `elle`, `nous`, `vous`, `eux`, `elles`. They do not replace subject pronouns in ordinary sentences. Instead, they appear in special positions.
@@ -125,6 +156,27 @@ Also do not replace every subject pronoun with a stressed pronoun. `Moi travaill
 1. Replace the noun phrase with a stressed pronoun: `avec Marie`, `pour Paul et moi`, `chez les voisins`, `sans toi`.
 2. Build one example for each use in the table above.
 3. Write three short comparisons using `que moi`, `que lui`, or `que nous`.
+
+:::answer
+1. Replacements:
+   - `avec Marie` -> `avec elle` — after a preposition, use the stressed form.
+   - `pour Paul et moi` -> `pour nous` — Paul and I together become `nous`.
+   - `chez les voisins` -> `chez eux` — masculine or mixed plural people become `eux`.
+   - `sans toi` -> `sans toi` — `toi` is already the stressed form.
+2. Uses from the table:
+   - After a preposition: `Je travaille avec lui.`
+   - Emphasis: `Moi, je préfère rester ici.`
+   - Comparison: `Elle parle plus vite que nous.`
+   - Short answer: `Qui vient ? — Moi.`
+   - Compound subject: `Toi et moi, nous commençons.`
+   - After `c'est`: `C'est elle.`
+3. Comparisons:
+   - `Tu travailles plus que moi.` — stressed pronoun after `que`.
+   - `Elle chante moins fort que lui.` — use `lui`, not `il`, after `que`.
+   - `Ils arrivent plus tôt que nous.` — `nous` is both the subject and stressed form.
+
+Do not use subject pronouns after prepositions or after `que` in comparisons. Say `avec moi`, not an English-style subject form.
+:::
 
 ## Unit 3: Forming the imperative
 ### Core idea
@@ -178,6 +230,26 @@ Also remember that `parle` is correct for the `tu` form of a regular `-er` verb,
 2. Write one command with `être`, one with `avoir`, and one polite instruction with `vouloir`.
 3. Create two `tu` commands: one regular `-er` form without `-s`, and one with `y` or `en`.
 
+:::answer
+1. Commands:
+
+| Infinitive | `tu` | `nous` | `vous` |
+|---|---|---|---|
+| `écouter` | `Écoute !` | `Écoutons !` | `Écoutez !` |
+| `choisir` | `Choisis !` | `Choisissons !` | `Choisissez !` |
+| `attendre` | `Attends !` | `Attendons !` | `Attendez !` |
+
+2. Irregular and polite commands:
+   - `Sois patient !` — `être` has an irregular command form.
+   - `Aie confiance !` — `avoir` also has an irregular command form.
+   - `Veuillez entrer !` — `veuillez` is the polite command form of `vouloir`.
+3. Two `tu` commands:
+   - `Ferme la porte !` — regular -er `tu` command drops the final letter found in the present-tense spelling.
+   - `Vas-y !` — before `y`, the `tu` command keeps the final sound-linking letter.
+
+The trap is writing the subject pronoun. A command is `Écoute !`, not a normal statement with `tu`.
+:::
+
 ## Unit 4: Negative commands
 ### Core idea
 A negative command surrounds the imperative verb with the negative frame, just as in an ordinary sentence.
@@ -211,6 +283,18 @@ Also place the negative words around the verb, not after the whole sentence.
 1. Turn these into negative commands: `Parle plus vite.`, `Attendez ici.`, `Finissons ce chapitre.`
 2. Write one negative command with `jamais`, one with `rien`, and one with `plus`.
 3. Say each one aloud with strong intonation.
+
+:::answer
+1. Negative commands:
+   - `Parle plus vite.` -> `Ne parle pas plus vite.` — **ne ... pas** wraps the command verb.
+   - `Attendez ici.` -> `N'attendez pas ici.` — `ne` shortens to `n'` before the vowel sound.
+   - `Finissons ce chapitre.` -> `Ne finissons pas ce chapitre.` — the `nous` command form stays the same inside the negative frame.
+2. More negative commands:
+   - `Ne travaille jamais le dimanche !` — `jamais` replaces `pas`.
+   - `Ne laisse rien ici !` — `rien` comes after the verb in this command.
+   - `Ne parle plus !` — `plus` means not anymore.
+3. When you say them aloud, make the negative frame clear. In writing, do not drop `ne` at this stage.
+:::
 
 ## Unit 5: Commands with object pronouns
 ### Core idea
@@ -267,6 +351,22 @@ And in negative commands, switch back to normal order.
 2. Turn each of those into a negative command.
 3. Write two new pairs of your own: one affirmative command and its negative version.
 
+:::answer
+1. Affirmative commands:
+   - `Tu donnes le stylo à moi.` -> `Donne-le-moi !` — in an affirmative command, pronouns follow the verb with hyphens; direct object `le` comes before `moi`.
+   - `Vous regardez le film.` -> `Regardez-le !` — `le film` becomes `le` after the command.
+   - `Tu parles de ce problème.` -> `Parles-en !` — `en` replaces the **de + thing** phrase, and the `tu` command keeps the linking letter before `en`.
+2. Negative commands:
+   - `Ne me le donne pas !` — in a negative command, pronouns return before the verb in normal order.
+   - `Ne le regardez pas !` — **ne ... pas** surrounds the pronoun plus verb chunk.
+   - `N'en parle pas !` — `en` stays before the verb; the command form is now `parle`.
+3. Your own pairs can vary. Models:
+   - `Aide-moi !` / `Ne m'aide pas !` — `moi` after the affirmative command becomes `me` before the negative command.
+   - `Écoutez-les !` / `Ne les écoutez pas !` — direct object pronoun after the verb in the affirmative, before the verb in the negative.
+
+The big rule is position: after the verb in affirmative commands, before the verb in negative commands.
+:::
+
 ## Cumulative sentence-usage practice
 These sentences combine the chapter's main structures in realistic French. Read each sentence aloud twice, cover it, and write it from memory.
 1. `Moi, je ne vois personne dans le jardin.` — As for me, I don't see anyone in the garden.
@@ -275,6 +375,20 @@ These sentences combine the chapter's main structures in realistic French. Read 
 4. `Eux, ils ne travaillent jamais le dimanche.` — As for them, they never work on Sundays.
 5. `Tu n'es pas prêt ? — Si, attends-moi deux minutes.` — You're not ready? — Yes, I am; wait for me two minutes.
 6. `Avec nous, soyez patients et ne nous coupez pas la parole.` — With us, be patient and don't interrupt us.
+
+
+:::answer
+Use the printed sentences as a memory check. After writing them from memory, look for these specific traps.
+
+- **Negative frames.** Sentence 1 uses **ne ... personne**, sentence 2 uses **ne ... rien**, sentence 4 uses **ne ... jamais**, and sentence 6 uses **ne ... pas** around the command `coupez`.
+- **Stressed pronouns.** Sentence 1 starts with `Moi`, sentence 4 with `Eux`, and sentence 6 with `Avec nous`. These are not ordinary subject pronouns; they are stressed forms used for emphasis or after a preposition.
+- **Affirmative command pronouns.** In sentence 3, `Donne-moi` and `apporte-le-lui` put pronouns after the command with hyphens. `le` comes before `lui`.
+- **Negative command pronouns.** In sentence 6, `ne nous coupez pas` puts `nous` before the verb because the command is negative.
+- **The answer word `si`.** Sentence 5 uses `Si` because it contradicts the negative question `Tu n'es pas prêt ?`.
+- **Accents and punctuation.** Keep `prêt`, the hyphens in command-pronoun groups, and the space before `?` and `!`.
+
+If your meaning is correct but your pronoun is on the wrong side of the command verb, count the sentence wrong. Pronoun placement is the main skill here.
+:::
 
 ### Notice and mark
 For each sentence above:
@@ -295,6 +409,35 @@ Write four new sentences about your own life using:
 - one affirmative command;
 - one negative command with a pronoun.
 
+:::answer
+Notice and mark:
+
+1. `Moi, je ne vois personne dans le jardin.` — `moi` is a stressed pronoun for emphasis; the negative frame is **ne ... personne**.
+2. `Ne laissez rien sur la table !` — negative command; the negative frame is **ne ... rien**.
+3. `Donne-moi le marteau et apporte-le-lui ensuite.` — command forms: `donne`, `apporte`; object pronouns stand after the affirmative commands. In `apporte-le-lui`, direct `le` comes before indirect `lui`.
+4. `Eux, ils ne travaillent jamais le dimanche.` — `eux` is a stressed pronoun for emphasis; the negative frame is **ne ... jamais**.
+5. `Tu n'es pas prêt ? — Si, attends-moi deux minutes.` — `si` contradicts a negative question; `moi` stands after the affirmative command `attends`.
+6. `Avec nous, soyez patients et ne nous coupez pas la parole.` — `nous` is stressed after `avec`; `soyez` is a command; in the negative command, `nous` stands before the verb.
+
+Change the sentence — sample answers:
+
+- Sentence 1, person change: `Lui, il ne voit personne dans le jardin.` — stressed pronoun and subject both change.
+- Sentence 1, detail change: `Moi, je ne vois personne dans la rue.` — same negative frame, new place.
+- Sentence 2, person change: `Ne laissons rien sur la table !` — `nous` command form.
+- Sentence 2, detail change: `Ne laissez rien dans le sac !` — same **ne ... rien** frame.
+- Sentence 3, person change: `Donnez-moi le marteau et apportez-le-lui ensuite.` — both commands become `vous` forms.
+- Sentence 3, detail change: `Donne-moi le livre et apporte-le-lui ensuite.` — `le` still works for a masculine singular object.
+- Sentence 4, person change: `Elle, elle ne travaille jamais le dimanche.` — stressed pronoun and verb change to singular.
+- Sentence 4, detail change: `Eux, ils ne travaillent jamais le soir.` — same negative frame, new time expression.
+
+Make it personal — sample answers:
+
+1. `Je révise avec elle après le cours.` — stressed pronoun after a preposition.
+2. `Tu n'es pas fatigué ? — Si, un peu.` — `si` contradicts a negative question.
+3. `Écoute cette phrase !` — affirmative command with no subject pronoun.
+4. `Ne me téléphone pas ce soir !` — negative command with the object pronoun before the verb.
+:::
+
 ## Mini-dialogue: before leaving the apartment
 **Nadia :** `Tu n'as pas mes clés ?` — You don't have my keys?
 **Julien :** `Si, elles sont avec moi.` — Yes, I do; they're with me.
@@ -312,6 +455,17 @@ Write four new sentences about your own life using:
 4. Why does Nadia say `donne-les-moi` and not `*me les donne`?
 5. Rewrite line 8 with `vous` instead of `tu`.
 
+
+:::answer
+1. `Si` appears in Julien's answer: `Si, elles sont avec moi.` Nadia's question is negative, `Tu n'as pas mes clés ?`, so `si` clearly means **yes, I do**. `Oui` would be less precise because it does not specifically contradict the negative wording.
+2. Three stressed pronouns: `moi` in `avec moi` is after a preposition; `Moi` in `Moi, je suis prête` marks emphasis; `eux` in `eux, ils ne sont pas encore en bas` also marks emphasis. `Toi et moi` is another stressed-pronoun use in a compound subject.
+3. Affirmative command with a pronoun: `donne-les-moi`. Negative command: `Ne les attends pas trop longtemps.` The last line also has the negative command `n'oublie rien`.
+4. Nadia says `donne-les-moi` because affirmative command pronouns follow the verb with hyphens. The direct object `les` comes before the indirect object `moi`; before an affirmative command, `me` changes to `moi` after the verb.
+5. With `vous` instead of `tu`: `Oui, allons-y, mais n'oubliez rien cette fois.` The group invitation `allons-y` can stay the same; the direct command to the other person becomes `n'oubliez`.
+
+The dialogue contrasts the two command orders: after the verb in `donne-les-moi`, before the verb in `Ne les attends pas`.
+:::
+
 ## Connected reading: classroom instructions on the first day
 `Le premier jour du cours, notre professeure parle très clairement. D'abord, elle dit : « Avec moi, soyez honnêtes et posez des questions. » Puis elle ajoute : « Si vous ne comprenez pas, dites-le tout de suite ; n'attendez pas la fin. » Moi aussi, j'aime cette règle, parce que les étudiants timides ne parlent pas encore beaucoup. La professeure leur dit souvent : « Vous et moi, nous sommes ici pour apprendre ; ne vous comparez pas aux autres. » Personne ne rit, et personne ne se sent exclu.`
 — On the first day of class, our teacher speaks very clearly. First, she says, “With me, be honest and ask questions.” Then she adds, “If you don't understand, say it right away; don't wait until the end.” I like that rule too, because shy students do not talk much yet. The teacher often tells them, “You and I are here to learn; don't compare yourselves to others.” Nobody laughs, and nobody feels excluded.
@@ -322,6 +476,17 @@ Write four new sentences about your own life using:
 3. Identify the negative expressions in the paragraph.
 4. Rewrite the teacher's instructions so she is talking to one close friend instead of a class.
 5. Write three true classroom or work rules of your own using the model.
+
+
+:::answer
+1. **Imperative forms:** `soyez` is a `vous` command; `posez` is a `vous` command; `dites-le` is a `vous` command with an object pronoun after it; `n'attendez pas` is a negative `vous` command; `ne vous comparez pas` is also a negative `vous` command.
+2. **Stressed pronouns:** after a preposition, `Avec moi`; in a compound subject, `Vous et moi`; echo-answer expression, `Moi aussi`. Each one uses a stressed form because ordinary subject pronouns do not fit those positions.
+3. **Negative expressions:** `vous ne comprenez pas`, `n'attendez pas`, `ne parlent pas encore`, `ne vous comparez pas`, `Personne ne rit`, and `personne ne se sent exclu`. Notice that `personne` can stand before the verb and still pairs with `ne`.
+4. To one close friend: `Avec moi, sois honnête et pose des questions. Si tu ne comprends pas, dis-le tout de suite ; n'attends pas la fin. Toi et moi, nous sommes ici pour apprendre ; ne te compare pas aux autres.` The -er commands `pose` and `compare` drop the final written `s` in the `tu` command.
+5. Answers vary. Model rules: `Avec moi, sois patient.` `Si tu ne comprends pas, demande-le tout de suite.` `Ne laisse rien sur le bureau.`
+
+Mark yourself wrong if you leave a subject pronoun inside a command or if a negative command keeps the pronoun after the verb.
+:::
 
 ## Common mistakes to avoid
 1. Using `oui` instead of `si` to contradict a negative question.
@@ -400,3 +565,18 @@ After writing:
 4. check whether your pronouns are after the verb in affirmative commands and before the verb in negative commands;
 5. read the whole passage aloud twice;
 6. rewrite any corrected sentence from memory.
+
+:::answer
+Answers vary. Here is a model mini-scene that satisfies every bullet:
+
+`Camille dit : « Avec moi, soyez calmes et ouvrez vos cahiers ! » Elle ajoute : « Lisez cette consigne, puis donnez-la-moi ! » Hugo répond : « Je ne comprends pas encore. » Camille demande : « Tu n'as pas ton stylo ? » Hugo dit : « Si, il est avec elle. » Camille dit : « Alors, prends-le et ne le perds pas ! » Elle dit au groupe : « Ne parlez jamais pendant l'écoute et ne me coupez pas la parole ! » Hugo répond : « Moi aussi, je veux réussir. » Camille conclut : « Toi et eux, travaillez ensemble ; pour nous, c'est important. »`
+
+How it satisfies the brief: `Si` contradicts a negative question; `Moi aussi` is the echo answer; stressed pronouns include `moi`, `elle`, `toi`, `eux`, and `nous`; affirmative commands include `soyez`, `ouvrez`, `lisez`, `donnez`, `prends`, and `travaillez`; negative commands include `ne le perds pas`, `Ne parlez jamais`, and `ne me coupez pas`; command-pronoun examples include `donnez-la-moi`, `prends-le`, `ne le perds pas`, and `ne me coupez pas`.
+
+Mark yourself wrong if any of these appear:
+- `oui` where the answer contradicts a negative question;
+- a subject pronoun inside a command, such as `vous ouvrez` when you mean `ouvrez`;
+- `me` or `te` after an affirmative command instead of `moi` or `toi`;
+- an affirmative command pronoun before the verb;
+- a negative command pronoun after the verb.
+:::

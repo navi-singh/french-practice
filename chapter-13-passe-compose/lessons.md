@@ -16,6 +16,19 @@ Before beginning, make sure you can already do the following comfortably:
 - identify direct object pronouns such as `le`, `la`, `l'`, and `les`;
 - recognize subject agreement from earlier chapters (`fatigué`, `fatiguée`, `fatigués`, `fatiguées`).
 If any of those feel uncertain, review them first. The passé composé depends on all four skills at once.
+
+:::answer
+Test yourself with production, not recognition. Answer these five, then check the rule after each one.
+
+1. Give **avoir** for `nous` and **être** for `elles`. — `nous avons`, `elles sont`. The auxiliary must agree with the subject before you even think about the participle.
+2. What is the past participle of `finir` ? — `fini`. Regular -ir verbs change to -i in the passé composé.
+3. Replace `les photos` with a direct object pronoun. — `les`. A plural direct object becomes `les`, and if it comes before the auxiliary it may control agreement.
+4. Write `fatigué` for a feminine plural group. — `fatiguées`. Add -e for feminine and -s for plural; both endings are usually silent.
+5. Correct the tense form: **j'ai parler**. — `j'ai parlé`. After the auxiliary, French needs a past participle, not an infinitive.
+
+If you missed two or more, review Chapters 11-13 basics before continuing. This chapter stacks auxiliary choice, participle form, pronoun placement, and agreement in the same sentence.
+:::
+
 ## How to study this chapter
 Memorize one pattern at a time. Read every French example aloud, then cover the French and rebuild it from the English cue. When you make an agreement mistake, stop and ask yourself **why** the agreement happened before you continue.
 ## Unit 1: What the passé composé expresses and how to build it with `avoir`
@@ -66,6 +79,16 @@ The second verb must be a **past participle**, not an infinitive.
 1. Change `j'ai parlé` to `nous`, `vous`, and `elles`.
 2. Build three new sentences with these cues: `finir / le projet`, `vendre / la voiture`, `regarder / un film`.
 3. Answer aloud: Which part tells you the time? Which part tells you the lexical meaning?
+
+:::answer
+1. `nous avons parlé`, `vous avez parlé`, `elles ont parlé` — the auxiliary changes with the subject, but the past participle `parlé` stays the same because this is an **avoir** verb with no preceding direct object.
+2. `J'ai fini le projet.` — regular -ir verbs form the participle in -i, so `finir` becomes `fini`.
+3. `Nous avons vendu la voiture.` — regular -re verbs form the participle in -u, so `vendre` becomes `vendu`.
+4. `Elle a regardé un film.` — regular -er verbs form the participle in -é, so `regarder` becomes `regardé`.
+
+The present-tense auxiliary tells you the time frame: `ai`, `avons`, `a`. The past participle carries the lexical meaning: speaking, finishing, selling, watching.
+:::
+
 ## Unit 2: High-frequency irregular past participles
 ### Core idea
 Many of the most useful French verbs have irregular past participles. Learn them as vocabulary chunks, the same way you memorize an article with a noun.
@@ -114,6 +137,16 @@ Do not invent a regular pattern where French has an irregular one.
 1. Write the past participle of `faire`, `voir`, `dire`, `boire`, `mettre`, and `recevoir`.
 2. Turn these cues into full sentences: `nous / écrire / un courriel`, `je / voir / tes clés`, `ils / dire / la vérité`.
 3. Say three verbs from the table without looking, then use each in a complete sentence.
+
+:::answer
+1. Past participles: `fait`, `vu`, `dit`, `bu`, `mis`, `reçu`. These are irregular, so memorize them as complete verb facts, not as endings to calculate.
+2. `Nous avons écrit un courriel.` — `écrire` has the irregular participle `écrit`; the auxiliary is **avoir**.
+3. `J'ai vu tes clés.` — `voir` becomes `vu`. No agreement is needed because `tes clés` comes after the verb.
+4. `Ils ont dit la vérité.` — `dire` becomes `dit`; `ont` agrees with `ils` as the auxiliary.
+
+For your three extra verbs, answers vary. A good set would be `J'ai lu le message.`, `Elle a pris le bus.`, and `Nous avons fait le dîner.` Mark yourself wrong if you invented a regular participle such as *prendu* or *fais*.
+:::
+
 ## Unit 3: Negation, questions, and adverb placement in the passé composé
 ### Core idea
 The auxiliary is the center of the tense. Negation and short adverbs usually attach to it, not to the past participle.
@@ -158,6 +191,16 @@ Also avoid placing short adverbs after the participle when French normally prefe
 1. Make these sentences negative: `Elle a répondu.`, `Nous avons compris.`, `Tu as écrit la carte.`
 2. Add `déjà`, then `bien`, to `J'ai fait mes exercices.`
 3. Ask a question three ways with `vous / finir / le rapport`.
+
+:::answer
+1. `Elle n'a pas répondu.` — `ne` becomes `n'` before the vowel sound in `a`, and `pas` goes after the auxiliary.
+2. `Nous n'avons pas compris.` — the negative wraps the auxiliary `avons`, not the participle `compris`.
+3. `Tu n'as pas écrit la carte.` — `pas` still stays between auxiliary and participle.
+4. `J'ai déjà fait mes exercices.` — short adverbs such as `déjà` usually go between the auxiliary and the participle.
+5. `J'ai bien fait mes exercices.` — `bien` goes in the same slot: after `ai`, before `fait`.
+6. `Vous avez fini le rapport ?` / `Est-ce que vous avez fini le rapport ?` / `Avez-vous fini le rapport ?` — all three ask the same yes/no question. In inversion, only the auxiliary moves before the subject pronoun.
+:::
+
 ## Unit 4: The passé composé with `être`
 ### Core idea
 A smaller group of verbs uses `être` instead of `avoir` in the passé composé. These verbs usually express movement, arrival/departure, or a change of state.
@@ -200,6 +243,13 @@ Two frequent problems appear here:
 1. Put `aller`, `venir`, and `sortir` into the passé composé with `nous`.
 2. Change `Il est arrivé tard.` into a sentence about two women.
 3. Build three true or invented sentences about where people went yesterday.
+
+:::answer
+1. `Nous sommes allés.`, `Nous sommes venus.`, `Nous sommes sortis.` — these are movement verbs from the **être** group, so the auxiliary is `sommes`. If the group is entirely female, write `allées`, `venues`, and `sorties`.
+2. `Elles sont arrivées tard.` — with non-pronominal **être** verbs, the participle agrees with the subject. Two women require feminine plural `arrivées`.
+3. Answers vary. Three possible sentences: `Hier, je suis allé au marché.`, `Mes parents sont partis tôt.`, `Nora est rentrée à minuit.` Each one needs **être** because the verb is in the movement/change group, and each participle must match its subject.
+:::
+
 ## Unit 5: Pronominal verbs in the passé composé
 ### Core idea
 All pronominal verbs use `être` in the passé composé.
@@ -238,6 +288,16 @@ Do not assume that every pronominal verb automatically agrees in every sentence.
 1. Put `se coucher` in the passé composé with `je`, `nous`, and `elles`.
 2. Decide whether agreement is needed: `se voir`, `se parler`, `se téléphoner`, `se retrouver`.
 3. Rewrite `Elle s'est lavé les mains.` with `ils` and then with `nous`.
+
+:::answer
+1. `Je me suis couché(e).`, `Nous nous sommes couché(e)s.`, `Elles se sont couchées.` — pronominal verbs use **être** in the passé composé. Add the written agreement that matches the subject when the reflexive pronoun is direct.
+2. `se voir` needs agreement, because `se` is direct: `Elles se sont vues.`
+3. `se parler` does not agree, because the idea is `parler à quelqu'un`: `Elles se sont parlé.`
+4. `se téléphoner` does not agree, because the idea is `téléphoner à quelqu'un`: `Elles se sont téléphoné.`
+5. `se retrouver` usually agrees, because `se` is direct: `Elles se sont retrouvées.`
+6. `Ils se sont lavé les mains.` / `Nous nous sommes lavé les mains.` — no subject agreement here because `les mains` is the direct object and it comes after the verb.
+:::
+
 ## Unit 6: Agreement with a preceding direct object pronoun
 ### Core idea
 With `avoir`, the past participle normally does **not** agree. But if a **direct object pronoun** comes before the auxiliary, the past participle agrees with that pronoun.
@@ -268,6 +328,16 @@ Do not agree with a preceding **indirect** object pronoun.
 1. Replace the noun with a pronoun: `J'ai vu les étudiantes.` -> `Je ___ ai ___`.
 2. Replace the noun with a pronoun: `Nous avons pris les clés.`
 3. Decide whether agreement happens: `Je leur ai écrit.` / `Je les ai écrites.` / `Ils se sont parlé.` / `Ils se sont vus.`
+
+:::answer
+1. `J'ai vu les étudiantes.` → `Je les ai vues.` — `les` replaces a feminine plural direct object and comes before the auxiliary, so `vu` becomes `vues`.
+2. `Nous avons pris les clés.` → `Nous les avons prises.` — `les clés` is feminine plural; the preceding direct object pronoun `les` triggers `prises`.
+3. `Je leur ai écrit.` — no agreement: `leur` is indirect.
+4. `Je les ai écrites.` — agreement: `les` is direct and feminine plural.
+5. `Ils se sont parlé.` — no agreement: `se` is indirect with `parler à quelqu'un`.
+6. `Ils se sont vus.` — agreement: `se` is direct with `voir quelqu'un`; masculine or mixed plural gives `vus`.
+:::
+
 ## Cumulative sentence-usage practice
 These sentences combine the major patterns of the chapter. Read each sentence aloud twice, then cover it and rebuild it from memory.
 1. `Hier, j'ai préparé le dîner et j'ai regardé un film.` — Yesterday, I prepared dinner and watched a movie.
@@ -276,23 +346,74 @@ These sentences combine the major patterns of the chapter. Read each sentence al
 4. `Les photos ? Je les ai prises pendant le voyage.` — The photos? I took them during the trip.
 5. `Tu as déjà lu le message, mais tu n'as pas encore répondu.` — You have already read the message, but you have not answered yet.
 6. `Ils se sont parlé après la réunion, puis ils sont rentrés ensemble.` — They spoke to each other after the meeting, then they went home together.
+
+:::answer
+After you rebuild the sentences from memory, compare your version with the printed model. Do not rely on sound alone; many of the important endings are silent.
+
+- **Auxiliary choice.** Sentences 1, 4, and 5 use **avoir**; sentence 2 uses **être**; sentence 3 uses pronominal **être**; sentence 6 uses both pronominal **être** and non-pronominal **être**.
+- **Negation and adverbs.** In sentence 3, `ne nous sommes pas levés` wraps the auxiliary with `ne...pas`. In sentence 5, `déjà` and `pas encore` sit around the auxiliary-participle structure.
+- **Agreement you cannot hear.** `arrivée`, `levés`, `prises`, and `rentrés` all need written endings for a reason, even when speech hides them.
+- **Pronoun placement.** `Je les ai prises` puts `les` before the auxiliary, so agreement is required. `Ils se sont parlé` has no agreement because `se` is indirect with `parler à quelqu'un`.
+- **Accents and apostrophes.** Check `déjà`, `réunion`, `n'as`, and `j'ai` exactly.
+
+Give yourself credit only when the auxiliary, participle, and any agreement reason are all correct.
+:::
+
 ### Notice and mark
 For each sentence:
 1. circle the auxiliary;
 2. underline the past participle;
 3. label the auxiliary `avoir` or `être`;
 4. if there is agreement, draw an arrow to the word or pronoun that controls it.
+
+:::answer
+| # | Auxiliary | Past participle | Agreement reason |
+|---|---|---|---|
+| 1 | `ai`, `ai` | `préparé`, `regardé` | no agreement; both objects follow the verb |
+| 2 | `est`, `est` | `arrivée`, `repartie` | **être** agrees with `Marie`, feminine singular |
+| 3 | `sommes` | `levés` | pronominal **être**; `nous` is masculine or mixed plural here |
+| 4 | `ai` | `prises` | `les` = `les photos`, feminine plural direct object before the auxiliary |
+| 5 | `as`, `as` | `lu`, `répondu` | no agreement; no preceding direct object controls the participle |
+| 6 | `sont`, `sont` | `parlé`, `rentrés` | `parlé` has no agreement because `se` is indirect; `rentrés` agrees with `ils` |
+
+The key habit is to ask **what controls the participle?** With **avoir**, usually nothing controls it unless a direct object comes before. With non-pronominal **être**, the subject controls it.
+:::
+
 ### Change the sentence
 Rewrite sentences 1-4 twice each:
 1. change the subject, person, or number;
 2. change one important detail such as the object, time, or destination.
 As you rewrite, check auxiliary choice, pronoun form, word order, and agreement.
+
+:::answer
+One worked set of rewrites. Yours may use different details, but the agreement logic must stay visible.
+
+1. Subject: `Hier, nous avons préparé le dîner et nous avons regardé un film.` Detail: `Hier, j'ai préparé le déjeuner et j'ai regardé une série.`
+2. Subject: `Mes amies sont arrivées à huit heures et elles sont reparties à minuit.` Detail: `Marie est arrivée à neuf heures et elle est repartie après le dîner.`
+3. Subject: `Elle ne s'est pas levée tôt ce matin.` Detail: `Nous ne nous sommes pas couchés tard hier soir.`
+4. Subject/object: `Les lettres ? Nous les avons écrites pendant le voyage.` Detail: `Les clés ? Je les ai prises avant de sortir.`
+
+Check every new sentence in this order: choose **avoir** or **être**, place any pronoun before the auxiliary, then decide whether the participle needs a written ending.
+:::
+
 ### Make it personal
 Write four new sentences about your own life using these four chapter patterns:
 - one `avoir` passé composé sentence;
 - one `être` passé composé sentence;
 - one negative pronominal sentence;
 - one sentence with a preceding direct object pronoun.
+
+:::answer
+Answers vary. A model set:
+
+- **Avoir:** `J'ai préparé le dîner.` — a completed action with an object after the verb, so no agreement.
+- **Être:** `Je suis allé au marché.` — `aller` uses **être** and agrees with the subject; write `allée` if the speaker is feminine.
+- **Negative pronominal:** `Je ne me suis pas couché tôt.` — the negative surrounds `suis`, and the reflexive pronoun stays before the auxiliary.
+- **Preceding direct object:** `Les messages ? Je les ai lus.` — `les` comes before `ai`, so `lu` agrees with masculine plural `messages`.
+
+Mark yourself wrong if you used an infinitive after the auxiliary, put `pas` after the participle, or forgot agreement controlled by **être** or by a preceding direct object.
+:::
+
 ## Mini-dialogue: after a long Saturday
 **Camille :** `Alors, tu as passé une bonne journée ?` — So, did you have a good day?
 **Nassim :** `Oui, mais elle a été très longue.` — Yes, but it was very long.
@@ -308,6 +429,15 @@ Write four new sentences about your own life using these four chapter patterns:
 3. Rewrite `ils sont arrivés` with `Marie` and then with `mes sœurs`.
 4. Turn `On a bien parlé jusqu'à minuit.` into a negative sentence.
 5. Ask `Tu as passé une bonne journée ?` again using inversion.
+
+:::answer
+1. **With être / pronominal être:** `je me suis levé`, `Tes amis sont arrivés`, `ils sont arrivés`. **With avoir:** `tu as passé`, `elle a été`, `tu as fait`, `j'ai préparé`, `Je les ai faites`, `on a bien parlé`. The pronominal form is `Je me suis levé tard`.
+2. `faites` agrees because `les` refers to `les courses`, a feminine plural direct object placed before `ai`. With a noun after the verb, there would be no agreement: `J'ai fait les courses`.
+3. With `Marie`: `Marie est arrivée vers huit heures.` With `mes sœurs`: `Mes sœurs sont arrivées vers huit heures.` The participle agrees with the subject because `arriver` uses **être**.
+4. `On n'a pas bien parlé jusqu'à minuit.` — `ne...pas` surrounds the auxiliary `a`; `bien` stays before the participle.
+5. `As-tu passé une bonne journée ?` — inversion moves only the auxiliary before `tu`, and the hyphen is required.
+:::
+
 ## Connected reading: un dimanche qui a bien commencé
 `Dimanche matin, je me suis réveillé avant tout le monde, mais je ne me suis pas levé tout de suite. J'ai ouvert la fenêtre et j'ai vu un ciel très clair. Ma sœur est descendue quelques minutes plus tard, et nous avons préparé le petit déjeuner ensemble. Mes parents sont partis tôt pour le marché, alors je leur ai écrit un message. Vers dix heures, mes cousins sont arrivés sans prévenir, mais nous les avons accueillis avec plaisir. Finalement, on a passé toute la journée à parler, à manger et à rire.`
 — On Sunday morning, I woke up before everyone else, but I did not get up right away. I opened the window and saw a very clear sky. My sister came downstairs a few minutes later, and we prepared breakfast together. My parents left early for the market, so I wrote them a message. Around ten o'clock, my cousins arrived without warning, but we welcomed them gladly. In the end, we spent the whole day talking, eating, and laughing.
@@ -317,6 +447,15 @@ Write four new sentences about your own life using these four chapter patterns:
 3. Find one sentence with a preceding pronoun and explain whether it is direct or indirect.
 4. Change the paragraph so the narrator is `nous` instead of `je`.
 5. Write three follow-up sentences telling what happened in the evening.
+
+:::answer
+1. **Avoir forms:** `J'ai ouvert`, `j'ai vu`, `nous avons préparé`, `je leur ai écrit`, `nous les avons accueillis`, `on a passé`. **Être forms:** `je me suis réveillé`, `je ne me suis pas levé`, `Ma sœur est descendue`, `Mes parents sont partis`, `mes cousins sont arrivés`.
+2. Negative form: `je ne me suis pas levé`. `ne` comes before the reflexive pronoun and auxiliary group, and `pas` follows `suis`.
+3. `je leur ai écrit` has `leur`, an indirect object pronoun, so there is no agreement. `nous les avons accueillis` has `les`, a direct object pronoun referring to `mes cousins`; the participle agrees masculine plural.
+4. With `nous`: `Dimanche matin, nous nous sommes réveillés avant tout le monde, mais nous ne nous sommes pas levés tout de suite. Nous avons ouvert la fenêtre et nous avons vu un ciel très clair.` Continue the pattern with `nous avons préparé` if the narrator joins the breakfast preparation.
+5. Follow-up sentences: `Le soir, nous avons rangé la cuisine. Mes cousins sont restés encore une heure. Je me suis couché très tard.` Each sentence moves the story forward, so the passé composé is the natural tense.
+:::
+
 ## Common mistakes to avoid
 1. Writing an infinitive after the auxiliary: `*j'ai parler` instead of `j'ai parlé`.
 2. Using `avoir` with common `être` verbs such as `aller`, `venir`, or `arriver`.
@@ -378,3 +517,19 @@ After writing:
 4. check every agreement and write the reason in the margin;
 5. read the paragraph aloud twice;
 6. rewrite any corrected sentence from memory.
+
+:::answer
+Answers vary. Here is a model paragraph that satisfies every requirement:
+
+`Hier, j'ai quitté la maison vers neuf heures. J'ai pris le bus et j'ai lu mes messages pendant le trajet. Ma sœur est arrivée au café avant moi, alors je me suis dépêché. Nous avons commandé deux cafés et nous avons bien parlé de nos projets. Je n'ai pas regardé mon téléphone pendant une heure. Les photos du menu ? Je les ai prises pour ma mère. Après le déjeuner, nous sommes allés au marché. Une vendeuse m'a donné une recette, et je l'ai gardée dans mon sac.`
+
+How it satisfies the brief: the **avoir** forms include `ai quitté`, `ai pris`, `ai lu`, `avons commandé`, `avons parlé`, `ai regardé`, `ai prises`, `a donné`, `ai gardée`; the **être** forms are `est arrivée`, `suis dépêché`, and `sommes allés`; the negative is `Je n'ai pas regardé`; the short adverb is `bien`; the preceding direct object pronouns are `les` in `je les ai prises` and `l'` in `je l'ai gardée`; feminine agreement appears in `arrivée`, `prises`, and `gardée`.
+
+Mark yourself wrong if:
+- an **être** verb uses **avoir**, as in **elle a arrivée**;
+- a past participle is still an infinitive, as in **j'ai prendre**;
+- `ne...pas` does not surround the auxiliary;
+- a preceding direct object such as `les photos` fails to control agreement;
+- an indirect object pronoun such as `lui` or `leur` incorrectly triggers agreement.
+:::
+

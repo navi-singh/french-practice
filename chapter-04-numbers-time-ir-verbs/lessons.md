@@ -23,6 +23,19 @@ Before beginning, make sure you can still:
 
 That background matters because this chapter adds new vocabulary and a new verb family, but it still depends on earlier sentence structure.
 
+:::answer
+Test the old skills before you add the new ones. Answer these five without notes, then check.
+
+1. How do you say that something happens every Monday? — `Le lundi, je travaille.` The pattern **le plus a day** means a repeated habit.
+2. Ask a yes/no question from `Tu travailles demain.` — `Tu travailles demain ?` or `Est-ce que tu travailles demain ?` French does not add an English-style helper verb.
+3. Conjugate `étudier` with `nous`. — `nous étudions`. Regular -er verbs use **-ons** with `nous`, and `je` becomes `j'` before a vowel sound.
+4. Say that you are twenty years old. — `J'ai vingt ans.` French uses `avoir` for age, not `être`.
+5. Give `être` for `elles`. — `elles sont`. This form is irregular, so you must know it by memory.
+
+If you missed two or more, review Chapters 2 and 3 first. Numbers and regular -ir verbs will feel much harder if the subject, question pattern, or basic verb form is still unstable.
+:::
+
+
 ## How to study this chapter
 
 Say every number aloud instead of only reading it silently. For time and verb tables, cover one column, reproduce it from memory, then use the practice blocks to force quick recall.
@@ -90,6 +103,19 @@ Say these aloud in French, then write them:
 4. 58 minutes
 Then invent two more number phrases from your own life.
 
+:::answer
+1. `quatorze livres` — fourteen is `quatorze`; the noun is plural because there is more than one.
+2. `vingt et un étudiants` — numbers ending in one use `et un` through this range. The noun is plural in normal counting.
+3. `trente-six euros` — most compound numbers use a hyphen, not `et`.
+4. `cinquante-huit minutes` — use a hyphen between the tens and ones.
+
+Two personal examples:
+
+- `deux cafés` — the noun is plural with more than one item.
+- `vingt minutes` — the final **t** of `vingt` is normally silent when it stands before a consonant.
+:::
+
+
 ## Unit 2: Numbers from 70 upward, and bigger numbers
 
 ### Core idea
@@ -137,6 +163,17 @@ English speakers often want a neat single word for `70` and `90`. Standard Frenc
 ### Sentence-building practice
 
 Write these in French: `71`, `84`, `99`, `105`, `230`, `2,026`. Then say them aloud without looking.
+
+:::answer
+1. `soixante et onze` — seventy-one is built as sixty and eleven, and this form keeps `et`.
+2. `quatre-vingt-quatre` — after eighty, the final **s** of `quatre-vingts` disappears because another number follows.
+3. `quatre-vingt-dix-neuf` — ninety-nine is literally four-twenty-ten-nine. Keep the hyphens.
+4. `cent cinq` — `cent` takes no **s** because another number follows.
+5. `deux cent trente` — `cent` again has no **s** because `trente` follows.
+6. `deux mille vingt-six` — `mille` never takes **s**.
+
+The common trap is writing the plural **s** from `quatre-vingts` or `deux cents` even when another number follows. It disappears before a following number.
+:::
 
 ## Unit 3: Ordinal numbers, dates, and years
 
@@ -192,6 +229,18 @@ Answer in full French phrases:
 3. What floor do you live or work on?
 4. What year is it now?
 
+:::answer
+Answers vary for personal details. Model full phrases:
+
+1. Birthday: `Mon anniversaire est le premier mai.` — use `premier` only for the first day of the month.
+2. Major holiday month: `Une fête importante est en décembre.` — months take `en` and stay lowercase.
+3. Floor: `J'habite au deuxième étage.` — ordinal numbers place things in order, so use `deuxième` for second.
+4. Current year: `Nous sommes en deux mille vingt-six.` — years use `en`; `mille` does not take **s**.
+
+For your own birthday, use `le premier` only if the date is the first. For every other day, use the cardinal number, as in `le deux avril` or `le vingt-trois juin`.
+:::
+
+
 ## Unit 4: Telling time
 
 ### Core idea
@@ -237,6 +286,18 @@ Say and write these times in French:
 5. 4:45
 6. 19:30
 Then write one sentence with `à` to say when an event starts.
+
+:::answer
+1. `Il est sept heures.` — clock time uses the fixed expression `Il est`.
+2. `Il est neuf heures quinze.` — put the minutes directly after `heures`.
+3. `Il est midi.` — noon has the special word `midi`, not a longer twelve-hour phrase.
+4. `Il est midi et quart.` — quarter past uses `et quart`.
+5. `Il est cinq heures moins le quart.` — this means a quarter to five, so it is 4:45.
+6. `Il est dix-neuf heures trente.` — 24-hour time is common for schedules.
+
+Event sentence: `Le cours commence à neuf heures quinze.` — use `à` to say at what time something starts. Do not replace `Il est` with `C'est` for basic clock time.
+:::
+
 
 ## Unit 5: Regular -ir verbs in the present tense
 
@@ -287,6 +348,28 @@ Not every verb ending in `-ir` is regular like `finir`. Verbs such as `partir` a
 
 Conjugate `finir`, `choisir`, and `réussir` for all six persons. Then write three original sentences using three different verbs from the table.
 
+:::answer
+All three verbs are regular in this pattern: remove **-ir**, then add **-is**, **-is**, **-it**, **-issons**, **-issez**, **-issent**.
+
+| Subject | `finir` | `choisir` | `réussir` |
+|---|---|---|---|
+| `je` | `je finis` | `je choisis` | `je réussis` |
+| `tu` | `tu finis` | `tu choisis` | `tu réussis` |
+| `il / elle / on` | `il finit` | `elle choisit` | `on réussit` |
+| `nous` | `nous finissons` | `nous choisissons` | `nous réussissons` |
+| `vous` | `vous finissez` | `vous choisissez` | `vous réussissez` |
+| `ils / elles` | `ils finissent` | `elles choisissent` | `ils réussissent` |
+
+Original sentence models:
+
+- `Je finis le travail à dix-huit heures.` — `je` takes `finis`.
+- `Nous choisissons deux desserts.` — `nous` takes the audible **-issons** form.
+- `Elle réussit son examen en mai.` — `elle` takes `réussit`, ending in silent **-t**.
+
+The main trap is forgetting the **-iss-** in the plural forms.
+:::
+
+
 ## Unit 6: Combining numbers, time, and -ir verbs
 
 ### Core idea
@@ -317,6 +400,16 @@ Build one sentence from each set:
 3. `elle / réussir / l'examen / en mai`
 4. `vous / réfléchir / cinq minutes / avant la réponse`
 
+:::answer
+1. `Nous choisissons trois cafés à dix heures.` — `nous` requires `choisissons`; the object phrase does not affect the verb ending.
+2. `Je finis le travail à dix-huit heures.` — `je` takes `finis`, and `à` introduces the clock time.
+3. `Elle réussit l'examen en mai.` — `elle` takes `réussit`; use `en` before a month.
+4. `Vous réfléchissez cinq minutes avant la réponse.` — `vous` takes `réfléchissez`. The time quantity `cinq minutes` does not change the verb.
+
+Check subject before details. Long number and time phrases can distract you, but the subject still controls the conjugated verb.
+:::
+
+
 ## Cumulative sentence-usage practice
 
 Read each sentence aloud twice, cover it, and write it from memory.
@@ -328,6 +421,19 @@ Read each sentence aloud twice, cover it, and write it from memory.
 5. `En deux mille vingt-six, je réussis enfin mon objectif.` — In 2026, I finally achieve my goal.
 6. `À quelle heure finissez-vous le vendredi ?` — What time do you finish on Fridays?
 
+:::answer
+The sentences are visible, so use this block as a correction checklist after you write them from memory.
+
+- **Number spelling and hyphens.** Sentence 5 has `deux mille vingt-six`, and sentence 4 has `dix-neuf heures`. Do not drop the hyphen inside `dix-neuf`.
+- **Special date form.** Sentence 2 uses `le premier novembre` because the day is the first. For any other day, you would use a cardinal number.
+- **Clock-time wording.** Sentence 1 has `neuf heures quinze`, and sentence 4 has `dix-neuf heures`. Use `heures` for clock time, not an English-style colon in the written sentence.
+- **Regular -ir endings.** Sentence 3 `choisissons`, sentence 4 `finissent`, sentence 5 `réussis`, and sentence 6 `finissez` must match their subjects.
+- **Question formatting.** Sentence 6 uses inversion in `finissez-vous` and has a space before `?`.
+
+Score the content and the spelling separately. If the meaning is right but an ending or hyphen is wrong, rewrite that one sentence from memory again.
+:::
+
+
 ### Notice and mark
 
 1. Circle the number or date expression in each sentence.
@@ -335,13 +441,51 @@ Read each sentence aloud twice, cover it, and write it from memory.
 3. Box the time phrase if there is one.
 4. Say whether each sentence is about a date, a clock time, a quantity, or a combination.
 
+:::answer
+| # | Number or date expression | Conjugated verb | Time phrase | Type |
+|---|---|---|---|---|
+| 1 | `neuf heures quinze` | `commence` | `à neuf heures quinze` | clock time |
+| 2 | `le premier novembre` | `est` | — | date |
+| 3 | `deux desserts`, `huit euros` | `choisissons` | — | quantity and price |
+| 4 | `dix-neuf heures` | `finissent` | `à dix-neuf heures` | clock time |
+| 5 | `deux mille vingt-six` | `réussis` | `En deux mille vingt-six` | year/date expression |
+| 6 | — | `finissez` | `le vendredi` | repeated day/time expression |
+
+The rule behind the table is simple: number phrases can describe dates, clock times, prices, or quantities. Do not let the number phrase distract you from the conjugated verb.
+:::
+
+
 ### Change the sentence
 
 Rewrite sentences 1-4 twice each: first change the subject, then change one detail such as the time, price, date, number, or object. Make every necessary change to the verb ending and article.
 
+:::answer
+One worked set is below. Your details may differ, but the verb ending must follow the new subject.
+
+1. Subject: `Les cours commencent à neuf heures quinze.` Detail: `Le cours commence à dix heures trente.`
+2. Subject: `Nos anniversaires sont le premier novembre.` Detail: `Mon anniversaire est le quinze juin.`
+3. Subject: `Je choisis deux desserts pour huit euros.` Detail: `Nous choisissons trois cafés pour neuf euros.`
+4. Subject: `Le magasin finit sa journée à dix-neuf heures.` Detail: `Les magasins finissent leur journée à vingt heures.`
+
+Watch the regular -ir forms especially: `je choisis`, `nous choisissons`, `le magasin finit`, and `les magasins finissent`. The price, time, or object never controls the verb; the subject does.
+:::
+
+
 ### Make it personal
 
 Write four true sentences about your own life using these chapter structures: one date, one clock time, one price or quantity, and one regular `-ir` verb sentence.
+
+:::answer
+Answers vary. A model set:
+
+1. Date: `Mon anniversaire est le vingt avril.` — Use a cardinal number because it is not the first of the month.
+2. Clock time: `Je commence le travail à neuf heures.` — Use `à` to say when an event starts.
+3. Price or quantity: `J'achète deux cafés pour six euros.` — The number phrase describes the object and price.
+4. Regular -ir verb: `Je choisis un livre le samedi.` — `je` takes `choisis`.
+
+Mark yourself wrong if your date uses an ordinal after the first, if your time sentence uses `C'est` for basic clock time, or if your regular -ir verb is missing the **-iss-** sound in a plural form such as `nous choisissons`.
+:::
+
 
 ## Mini-dialogue: choosing dessert after class
 
@@ -369,6 +513,15 @@ Write four true sentences about your own life using these chapter structures: on
 4. Rewrite Lucas's second line with `nous` instead of `je`.
 5. Change `le premier novembre` to a different date of your choice.
 
+:::answer
+1. Two regular -ir verbs in the dialogue include `finit` with subject `le cours`, `choisis` with subjects `tu` and `je`, `réussis` with subject `tu`, and `finis` with subject `je`. `Je choisis` and `tu choisis` look the same because both singular forms end in **-is**.
+2. Number expressions: `midi vingt`, `deux tartes`, `onze euros`, `le premier novembre`, and `huit amis`. `Cette année` is a time expression, but it is not a number expression.
+3. Clock time: `Il est midi vingt`. Date: `le premier novembre`. The date uses `premier` because it is the first day of the month.
+4. `Nous choisissons une soupe et deux tartes pour onze euros.` — `nous` requires the regular -ir ending **-issons**.
+5. A different date: `le quinze septembre`. Use a cardinal number for ordinary dates; only the first uses `premier`.
+:::
+
+
 ## Connected reading: un samedi bien organisé
 
 `Le samedi, je commence lentement, mais à dix heures je finis déjà mes courses du marché. J'achète souvent trois légumes, deux fromages et un dessert pour environ vingt euros. À midi, je déjeune avec mon frère, puis nous choisissons un film pour l'après-midi. Si le temps est mauvais, nous réfléchissons à la maison; si le soleil revient, nous sortons. Mon père téléphone parfois vers dix-sept heures parce qu'il veut savoir si je réussis ma recette. Le soir, tout le monde arrive à la même heure, et le dîner commence vers vingt heures.`
@@ -382,6 +535,15 @@ Write four true sentences about your own life using these chapter structures: on
 3. Rewrite the second sentence with different quantities and a different price.
 4. Find the sentence that contains a yes/no idea indirectly and explain it.
 5. Write three new schedule sentences about your own Saturday.
+
+:::answer
+1. Number and time expressions: `Le samedi`, `à dix heures`, `trois légumes`, `deux fromages`, `un dessert`, `vingt euros`, `À midi`, `l'après-midi`, `vers dix-sept heures`, `Le soir`, `à la même heure`, and `vers vingt heures`.
+2. Present-tense verbs sorted by type: regular -er verbs include `commence`, `achète`, `déjeune`, `téléphone`, `arrive`, and `commence`; regular -ir verbs include `finis`, `choisissons`, `réfléchissons`, and `réussis`. The verb `sortons` is an -ir verb, but it is not regular like `finir`.
+3. Rewritten second sentence: `J'achète souvent quatre pommes, trois fromages et deux desserts pour environ trente euros.` — The quantities and price changed, but `j'achète` still agrees with `je`.
+4. The indirect yes/no idea is in `il veut savoir si je réussis ma recette`. The word `si` means **whether** here; it embeds the question “Do I succeed with my recipe?” without using a question mark.
+5. Answers vary. Models: `Le samedi, je finis mes courses à onze heures.` `À midi, je choisis un sandwich.` `Le soir, je réussis souvent une recette simple.` Check that each schedule sentence has a time expression and that every regular -ir verb matches its subject.
+:::
+
 
 ## Common mistakes to avoid
 
@@ -447,3 +609,19 @@ After writing:
 4. make sure your date uses `le premier` only when needed;
 5. read the paragraph aloud twice;
 6. rewrite any sentence you corrected from memory.
+
+:::answer
+Answers vary, so compare your paragraph to the requirements. Here is one model that satisfies the brief:
+
+`Le quinze avril deux mille vingt-six, je commence une journée très organisée. À huit heures, je choisis deux cafés pour six euros. À neuf heures trente, je finis un dossier important. À midi, nous choisissons trois sandwichs pour vingt-quatre euros. À quatorze heures, ma sœur réussit son examen. Le soir, je réfléchis pendant quinze minutes avant de choisir un dessert. Nous finissons la journée à dix-neuf heures. Combien de cafés est-ce que tu choisis le matin ?`
+
+How it satisfies the brief: number expressions include `quinze`, `deux mille vingt-six`, `huit heures`, `deux cafés`, `six euros`, `neuf heures trente`, `trois sandwichs`, `vingt-quatre euros`, `quatorze heures`, `quinze minutes`, and `dix-neuf heures`; the full date is `Le quinze avril deux mille vingt-six`; the clock times are `huit heures`, `neuf heures trente`, `midi`, `quatorze heures`, and `dix-neuf heures`; regular -ir verbs include `choisis`, `finis`, `choisissons`, `réussit`, `réfléchis`, and `finissons`; the final sentence asks about quantity.
+
+Mark yourself wrong if any of these appear:
+- an ordinal date such as **deuxième avril** for an ordinary date;
+- missing hyphens in numbers such as `vingt-quatre`;
+- `C'est` instead of `Il est` for basic clock time;
+- a plural regular -ir form without **-iss-**, such as **nous choisons**;
+- a question without the required space before `?`.
+:::
+

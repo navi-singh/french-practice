@@ -20,6 +20,19 @@ Before beginning, make sure you can already:
 - use definite articles confidently, because body-part expressions depend on them.
 If those skills still feel uncertain, review them briefly first.
 
+
+:::answer
+Check that the Chapter 11 machinery is still available before adding reflexive pronouns.
+
+1. Conjugate `se laver` with `je`. — `je me lave`. A pronominal verb needs both the subject and the matching reflexive pronoun.
+2. Make `Je me repose` negative. — `Je ne me repose pas.` The negative frame surrounds the reflexive pronoun plus verb.
+3. Say **Get up!** to one close person. — `Lève-toi !` In an affirmative reflexive command, the pronoun moves after the verb and `te` becomes `toi`.
+4. Say **Do not worry!** to one close person. — `Ne t'inquiète pas !` In a negative command, the reflexive pronoun stays before the verb, and `te` elides to `t'` before a vowel sound.
+5. Translate: I wash my hands. — `Je me lave les mains.` With body parts, French normally uses the definite article because `me` already shows whose hands they are.
+
+If you missed two or more, review negation, command order, and definite articles before continuing. Pronominal verbs make pronoun placement non-negotiable.
+:::
+
 ## How to study this chapter
 Say the pronoun and the verb together every time: `je me lève`, `nous nous dépêchons`, `elle va se reposer`. For the present participle, memorize the sound pattern `-ant` and connect it to full phrases such as `en travaillant` and `en lisant`.
 
@@ -67,6 +80,30 @@ You need both the subject pronoun and the reflexive pronoun.
 1. Conjugate `se laver` orally with all six persons.
 2. Write three sentences about your daily routine with `se lever`, `se coucher`, or `se reposer`.
 3. Say one example with `m'`, one with `t'`, and one with `s'`.
+
+:::answer
+1. `se laver`:
+
+| Subject | Form |
+|---|---|
+| `je` | `je me lave` |
+| `tu` | `tu te laves` |
+| `il / elle / on` | `il se lave` |
+| `nous` | `nous nous lavons` |
+| `vous` | `vous vous lavez` |
+| `ils / elles` | `ils se lavent` |
+
+The reflexive pronoun changes with the subject. Do not drop it: `je lave` means I wash something else.
+
+2. Routine sentences:
+   - `Je me lève à sept heures.` — `me` matches `je`.
+   - `Nous nous reposons après le déjeuner.` — `nous nous` is normal: subject plus reflexive pronoun.
+   - `Elle se couche tôt le dimanche.` — `se` matches `elle`.
+3. Elision examples:
+   - `Je m'habille vite.` — `me` becomes `m'` before a vowel sound.
+   - `Tu t'arrêtes ici.` — `te` becomes `t'`.
+   - `Elle s'appelle Lina.` — `se` becomes `s'`.
+:::
 
 ## Unit 2: Pronominal verbs in negatives, questions, infinitives, and commands
 ### Core idea
@@ -127,6 +164,20 @@ And do not keep `te` in an affirmative command.
 2. Give three commands with `se dépêcher`, one for `tu`, one for `nous`, and one for `vous`.
 3. Rewrite `Tu te couches tard.` as a negative command and then as a future-near sentence.
 
+:::answer
+1. Forms from `Je me repose`:
+   - Negative: `Je ne me repose pas.` — **ne ... pas** wraps the reflexive pronoun plus verb.
+   - Question: `Est-ce que je me repose ?` — the reflexive pronoun stays before the verb.
+   - Near future: `Je vais me reposer.` — with an infinitive, the reflexive pronoun goes before the infinitive.
+2. Commands with `se dépêcher`:
+   - `Dépêche-toi !` — affirmative `tu` command: `te` becomes `toi` after the verb.
+   - `Dépêchons-nous !` — `nous` stays `nous` after the command.
+   - `Dépêchez-vous !` — `vous` stays `vous` after the command.
+3. `Tu te couches tard.`:
+   - Negative command: `Ne te couche pas tard !` — in a negative command, the reflexive pronoun returns before the verb.
+   - Near future: `Tu vas te coucher tard.` — the reflexive pronoun sits before the infinitive `coucher`.
+:::
+
 ## Unit 3: Body parts and reciprocal meaning
 ### Core idea
 With reflexive verbs and body parts, French usually uses the definite article, not the possessive adjective, because the owner is already obvious from the reflexive pronoun. With plural subjects, some pronominal verbs express actions people do to each other.
@@ -165,6 +216,21 @@ Do not say `*Je me lave mes mains` in ordinary French. French normally says `Je 
 1. Replace the body part: `les mains`, `les dents`, `le visage`, `les yeux`.
 2. Write three reciprocal sentences with `nous`, `vous`, or `ils`.
 3. Turn one reciprocal sentence into a question and one into a negative sentence.
+
+:::answer
+1. Body-part examples:
+   - `Je me lave les mains.` — French uses `les`, not a possessive adjective, because `me` already shows whose hands.
+   - `Je me brosse les dents.` — same definite-article pattern.
+   - `Je me lave le visage.` — singular body part, singular article.
+   - `Je me frotte les yeux.` — plural body part, plural article.
+2. Reciprocal sentences:
+   - `Nous nous parlons souvent.` — with `nous`, this can mean we talk to each other.
+   - `Vous vous écrivez chaque semaine.` — `vous vous` is subject plus reciprocal pronoun.
+   - `Ils se téléphonent le soir.` — plural subject makes the **each other** meaning natural.
+3. Question and negative:
+   - `Est-ce que vous vous écrivez chaque semaine ?` — the reflexive pronoun stays before the verb.
+   - `Ils ne se téléphonent pas le soir.` — **ne ... pas** wraps `se téléphonent`.
+:::
 
 ## Unit 4: Idiomatic pronominal verbs and meaning contrasts
 ### Core idea
@@ -208,6 +274,21 @@ Do not translate every pronominal verb word for word. `Je me souviens de` means 
 1. Write one sentence with each of these: `se souvenir de`, `s'entendre avec`, `se dépêcher`.
 2. Contrast the meaning of `appeler` and `s'appeler` in two short sentences.
 3. Write one question with `se rendre compte de` and one answer with `s'en aller`.
+
+:::answer
+1. Idiomatic pronominal verbs:
+   - `Je me souviens de cette chanson.` — remember the built-in `de`.
+   - `Elle s'entend bien avec sa colocataire.` — `avec` belongs to the expression.
+   - `Nous nous dépêchons parce que le train arrive.` — the reflexive pronoun matches `nous`.
+2. Meaning contrast:
+   - `J'appelle mon frère.` — `appeler` means to call someone.
+   - `Je m'appelle Nadia.` — `s'appeler` means to be named.
+3. Question and answer:
+   - `Tu te rends compte du problème ?` — `se rendre compte de` keeps its `de`, here combined with `le` as `du`.
+   - `Oui, je m'en vais maintenant.` — `s'en aller` has both the reflexive pronoun and `en`; keep the cluster together before the verb.
+
+The trap is translating the reflexive word by word. Learn each idiomatic verb as a whole expression.
+:::
 
 ## Unit 5: Forming and using the present participle
 ### Core idea
@@ -264,6 +345,22 @@ Do not form the present participle directly from the infinitive. Start from the 
 2. Write two sentences with `en + present participle` about your study habits.
 3. Turn one `en + participle` sentence into a sentence with a full clause starting with `pendant que` or `quand`.
 
+:::answer
+1. Present participles:
+   - `choisir` -> `choisissant` — from `nous choisissons`.
+   - `boire` -> `buvant` — from `nous buvons`.
+   - `lire` -> `lisant` — from `nous lisons`.
+   - `faire` -> `faisant` — from `nous faisons`; this spelling is irregular-looking but standard.
+   - `être` -> `étant` — one of the special irregular forms.
+2. Study-habit sentences:
+   - `J'apprends mieux en écoutant les dialogues.` — same subject does both actions.
+   - `Je mémorise les mots en écrivant des exemples.` — the phrase with `en` explains the method.
+3. Full-clause version:
+   - `Je mémorise les mots pendant que j'écris des exemples.` — the full clause has its own subject and conjugated verb.
+
+Do not add agreement to the participle after `en`: write `en écrivant`, not an adjective form.
+:::
+
 ## Cumulative sentence-usage practice
 These sentences combine the chapter's main structures in natural French. Read each sentence aloud twice, cover it, and write it from memory.
 1. `Je me lève tôt et je me prépare rapidement.` — I get up early and get ready quickly.
@@ -272,6 +369,20 @@ These sentences combine the chapter's main structures in natural French. Read ea
 4. `En étudiant chaque jour, elle fait des progrès.` — By studying every day, she makes progress.
 5. `Je vais me coucher plus tôt, parce que je me rends compte de ma fatigue.` — I am going to go to bed earlier because I realize I am tired.
 6. `Dépêche-toi, mais ne t'inquiète pas : nous nous en allons dans cinq minutes.` — Hurry up, but don't worry: we are leaving in five minutes.
+
+
+:::answer
+After writing the sentences from memory, check the pieces that are easiest to misplace.
+
+- **Reflexive pronouns.** Sentence 1 needs both `me lève` and `me prépare`; sentence 2 needs `se lavent`; sentence 5 needs `me coucher` and `me rends compte`; sentence 6 needs `t'inquiète` and `nous nous en allons`.
+- **Body-part article.** Sentence 2 is `les mains`, not a possessive adjective, because `se lavent` already shows whose hands.
+- **Present participles.** Sentence 3 has `en marchant`; sentence 4 has `En étudiant`. The participle after `en` does not agree with the subject.
+- **Commands.** `Dépêche-toi` puts the pronoun after the affirmative command; `ne t'inquiète pas` puts it before the verb in the negative command.
+- **Idiomatic cluster.** `nous nous en allons` belongs together: subject `nous`, reflexive pronoun `nous`, `en`, then the verb.
+- **Accents and punctuation.** Keep `lève`, `dîner`, `t'inquiète`, and the colon in sentence 6 if you are copying the full model.
+
+Count a sentence wrong if the reflexive pronoun is missing, even when the main verb is spelled correctly. The pronoun is part of the verb structure in this chapter.
+:::
 
 ### Notice and mark
 For each sentence above:
@@ -292,6 +403,35 @@ Write four new sentences about your own life using:
 - one idiomatic pronominal verb;
 - one `en + present participle` phrase.
 
+:::answer
+Notice and mark:
+
+1. `Je me lève tôt et je me prépare rapidement.` — `me lève` and `me prépare` are reflexive; the controlling verbs are `lève` and `prépare`.
+2. `Les enfants se lavent les mains avant le dîner.` — `se lavent` is reflexive with a body part; French uses `les mains`, not a possessive adjective.
+3. `Nous nous parlons en marchant vers le travail.` — `nous parlons` is reciprocal, and `en marchant` is a present-participle structure.
+4. `En étudiant chaque jour, elle fait des progrès.` — `étudiant` is the participle; `fait` is the main conjugated verb.
+5. `Je vais me coucher plus tôt, parce que je me rends compte de ma fatigue.` — `me coucher` is a pronominal infinitive, and `me rends compte de` is idiomatic.
+6. `Dépêche-toi, mais ne t'inquiète pas : nous nous en allons dans cinq minutes.` — `Dépêche-toi` is an affirmative pronominal command; `ne t'inquiète pas` is a negative pronominal command; `nous nous en allons` is idiomatic `s'en aller`.
+
+Change the sentence — sample answers:
+
+- Sentence 1, subject change: `Nous nous levons tôt et nous nous préparons rapidement.` — both reflexive pronouns and verbs change.
+- Sentence 1, detail change: `Je me lève tard et je me prépare lentement.` — same structure, new details.
+- Sentence 2, subject change: `Elle se lave les mains avant le dîner.` — subject and verb change, but the body part keeps the definite article.
+- Sentence 2, detail change: `Les enfants se brossent les dents avant le dîner.` — new body part, same article rule.
+- Sentence 3, subject change: `Ils se parlent en marchant vers le travail.` — plural subject keeps reciprocal meaning.
+- Sentence 3, detail change: `Nous nous parlons en attendant le bus.` — new participle phrase.
+- Sentence 4, subject change: `En étudiant chaque jour, nous faisons des progrès.` — the main subject changes, and the verb changes to `faisons`.
+- Sentence 4, detail change: `En lisant chaque soir, elle fait des progrès.` — new participle from `lire`.
+
+Make it personal — sample answers:
+
+1. `Je me réveille à sept heures.` — daily-routine pronominal verb.
+2. `Je me lave le visage.` — body part with definite article.
+3. `Je me souviens de mes devoirs.` — idiomatic pronominal verb with `de`.
+4. `J'apprends le vocabulaire en marchant.` — `en` plus present participle for simultaneous action.
+:::
+
 ## Mini-dialogue: getting ready for class
 **Inès :** `Tu te prépares déjà ?` — Are you getting ready already?
 **Mathis :** `Oui, je vais m'habiller maintenant, mais je ne me sens pas très bien.` — Yes, I'm going to get dressed now, but I don't feel very well.
@@ -309,6 +449,17 @@ Write four new sentences about your own life using:
 4. Which line contains `en + present participle`, and what relationship between the two actions does it show?
 5. Rewrite line 7 so that Inès is speaking to one person formally.
 
+
+:::answer
+1. Near-future pronominal verbs include `je vais m'habiller`, `nous allons nous inquiéter`, and `je vais me réveiller`. In each case, the reflexive pronoun stands directly before the infinitive, not after it.
+2. Affirmative reflexive command: `Dépêche-toi un peu`. Negative reflexive command: `Ne t'inquiète pas.` Line 7 also has the affirmative command `levons-nous`.
+3. Idiomatic pronominal verbs with prepositions appear in `Tu te souviens de la salle du cours ?` and `je m'entends bien avec les étudiants de ce groupe.` The prepositions `de` and `avec` are part of the expressions.
+4. `En buvant un café, je vais me réveiller` shows method: drinking coffee is how Mathis expects to wake up. `attends-moi en fermant la porte` shows a simultaneous action: wait for me while closing the door.
+5. Formal command to one person: `Alors, levez-vous et allez-y.` The reflexive command uses `vous` after the verb, and `aller` gives `allez-y`.
+
+The main contrast is position: before the infinitive in `vais m'habiller`, after the verb in `Dépêche-toi`, and before the verb in `Ne t'inquiète pas`.
+:::
+
 ## Connected reading: my evening routine at the residence hall
 `Le soir, je me détends un peu après le dîner, puis je vais me laver le visage et me brosser les dents. Mes colocataires et moi nous nous racontons notre journée en rangeant la cuisine. Quand l'un de nous se sent stressé, les autres essaient de le calmer en parlant doucement. Je me souviens toujours de préparer mes affaires avant de me coucher, parce que je me rends vite compte de mes oublis le matin. Si nous nous couchons trop tard, nous nous réveillons tous plus mal le lendemain. En travaillant régulièrement, pourtant, nous nous sentons beaucoup plus tranquilles.`
 — In the evening, I relax a little after dinner, then I go wash my face and brush my teeth. My roommates and I tell each other about our day while putting away the kitchen. When one of us feels stressed, the others try to calm him or her by speaking softly. I always remember to prepare my things before going to bed, because I quickly realize my oversights in the morning. If we go to bed too late, we all wake up feeling worse the next day. By working regularly, however, we feel much calmer.
@@ -319,6 +470,17 @@ Write four new sentences about your own life using:
 3. Find the `en + present participle` phrases and explain what each one adds.
 4. Rewrite the paragraph with `elle` instead of `je` in the first three sentences.
 5. Write three true sentences about your own evening routine using the model.
+
+
+:::answer
+1. **Daily-routine pronominal verbs:** `je me détends`, `je vais me laver`, `me brosser`, `me coucher`, `nous nous couchons`, `nous nous réveillons`, and `nous nous sentons`. The infinitive forms still keep the reflexive pronoun before the infinitive.
+2. **Body-part expressions:** `me laver le visage` and `me brosser les dents`. **Reciprocal verb:** `nous nous racontons notre journée`. **Idiomatic pronominal verbs:** `je me souviens de` and `je me rends compte de`.
+3. **Present-participle phrases:** `en rangeant la cuisine` tells what is happening at the same time as the roommates talk; `en parlant doucement` explains how the others try to calm the stressed person; `En travaillant régulièrement` explains the method or condition that makes them feel calmer.
+4. With `elle`: `Le soir, elle se détend un peu après le dîner, puis elle va se laver le visage et se brosser les dents. Ses colocataires et elle se racontent leur journée en rangeant la cuisine. Quand l'une d'elles se sent stressée, les autres essaient de la calmer en parlant doucement.` The body parts still use definite articles, and `stressée` agrees with `l'une`.
+5. Answers vary. A model set: `Le soir, je me repose après le dîner.` `Je me brosse les dents en écoutant une leçon.` `Je me souviens de préparer mon sac avant de me coucher.`
+
+Mark yourself wrong if the reflexive pronoun is missing, if a body part takes a possessive adjective, or if an `en + participle` phrase gets adjective agreement.
+:::
 
 ## Common mistakes to avoid
 1. Forgetting the reflexive pronoun: `je me lève`, not `*je lève`.
@@ -397,3 +559,18 @@ After writing:
 4. check whether your infinitive constructions place the reflexive pronoun before the infinitive;
 5. read the paragraph aloud twice;
 6. rewrite any corrected sentence from memory.
+
+:::answer
+Answers vary. Here is one complete model:
+
+`Le matin, je me réveille à sept heures. Je me lave le visage et je me brosse les dents. Je ne me couche pas tard pendant la semaine. Tu te prépares aussi tôt ? Dépêche-toi, parce que le cours commence bientôt ! Mes amis et moi nous nous parlons avant la classe. Je me souviens de la salle et je me rends compte de l'heure. En marchant vers l'école, nous révisons les verbes. Après le cours, nous nous reposons dix minutes.`
+
+How it satisfies the brief: pronominal verbs include `je me réveille`, `je me lave`, `je me brosse`, `je ne me couche pas`, `tu te prépares`, `nous nous parlons`, `je me souviens de`, `je me rends compte de`, and `nous nous reposons`; the negative pronominal sentence is `Je ne me couche pas`; the question is `Tu te prépares aussi tôt ?`; the command is `Dépêche-toi`; the body-part expression is `le visage` and `les dents`; the reciprocal verb is `nous nous parlons`; the idiomatic verbs keep `de`; and the participle phrase is `En marchant vers l'école`.
+
+Mark yourself wrong if any of these appear:
+- a pronominal verb without its reflexive pronoun;
+- `je vais coucher me` or any reflexive pronoun after an infinitive;
+- `Dépêche-te` instead of `Dépêche-toi`;
+- a body-part phrase such as `mes dents` where the reflexive pronoun already shows possession;
+- agreement added to the participle after `en`.
+:::

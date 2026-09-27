@@ -97,6 +97,7 @@ The generated website is in [`docs/`](docs/) and is ready for GitHub Pages. It i
 - pronunciation of selected French text, with a **Slower** button that repeats it at half your current speed;
 - a French voice picker, defaulting to a France French (`fr-FR`) voice;
 - a speaking-speed slider from 20% to 100% of normal French speed;
+- collapsible answers under every exercise, hidden until you ask for them;
 - offline caching after the first visit.
 
 Tap-to-pronounce pairs naturally with Chapter 0: tap any French phrase, listen, then imitate it immediately.
@@ -104,6 +105,16 @@ Tap-to-pronounce pairs naturally with Chapter 0: tap any French phrase, listen, 
 Speech uses the browser's built-in Web Speech API, so the available voices come from your device. The list can take a moment to appear, because some mobile browsers load voices lazily and never announce them. If the picker still shows no voices, none are installed for French: add one under Settings › Accessibility › Spoken Content › Voices (iPhone) or Settings › Accessibility › Text-to-speech (Android), or use Chrome, which ships a `Google français` voice. Pick the voice you prefer under **French voice** in the sidebar.
 
 **Speaking speed** sets how fast French is read aloud, as a percentage of normal speed: 100% is full speed and 50% is half speed. It applies to tap-to-pronounce and to the selection buttons, and it is saved on your device. Native speed is the goal, so treat slow playback as a tool rather than a habit: listen slowly once to catch every syllable, then raise the slider and imitate at a natural pace. The **Slower** button repeats a selection at half your current setting without changing it, which is the quickest way to unpick a liaison or a nasal vowel. The floor is 20%, because most speech engines turn unintelligible below that.
+
+**Answers** sit collapsed under each exercise so you attempt it before checking. Write an answer block in any lesson file like this:
+
+````markdown
+:::answer
+1. `Nous sommes lundi.` — French names the day with no article.
+:::
+````
+
+The block renders as a **Show answers** button that stays closed until you open it, and every answer explains the rule behind it. Backticks inside it become tappable French, so only ever wrap genuine French in them.
 
 Regenerate the website after changing lesson files:
 
@@ -121,6 +132,13 @@ Check the pronunciation voice selection after changing `docs/app.js`:
 
 ```bash
 node --test test_voice_preference.mjs
+```
+
+Two helpers exist for lesson content. `coverage_report.py` lists practice sections that still have no answers, and `check_answers.py` verifies that a file's answer blocks are well formed and that the edit only added lines:
+
+```bash
+python3 coverage_report.py                       # whole course, or pass chapter dirs
+python3 check_answers.py chapter-03-*/lessons.md
 ```
 
 Preview it locally:

@@ -16,6 +16,19 @@ Before beginning, make sure you can already:
 - recognize singular and plural noun phrases;
 - understand that a French infinitive is the dictionary form of the verb, such as `parler`, `finir`, or `prendre`.
 You will use all of those skills in this chapter. For example, `nous allons partir`, `il ne va pas venir`, and `elles font attention` all depend on earlier chapters.
+
+:::answer
+Check these five basics before you begin.
+
+1. Give `avoir` with `nous`. — `nous avons`. You will need this kind of irregular form beside `aller` and `faire`.
+2. Make `Je vais partir` negative. — `Je ne vais pas partir`. The negative wraps the conjugated verb `vais`, not the infinitive `partir`.
+3. Is `les livres` singular or plural? — plural. Plural noun phrases trigger contractions such as `aux` and `des` when they follow `à` or `de`.
+4. Find the infinitive in `elles vont faire attention`. — `faire`. The infinitive is the unchanged dictionary form after the conjugated `vont`.
+5. Give `être` with `il`. — `il est`. You still need `être`, but weather expressions in this chapter usually use `faire`, as in `Il fait froid`.
+
+If you missed two or more, review the earlier verb and negation chapters first. This chapter has many small words, and they depend on recognizing the verb and noun phrase accurately.
+:::
+
 ## How to study this chapter
 Say the conjugation tables aloud before you try to memorize them silently. With prepositions, always learn a short phrase rather than a single word: `au Canada`, `chez mes parents`, `avant de sortir`, `faire du vélo`.
 ## Unit 1: The verb aller in the present tense
@@ -54,6 +67,22 @@ Complete each idea aloud, then write it.
 3. `Elle va ...` with a person's home using `chez`.
 4. `Ils vont ...` with a city.
 Then turn one sentence negative with `ne...pas`.
+
+:::answer
+Model answers — your places can differ.
+
+1. `Je vais à la bibliothèque.` — `je` takes `vais`, and a specific destination usually needs a preposition.
+2. `Nous allons aux magasins.` — `nous` takes `allons`; `à` + `les` contracts to `aux`.
+3. `Elle va chez sa tante.` — Use `chez` for someone's home or business, not `à`.
+4. `Ils vont à Lyon.` — Cities usually take `à` for to or in.
+
+Negative example:
+
+- `Je ne vais pas à la bibliothèque.` — `ne` and `pas` wrap the conjugated verb `vais`; the place phrase stays after it.
+
+Mark yourself wrong if you built `aller` like a regular -er verb or forgot the contraction in a phrase such as `aux magasins`.
+:::
+
 ## Unit 2: The near future with aller + infinitive
 ### Core idea
 French uses `aller + infinitive` to say that something is **going to happen soon**. This is called the **near future**.
@@ -89,6 +118,19 @@ Rewrite each prompt in French.
 3. Are you going to call your parents?
 4. They are going to do the dishes after dinner.
 Then change sentence 1 to the `vous` form and sentence 3 to the `nous` form.
+
+:::answer
+1. `Nous allons acheter du pain.` — Near future = conjugated `aller` + infinitive. Only `allons` changes; `acheter` stays infinitive.
+2. `Elle ne va pas rester à la maison.` — The negative wraps `va`, not `rester`.
+3. `Est-ce que tu vas appeler tes parents ?` — In a yes/no question with `est-ce que`, keep normal subject-verb order.
+4. `Ils vont faire la vaisselle après le dîner.` — `faire` stays infinitive after `vont`.
+
+Changed forms:
+
+- `Vous allez acheter du pain.` — `vous` requires `allez`.
+- `Est-ce que nous allons appeler nos parents ?` — `nous` requires `allons`, and `tes parents` changes naturally to `nos parents`.
+:::
+
 ## Unit 3: `à`, `de`, and their contractions
 ### Core idea
 The prepositions `à` and `de` appear everywhere in French. They often express destination, location, belonging, source, or topic. Before `le` and `les`, they contract.
@@ -131,6 +173,16 @@ Complete the pairs.
 3. `Elle revient ...` with `la pharmacie`.
 4. `C'est le sac ...` with `le professeur`.
 Then explain why each phrase uses `à` or `de`.
+
+:::answer
+1. `Je vais au parc.` — Motion toward a place uses `à`; `à` + `le parc` becomes `au parc`.
+2. `Nous parlons des voisins.` — Talking about a topic uses `de`; `de` + `les voisins` becomes `des voisins`.
+3. `Elle revient de la pharmacie.` — Returning from a place uses `de`; there is no contraction with `la`.
+4. `C'est le sac du professeur.` — Possession or relation uses `de`; `de` + `le professeur` becomes `du professeur`.
+
+The main trap is writing two separate words where French requires one contracted form: `au`, `aux`, `du`, or `des`.
+:::
+
 ## Unit 4: Prepositions of place and sequence
 ### Core idea
 French uses different prepositions to describe where something is located and when one action happens in relation to another. Translate the **relationship**, not the English word alone.
@@ -175,6 +227,18 @@ Answer each question in a complete sentence.
 2. Où vas-tu après le cours ? Use `chez`.
 3. Que vas-tu faire avant de dormir ? Use `avant de + infinitive`.
 4. Pendant quelle saison fais-tu le plus de promenades ? Use `pendant`.
+
+:::answer
+Sample answers — yours can be true for you.
+
+1. `Mes chaussures sont sous la table.` — `sous` gives the location under something.
+2. `Après le cours, je vais chez mon ami.` — Use `chez` for a person's home.
+3. `Avant de dormir, je vais lire un chapitre.` — `avant de` must be followed by an infinitive, here `dormir`.
+4. `Je fais le plus de promenades pendant l'été.` — `pendant` marks the season during which the activity happens.
+
+Mark yourself wrong if you translate every English in or at with `à`. The correct preposition depends on the relationship: under, at someone's home, before doing, or during.
+:::
+
 ## Unit 5: Geography and questions after prepositions
 ### Core idea
 When you talk about cities and countries, French chooses the preposition according to the type of place. When you ask a question after a preposition, French often keeps the preposition directly before the question word.
@@ -231,6 +295,17 @@ Translate and say aloud.
 3. What are you thinking about?
 4. Which chair are you sitting on?
 For sentence 4, make two versions: one with `sur quelle chaise` and one with `sur laquelle`.
+
+:::answer
+1. `Nous allons en Belgique en juillet.` — Belgium is treated as feminine here, so to or in Belgium is `en Belgique`.
+2. `Il vient du Japon.` — Japan is masculine, so from Japan is `du Japon`.
+3. `À quoi penses-tu ?` — `penser à` keeps `à` before the question word.
+4. `Sur quelle chaise est-ce que tu es assis ?` — This asks with the full noun phrase `quelle chaise`.
+5. `Sur laquelle est-ce que tu es assis ?` — `laquelle` replaces the feminine singular noun `chaise` after the preposition `sur`.
+
+The trap is losing the preposition in the question. French keeps it: `à quoi`, `sur quelle chaise`, `sur laquelle`.
+:::
+
 ## Unit 6: The verb faire, weather, and common expressions
 ### Core idea
 `Faire` means **to do** or **to make**, but in French it also appears in weather expressions and many daily activities.
@@ -285,6 +360,18 @@ Answer with a full sentence.
 2. Que fais-tu avant le dîner ?
 3. Est-ce que vous faites du sport le week-end ?
 4. Que vont faire tes amis demain ? Use `faire les courses`, `faire une promenade`, or another `faire` expression.
+
+:::answer
+Sample answers:
+
+1. `Il fait beau aujourd'hui.` — Weather expressions commonly use `il fait`, not `il est`.
+2. `Avant le dîner, je fais la vaisselle.` — `faire la vaisselle` is a fixed activity phrase.
+3. `Oui, nous faisons du sport le week-end.` — `nous` takes `faisons`; the activity phrase is `faire du sport`.
+4. `Mes amis vont faire les courses demain.` — In the near future, `vont` is conjugated and `faire` stays infinitive.
+
+Mark yourself wrong if you wrote a weather sentence with `être`, or if you dropped the article in fixed expressions such as `faire du vélo` or `faire les courses`.
+:::
+
 ## Cumulative sentence-usage practice
 These sentences combine motion, prepositions, geography, and `faire` the way they appear in real conversation. Read each sentence aloud twice, cover it, and write it from memory.
 1. `Demain, nous allons visiter un village près de Québec.` — Tomorrow, we are going to visit a village near Quebec City.
@@ -293,17 +380,56 @@ These sentences combine motion, prepositions, geography, and `faire` the way the
 4. `À quelle heure allez-vous partir pour l'aéroport ?` — What time are you going to leave for the airport?
 5. `Les enfants jouent dans le jardin derrière la maison.` — The children are playing in the garden behind the house.
 6. `Nous allons faire les courses avant de rentrer chez nous.` — We are going to do the shopping before going back home.
+
+:::answer
+Use this checklist after writing the sentences from memory.
+
+- **Aller plus infinitive.** Sentence 1 has `allons visiter`, sentence 3 has `vais mettre`, sentence 4 has `allez partir`, and sentence 6 has `allons faire`. Only `aller` changes; the infinitive stays unchanged.
+- **Preposition chunks.** Copy small phrases exactly: `près de Québec`, `de France`, `au Canada`, `pour l'aéroport`, `dans le jardin`, `derrière la maison`, `avant de rentrer`, `chez nous`.
+- **Contractions.** `au Canada` is not two words, and `chez nous` does not use `à`.
+- **Weather.** Sentence 3 uses `Il fait froid`, not `Il est froid` for weather.
+- **Question formatting.** Sentence 4 uses inversion in `allez-vous` and needs a space before `?`.
+
+If the preposition is wrong, the sentence may still be understandable, but the chapter skill is not mastered. Rewrite the whole phrase, not just the isolated preposition.
+:::
+
 ### Notice and mark
 For each sentence above:
 1. circle the conjugated verb or verbs;
 2. underline every prepositional phrase;
 3. label each use of `aller` as either **movement** or **near future**;
 4. find the one weather expression and the one geography phrase.
+
+:::answer
+| # | Conjugated verb or verbs | Prepositional phrases | Use of `aller` |
+|---|---|---|---|
+| 1 | `allons` | `près de Québec` | near future in `allons visiter` |
+| 2 | `vient`, `habite` | `de France`, `au Canada` | none |
+| 3 | `fait`, `vais` | — | near future in `vais mettre` |
+| 4 | `allez` | `À quelle heure`, `pour l'aéroport` | near future in `allez-vous partir` |
+| 5 | `jouent` | `dans le jardin`, `derrière la maison` | none |
+| 6 | `allons` | `avant de rentrer`, `chez nous` | near future in `allons faire` |
+
+The weather expression is `Il fait froid`. The geography phrase is `de France` and `au Canada` in sentence 2. Sentence 1 also contains `près de Québec`, a place phrase with a city.
+:::
+
 ### Change the sentence
 Rewrite sentences 1-4 twice each:
 1. change the subject, person, or number;
 2. change one meaningful detail such as the destination, time, country, or weather.
 Then rewrite sentence 6 in the negative.
+
+:::answer
+Worked rewrites for sentences 1-4:
+
+1. Subject: `Demain, je vais visiter un village près de Québec.` Detail: `Demain, nous allons visiter un musée près de Montréal.`
+2. Subject: `Ils viennent de France, mais ils habitent au Canada.` Detail: `Elle vient d'Italie, mais elle habite aux États-Unis.`
+3. Subject: `Il fait chaud, alors nous allons mettre des lunettes de soleil.` Detail: `Il fait beau, alors je vais faire une promenade.`
+4. Subject: `À quelle heure vas-tu partir pour l'aéroport ?` Detail: `À quelle heure allez-vous partir pour la gare ?`
+
+Negative sentence 6: `Nous n'allons pas faire les courses avant de rentrer chez nous.` — the negative wraps `allons`; `faire` and `rentrer` stay infinitives.
+:::
+
 ### Make it personal
 Write five new sentences about your own routine or travel plans. Include:
 - one sentence with `aller + infinitive`;
@@ -311,6 +437,22 @@ Write five new sentences about your own routine or travel plans. Include:
 - one sentence with `chez`;
 - one sentence with `avant de`;
 - one sentence with `faire`.
+
+:::answer
+Model check for the cumulative practice:
+
+1. `Demain, nous allons visiter un village près de Québec.` — `allons visiter` is near future: `allons` is conjugated, `visiter` is infinitive. `près de Québec` is a place phrase.
+2. `Elle vient de France, mais elle habite au Canada.` — `de France` is origin; `au Canada` is location in a masculine country.
+3. `Il fait froid, alors je vais mettre mon manteau.` — `Il fait froid` is the weather expression; `vais mettre` is near future.
+4. `À quelle heure allez-vous partir pour l'aéroport ?` — `allez partir` is near future, and the question keeps the prepositional phrase `pour l'aéroport`.
+5. `Les enfants jouent dans le jardin derrière la maison.` — `dans le jardin` and `derrière la maison` are place phrases.
+6. `Nous allons faire les courses avant de rentrer chez nous.` — `allons faire` is near future; `avant de rentrer` uses `de` + infinitive; `chez nous` means our place or home.
+
+Negative rewrite of sentence 6: `Nous n'allons pas faire les courses avant de rentrer chez nous.` — The negative wraps `allons`, not `faire`.
+
+Personal answers vary. Check that every use of `aller + infinitive` keeps the second verb unchanged, every country phrase follows the geography chart, and every `faire` expression is learned as a complete chunk.
+:::
+
 ## Mini-dialogue: planning a weekend trip
 **Camille :** `Alors, où est-ce qu'on va ce week-end ?` — So, where are we going this weekend?
 **Nora :** `On va à Québec samedi matin, puis on va passer la nuit chez ma cousine.` — We are going to Quebec City on Saturday morning, then we are going to spend the night at my cousin's place.
@@ -326,6 +468,15 @@ Write five new sentences about your own routine or travel plans. Include:
 3. Find the weather expressions and explain why they use `faire`.
 4. Rewrite Nora's second line with `nous` instead of `on`, making every necessary change.
 5. Replace `à quelle station` in the last line with a version using `laquelle`.
+
+:::answer
+1. Forms of `aller`: `on va` in `où est-ce qu'on va` means movement; `On va à Québec` means movement; `on va passer` is near future; `je vais m'arrêter` is near future; `va-t-il faire` is near future with weather; `il va faire beau` and `il va faire frais` are near future; `je vais acheter` is near future; `vas-tu m'attendre` is near future.
+2. `à Québec` uses `à` because Québec is a city. `chez ma cousine` means at my cousin's home. `de Montréal` uses `de` for origin from a city. `au marché` is `à` plus `le marché`, so it contracts to `au`.
+3. Weather expressions: `Quel temps va-t-il faire là-bas ?`, `il va faire beau`, and `il va faire frais`. French uses `faire` for these weather chunks, and here `aller` puts them in the near future.
+4. `Nous allons à Québec samedi matin, puis nous allons passer la nuit chez ma cousine.` — changing `on` to `nous` changes `va` to `allons`; the infinitive `passer` stays unchanged.
+5. `À laquelle des stations de bus vas-tu m'attendre ?` — `station` is feminine singular, so the form is `laquelle`; the preposition `à` stays in front.
+:::
+
 ## Connected reading: une semaine de voyage
 `La semaine prochaine, nous allons passer quatre jours au Québec. Nous partons de Toronto lundi matin et nous arrivons à Montréal vers midi. Pendant les deux premiers jours, nous allons rester chez des amis qui habitent près du centre. Ensuite, nous allons faire une excursion dans un petit village au bord du fleuve. S'il fait beau, nous allons faire une longue promenade après le déjeuner ; s'il fait froid, nous allons visiter un musée. Avant de rentrer, je veux acheter des cadeaux pour ma famille.`
 — Next week, we are going to spend four days in Quebec. We are leaving Toronto on Monday morning and arriving in Montreal around noon. During the first two days, we are going to stay with friends who live near downtown. Then we are going to take a trip to a small village on the river. If the weather is nice, we are going to take a long walk after lunch; if it is cold, we are going to visit a museum. Before going back, I want to buy gifts for my family.
@@ -335,6 +486,15 @@ Write five new sentences about your own routine or travel plans. Include:
 3. Underline the place expressions built with `près de`, `au bord de`, and `chez`.
 4. Change the reading from `nous` to `je` for the first three sentences.
 5. Write three true travel sentences of your own using the reading as a model.
+
+:::answer
+1. Destination and location phrases include `au Québec`, `à Montréal`, `chez des amis`, and `dans un petit village au bord du fleuve`. The clear origin phrase is `de Toronto`.
+2. Uses of `aller + infinitive`: `nous allons passer` has infinitive `passer`; `nous allons rester` has infinitive `rester`; `nous allons faire` has infinitive `faire`; `nous allons visiter` has infinitive `visiter`. In each case, only `allons` is conjugated.
+3. Place expressions: `chez des amis`, `près du centre`, and `au bord du fleuve`. Notice the contraction in `du fleuve`, from `de` plus `le fleuve`.
+4. First three sentences in `je` form: `La semaine prochaine, je vais passer quatre jours au Québec. Je pars de Toronto lundi matin et j'arrive à Montréal vers midi. Pendant les deux premiers jours, je vais rester chez des amis qui habitent près du centre.`
+5. Answers vary. Models: `Je vais passer deux jours à Montréal.` `Je pars de Vancouver lundi matin.` `Avant de rentrer, je vais acheter un cadeau au marché.` Check every city, country, and sequence phrase against the chapter chart.
+:::
+
 ## Common mistakes to avoid
 1. **Mixing up motion and destination prepositions.** Say `aller à Paris`, but `venir de Paris`.
 2. **Forgetting contractions.** Write `au bureau` and `du Canada`, not `*à le bureau` or `*de le Canada`.
@@ -398,3 +558,19 @@ After writing:
 4. underline the infinitive after each use of `aller + infinitive`;
 5. read the paragraph aloud twice;
 6. rewrite any sentence you corrected from memory.
+
+:::answer
+Answers vary. Here is a model paragraph that satisfies every requirement:
+
+`Samedi matin, je vais à Montréal avec deux amis. Nous allons visiter un musée près du centre. Ensuite, nous allons faire une promenade dans le vieux quartier. Ma sœur vient de France, mais elle habite au Canada depuis un an. Dimanche, nous allons parler avec des amis aux États-Unis par vidéo. Il fait froid, alors je vais mettre un manteau. Avant de partir, je vais acheter du café au marché. Chez ma cousine, nous faisons la cuisine le soir. Avec qui est-ce que tu vas voyager cet été ?`
+
+How it satisfies the brief: `je vais à Montréal` uses `aller` for movement; `allons visiter`, `allons faire`, `vais mettre`, and `vais acheter` use near future; prepositions include `près du centre`, `dans le vieux quartier`, `de France`, `au Canada`, `aux États-Unis`, `avant de partir`, `au marché`, and `chez ma cousine`; geography includes Montréal, France, Canada, and the United States; `Avec qui` is a question after a preposition; `Il fait froid` and `nous faisons la cuisine` use `faire`; `Avant de partir` uses `avant de` plus infinitive.
+
+Mark yourself wrong if any of these appear:
+- `à le` or `de le` instead of `au` or `du`;
+- `je vais je visite` instead of `je vais visiter`;
+- `à France` or `de le Canada`;
+- a weather sentence with `être` instead of `faire`;
+- a preposition question that drops the preposition, such as asking only `Qui ?` when you mean `Avec qui ?`.
+:::
+

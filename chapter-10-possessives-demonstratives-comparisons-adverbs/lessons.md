@@ -20,6 +20,19 @@ Before beginning, make sure you can already:
 - recognize that French often uses stressed pronouns after `que`: `que moi`, `que lui`, `que nous`.
 If those skills still feel slow, review them briefly first.
 
+
+:::answer
+Test yourself properly before you add this chapter's details. Answer these five, then check the rule behind each one.
+
+1. How do you say **my address**? — `mon adresse`. `adresse` is feminine, but it begins with a vowel sound, so French uses `mon` instead of `ma`.
+2. Complete: Paul cherche ___ clé. — `sa clé`. `clé` is feminine singular, so the possessive adjective is feminine; Paul's gender does not control it.
+3. How do you say **these apartments**? — `ces appartements`. Plural nouns use `ces` for both masculine and feminine, even before a vowel sound.
+4. Translate: Marie is more patient than me. — `Marie est plus patiente que moi.` The adjective agrees with `Marie`, and after `que` you use the stressed pronoun `moi`.
+5. Translate: They speak more clearly than we do. — `Ils parlent plus clairement que nous.` `clairement` is an adverb, so it does not agree with `ils`.
+
+If you missed two or more, review articles, adjective agreement, common present-tense verbs, and stressed pronouns before continuing. This chapter makes those choices happen inside longer comparison sentences.
+:::
+
 ## How to study this chapter
 Say every French example aloud. When you practice comparison patterns, memorize the whole frame: `plus...que`, `moins de...que`, `le plus...`, not just the key word.
 
@@ -71,6 +84,24 @@ Do **not** choose the possessive by the gender of the owner.
 1. Replace the owner in each phrase: `mon livre`, `ta chaise`, `ses clés`, `notre rue`.
 2. Say one phrase with a feminine noun before a vowel sound.
 3. Write four short sentences about objects in your home using four different possessive adjectives.
+
+:::answer
+Model answers — yours can differ if the agreement is correct.
+
+1. Owner changes:
+   - `mon livre` -> `ton livre` — `livre` is masculine singular, so the form changes by owner, not by English **my/your** alone.
+   - `ta chaise` -> `ma chaise` — `chaise` is feminine singular, so both `ta` and `ma` are possible with different owners.
+   - `ses clés` -> `nos clés` — `clés` is plural, so use a plural possessive.
+   - `notre rue` -> `leur rue` — `rue` is singular, so `leur` stays singular even if the owners are plural.
+2. Feminine noun before a vowel sound: `mon amie` — use `mon`, not `ma`, because `amie` begins with a vowel sound.
+3. Four home sentences:
+   - `Mon bureau est petit.` — `bureau` is masculine singular.
+   - `Ma cuisine est claire.` — `cuisine` is feminine singular.
+   - `Mes clés sont sur la table.` — plural possessed noun, so `mes`.
+   - `Notre appartement est calme.` — one apartment possessed by us, so singular `notre`.
+
+The main trap is agreement: possessive adjectives agree with the thing possessed, not with the owner.
+:::
 
 ## Unit 2: Possessive pronouns
 ### Core idea
@@ -127,6 +158,21 @@ Also do not choose `le mien` just because the owner is masculine. The missing no
 2. Transform these phrases into possessive pronouns: `notre train`, `vos places`, `leurs idées`, `mon journal`.
 3. Write three comparison sentences using two possessive pronouns.
 
+:::answer
+1. `Voici la mienne. Où est la tienne ?` — `clé` is feminine singular, so the pronouns are `la mienne` and `la tienne`. The article is part of the possessive pronoun.
+2. Possessive pronouns:
+   - `notre train` -> `le nôtre` — masculine singular.
+   - `vos places` -> `les vôtres` — plural.
+   - `leurs idées` -> `les leurs` — plural; no accent in `leurs`, but the article still shows number.
+   - `mon journal` -> `le mien` — masculine singular.
+3. Comparison examples:
+   - `La mienne est plus grande que la tienne.` — both pronouns replace a feminine singular noun.
+   - `Le nôtre est moins rapide que le leur.` — both replace masculine singular nouns such as `train`.
+   - `Les vôtres sont aussi utiles que les leurs.` — both replace plural nouns.
+
+Do not repeat the noun after a possessive pronoun: say `la mienne`, not `la mienne clé`.
+:::
+
 ## Unit 3: Demonstrative adjectives and demonstrative pronouns
 ### Core idea
 Demonstratives point something out: **this**, **that**, **these**, **those**. French has one set before nouns and another set that replaces nouns.
@@ -179,6 +225,24 @@ Also remember: `le mien` = mine, but `celui-ci` = this one.
 1. Point to four objects around you and label them with `ce`, `cet`, `cette`, or `ces`.
 2. Replace the noun in each phrase: `ce sac`, `cette photo`, `ces journaux`, `cet exercice`.
 3. Write two short contrast sentences with `-ci` and `-là`.
+
+:::answer
+1. Object labels:
+   - `ce livre` — masculine singular before a consonant sound.
+   - `cet ordinateur` — masculine singular before a vowel sound.
+   - `cette table` — feminine singular.
+   - `ces stylos` — plural.
+2. Demonstrative pronouns:
+   - `ce sac` -> `celui-ci` — masculine singular.
+   - `cette photo` -> `celle-ci` — feminine singular.
+   - `ces journaux` -> `ceux-ci` — masculine plural.
+   - `cet exercice` -> `celui-ci` — masculine singular; `cet` was only used because of the vowel sound.
+3. Contrast sentences:
+   - `Celui-ci est pratique, mais celui-là est plus joli.` — both replace masculine singular nouns.
+   - `Celle-ci est claire, mais celle-là est trop sombre.` — both replace feminine singular nouns.
+
+Use `ce`, `cet`, `cette`, and `ces` before a noun. Use `celui`, `celle`, `ceux`, and `celles` when the noun is gone.
+:::
 
 ## Unit 4: Comparisons and superlatives
 ### Core idea
@@ -254,6 +318,24 @@ Do not forget `de` in noun comparisons: `plus de patience`, not `*plus patience`
 2. Compare two people you know with one adjective, one noun, and one verb.
 3. Write one sentence with `meilleur`, one with `mieux`, one with `pire`, and one with `plus mal`.
 
+:::answer
+1. Completed frames:
+   - `Ma chambre est plus calme que la cuisine.` — adjective comparison: **plus + adjective + que**.
+   - `J'ai moins de livres que mon frère.` — noun comparison: use `de` after `moins`.
+   - `Je travaille autant que ma sœur.` — verb comparison: `autant` comes after the verb.
+2. Comparing two people:
+   - Adjective: `Marie est plus patiente que Luc.` — the adjective agrees with `Marie`.
+   - Noun: `Marie a autant de devoirs que Luc.` — with nouns, use `autant de`.
+   - Verb: `Marie lit plus que Luc.` — with verbs, put `plus` after the verb.
+3. Special forms:
+   - `Ce café est meilleur que celui-là.` — `meilleur` describes a noun; it behaves like an adjective.
+   - `Tu parles mieux que moi.` — `mieux` describes how the verb is done.
+   - `Cette solution est pire que l'autre.` — `pire` means worse as a quality.
+   - `Il écrit plus mal aujourd'hui.` — `plus mal` describes the action of writing.
+
+The common trap is using `mieux` for a noun. Use `meilleur` for a better thing and `mieux` for doing something better.
+:::
+
 ## Unit 5: Forming and placing adverbs
 ### Core idea
 Many adverbs are built from adjectives. They answer questions like **how?** or **in what way?**
@@ -311,6 +393,25 @@ French also does not always place the adverb exactly where English does, so lear
 2. Add a suitable adverb to each verb: `parler`, `écouter`, `attendre`, `répondre`.
 3. Write three sentences about your study habits using at least two `-ment` adverbs and one short frequent adverb.
 
+:::answer
+1. Adverbs:
+   - `lent` -> `lentement` — use the feminine base `lente`, then add the ending.
+   - `heureux` -> `heureusement` — feminine `heureuse` gives `heureusement`.
+   - `sérieux` -> `sérieusement` — feminine `sérieuse` gives `sérieusement`.
+   - `calme` -> `calmement` — when the adjective already ends in written `e`, add the ending directly.
+2. Suitable verb phrases:
+   - `parler clairement` — how someone speaks.
+   - `écouter attentivement` — how someone listens.
+   - `attendre patiemment` — how someone waits.
+   - `répondre poliment` — how someone answers.
+3. Study-habit sentences:
+   - `J'écoute attentivement les exemples.` — adverb after the verb.
+   - `Je révise régulièrement le soir.` — an adverb in the ending from an adjective.
+   - `Je travaille souvent à la bibliothèque.` — short frequent adverb after the verb.
+
+Check that the adverb describes the action, not the noun. If you need to describe a noun, use an adjective instead.
+:::
+
 ## Cumulative sentence-usage practice
 These sentences combine the chapter's main structures in useful French. Read each sentence aloud twice, cover it, and write it from memory.
 1. `Mon appartement est plus petit que celui de ma sœur, mais le mien est plus calme.` — My apartment is smaller than my sister's, but mine is quieter.
@@ -319,6 +420,20 @@ These sentences combine the chapter's main structures in useful French. Read eac
 4. `Notre famille passe davantage de temps ensemble et choisit plus souvent ce restaurant-là.` — Our family spends more time together and chooses that restaurant there more often.
 5. `Cet exercice est le plus difficile, mais celui-ci explique la règle le mieux.` — This exercise is the most difficult, but this one explains the rule the best.
 6. `Je préfère vos idées aux leurs, surtout celle qui résout le problème plus simplement.` — I prefer your ideas to theirs, especially the one that solves the problem more simply.
+
+
+:::answer
+The sentences are already printed, so check the version you wrote from memory against the features that are easy to lose.
+
+- **Possessives and their accents.** Sentence 1 needs `Mon`, `ma`, and `le mien`; sentence 2 needs `la nôtre`. The circumflex in `nôtre` matters because the possessive pronoun is not the same written form as the adjective `notre`.
+- **Demonstratives.** Sentence 2 has `Cette`, sentence 3 has `Ces`, sentence 5 has `Cet` and `celui-ci`, and sentence 6 has `celle`. Make sure you did not write `ce exercice`; before a vowel sound it is `cet exercice`.
+- **Comparison frames.** Check the whole frame, not just the comparison word: `plus petit que`, `moins rapidement que`, `aussi clairement que`, `le plus difficile`, `le mieux`, `plus simplement`.
+- **Silent plural endings.** In sentence 3, `Ces enfants parlent` sounds close to singular speech; the written plural still needs `ces`, `enfants`, and `parlent`.
+- **Adverb spelling.** `rapidement`, `clairement`, and `simplement` end the same way, but they come from adjective forms. Do not add agreement to them.
+- **Accents and spacing.** Keep `sœur`, `préfère`, `résout`, and the space before the question mark in any question you create from these models.
+
+Score each sentence for the structure it was meant to test. If one sentence loses both the pronoun and the comparison frame, rewrite that sentence from memory before moving on.
+:::
 
 ### Notice and mark
 For each sentence above:
@@ -334,6 +449,35 @@ Check every agreement change carefully.
 
 ### Make it personal
 Write four new sentences about your own life using one possessive adjective, one possessive pronoun, one demonstrative form, and one comparison with an adverb.
+
+:::answer
+Notice and mark:
+
+1. `Mon appartement est plus petit que celui de ma sœur, mais le mien est plus calme.` — possessives: `mon`, `ma`, `le mien`; comparison frames: `plus petit que`, `plus calme`; `le mien` is a possessive pronoun, and `celui` is a demonstrative pronoun.
+2. `Cette voiture roule moins rapidement que la nôtre.` — demonstrative: `cette`; comparison frame: `moins rapidement que`; `la nôtre` is a possessive pronoun.
+3. `Ces enfants parlent aussi clairement que leurs parents.` — demonstrative: `ces`; possessive: `leurs`; comparison frame: `aussi clairement que`.
+4. `Notre famille passe davantage de temps ensemble et choisit plus souvent ce restaurant-là.` — possessives/demonstratives: `notre`, `ce restaurant-là`; comparison ideas: `davantage de temps`, `plus souvent`.
+5. `Cet exercice est le plus difficile, mais celui-ci explique la règle le mieux.` — demonstratives: `cet`, `celui-ci`; superlatives: `le plus difficile`, `le mieux`; `celui-ci` is a demonstrative pronoun.
+6. `Je préfère vos idées aux leurs, surtout celle qui résout le problème plus simplement.` — possessives/demonstratives: `vos`, `leurs`, `celle`; comparison frame: `plus simplement`; `leurs` is a possessive pronoun after `aux`, and `celle` is a demonstrative pronoun.
+
+Change the sentence — sample answers:
+
+- Sentence 1, owner change: `Ton appartement est plus petit que celui de ton frère, mais le tien est plus calme.` — possessives change with the owner and the noun.
+- Sentence 1, detail change: `Mon studio est plus lumineux que celui de ma sœur, mais le mien est moins calme.` — `le mien` still replaces a masculine singular noun.
+- Sentence 2, group change: `Ces voitures roulent moins rapidement que les nôtres.` — plural noun, plural pronoun.
+- Sentence 2, detail change: `Cette voiture roule plus prudemment que la nôtre.` — adverb comparison changes, but the pronoun stays feminine singular.
+- Sentence 3, group change: `Ces étudiantes parlent aussi clairement que leur professeur.` — possessive changes because there is one professor.
+- Sentence 3, detail change: `Ces enfants lisent aussi lentement que leurs parents.` — the adverb changes the action.
+- Sentence 4, owner change: `Votre famille passe davantage de temps ensemble et choisit plus souvent ce café-là.` — `votre` agrees with singular `famille`.
+- Sentence 4, detail change: `Notre famille passe moins de temps ensemble et choisit moins souvent ce restaurant-là.` — noun comparison uses `moins de`.
+
+Make it personal — sample answers:
+
+1. `Mon bureau est petit.` — possessive adjective before a noun.
+2. `Le mien est près de la fenêtre.` — possessive pronoun replacing the noun.
+3. `Cette chaise est plus confortable que celle-là.` — demonstrative adjective plus demonstrative pronoun.
+4. `J'étudie plus efficacement le matin que le soir.` — adverb comparison after the verb.
+:::
 
 ## Mini-dialogue: choosing a study space
 **Lina :** `Tu préfères cette bibliothèque-ci ou celle près du parc ?` — Do you prefer this library here or the one near the park?
@@ -352,16 +496,38 @@ Write four new sentences about your own life using one possessive adjective, one
 4. Why does Samir say `mieux` in line 5 but `meilleures` in line 4?
 5. Rewrite line 7 as a singular informal command with `prendre`.
 
+
+:::answer
+1. **Two demonstrative pronouns:** `celle près du parc` replaces `bibliothèque`, and `celui-ci` replaces `espace de travail`. Later, `celle-ci` replaces `salle`, and `celles qui ferment le plus tard` refers to the feminine plural options.
+2. **Two possessive pronouns:** `la nôtre` means our library or study space, so the missing noun is feminine singular. `les nôtres` means our chairs, so the missing noun is plural.
+3. **Regular comparative:** `Son espace de travail est plus lumineux que celui-ci.` This is the normal adjective frame **plus + adjective + que**. **Irregular comparative:** `leurs chaises sont meilleures que les nôtres`, where `meilleures` is the adjective form of better.
+4. Samir says `meilleures` for `chaises` because he is describing a noun; the adjective agrees feminine plural. Lina says `mieux` in `on y travaille mieux` because better describes the action of working, so French uses the adverb.
+5. Singular informal command: `Prends cette salle-là aujourd'hui et celle-ci demain.` `Prendre` is not a regular -er command, so the `tu` command keeps its final written `s`.
+
+The main choice in this dialogue is always the missing noun: possessive and demonstrative pronouns agree with the thing they replace, not with the speaker.
+:::
+
 ## Connected reading: two ways to study
-`Mon frère et moi avons des habitudes très différentes. Le sien commence toujours tôt, tandis que le mien devient plus productif en soirée. Le matin, il travaille plus rapidement que moi et il organise ses notes plus soigneusement. Moi, je relis plus lentement, mais je retiens mieux les détails. Quand nous avons autant de devoirs l'un que l'autre, celui qui planifie le plus calmement finit souvent le premier. En général, sa méthode est la plus régulière, mais la mienne est parfois la plus créative.`
-— My brother and I have very different habits. His starts early, while mine becomes more productive in the evening. In the morning, he works more quickly than I do and organizes his notes more carefully. I reread more slowly, but I retain details better. When we have as much homework as each other, the one who plans most calmly often finishes first. In general, his method is the most consistent, but mine is sometimes the most creative.
+`Mon frère et moi avons un emploi du temps très différent. Le sien commence toujours tôt, tandis que le mien devient plus productif en soirée. Le matin, il travaille plus rapidement que moi et il organise ses notes plus soigneusement. Moi, je relis plus lentement, mais je retiens mieux les détails. Quand nous avons autant de devoirs l'un que l'autre, celui qui planifie le plus calmement finit souvent le premier. En général, sa méthode est la plus régulière, mais la mienne est parfois la plus créative.`
+— My brother and I have very different schedules. His starts early, while mine becomes more productive in the evening. In the morning, he works more quickly than I do and organizes his notes more carefully. I reread more slowly, but I retain details better. When we have as much homework as each other, the one who plans most calmly often finishes first. In general, his method is the most consistent, but mine is sometimes the most creative.
 
 ### Reading practice
 1. List every possessive form in the paragraph and classify each one as an adjective or pronoun.
-2. Find one noun comparison, one verb comparison, and two adverb comparisons.
+2. Find one noun comparison and three adverb comparisons.
 3. Explain why the text says `le sien` and `le mien`, not `la sienne` and `la mienne`.
 4. Rewrite the paragraph so that the two people are `ma sœur et moi` instead of `mon frère et moi`.
 5. Write three true sentences about your own study habits using the reading as a model.
+
+
+:::answer
+1. **Possessive forms:** `Mon` is a possessive adjective with `frère`; `Le sien` is a possessive pronoun; `le mien` is a possessive pronoun; `ses` is a possessive adjective with `notes`; `sa` is a possessive adjective with `méthode`; `la mienne` is a possessive pronoun replacing `méthode`.
+2. **Comparisons:** the noun comparison is `autant de devoirs l'un que l'autre`, where `autant de` is followed by the noun. The adverb comparisons are `plus rapidement que moi`, `plus soigneusement`, `plus lentement`, `mieux`, and the superlative `le plus calmement`. Any three of those count.
+3. The text uses `le sien` and `le mien` because the noun they replace is `emploi du temps`, which is masculine singular. A possessive pronoun agrees with the thing owned, never with the owner — which is why the last sentence switches to `la mienne`, agreeing with the feminine `méthode`.
+4. With `ma sœur et moi`: `Ma sœur et moi avons un emploi du temps très différent. Le sien commence toujours tôt, tandis que le mien devient plus productif en soirée. Le matin, elle travaille plus rapidement que moi et elle organise ses notes plus soigneusement. Moi, je relis plus lentement, mais je retiens mieux les détails. Quand nous avons autant de devoirs l'une que l'autre, celle qui planifie le plus calmement finit souvent la première. En général, sa méthode est la plus régulière, mais la mienne est parfois la plus créative.` Notice what does **not** change: `Le sien` stays masculine because `emploi du temps` is still the thing owned, and `ses notes` and `sa méthode` stay the same for the same reason. Only the words describing the person change: `il` to `elle`, `l'un` to `l'une`, `celui` to `celle`, `le premier` to `la première`.
+5. Answers vary. A model set: `Ma routine commence plus tard que celle de mon frère.` `Je travaille plus lentement le matin, mais je retiens mieux les exemples.` `Ma méthode est moins régulière que la sienne, mais elle est plus créative.`
+
+Mark yourself wrong if a possessive pronoun does not match the missing noun, if a noun comparison is missing `de`, or if you use `meilleur` where the sentence needs the adverb `mieux`.
+:::
 
 ## Common mistakes to avoid
 1. Choosing a possessive according to the owner's gender instead of the noun's gender.
@@ -437,3 +603,18 @@ After writing:
 4. check whether each possessive agrees with the possessed noun;
 5. read the paragraph aloud twice;
 6. rewrite any corrected sentence from memory.
+
+:::answer
+Answers vary, so compare your paragraph with the checklist. Here is one complete model:
+
+`Ma routine du matin est plus calme que celle de mon frère. Son appartement a moins de bruit que le mien, mais mon bureau reçoit plus de lumière que le sien. Cette cuisine-ci est petite, mais cette table-là est la plus pratique de la pièce. Nous avons autant de livres que nos voisins, mais nous travaillons plus efficacement qu'eux. Leur méthode est bonne, pourtant la nôtre marche mieux le soir. Ces notes sont plus claires que les leurs. Je choisis ce cahier-ci parce qu'il est le meilleur pour réviser. Ma sœur explique plus simplement que moi, et j'écoute attentivement ses conseils.`
+
+How it satisfies the brief: possessive adjectives include `ma`, `mon`, `son`, `nos`, `leur`, and `ses`; possessive pronouns include `le mien`, `le sien`, `la nôtre`, and `les leurs`; demonstrative forms include `celle`, `cette cuisine-ci`, `cette table-là`, `ces`, and `ce cahier-ci`; the paragraph has adjective comparisons, noun comparisons, adverb comparisons, superlatives, and both `mieux` and `meilleur`.
+
+Mark yourself wrong if any of these appear:
+- a possessive chosen by the owner's gender instead of the noun, such as `sa appartement`;
+- `ce` before a masculine singular noun beginning with a vowel sound, such as `ce appartement`;
+- a noun comparison without `de`, such as **plus bruit que**;
+- `mieux` before a noun or `meilleur` after a verb;
+- an adverb such as `clairement` or `simplement` with plural agreement added.
+:::

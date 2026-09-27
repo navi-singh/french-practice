@@ -23,6 +23,19 @@ Before beginning, make sure you can still:
 
 You will need that foundation because the new spellings in this chapter only make sense if the regular `-er` pattern is already solid.
 
+:::answer
+Test yourself before starting. Answer these five without notes.
+
+1. Conjugate `parler` with `nous`. — `nous parlons`. Regular -er verbs take **-ons** with `nous`.
+2. Ask a yes/no question from `Vous travaillez ce soir.` — `Vous travaillez ce soir ?` or `Est-ce que vous travaillez ce soir ?` French does not add a separate word for English **do**.
+3. Write a clock-time phrase for 7 p.m. — `à dix-neuf heures`. Chapter 4 schedule style often uses the 24-hour clock.
+4. In `Les étudiants regardent la carte`, what controls `regardent`? — `Les étudiants`. The subject controls the verb ending, not the object `la carte`.
+5. What does a phrase like “for three years and still now” require in French once you learn `depuis`? — a present-tense verb, as in `J'habite ici depuis trois ans`.
+
+If you missed two or more, review the earlier verb and time chapters first. This chapter adds spelling changes; it does not replace the basic subject-verb system.
+:::
+
+
 ## How to study this chapter
 
 For every table, say the six forms aloud from memory before copying them. When a spelling change appears, compare it to the regular pattern and ask yourself exactly **where** the change happens and where it does not.
@@ -86,6 +99,28 @@ Do not add an extra written ending in the `il/elle/on` form. It is `il attend`, 
 
 Conjugate `attendre`, `répondre`, and `perdre` for all six persons. Then write three original sentences using three different subjects.
 
+:::answer
+All three verbs are regular -re verbs: remove the final -re, then add -s, -s, no ending, -ons, -ez, -ent.
+
+| Subject | `attendre` | `répondre` | `perdre` |
+|---|---|---|---|
+| `je` | `j'attends` | `je réponds` | `je perds` |
+| `tu` | `tu attends` | `tu réponds` | `tu perds` |
+| `il / elle / on` | `il attend` | `elle répond` | `on perd` |
+| `nous` | `nous attendons` | `nous répondons` | `nous perdons` |
+| `vous` | `vous attendez` | `vous répondez` | `vous perdez` |
+| `ils / elles` | `ils attendent` | `elles répondent` | `ils perdent` |
+
+The trap is the singular spelling: `il attend`, `elle répond`, and `on perd` have no added ending after the stem.
+
+Sample original sentences:
+
+- `J'attends le bus devant la gare.` — `je` takes -s, and the final written s is silent.
+- `Nous répondons au professeur après le cours.` — `nous` takes -ons, so this form is easy to hear.
+- `Elles perdent souvent leurs clés.` — -ent is written for plural agreement but is silent.
+:::
+
+
 ## Unit 2: `depuis` with the present tense
 
 ### Core idea
@@ -124,6 +159,23 @@ Complete the sentences with your own ideas:
 3. `Il attend depuis ___ .`
 4. `Depuis quand est-ce que vous ___ ?`
 Then ask and answer one `Depuis quand... ?` question aloud.
+
+:::answer
+Model completions — yours can use different time phrases.
+
+1. `J'étudie le français depuis septembre.` — The studying began in September and still continues, so French keeps the present tense.
+2. `Nous habitons ici depuis trois ans.` — English says *have lived*, but French says `habitons` because the situation is still true now.
+3. `Il attend depuis midi.` — `depuis` can introduce a starting point such as `midi`.
+4. `Depuis quand est-ce que vous travaillez ici ?` — `depuis quand` asks when the continuing action began; the verb stays present.
+
+Question and answer example:
+
+- `Depuis quand est-ce que tu apprends le français ?`
+- `J'apprends le français depuis deux mois.`
+
+Mark yourself wrong if you used a past tense for an action that is still continuing, or if your answer after `depuis` does not give either a duration or a starting point.
+:::
+
 
 ## Unit 3: `-cer` and `-ger` verbs to keep the soft sound
 
@@ -180,6 +232,26 @@ Learners often forget that the change usually appears only where `o` would other
 
 Conjugate `commencer` and `manger` for all six persons. Then rewrite these with `nous`: `Je commence le travail.` / `Tu manges ici.` / `Elle commence tôt.`
 
+:::answer
+These are still regular -er verbs, but the `nous` spelling changes to protect the sound.
+
+| Subject | `commencer` | `manger` |
+|---|---|---|
+| `je` | `je commence` | `je mange` |
+| `tu` | `tu commences` | `tu manges` |
+| `il / elle / on` | `il commence` | `elle mange` |
+| `nous` | `nous commençons` | `nous mangeons` |
+| `vous` | `vous commencez` | `vous mangez` |
+| `ils / elles` | `ils commencent` | `elles mangent` |
+
+Rewrites with `nous`:
+
+1. `Nous commençons le travail.` — `commencer` needs ç before -ons so the sound stays soft.
+2. `Nous mangeons ici.` — `manger` adds e before -ons so the g stays soft.
+3. `Nous commençons tôt.` — The subject changed, so the verb must change too; `nous commence` is not possible.
+:::
+
+
 ## Unit 4: Accent-changing verbs such as `acheter` and `préférer`
 
 ### Core idea
@@ -228,6 +300,26 @@ Do not spread the accented form across all six persons. `Nous achetons` and `vou
 ### Sentence-building practice
 
 Conjugate `acheter` and `préférer` for all six persons. Then replace the subject in these sentences: `J'achète un livre.` / `Elle préfère le café.` / `Ils achètent des fruits.`
+
+:::answer
+The changed stem appears in `je`, `tu`, `il / elle / on`, and `ils / elles`, but not in `nous` or `vous`.
+
+| Subject | `acheter` | `préférer` |
+|---|---|---|
+| `je` | `j'achète` | `je préfère` |
+| `tu` | `tu achètes` | `tu préfères` |
+| `il / elle / on` | `elle achète` | `il préfère` |
+| `nous` | `nous achetons` | `nous préférons` |
+| `vous` | `vous achetez` | `vous préférez` |
+| `ils / elles` | `ils achètent` | `elles préfèrent` |
+
+Model subject replacements:
+
+1. `Nous achetons un livre.` — With `nous`, the stem returns to `achet-`; do not write the accent here.
+2. `Vous préférez le café.` — With `vous`, keep the é in the ending pattern: `préférez`.
+3. `J'achète des fruits.` — `je` becomes `j'` before a vowel sound, and the stem changes to `achèt-`.
+:::
+
 
 ## Unit 5: Double-consonant verbs and `y`-changing verbs
 
@@ -292,6 +384,26 @@ Do not assume the spelling change appears everywhere. As with `acheter` and `pr�
 
 Conjugate `appeler`, `essayer`, and `envoyer` for all six persons. Then write one sentence with each verb using a different subject.
 
+:::answer
+These verbs also change mainly outside the `nous` and `vous` forms.
+
+| Subject | `appeler` | `essayer` | `envoyer` |
+|---|---|---|---|
+| `je` | `j'appelle` | `j'essaie` | `j'envoie` |
+| `tu` | `tu appelles` | `tu essaies` | `tu envoies` |
+| `il / elle / on` | `elle appelle` | `il essaie` | `on envoie` |
+| `nous` | `nous appelons` | `nous essayons` | `nous envoyons` |
+| `vous` | `vous appelez` | `vous essayez` | `vous envoyez` |
+| `ils / elles` | `ils appellent` | `elles essaient` | `ils envoient` |
+
+Sample sentences:
+
+- `J'appelle ma mère ce soir.` — `appeler` doubles the l in the `je` form.
+- `Nous essayons une autre solution.` — With `nous`, keep y in `essayons`.
+- `Ils envoient un message au professeur.` — The y changes to i in `ils envoient`, and -ent is silent.
+:::
+
+
 ## Unit 6: Putting the chapter patterns together
 
 ### Core idea
@@ -323,6 +435,16 @@ Build one sentence from each set:
 3. `elle / préférer / cette robe / et / essayer / l'autre`
 4. `vous / répondre / au professeur / puis / envoyer / le devoir`
 
+:::answer
+1. `J'attends le bus depuis vingt minutes.` — `attendre` is a regular -re verb, and `depuis` takes the present because the waiting is still happening.
+2. `Nous commençons la réunion à neuf heures.` — The `nous` form of `commencer` needs ç before -ons.
+3. `Elle préfère cette robe et essaie l'autre.` — Both verbs agree with `elle`; `préférer` changes é to è, and `essayer` changes y to i in this common spelling.
+4. `Vous répondez au professeur, puis vous envoyez le devoir.` — `répondre` takes the -ez ending with `vous`; `envoyer` keeps y in the `vous` form.
+
+If your sentence has two verbs, check both. A correct first verb does not protect the second one from agreement or spelling-change errors.
+:::
+
+
 ## Cumulative sentence-usage practice
 
 Read each sentence aloud twice, cover it, and write it from memory.
@@ -334,6 +456,19 @@ Read each sentence aloud twice, cover it, and write it from memory.
 5. `Je préfère ce livre, mais j'appelle ma sœur pour demander son avis.` — I prefer this book, but I call my sister to ask for her opinion.
 6. `Vous répondez depuis votre bureau ou vous envoyez un message plus tard ?` — Are you answering from your office, or are you sending a message later?
 
+:::answer
+After writing the six sentences from memory, check for these traps.
+
+- **Silent singular endings.** `J'attends` has a written **s**, but you do not hear it clearly.
+- **Present tense with ongoing time.** `Nous habitons ici depuis trois ans` uses the present because the living situation still continues.
+- **Spelling-change stems.** Sentence 3 has `achète` and `essaie`; sentence 5 has `préfère` and `appelle`.
+- **Nous protection spellings.** Sentence 4 has `mangeons`, with an extra **e** to keep the soft sound before **-ons**.
+- **Question spacing and accents.** Sentence 6 needs `répondez`, `envoyez`, and a space before `?`.
+
+If you got the sound right but missed an accent or stem change, rewrite that exact form three times and then use it in a new sentence.
+:::
+
+
 ### Notice and mark
 
 1. Underline the subject of each sentence.
@@ -341,13 +476,55 @@ Read each sentence aloud twice, cover it, and write it from memory.
 3. Box any spelling change.
 4. Mark the sentence that uses `depuis` and explain why the present tense appears there.
 
+:::answer
+| # | Subject or subjects | Conjugated verb or verbs | Spelling change | `depuis`? |
+|---|---|---|---|---|
+| 1 | `je` | `attends` | none; regular -re | no |
+| 2 | `nous` | `habitons` | none; regular -er | yes, `depuis trois ans` |
+| 3 | `elle` | `achète`, `essaie` | accent change; y changes to i | no |
+| 4 | `nous` | `mangeons` | extra **e** before **-ons** | no |
+| 5 | `je`, `j'` | `préfère`, `appelle` | accent change; doubled **l** | no |
+| 6 | `vous`, `vous` | `répondez`, `envoyez` | `envoyez` keeps **y** with `vous` | yes, `depuis votre bureau` |
+
+The clearest continuing-time sentence is sentence 2: `Nous habitons ici depuis trois ans`. French uses present tense because the situation began earlier and is still true now. Sentence 6 also contains `depuis`, but there it means “from your office,” not “for/since a length of time.”
+:::
+
+
 ### Change the sentence
 
 Rewrite sentences 1-4 twice each: first change the subject, then change one important detail such as the place, object, or time expression. Make every required spelling and agreement change.
 
+:::answer
+One worked set:
+
+1. Subject: `Nous attendons notre ami devant le magasin.` Detail: `J'attends mon frère devant la gare.`
+2. Subject: `Elle habite ici depuis trois ans.` Detail: `Nous habitons ici depuis six mois.`
+3. Subject: `Nous achetons une chemise et essayons une veste.` Detail: `Elle achète un manteau et essaie une écharpe.`
+4. Subject: `Je mange au restaurant avant de commencer les achats.` Detail: `Nous mangeons au café avant de commencer le travail.`
+
+The important lesson is that `nous` often removes the visible stem change: `achetons`, `essayons`, and `mangeons`. If you change the subject but leave the old spelling, the sentence is wrong even if the meaning is clear.
+:::
+
+
 ### Make it personal
 
 Write four true sentences about your own life: one with a regular `-re` verb, one with `depuis`, one with a spelling-change `-er` verb, and one sentence with two chapter verbs together.
+
+:::answer
+Model check for the cumulative practice:
+
+1. `J'attends mon ami devant le magasin.` — Subject: `je`; verb: `attends`. This is a regular -re form with -s, even though the final s is silent.
+2. `Nous habitons ici depuis trois ans.` — Subject: `nous`; verb: `habitons`; `depuis trois ans` explains why French uses the present for a continuing situation.
+3. `Elle achète une chemise et essaie une veste.` — Subject: `elle`; verbs: `achète` and `essaie`. Both show spelling changes in the stem.
+4. `Nous mangeons au restaurant avant de commencer les achats.` — Subject: `nous`; verb: `mangeons`. The extra e keeps the g soft before -ons.
+5. `Je préfère ce livre, mais j'appelle ma sœur pour demander son avis.` — Subjects: `je` and `j'`; verbs: `préfère` and `appelle`. Watch both the accent change and the doubled l.
+6. `Vous répondez depuis votre bureau ou vous envoyez un message plus tard ?` — Subject: `vous`; verbs: `répondez` and `envoyez`. `envoyer` keeps y in the `vous` form.
+
+For the rewrite task, answers vary. If you change sentence 3 to `Nous achetons une chemise et essayons une veste.`, both spelling changes disappear because `nous` uses the simpler stem. If you change only a detail, as in `Elle achète une écharpe et essaie un manteau.`, the verb forms stay the same.
+
+For your personal sentences, mark yourself wrong if the -re verb ending does not match the subject, if `depuis` is followed by a past-tense idea for something still true now, or if a `nous` or `vous` form keeps a spelling change it should drop.
+:::
+
 
 ## Mini-dialogue: shopping and waiting
 
@@ -375,6 +552,15 @@ Write four true sentences about your own life: one with a regular `-re` verb, on
 4. Rewrite `elle préfère toujours une autre couleur` with `nous`.
 5. Change the dialogue so that the waiting starts `depuis dix minutes` instead of `depuis midi`.
 
+:::answer
+1. The dialogue uses continuing-time `depuis` in `Tu attends depuis longtemps ?` and `j'attends depuis midi`. The waiting started earlier and is still happening, so French keeps `attends` in the present tense.
+2. Three spelling-change verbs: `commence` belongs to the -cer family, though this form does not need ç; `essaie` changes y to i; `préfère` changes é to è; `achètes` and `achète` change e to è; `appelle` doubles **l**; `mangeons` adds **e** before **-ons**.
+3. A regular -re verb is `attends`. Its subject is `tu` in `Tu attends depuis longtemps ?` and `je` in `j'attends depuis midi`.
+4. `Nous préférons toujours une autre couleur.` — With `nous`, `préférer` keeps the simpler stem and takes **-ons**.
+5. Revised waiting lines: `Tu attends depuis dix minutes ?` `Oui, j'attends depuis dix minutes, mais je commence juste à me détendre.` The time phrase changes, but the present tense stays because the waiting continues.
+:::
+
+
 ## Connected reading: une soirée bien remplie
 
 `Le jeudi, je descends du bus vers dix-huit heures et j'entre dans un petit centre commercial près de chez moi. J'attends parfois quelques minutes devant la boulangerie parce que beaucoup de gens achètent du pain à cette heure-là. Ensuite, je regarde les vitrines, j'essaie rarement des vêtements, mais je préfère comparer les prix. Si je trouve un cadeau intéressant, j'appelle ma sœur et je lui envoie une photo. Nous habitons dans la même ville depuis peu, alors nous répondons vite l'un à l'autre et nous mangeons souvent ensemble après les courses.`
@@ -386,8 +572,17 @@ Write four true sentences about your own life: one with a regular `-re` verb, on
 1. Find all the regular `-re` verbs in the paragraph.
 2. Find all the spelling-change `-er` verbs and sort them by pattern.
 3. Explain why `habitons` appears with `depuis peu`.
-4. Rewrite the fourth sentence in the singular `je` form.
+4. Rewrite the last sentence in the singular, changing `nous` to `je` wherever it still makes sense.
 5. Write three new sentences about your own after-work routine using the reading as a model.
+
+:::answer
+1. Regular -re verbs in the paragraph: `descends` from `descendre`, `attends` from `attendre`, and `répondons` from `répondre`. Each follows the regular -re pattern.
+2. Spelling-change -er verbs: `achètent` from `acheter` changes e to è; `essaie` from `essayer` changes y to i; `préfère` from `préférer` changes é to è; `appelle` from `appeler` doubles **l**; `envoie` from `envoyer` changes y to i; `mangeons` from `manger` adds **e** before **-ons**.
+3. `Nous habitons dans la même ville depuis peu` uses the present tense because the living situation started recently and still continues now.
+4. `J'habite dans la même ville depuis peu, alors je réponds vite et je mange souvent avec elle après les courses.` Three things change. `répondons` becomes `réponds`, where the `d` is written but silent. `mangeons` loses its extra `e` and becomes `mange`, because the `e` was only ever there to keep the `g` soft before `-ons`. And `l'un à l'autre` has to go: it means *to each other*, which needs two people, so the singular takes `vite` alone or names the other person.
+5. Answers vary. Models: `Après le travail, j'attends le bus devant le bureau.` `J'achète parfois du pain depuis peu.` `Je préfère rentrer tôt, puis j'envoie un message à ma famille.` Check that each verb ending matches its subject.
+:::
+
 
 ## Common mistakes to avoid
 
@@ -448,3 +643,19 @@ After writing:
 4. check whether any spelling change should disappear in the `nous` or `vous` form;
 5. read the paragraph aloud twice;
 6. rewrite any sentence you corrected from memory.
+
+:::answer
+Answers vary. Here is one model paragraph that meets every requirement:
+
+`Le jeudi, j'attends ma sœur devant le magasin. Elle descend du bus vers dix-huit heures et répond vite à mon message. Nous habitons dans le même quartier depuis deux ans. Nous commençons les courses au petit centre commercial. J'achète une veste noire, mais je préfère la bleue. Ma sœur essaie un manteau et appelle notre mère pour demander son avis. Ensuite, nous mangeons au café d'en face. Est-ce que tu attends souvent quelqu'un après le travail ?`
+
+How it satisfies the brief: regular -re verbs are `attends`, `descend`, and `répond`; `depuis deux ans` shows a situation that still continues; `commençons` is a -cer verb; `achète` and `préfère` are accent-changing verbs; `essaie` changes y to i and `appelle` doubles **l**; the final sentence is a realistic yes/no question.
+
+Mark yourself wrong if any of these appear:
+- `il attends` or another regular -re form with the wrong singular ending;
+- a past tense with `depuis` for something still true now;
+- `nous commencons` without ç or `nous mangons` without the extra **e**;
+- a changed stem carried into `nous` or `vous`, such as **nous achètons**;
+- a question without a space before `?`.
+:::
+

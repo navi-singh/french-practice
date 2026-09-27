@@ -94,6 +94,28 @@ def markdown_to_html(source):
             index += 1
             continue
 
+        # ":::answer" ... ":::" becomes a collapsed <details>, so the learner
+        # attempts the exercise before seeing the model answer.
+        answer = re.match(r"^:::answer\s*(.*)$", stripped)
+        if answer:
+            flush_paragraph()
+            close_list()
+            close_table()
+            label = answer.group(1).strip() or "Show answers"
+            body = []
+            index += 1
+            while index < len(lines) and lines[index].strip() != ":::":
+                body.append(lines[index])
+                index += 1
+            index += 1
+            output.append(
+                '<details class="answer-block">'
+                f"<summary>{html.escape(label, quote=False)}</summary>"
+                f'<div class="answer-body">{markdown_to_html(chr(10).join(body))}</div>'
+                "</details>"
+            )
+            continue
+
         if "|" in stripped and index + 1 < len(lines):
             separator = lines[index + 1].strip()
             if re.match(r"^\|?[\s:|-]+\|[\s:|-]+\|?$", separator):
@@ -201,7 +223,7 @@ def chapter_data(folder):
                 "title": title_from_markdown(path),
                 "type": kind,
                 "html": markdown_to_html(raw),
-                "search": re.sub(r"\s+", " ", raw).lower(),
+                "search": re.sub(r"\s+", " ", re.sub(r":::answer\s*|:::", " ", raw)).lower(),
             }
         )
     documents.sort(key=lambda doc: (priority[doc["type"]], doc["title"]))

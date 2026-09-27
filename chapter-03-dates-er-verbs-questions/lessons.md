@@ -23,6 +23,18 @@ Before you begin, make sure you can still:
 
 If those skills feel shaky, review them briefly first. This chapter assumes you can already see the subject of a sentence and match a verb to it.
 
+:::answer
+Test yourself properly rather than trusting the feeling of recognition. Answer these five out loud, then check.
+
+1. Which subject pronoun replaces `Marie et moi` ? — `nous`. Any group that includes *me* becomes `nous`.
+2. Give `être` for `vous`. — `vous êtes`. Note the circumflex.
+3. Give `avoir` for `ils`. — `ils ont`. Say it carefully: `ils ont` links as "ilz-on", while `ils sont` has an `s` sound. Confusing the two is the single most common Chapter 2 error.
+4. What is the article in `___ université` ? — `l'`, because `université` starts with a vowel sound. It is feminine, so it would be `la` without the elision.
+5. Make `Il y a un café` negative. — `Il n'y a pas de café`. After a negative, `un`, `une`, and `des` all collapse to `de`.
+
+If you missed two or more, spend ten minutes in Chapter 2 before continuing. This chapter adds a whole verb family on top of these, and the errors compound.
+:::
+
 ## How to study this chapter
 
 Say every French example aloud. Then cover the French, reproduce it from memory, and do the substitution task before moving on.
@@ -83,6 +95,22 @@ Complete aloud:
 4. `Le soir, je ___ .`
 Then write one original sentence with a day, one with a month, one with a season, and one with a part of the day.
 
+:::answer
+Model answers — yours will differ, and that is fine. Check the **structure**, not the vocabulary.
+
+1. `Nous sommes lundi.` — `Nous sommes` + a bare day name. No article and no capital letter.
+2. `Mon cours est en septembre.` — Months always take `en`, never `à`.
+3. `J'aime l'été parce que je voyage.` — `aimer` takes the definite article when you like something in general, so `l'été`, not bare *été*. `parce que` must be followed by a full clause with its own verb.
+4. `Le soir, je travaille.` — `le soir` means *in the evenings* as a habit. Drop `le` and say `ce soir` if you mean tonight only.
+
+Your four original sentences, one of each type:
+
+- Day: `Le samedi, je regarde un film.` — `le` + singular day = every Saturday.
+- Month: `En août, ma famille voyage.` — `en` + month.
+- Season: `Au printemps, le parc est joli.` — `printemps` is the exception: `au printemps`, but `en été`, `en automne`, `en hiver`.
+- Part of the day: `Le matin, j'étudie le français.` — `j'` before a vowel sound, never *je étudie*.
+:::
+
 ## Unit 2: Using calendar expressions naturally
 
 ### Core idea
@@ -121,6 +149,20 @@ French usually uses singular `le lundi` for a habit, not a direct copy of Englis
 ### Sentence-building practice
 
 Turn each prompt into a full sentence: every Friday / we / study at the library; in December / my family / visit Paris; this evening / I / watch a movie; at night / the children / sleep badly. Then change each sentence to a different time expression.
+
+:::answer
+1. `Le vendredi, nous étudions à la bibliothèque.` — `le` + a singular day means *every Friday*. French does not pluralise it the way English says "on Fridays."
+2. `En décembre, ma famille visite Paris.` — `en` + month. `famille` is singular, so the verb is `visite`, even though a family contains several people.
+3. `Ce soir, je regarde un film.` — `ce soir` is one specific evening. Using `le soir` here would change the meaning to *in the evenings*, as a habit.
+4. `La nuit, les enfants dorment mal.` — `la nuit` means *at night* in general. `dormir` is irregular and comes in Chapter 4; for now just recognise `dorment`.
+
+Changed to a different time expression:
+
+- `Le samedi, nous étudions à la bibliothèque.` — a different recurring day.
+- `Au printemps, ma famille visite Paris.` — season instead of month, and `printemps` takes `au`.
+- `Demain soir, je regarde un film.` — a future evening instead of tonight.
+- `Le matin, les enfants dorment mal.` — a different part of the day.
+:::
 
 ## Unit 3: Regular -er verbs in the present tense
 
@@ -173,6 +215,30 @@ Do not pronounce the final `-ent` in `ils parlent`. Also remember `j'` before a 
 
 Conjugate `parler`, `travailler`, and `aimer` for all six persons. Then write three short original sentences with three different subjects.
 
+:::answer
+All three are regular, so the stem never changes: drop `-er`, then add `-e, -es, -e, -ons, -ez, -ent`.
+
+| Subject | `parler` | `travailler` | `aimer` |
+|---|---|---|---|
+| `je` | `je parle` | `je travaille` | `j'aime` |
+| `tu` | `tu parles` | `tu travailles` | `tu aimes` |
+| `il / elle / on` | `il parle` | `elle travaille` | `on aime` |
+| `nous` | `nous parlons` | `nous travaillons` | `nous aimons` |
+| `vous` | `vous parlez` | `vous travaillez` | `vous aimez` |
+| `ils / elles` | `ils parlent` | `elles travaillent` | `ils aiment` |
+
+Two things to check in your own work:
+
+- `j'aime`, not *je aime*. `je` contracts to `j'` before a vowel sound.
+- Four of the six forms — `parle`, `parles`, `parle`, `parlent` — sound identical. Only `nous` and `vous` are audibly different. Spelling carries the distinction that your ear cannot.
+
+Three original sentences with different subjects:
+
+- `Je parle français avec ma voisine.` — I speak French with my neighbour.
+- `Nous travaillons à la maison le lundi.` — We work at home on Mondays.
+- `Elles aiment la musique classique.` — They like classical music.
+:::
+
 ## Unit 4: What the present tense means
 
 ### Core idea
@@ -208,6 +274,20 @@ Do not force an English-style separate "am doing" form into every sentence. `Je 
 
 Label each sentence as habit, happening now, general truth, or near future: `Nous parlons avec la directrice.` / `Le jeudi, vous dansez ?` / `Mon train arrive demain.` / `Les enfants regardent la neige.` Then rewrite two sentences with a different time clue.
 
+:::answer
+1. `Nous parlons avec la directrice.` — **happening now.** With no time clue, the default reading is the action in progress. Add `souvent` and it becomes a habit.
+2. `Le jeudi, vous dansez ?` — **habit.** `le` + a singular day is the clearest habit marker in French.
+3. `Mon train arrive demain.` — **near future.** French uses the plain present for scheduled events; no separate future tense is needed here.
+4. `Les enfants regardent la neige.` — **happening now.** They are watching it at this moment.
+
+The lesson here is that the French present tense is one form doing four jobs. The time expression, not the verb, tells you which job it is doing.
+
+Rewritten with a different time clue:
+
+- `En hiver, nous parlons avec la directrice.` — now a seasonal habit rather than something happening now.
+- `Mon train arrive le lundi matin.` — now a recurring schedule rather than a one-off future event.
+:::
+
 ## Unit 5: Yes/no questions in three common forms
 
 ### Core idea
@@ -241,6 +321,32 @@ Do not mix two systems: avoid `*Est-ce que parlez-vous anglais ?` French also do
 ### Sentence-building practice
 
 Turn each statement into three yes/no questions: `Tu habites à Lyon.` / `Vous aimez ce quartier.` / `Ils arrivent demain matin.` Then decide which version feels most natural in casual speech.
+
+:::answer
+Each statement gives you the same three options, in rising order of formality.
+
+**1. `Tu habites à Lyon.`**
+
+- Intonation: `Tu habites à Lyon ?`
+- `Est-ce que`: `Est-ce que tu habites à Lyon ?`
+- Inversion: `Habites-tu à Lyon ?`
+
+**2. `Vous aimez ce quartier.`**
+
+- Intonation: `Vous aimez ce quartier ?`
+- `Est-ce que`: `Est-ce que vous aimez ce quartier ?`
+- Inversion: `Aimez-vous ce quartier ?`
+
+**3. `Ils arrivent demain matin.`**
+
+- Intonation: `Ils arrivent demain matin ?`
+- `Est-ce que`: `Est-ce qu'ils arrivent demain matin ?`
+- Inversion: `Arrivent-ils demain matin ?`
+
+Two spelling traps: `est-ce que` becomes `est-ce qu'` before a vowel sound, and inversion always keeps its hyphen.
+
+**Which is most natural in casual speech?** The intonation version. Among friends, French speakers mostly keep statement word order and simply raise the pitch at the end. `Est-ce que` is the safe middle register and works everywhere. Inversion sounds careful or formal in speech, though it is normal in writing — which is why `Parlez-vous anglais ?` sounds like a phrasebook rather than a friend.
+:::
 
 ## Unit 6: Information questions with question words
 
@@ -283,6 +389,18 @@ Do not confuse `qui` and `qu'est-ce que`. Use `qui` for a person doing the actio
 
 Write a full question for each answer clue: `À Montréal.` / `Le vendredi soir.` / `Parce qu'elle travaille demain.` / `Deux films.` / `Le printemps.` Use a different question word each time.
 
+:::answer
+Work backwards: the form of the answer tells you which question word is required.
+
+1. `À Montréal.` → `Où habitez-vous ?` — a place, so `où`.
+2. `Le vendredi soir.` → `Quand est-ce que vous regardez des films ?` — a time, so `quand`.
+3. `Parce qu'elle travaille demain.` → `Pourquoi est-ce qu'elle arrive si tôt ?` — the answer opens with `parce que`, which only ever answers `pourquoi`.
+4. `Deux films.` → `Combien de films regardez-vous ?` — a quantity, so `combien de`. Keep `de` with no article: `combien de films`, never *combien des films*.
+5. `Le printemps.` → `Quelle saison préférez-vous ?` — choosing from a known set, so `quel`. It agrees with the noun, and `saison` is feminine, hence `quelle`.
+
+The pairing to memorise is question word to answer type: `où` → place, `quand` → time, `pourquoi` → `parce que`, `combien de` → number, `quel` → a choice from a set.
+:::
+
 ## Cumulative sentence-usage practice
 
 Read each sentence aloud twice, cover it, and write it from memory.
@@ -294,6 +412,18 @@ Read each sentence aloud twice, cover it, and write it from memory.
 5. `Au printemps, mes amis visitent souvent le marché près de la rivière.` — In spring, my friends often visit the market near the river.
 6. `Parlez-vous avec vos voisins quand vous rentrez du travail ?` — Do you speak with your neighbors when you come home from work?
 
+:::answer
+The sentences are in front of you, so the answer here is what to check once you have written each one from memory and uncovered it.
+
+- **Silent endings you cannot hear.** Sentence 3 `regardez` and sentence 5 `visitent` sound like `regarde` and `visite`. If you wrote the singular, that is a spelling problem, not a listening failure — the sound really is identical.
+- **The little words that vanish in speech.** `le` in `Le lundi`, `des` in `des films`, and `près de` in sentence 5 are unstressed and easy to drop.
+- **`est-ce qu'` before a vowel** in sentence 4, not `est-ce que elle`.
+- **Accents.** `français`, `préférez`, `si tôt` — a missing accent is a wrong word, not a typo.
+- **The space before `?`** in sentences 3, 4 and 6.
+
+Score yourself per sentence: one point for meaning, one for every ending correct. Rewrite from memory only the sentences you did not score full marks on.
+:::
+
 ### Notice and mark
 
 1. Circle the conjugated `-er` verb.
@@ -301,13 +431,50 @@ Read each sentence aloud twice, cover it, and write it from memory.
 3. Box the question marker if the sentence is a question.
 4. Decide whether the sentence shows a habit, a current action, or a scheduled event.
 
+:::answer
+| # | `-er` verb | Time expression | Question marker | Type |
+|---|---|---|---|---|
+| 1 | `travaille` | `Le lundi` | — | habit |
+| 2 | `étudions` | `en septembre et en octobre` | — | habit |
+| 3 | `regardez` | `le soir` | `Est-ce que` | habit |
+| 4 | `arrive` | `le dimanche matin` | `Pourquoi est-ce qu'` | habit |
+| 5 | `visitent` | `Au printemps` | — | habit |
+| 6 | `Parlez` | `quand vous rentrez du travail` | inversion `Parlez-vous` | habit |
+
+Every sentence here is a habit, and that is the point: each one carries `le` plus a day, `en` plus a month or season, or a repeated-time word such as `souvent`. Strip `Le` from sentence 1 and it becomes a scheduled event — `Lundi, je travaille à la maison` means this coming Monday only.
+
+Sentence 4 is worth a second look: `est-ce que` becomes `est-ce qu'` before the vowel of `elle`.
+:::
+
 ### Change the sentence
 
 Rewrite sentences 1-4 twice each: first change the subject, then change one meaningful detail such as the day, month, season, place, or activity. Make every necessary change to the verb ending and word order.
 
+:::answer
+One worked version of each. Yours will differ; what matters is that the verb ending follows the new subject.
+
+1. Subject: `Le lundi, nous travaillons à la maison.` Detail: `Le samedi, je travaille au bureau.`
+2. Subject: `Elle étudie le français en septembre et en octobre.` Detail: `Nous étudions le français en hiver.`
+3. Subject: `Est-ce que tu regardes souvent des films français le soir ?` Detail: `Est-ce que vous regardez souvent des films français le week-end ?`
+4. Subject: `Pourquoi est-ce qu'ils arrivent si tôt le dimanche matin ?` Detail: `Pourquoi est-ce qu'elle arrive si tard le lundi soir ?`
+
+The traps, in order: `nous` forces `-ons`; `elle` drops the `-ons` back to a silent `-e`; `tu` adds a silent `-s`; and `ils` takes the silent `-ent`, which sounds identical to the singular even though it looks different. Only the subject tells you what to write.
+:::
+
 ### Make it personal
 
 Write four true sentences about your own life: one with `le + day`, one with `en + month` or `en + season`, one yes/no question, and one information question.
+
+:::answer
+Answers vary. A model set:
+
+1. `Le mardi, je téléphone à ma mère.`
+2. `En août, je voyage avec ma famille.`
+3. `Est-ce que tu travailles le week-end ?`
+4. `Quand est-ce que tu études le français ?` — better as `Quand est-ce que tu étudies le français ?`; the accent-free `études` is a noun, not a verb.
+
+Check your four against this: the day and month are lowercase, `en` introduces the month, every verb ends in `-e` or `-es` to match `je` or `tu`, and both questions have a space before the `?`.
+:::
 
 ## Mini-dialogue: planning a study week
 
@@ -335,6 +502,14 @@ Write four true sentences about your own life: one with `le + day`, one with `en
 4. Find two information questions and name their question words.
 5. Rewrite Malik's first answer with `nous` instead of `je` where possible.
 
+:::answer
+1. **Three time expressions:** `demain matin`, `l'après-midi`, `le matin`, `le jeudi soir`, `le vendredi`, `pendant une heure`, `le printemps`. Any three count. Notice `le jeudi soir` and `le vendredi` describe habits, while `demain matin` is a one-off.
+2. **Conjugated `-er` verbs and subjects:** `travailles` (`tu`), `travaille` (`je`), `étudie` (`je`), `révises` (`tu`), `regarde` (`je`), `étudiez` (`vous`), `parlons` (`nous`), `préférez` (`vous`), `préférons` (`nous`). Both `aide` (`ça`) and `est` (`le parc`) appear too, but `est` is `être`, not an `-er` verb.
+3. **Intonation:** `Tu travailles demain matin ?` — statement word order, with only the rise in the voice marking the question. **`Est-ce que`:** `Est-ce que tu révises aussi le jeudi soir ?`
+4. **Information questions:** `Pourquoi est-ce que vous étudiez ensemble ?` uses `pourquoi`, and `Quelle saison préférez-vous pour étudier au parc ?` uses `quelle`. `Quelle` is feminine to agree with `saison`, and this one uses inversion rather than `est-ce que`.
+5. `Non, nous travaillons l'après-midi, mais le matin, nous étudions à la bibliothèque.` — both verbs shift to `-ons`. The `s` of `nous` links onto the vowel in `nous étudions`, so it sounds like "nou-zétudions".
+:::
+
 ## Connected reading: ma routine du mercredi
 
 `Le mercredi, je commence la journée assez tôt. Le matin, j'arrive au café du quartier vers huit heures et j'étudie pendant une heure avant le travail. À midi, je déjeune avec une collègue qui parle aussi français, alors nous pratiquons ensemble. L'après-midi, je travaille à la maison et je téléphone souvent à mes clients. Le soir, je regarde une courte vidéo, puis je note cinq nouvelles expressions dans mon cahier. En hiver, cette routine demande plus d'énergie, mais au printemps, je travaille près de la fenêtre et tout semble plus facile.`
@@ -348,6 +523,14 @@ Write four true sentences about your own life: one with `le + day`, one with `en
 3. Identify one sentence showing a habit and one showing a scheduled action.
 4. Rewrite the paragraph in the `nous` form where reasonable.
 5. Write three true sentences about your own study routine using the reading as a model.
+
+:::answer
+1. **Time expressions:** `Le mercredi`, `Le matin`, `vers huit heures`, `pendant une heure`, `avant le travail`, `À midi`, `L'après-midi`, `Le soir`, `En hiver`, `au printemps`. Note `En hiver` but `au printemps` — spring is the odd one out.
+2. **Four regular `-er` verbs:** `commence` (`commencer`), `arrive` (`arriver`), `étudie` (`étudier`), `déjeune` (`déjeuner`). Also acceptable: `parle`, `pratiquons`, `travaille`, `téléphone`, `regarde`, `note`, `demande`, `semble`.
+3. **Habit:** `Le mercredi, je commence la journée assez tôt.` — `le` plus a day means every Wednesday. **Scheduled action:** `j'arrive au café du quartier vers huit heures` — a clock time, not a repeated pattern.
+4. **In `nous`:** `Le mercredi, nous commençons la journée assez tôt. Le matin, nous arrivons au café du quartier vers huit heures et nous étudions pendant une heure avant le travail. À midi, nous déjeunons avec une collègue…` — watch `commençons`, where the cedilla keeps the `c` soft, and `nous étudions`, where the `s` of `nous` links onto the vowel.
+5. Answers vary. Check three things: every verb ends in `-e` after `je`, your time expressions sit at the front of the sentence where French likes them, and days and months are lowercase.
+:::
 
 ## Common mistakes to avoid
 
@@ -412,3 +595,19 @@ After writing:
 4. check that each verb matches its subject;
 5. read the paragraph aloud twice;
 6. rewrite any corrected sentence from memory.
+
+:::answer
+Answers vary, so mark against the checklist rather than against a single correct text. Here is a paragraph that meets every requirement:
+
+`Le lundi, je commence à huit heures. En hiver, j'étudie le français à la maison, parce que le café est trop bruyant. Le matin, je travaille et l'après-midi, je révise mes notes. En juillet, je voyage avec ma famille, mais je continue à écouter des podcasts. Au printemps, je préfère étudier au parc. Tu travailles le samedi ? Quand est-ce que tu étudies le français ? Pourquoi est-ce que tu aimes cette saison ?`
+
+How it satisfies the brief: the time expressions are `Le lundi`, `à huit heures`, `En hiver`, `Le matin`, `l'après-midi`, `En juillet`, `Au printemps`; the `-er` verbs are `commence`, `étudie`, `travaille`, `révise`, `voyage`, `continue`, `préfère`, `aimes`; `Le lundi` is the `le + day` sentence; `En juillet` and `Au printemps` cover the month and season; `Tu travailles le samedi ?` is the yes/no question; and the last two are information questions using `quand` and `pourquoi`.
+
+Mark yourself wrong if any of these appear:
+- a capitalised day or month, such as **Lundi** or **Juillet**;
+- `au` before a month or before `hiver` — only `printemps` takes `au`;
+- an `-er` verb that does not match its subject, especially a missing `-s` after `tu`;
+- `Est-ce que` combined with inversion in the same question, which doubles the question marker;
+- a missing space before `?`, which French requires.
+:::
+

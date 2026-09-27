@@ -15,6 +15,19 @@ Before beginning, make sure you can already:
 - use common time expressions such as `demain`, `ce soir`, and `après le travail`;
 - recognize an infinitive such as `partir`, `lire`, or `mettre`.
 This chapter adds new irregular forms, but the sentence frame will often feel familiar: `je vais partir`, `je veux partir`, `je viens de partir`, and `je dois partir` all depend on your earlier control of infinitives.
+
+:::answer
+Test yourself before adding this chapter's irregular verbs. Answer these five without looking back, then check.
+
+1. Turn `Je pars demain` into near future. — `Je vais partir demain.` The second verb stays in the infinitive after `aller`.
+2. Make `Je lis le message` negative. — `Je ne lis pas le message.` **Ne** and **pas** wrap the conjugated verb, not the object.
+3. Say **tonight** and **after work** in French. — `ce soir` and `après le travail`. These time expressions can sit naturally at the beginning or end of the sentence.
+4. Which word is the infinitive in `Nous voulons lire` ? — `lire`. The conjugated verb is `voulons`; the second verb stays unchanged.
+5. Choose the correct frame for **aller**, **vouloir**, and **venir de**. — `je vais partir`, `je veux partir`, `je viens de partir`. The recent past needs `de` before the infinitive.
+
+If you missed two or more, review Chapters 6 and the negative pattern first. This chapter depends on seeing which verb is conjugated and which verb remains an infinitive.
+:::
+
 ## How to study this chapter
 Memorize the verb blocks aloud and in contrast. For example, say `je pars`, `je sors`, `je quitte` together so the meaning differences stay attached to the forms.
 ## Unit 1: `partir`, `sortir`, and `quitter`
@@ -53,6 +66,16 @@ Choose the correct verb and write a complete sentence.
 3. She is leaving the classroom now.
 4. They are taking the dog outside.
 Then explain why one sentence needs `quitter`.
+
+:::answer
+1. `Tu pars demain pour Lyon.` — Use `partir` because the focus is departure; no direct object is needed.
+2. `Nous sortons après le dîner.` — Use `sortir` for going out.
+3. `Elle quitte la salle de classe maintenant.` — Use `quitter` because there is a direct object: `la salle de classe`.
+4. `Ils sortent le chien.` — `sortir` can also mean to take something or someone out.
+
+Sentence 3 needs `quitter` because you are leaving a specific place behind. The common trap is using `quitter` without an object; if there is no object, choose `partir` instead.
+:::
+
 ## Unit 2: `venir`, `tenir`, and `venir de + infinitive`
 ### Core idea
 `Venir` means **to come** and `tenir` means **to hold / keep**. Their forms are closely related, and `venir de + infinitive` creates the **recent past**: "to have just done something."
@@ -95,6 +118,20 @@ Translate and say aloud.
 3. Are you holding my keys?
 4. They have just gone out.
 Then change sentence 2 to the negative.
+
+:::answer
+1. `Nous venons de la gare.` — This is origin: `venir de` + place.
+2. `Je viens d'écrire le mail.` — This is recent past: `venir de` + infinitive. `de` becomes `d'` before the vowel sound in `écrire`.
+3. `Tu tiens mes clés ?` — `tenir` uses `tiens` with `tu`.
+4. `Ils viennent de sortir.` — Recent past again: they have just gone out.
+
+Negative form of sentence 2:
+
+- `Je ne viens pas d'écrire le mail.` — The negative wraps the conjugated verb `viens`, not the infinitive `écrire`.
+
+The trap is distinguishing origin from recent past. A place after `de` gives origin; an infinitive after `de` gives something that just happened.
+:::
+
 ## Unit 3: `dire`, `lire`, `écrire`, `mettre`, and `recevoir`
 ### Core idea
 These verbs appear constantly in daily life. They do not follow one single pattern, so learn them in clear families and useful phrases.
@@ -127,6 +164,17 @@ Complete or transform each sentence.
 3. `Elle ___ ses chaussures près du lit.` Use `mettre`.
 4. Turn sentence 2 into a question with `vous`.
 5. Turn sentence 1 into the recent past with `venir de`.
+
+:::answer
+1. `J'écris un message à ma mère.` — `écrire` takes `à` before the person receiving the writing.
+2. `Nous lisons le journal pendant le petit-déjeuner.` — `lire` has the `nous` form `lisons`.
+3. `Elle met ses chaussures près du lit.` — `mettre` has the singular form `met`; the final t is silent.
+4. `Lisez-vous le journal pendant le petit-déjeuner ?` — With inversion, switch verb and pronoun and keep the hyphen.
+5. `Je viens d'écrire un message à ma mère.` — Recent past uses `venir de` plus the infinitive; `de` becomes `d'` before `écrire`.
+
+Mark yourself wrong if you wrote `j'écris ma mère`. In this meaning, the person needs `à`.
+:::
+
 ## Unit 4: `pouvoir`, `vouloir`, and `devoir`
 ### Core idea
 These verbs are often followed directly by an infinitive. They express ability, desire, necessity, probability, and debt depending on context.
@@ -168,6 +216,21 @@ Translate into French.
 3. He probably has to be at the office. Make the meaning probability, not obligation.
 4. They owe their friend twenty euros.
 Then rewrite sentence 1 in the negative and sentence 2 as a question.
+
+:::answer
+1. `Je peux lire ce livre.` — `pouvoir` is followed directly by an infinitive; no `à` or `de`.
+2. `Nous voulons partir maintenant.` — `vouloir` also links directly to the infinitive.
+3. `Il doit être au bureau.` — This can mean he is probably at the office; context makes it probability, not obligation.
+4. `Ils doivent vingt euros à leur ami.` — With a sum of money, `devoir` means to owe.
+
+Rewrites:
+
+- `Je ne peux pas lire ce livre.` — The negative wraps `peux`.
+- `Est-ce que nous voulons partir maintenant ?` — A yes/no question can use `est-ce que` with normal word order.
+
+Do not add a preposition before the infinitive after `pouvoir`, `vouloir`, or `devoir`.
+:::
+
 ## Unit 5: Verb + infinitive patterns: no preposition, `à`, or `de`
 ### Core idea
 French verbs do not all connect to a following infinitive in the same way. Some take **no preposition**, some take `à`, and others take `de`. Learn the whole frame.
@@ -203,6 +266,20 @@ Never memorize only `essayer` or only `commencer`. Memorize `essayer de`, `comme
 English often uses "to" before the second verb, but French does not always match that structure. `Je veux partir` has no preposition, while `je commence à partir` and `j'essaie de partir` do.
 ### Sentence-building practice
 Sort each frame into the correct group, then use it in a complete sentence: `vouloir`, `commencer`, `essayer`, `aimer`, `réussir`, `devoir`.
+
+:::answer
+| Frame | Group | Sample sentence |
+|---|---|---|
+| `vouloir` | no preposition | `Je veux partir tôt.` |
+| `commencer à` | `à` before infinitive | `Elle commence à écrire.` |
+| `essayer de` | `de` before infinitive | `Nous essayons de comprendre.` |
+| `aimer` | no preposition | `Ils aiment lire le soir.` |
+| `réussir à` | `à` before infinitive | `Tu réussis à finir le travail.` |
+| `devoir` | no preposition | `Vous devez répondre aujourd'hui.` |
+
+Learn the frame, not just the verb. English uses *to* in many of these, but French divides them into no preposition, `à`, and `de`.
+:::
+
 ## Cumulative sentence-usage practice
 These sentences combine the chapter's new verbs and infinitive patterns the way they appear in real speech. Read each sentence aloud twice, cover it, and write it from memory.
 1. `Je veux lire davantage, mais je dois finir mon travail.` — I want to read more, but I must finish my work.
@@ -211,6 +288,20 @@ These sentences combine the chapter's new verbs and infinitive patterns the way 
 4. `Ils quittent le bureau et partent à six heures.` — They leave the office and depart at six o'clock.
 5. `Je viens de recevoir ta lettre et je vais y répondre ce soir.` — I have just received your letter and I am going to answer it tonight.
 6. `Vous dites que vous voulez venir, mais vous ne pouvez pas sortir avant neuf heures.` — You say that you want to come, but you cannot go out before nine o'clock.
+
+:::answer
+After you write the six sentences from memory, uncover them and check the details your ear may not give you.
+
+- **Silent endings.** In sentence 4, `quittent` and `partent` both end in silent **-ent**. If you wrote singular forms, the sound did not warn you.
+- **Infinitive links.** Sentence 1 has no preposition before `lire` or `finir`; sentence 3 has `à apprendre` and `de parler`; sentence 5 has `de recevoir` after `viens`.
+- **Irregular stems.** Check `veux`, `dois`, `pouvons`, `dites`, `voulez`, and `pouvez`. These cannot be guessed from regular -er patterns.
+- **The object after `quitter`.** Sentence 4 says `quittent le bureau`; `quitter` needs the place or person left behind.
+- **Elision and accents.** `j'essaie`, `à`, and `écrire` need the apostrophe or accent you see in the model.
+- **Question spacing.** If you turn any of these into a question later, keep the French space before `?`.
+
+Give yourself full credit only when the conjugated verb, the infinitive, and the connector before the infinitive all match the original.
+:::
+
 ### Notice and mark
 For each sentence above:
 1. circle every conjugated verb;
@@ -229,6 +320,24 @@ Write five new sentences about your own plans or habits. Include:
 - one sentence with `devoir` meaning obligation;
 - one sentence with `devoir` meaning probability or debt;
 - one sentence with a verb followed by `à` or `de`.
+
+:::answer
+Model check for the cumulative practice:
+
+1. `Je veux lire davantage, mais je dois finir mon travail.` — `veux lire` and `dois finir` use no preposition before the infinitive.
+2. `Nous pouvons sortir après le cours et écrire le message plus tard.` — `pouvons sortir` uses no preposition; `écrire` is another infinitive linked by `et`.
+3. `Elle commence à apprendre le français et essaie de parler chaque jour.` — `commencer` takes `à`; `essayer` takes `de`.
+4. `Ils quittent le bureau et partent à six heures.` — `quitter` has a direct object, `le bureau`; `partir` does not need one.
+5. `Je viens de recevoir ta lettre et je vais y répondre ce soir.` — `viens de recevoir` is recent past; `vais répondre` is near future.
+6. `Vous dites que vous voulez venir, mais vous ne pouvez pas sortir avant neuf heures.` — `voulez venir` and `pouvez sortir` take no preposition.
+
+Near-future rewrite of sentence 5: `Je vais recevoir ta lettre et je vais y répondre ce soir.` — Both near-future forms use conjugated `aller` plus an infinitive.
+
+Question version of sentence 6: `Est-ce que vous dites que vous voulez venir, mais que vous ne pouvez pas sortir avant neuf heures ?` — The grammar is possible, though long; in real speech you might split it into two questions.
+
+For your personal sentences, mark yourself wrong if `quitter` has no object, if `venir de` is missing before a recent-past infinitive, or if a verb that needs `à` or `de` is linked directly by mistake.
+:::
+
 ## Mini-dialogue: after work plans
 **Julie :** `Tu pars directement après le bureau ce soir ?` — Are you leaving directly after the office tonight?
 **Samir :** `Non, je viens de recevoir un message de ma sœur.` — No, I have just received a message from my sister.
@@ -244,6 +353,15 @@ Write five new sentences about your own plans or habits. Include:
 3. Rewrite Samir's last answer with `nous` instead of `je`.
 4. Change `elle doit d'abord écrire à son professeur` into the recent past.
 5. Create another natural sentence using `tenir`, for example one meaning to hold something or to care about something.
+
+:::answer
+1. Examples from the dialogue: `Tu pars directement après le bureau ce soir ?` uses `pars`; `je viens de recevoir un message de ma sœur` uses recent past; `Qu'est-ce qu'elle dit ?` uses `dit`; `Elle veut sortir` uses `veut`; `elle doit d'abord écrire` uses `doit`; `J'essaie de finir ce rapport` uses `essaie de`.
+2. The dialogue says `quitter le bureau` because `quitter` takes a direct object: the office is the place Samir leaves behind. `partir le bureau` is wrong because `partir` does not take the place left as a direct object.
+3. Samir's last answer with `nous`: `Nous essayons de finir ce rapport avant huit heures.` The conjugated verb changes to `essayons`, but `de finir` keeps the same infinitive frame.
+4. Recent past: `Elle vient d'écrire à son professeur.` Use `venir de` plus the infinitive, and shorten `de` to `d'` before the vowel sound in `écrire`.
+5. A natural sentence with `tenir`: `Je tiens la porte pour vous.` This means I am holding the door; for caring about something, say `Nous tenons beaucoup à ce projet.`
+:::
+
 ## Connected reading: un nouveau rythme
 `Depuis le début du semestre, ma routine change beaucoup. Je pars plus tôt le matin parce que je veux lire dans le bus avant les cours. Après la classe, je sors souvent avec deux amis, mais je quitte la bibliothèque seulement quand je finis vraiment mon travail. Nous venons de commencer un projet important, alors nous devons écrire beaucoup et nous recevons des messages du professeur presque tous les jours. Le soir, j'essaie de me détendre, mais je ne peux pas toujours arrêter de penser au travail. Heureusement, ma sœur vient parfois dîner avec moi, et nous tenons encore à notre petit repas du jeudi.`
 — Since the beginning of the semester, my routine has been changing a lot. I leave earlier in the morning because I want to read on the bus before class. After class, I often go out with two friends, but I leave the library only when I truly finish my work. We have just started an important project, so we have to write a lot and we receive messages from the professor almost every day. In the evening, I try to relax, but I cannot always stop thinking about work. Fortunately, my sister sometimes comes to have dinner with me, and we still care about our little Thursday meal.
@@ -253,6 +371,15 @@ Write five new sentences about your own plans or habits. Include:
 3. Find the sentence with `venir de + infinitive` and explain the time meaning.
 4. Change the first two sentences from `je` to `nous`.
 5. Write three true sentences about your own schedule using the reading as a model.
+
+:::answer
+1. **Movement verbs:** `Je pars plus tôt` focuses on departure; `je sors souvent avec deux amis` means I go out socially; `je quitte la bibliothèque` needs the direct object, the library left behind. The reading also has `ma sœur vient parfois dîner`, meaning she comes.
+2. **Infinitives and frames:** `lire` after `veux` has no preposition; `commencer` after `venons de` is recent past with `de`; `écrire` after `devons` has no preposition; `me détendre` after `essaie de` uses `de`; `arrêter` after `peux` has no preposition; `penser` after `arrêter de` uses `de`; `dîner` after `vient` is a purpose infinitive in this sentence.
+3. The recent past sentence is `Nous venons de commencer un projet important`. It means the project has just started, not that we come from a place.
+4. First two sentences with `nous`: `Depuis le début du semestre, notre routine change beaucoup. Nous partons plus tôt le matin parce que nous voulons lire dans le bus avant les cours.` The main changes are `ma` to `notre`, `Je pars` to `Nous partons`, and `je veux` to `nous voulons`.
+5. Answers vary. A model set: `Je pars tôt le lundi parce que je veux lire dans le train.` `Je viens de commencer un nouveau livre.` `Le soir, j'essaie de ne pas penser au travail.` Mark yours wrong if an infinitive connector is missing or if `quitter` has no object.
+:::
+
 ## Common mistakes to avoid
 1. **Using `quitter` without an object.** Say `je pars maintenant`, but `je quitte la maison maintenant`.
 2. **Confusing origin with recent past.** `venir de Paris` is not the same as `venir de partir`.
@@ -313,3 +440,18 @@ After writing:
 4. check whether every use of `quitter` has a direct object;
 5. read the paragraph aloud twice;
 6. rewrite any corrected sentence from memory.
+
+:::answer
+Answers vary, so compare your paragraph to the checklist. Here is one model that satisfies every requirement:
+
+`Le lundi, je pars tôt parce que je veux lire dans le bus. Après le travail, je sors avec mes collègues, mais je quitte le bureau seulement à six heures. Je viens de recevoir un message de ma sœur. Elle dit qu'elle veut dîner avec moi ce soir. Je peux venir au restaurant, mais je dois finir un rapport avant huit heures. Je mets mon téléphone sur la table et j'écris une réponse courte. Ensuite, je commence à préparer mon sac et j'essaie de rester calme.`
+
+How it satisfies the brief: `je pars`, `je sors`, and `je quitte le bureau` cover the three leaving verbs; `Je viens de recevoir` is recent past; `dit`, `mets`, and `écris` come from the communication/action group; `peux`, `veut`, and `dois` appear with infinitives or complements; `commence à préparer` uses `à`; and `essaie de rester` uses `de`.
+
+Mark yourself wrong if you have:
+- `quitter` without a direct object;
+- `pouvoir`, `vouloir`, or `devoir` followed by `à` or `de` before an infinitive;
+- `commencer de` or `essayer à`;
+- a conjugated second verb where an infinitive is required;
+- missing accents in forms such as `à`, `écris`, or `réponse`.
+:::

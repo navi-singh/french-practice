@@ -31,6 +31,8 @@ If a phrase goes past too quickly, drag **Speaking speed** in the sidebar down t
 
 Work through one unit per session. Return to this chapter briefly whenever a later chapter introduces words you cannot pronounce.
 
+Every practice exercise in this course has a **Show answers** button folded underneath it, with a short explanation of the rule behind each answer. Leave it closed until you have committed to an answer out loud. Reading a model answer feels like learning, but the effort of producing your own one first is what actually makes it stick, and a mistake you make and then correct is worth more than a correct answer you only recognised.
+
 > A useful loop for every example: **listen -> imitate immediately -> compare -> repeat twice**
 
 ## Unit 1: The Alphabet and the Accent Marks
@@ -97,6 +99,14 @@ Without looking above:
 2. Which two letters do English speakers most often swap when spelling aloud in French?
 3. What is the difference in meaning between `ou` and `où`?
 
+:::answer
+1. **The cédille** — in `ça` and `français`, the mark under **c** makes it sound like **s** before **a**, **o**, or **u**.
+2. **`g` and `j`** — French `g` is named with a sound like English **j**, while French `j` has the sound in English *measure*. English speakers often reverse them.
+3. `ou` means **or**; `où` means **where**. The grave accent does not change the sound here, but it changes the word.
+
+For the production task, answers vary. Spell your own name with French letter names, slowly first and then at normal speed. Mark yourself wrong only if you use English letter names, skip a letter, or cannot repeat the same spelling twice.
+:::
+
 ### Production task
 
 Spell your own first name aloud using French letter names. Repeat it twice at normal speed.
@@ -110,6 +120,17 @@ Read each line aloud twice, then cover it and write it from memory.
 3. `J'habite à Paris.` — I live in Paris.
 4. `Où est le café ?` — Where is the café?
 5. `C'est une fête française.` — It is a French celebration.
+
+:::answer
+Use these as the model lines to check your memory copy. The goal is exact spelling, accents, apostrophes, and punctuation.
+
+1. `Comment ça s'écrit ?` — `ça` needs the cedilla because **c** before **a** would otherwise sound hard. The apostrophe in `s'écrit` is required before the vowel sound.
+2. `Ça s'écrit M-A-R-I-E.` — the same cedilla and elision appear again. The capital letters are being named, so the spelling matters more than a grammar rule here.
+3. `J'habite à Paris.` — `je` becomes `j'` before the silent **h** of `habite`. The accent in `à` marks the word meaning to/at.
+4. `Où est le café ?` — `où` needs the accent because without it, `ou` means or. French leaves a space before the question mark.
+5. `C'est une fête française.` — `ce` becomes `c'` before `est`, and both `fête` and `française` need their accents.
+:::
+
 
 ## Unit 2: Silent Letters
 
@@ -174,6 +195,16 @@ Which letters do you pronounce in each word?
 4. `sportive`
 5. `neuf`
 
+:::answer
+1. `salut` — pronounce the vowel sound, but not the final **t**. Most final consonants are silent.
+2. `bonjour` — pronounce the final **r**. **R** is one of the CaReFuL letters that is often heard at the end.
+3. `chat` — do not pronounce the final **t**. The **ch** sound is **sh**.
+4. `sportive` — pronounce the **v** before the final silent **e**. A final **e** is silent, but it makes the consonant before it heard.
+5. `neuf` — pronounce the final **f**. **F** is one of the CaReFuL letters.
+
+The rule is not that final letters are always silent; the rule is that most final consonants are silent unless a common pattern, such as CaReFuL or a final **e**, wakes them up.
+:::
+
 ### Production task
 
 Say these pairs aloud and exaggerate the difference: `petit`/`petite`, `grand`/`grande`, `américain`/`américaine`.
@@ -186,9 +217,37 @@ Say these pairs aloud and exaggerate the difference: `petit`/`petite`, `grand`/`
 4. `L'hôtel est ouvert à neuf heures.` — The hotel opens at nine o'clock.
 5. `Beaucoup de gens habitent ici.` — A lot of people live here.
 
+:::answer
+Use these as the model lines for the memory copy.
+
+1. `Salut, ça va ?` — the final **t** in `salut` is silent, and French leaves a space before the question mark.
+2. `Il est petit, mais elle est petite.` — `petit` has a silent final **t**; `petite` pronounces that **t** because of the final silent **e**.
+3. `Les étudiants parlent avec le professeur.` — **-ent** on `parlent` is silent, but final **c** in `avec` is pronounced.
+4. `L'hôtel est ouvert à neuf heures.` — `le` becomes `l'` before the silent **h** of `hôtel`; `neuf` usually keeps its final **f**.
+5. `Beaucoup de gens habitent ici.` — the final **p** of `beaucoup` and final **s** of `gens` are silent.
+
+Mark yourself wrong if you pronounced a silent final consonant that the sentence is meant to train.
+:::
+
 #### Change the sentence
 
 Rewrite sentence 2 with `fatigué`, then with `content`. Say both versions aloud and listen for the feminine consonant.
+
+:::answer
+Model memory check:
+
+1. `Salut, ça va ?` — the final **t** in `salut` is silent. Keep the cedilla in `ça`; it forces the soft sound.
+2. `Il est petit, mais elle est petite.` — the final consonant is silent in `petit` but pronounced in `petite` because the final silent **e** wakes up the **t**.
+3. `Les étudiants parlent avec le professeur.` — the plural ending -ent on `parlent` is silent. `avec` keeps its final **c** because **c** is one of the CaReFuL letters.
+4. `L'hôtel est ouvert à neuf heures.` — `le` becomes `l'` before the silent **h** of `hôtel`. `neuf` usually pronounces its final **f**.
+5. `Beaucoup de gens habitent ici.` — the final **p** of `beaucoup` and the final **s** of `gens` are silent. Do not add an English-style final consonant.
+
+Change the sentence:
+
+- `Il est fatigué, mais elle est fatiguée.` — the feminine spelling adds **-e**, though in this word the spoken difference is small.
+- `Il est content, mais elle est contente.` — the final **t** is silent in `content` but heard in `contente`.
+:::
+
 
 ## Unit 3: Vowel Sounds
 
@@ -243,6 +302,14 @@ Say each pair aloud and state which word has the "oo" sound:
 2. `sur` / `sourd`
 3. `vu` / `vous`
 
+:::answer
+1. `tu` / `tout` — the **oo** sound is in `tout`. `tu` uses the rounded-lip French **u**.
+2. `sur` / `sourd` — the **oo** sound is in `sourd`. `sur` uses **u**.
+3. `vu` / `vous` — the **oo** sound is in `vous`. `vu` uses **u**.
+
+For the recording task, answers vary. A good recording makes `tu` and `où` clearly different: `tu` starts from an **ee** tongue position with rounded lips, while `où` is the easier **oo** sound.
+:::
+
 ### Production task
 
 Record yourself saying `Salut, tu vas où ?` — Hi, where are you going? Listen back and check that `tu` and `où` sound clearly different.
@@ -254,6 +321,17 @@ Record yourself saying `Salut, tu vas où ?` — Hi, where are you going? Listen
 3. `Je voudrais de l'eau, s'il vous plaît.` — I would like some water, please.
 4. `Moi, j'habite dans une petite rue.` — Me, I live on a small street.
 5. `La famille française arrive aujourd'hui.` — The French family arrives today.
+
+:::answer
+Model memory check:
+
+1. `Bonjour, vous allez bien ?` — the **ou** sound in `bonjour` and `vous` is the easy **oo** sound, not the French **u** of `tu`.
+2. `Tu as deux frères ?` — `tu` uses the rounded-lip French **u**. `deux` uses the rounded **eu** sound.
+3. `Je voudrais de l'eau, s'il vous plaît.` — `de l'eau` is required because `eau` begins with a vowel sound. `s'il vous plaît` is the polite fixed phrase here.
+4. `Moi, j'habite dans une petite rue.` — `je` becomes `j'` before the silent **h** of `habite`. `rue` contains French **u**, not **ou**.
+5. `La famille française arrive aujourd'hui.` — `française` needs the cedilla and the final silent **e**. `aujourd'hui` keeps its apostrophe.
+:::
+
 
 ## Unit 4: Nasal Vowels
 
@@ -296,6 +374,16 @@ Nasal or not nasal?
 4. `italienne`
 5. `combien`
 
+:::answer
+1. `important` — nasal. The ending has a vowel followed by **n** with no vowel pronounced after it.
+2. `téléphone` — not nasal. A vowel follows the **n**, so the **n** is pronounced normally.
+3. `italien` — nasal. The ending **ien** is nasal here.
+4. `italienne` — not nasal. The doubled **n** is pronounced, so the vowel is no longer nasal.
+5. `combien` — nasal. Both parts of the word contain nasal vowel spellings.
+
+For the production pairs, answers vary. The rule to listen for is that the feminine form often stops the nasal vowel: `bon` is nasal, but `bonne` pronounces the **n**.
+:::
+
 ### Production task
 
 Say each masculine/feminine pair aloud five times: `un`/`une`, `bon`/`bonne`, `canadien`/`canadienne`.
@@ -307,6 +395,17 @@ Say each masculine/feminine pair aloud five times: `un`/`une`, `bon`/`bonne`, `c
 3. `Il est canadien et elle est canadienne.` — He is Canadian and she is Canadian.
 4. `Combien de temps ?` — How much time?
 5. `C'est un bon restaurant italien.` — It is a good Italian restaurant.
+
+:::answer
+Model memory check:
+
+1. `Un grand pain, s'il vous plaît.` — `un`, `grand`, and `pain` all contain nasal vowels. In `grand`, the final **d** is silent.
+2. `Bonjour, comment vous appelez-vous ?` — `comment` has a nasal vowel and a silent final **t**. The formal question repeats `vous` after the verb.
+3. `Il est canadien et elle est canadienne.` — `canadien` is nasal at the end; `canadienne` is not nasal because the **n** is doubled and pronounced.
+4. `Combien de temps ?` — `combien` contains two nasal vowel spellings. `temps` has a nasal vowel and silent final letters.
+5. `C'est un bon restaurant italien.` — `bon` is nasal, and `restaurant` has a nasal ending. `italien` is nasal because nothing follows the **n**.
+:::
+
 
 ## Unit 5: Consonants That Behave Differently
 
@@ -355,6 +454,16 @@ Say each word aloud, then state the sound of the highlighted letter:
 4. `qui`
 5. `la cuisine`
 
+:::answer
+1. `ça` — the **ç** sounds like **s**. The cédille keeps **c** soft before **a**.
+2. `le garçon` — the **ç** again sounds like **s**, this time before **o**.
+3. `la chaise` — **ch** sounds like **sh**.
+4. `qui` — **qu** sounds like **k** only; the **u** is not a separate vowel.
+5. `la cuisine` — the **c** sounds like **k** because it comes before **u**, not before **e**, **i**, or **y**.
+
+The habit to build is to look at the next letter. With **c** and **g**, the following vowel often tells you whether the sound is hard or soft.
+:::
+
 ### Sentence usage practice
 
 1. `Merci beaucoup !` — Thank you very much!
@@ -362,6 +471,17 @@ Say each word aloud, then state the sound of the highlighted letter:
 3. `Je voudrais un thé, s'il vous plaît.` — I would like a tea, please.
 4. `Qui est-ce ?` — Who is it?
 5. `La cuisine de la maison est grande.` — The kitchen of the house is large.
+
+:::answer
+Model memory check:
+
+1. `Merci beaucoup !` — the final **p** of `beaucoup` is silent. French leaves a space before the exclamation mark.
+2. `Le garçon mange du poisson.` — the cedilla in `garçon` keeps **c** soft before **o**. In `poisson`, the doubled **ss** gives an **s** sound.
+3. `Je voudrais un thé, s'il vous plaît.` — **th** is pronounced like a plain **t** in French. `s'il vous plaît` keeps its apostrophe and accent.
+4. `Qui est-ce ?` — `qu` makes only a **k** sound; the **u** is not pronounced separately. French spacing before the question mark still applies.
+5. `La cuisine de la maison est grande.` — the **s** between vowels in `maison` sounds like **z**. The final **e** in `grande` makes the **d** audible.
+:::
+
 
 ## Unit 6: Elision, Liaison, and Rhythm
 
@@ -416,6 +536,15 @@ Try `C'est un restaurant italien.` — It is an Italian restaurant. Say it as on
 3. In `nous avons`, what sound links the two words?
 4. After which small word is liaison forbidden?
 
+:::answer
+1. `j'aime` — `je` becomes `j'` before a vowel sound. Elision is written with an apostrophe.
+2. `n'a pas` — the full sentence could be `Il n'a pas de café.` `ne` becomes `n'` before the vowel sound in `a`.
+3. In `nous avons`, the final **s** of `nous` links as a **z** sound.
+4. Liaison is forbidden after `et`. In `un homme et une femme`, do not link from `et` into `une`.
+
+The rule difference: elision changes the spelling, while liaison changes the sound between two written words.
+:::
+
 ### Sentence usage practice
 
 Say each sentence as one smooth group, then write it from memory.
@@ -426,9 +555,32 @@ Say each sentence as one smooth group, then write it from memory.
 4. `Ce n'est pas un problème.` — It is not a problem.
 5. `Un homme et une femme arrivent.` — A man and a woman arrive.
 
+:::answer
+Model memory check:
+
+1. `J'aime les enfants.` — `je` becomes `j'` before `aime`; `les enfants` may link with a **z** sound.
+2. `Vous avez un grand appartement.` — `vous avez` links with **z**, and `grand appartement` links with a **t** sound.
+3. `Nous allons à l'école.` — `nous allons` links with **z**; `la école` must become `l'école`.
+4. `Ce n'est pas un problème.` — `ne` becomes `n'` before `est`, and `pas` stays after the verb.
+5. `Un homme et une femme arrivent.` — link in `un homme` and from `femme` to `arrivent`; never link after `et`.
+
+Check both spelling and sound. A sentence can be spelled correctly but still lose the rhythm if you pronounce each word separately.
+:::
+
 #### Notice the pattern
 
 In sentence 5, mark where you link and where you must not. There is a link in `un homme` and in `une femme arrivent`, but none after `et`.
+
+:::answer
+Model memory check:
+
+1. `J'aime les enfants.` — `je` becomes `j'` before `aime`. In careful speech, the **s** of `les` links to `enfants` with a **z** sound.
+2. `Vous avez un grand appartement.` — `vous avez` links with a **z** sound. `grand appartement` links with a **t** sound because final **d** changes to **t** in liaison.
+3. `Nous allons à l'école.` — `nous allons` links with a **z** sound, and `la école` becomes `l'école`.
+4. `Ce n'est pas un problème.` — `ne` becomes `n'` before `est`. Do not drop `pas` in standard written French.
+5. `Un homme et une femme arrivent.` — link in `un homme` and between `femme` and `arrivent`; do not link after `et`. The word `homme` begins with a silent **h**.
+:::
+
 
 ## Unit 7: Greetings, Politeness, and `tu` or `vous`
 
@@ -497,6 +649,19 @@ Always return the question. Answering `Ça va` and stopping sounds like you are 
 5. `Excusez-moi, où est la gare ?` — Excuse me, where is the train station?
 6. `Au revoir, bonne journée !` — Goodbye, have a good day!
 
+:::answer
+Model memory check:
+
+1. `Bonjour madame, comment allez-vous ?` — use `vous` with a stranger or in a formal situation.
+2. `Salut ! Ça va ?` — `salut` is informal, so it belongs with friends, family, or peers.
+3. `Un café, s'il vous plaît.` — the request is polite because it includes `s'il vous plaît`; in real life, say `Bonjour` first.
+4. `Merci beaucoup. — De rien.` — this is the normal thank-you and reply pair.
+5. `Excusez-moi, où est la gare ?` — `où` needs the accent to mean where, and `excusez-moi` uses the formal or plural form.
+6. `Au revoir, bonne journée !` — this is a standard daytime farewell; French leaves a space before `!`.
+
+For any greeting line, mark yourself wrong if the social register is wrong even when the words are grammatical.
+:::
+
 #### Change the sentence
 
 Rewrite sentences 1 and 3 in the informal register (`tu` forms) and sentence 2 in the formal register.
@@ -504,6 +669,33 @@ Rewrite sentences 1 and 3 in the informal register (`tu` forms) and sentence 2 i
 #### Make it personal
 
 Write the exact four lines you would say when entering a bakery: greeting, request, thanks, farewell.
+
+:::answer
+Model memory check:
+
+1. `Bonjour madame, comment allez-vous ?` — this is formal because `vous` is used with `madame`. Use it with a stranger or someone you do not know well.
+2. `Salut ! Ça va ?` — `salut` is informal, so it fits friends and family, not a shop or a first meeting.
+3. `Un café, s'il vous plaît.` — the request is polite because it includes `s'il vous plaît`. In a real shop, say `Bonjour` first.
+4. `Merci beaucoup. — De rien.` — `de rien` is a standard answer to thanks. Do not translate the English words one by one.
+5. `Excusez-moi, où est la gare ?` — `excusez-moi` uses the formal or plural form. `où` needs the accent to mean where.
+6. `Au revoir, bonne journée !` — this is the normal polite leaving formula during the day.
+
+Change the sentence:
+
+- Informal version of sentence 1: `Salut, comment vas-tu ?` — use `tu` for one familiar person.
+- Informal version of sentence 3: `Un café, s'il te plaît.` — `te` replaces `vous` for one familiar person.
+- Formal version of sentence 2: `Bonjour ! Comment allez-vous ?` — use `vous` and a neutral greeting.
+
+Bakery model:
+
+1. `Bonjour.`
+2. `Un croissant, s'il vous plaît.`
+3. `Merci beaucoup.`
+4. `Au revoir, bonne journée !`
+
+Your exact request may differ, but it must open with `Bonjour` and include `s'il vous plaît`.
+:::
+
 
 ## Unit 8: Numbers 0 to 20 and Introducing Yourself
 
@@ -609,6 +801,16 @@ Read the dialogue in French first. Then use the English to check your understand
 4. Where does liaison occur in `six euros`? What sound links them?
 5. Rewrite Claire's first line as if she were speaking to a close friend.
 
+:::answer
+1. `s'il vous plaît` appears in `Un café et un croissant, s'il vous plaît.`, `Six euros, s'il vous plaît.`, and `Plus lentement, s'il vous plaît ?` The formal form is correct because Claire and the server are strangers in a service interaction.
+2. Two silent final consonants: final **t** in `tout` and final **t** in `lentement`. Another clear one is final **p** in `beaucoup` from `merci beaucoup`. In `six euros`, the final written **x** is not silent because it links to the next word.
+3. Nasal vowels: `bonjour` has the nasal **on** in the first syllable. `combien` has two, the **om** of `com-` and the **ien** at the end. `six euros` has none — the useful sound there is liaison, not nasality.
+4. In `six euros`, the final **x** links to `euros` with a **z** sound: `six euros`.
+5. Close-friend version: `Salut. Un café et un croissant, s'il te plaît.` — `vous` changes to `te` because Claire is now speaking to one familiar person.
+
+One existing prompt is a little misleading: `six euros` is mainly a liaison example, not a nasal-vowel example.
+:::
+
 ## Connected reading: mon premier jour
 
 `Bonjour ! Je m'appelle Ana. J'ai dix-neuf ans et je suis canadienne. J'habite à Montréal, dans une petite rue près de l'université. Je parle un peu français, mais je ne comprends pas toujours les gens rapides. Le matin, je dis bonjour à mes voisins, et le soir je dis bonsoir. Quand je ne comprends pas, je demande : « Plus lentement, s'il vous plaît. » Les gens sont patients, alors je progresse un peu chaque jour.`
@@ -622,6 +824,16 @@ Read the dialogue in French first. Then use the English to check your understand
 3. Find two examples of elision.
 4. Find the two numbers and say them aloud.
 5. Rewrite the first three sentences about yourself, changing the name, age, nationality, and city.
+
+:::answer
+1. Rhythm task: answers vary, but you should hear even syllables, not one heavy English-style stress inside each word.
+2. Three nasal-vowel words include `Bonjour`, `ans`, `canadienne`, `Montréal`, `dans`, `comprends`, `gens`, `patients`, and `lentement`. Some of these stop being nasal in related feminine forms, so listen carefully.
+3. Two examples of elision: `m'appelle`, `J'ai`, `J'habite`, and `l'université`.
+4. The numbers are `dix-neuf` and the idea of `un` in `un peu`. `dix-neuf` is nineteen; `un` is one or a.
+5. Model rewrite: `Bonjour ! Je m'appelle Sam. J'ai vingt ans et je suis américain. J'habite à Boston, dans une petite rue près de l'université.`
+
+For your own version, keep `J'ai` for age and make the nationality adjective agree with the person speaking.
+:::
 
 ## Chapter reference sheet
 
@@ -675,3 +887,18 @@ After recording:
 5. re-record only the lines you corrected.
 
 When you can do this comfortably, you are ready for Chapter 1.
+
+:::answer
+Answers vary, but your script should sound like a polite beginner who can survive a first café interaction. Model script:
+
+`Bonjour monsieur, comment allez-vous ? Je m'appelle Ana. J'ai dix-neuf ans. Je suis canadienne et j'habite à Montréal. Je parle un peu français. Un café et un croissant, s'il vous plaît. Ça fait combien ? Pardon, je ne comprends pas. Plus lentement, s'il vous plaît ? Merci beaucoup. Au revoir, bonne journée !`
+
+How it satisfies the brief: it greets a stranger with `Bonjour` and `vous`; it gives name, age, nationality, city, and level; it orders two café items and asks the price; it says the learner does not understand and asks for slower speech; it ends with thanks and goodbye.
+
+Mark yourself wrong if:
+- you use `tu` with the stranger;
+- you say **Je suis dix-neuf ans** instead of `J'ai dix-neuf ans`;
+- you omit `s'il vous plaît` from the request;
+- you pronounce silent final consonants in words such as `vous`, `ans`, or `beaucoup`;
+- you leave out required apostrophes in `J'ai`, `J'habite`, or `s'il`.
+:::

@@ -268,6 +268,35 @@ code.speakable {
   cursor: pointer;
 }
 code.speakable:hover { outline: 2px solid var(--accent); }
+.answer-block {
+  margin: 1.2em 0 1.6em;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--surface-2);
+}
+.answer-block > summary {
+  padding: 11px 16px;
+  cursor: pointer;
+  font-weight: 700;
+  color: var(--primary-2);
+  list-style: none;
+  user-select: none;
+}
+.answer-block > summary::-webkit-details-marker { display: none; }
+.answer-block > summary::before {
+  content: "▸ ";
+  display: inline-block;
+  width: 1em;
+}
+.answer-block[open] > summary::before { content: "▾ "; }
+.answer-block[open] > summary { border-bottom: 1px solid var(--border); }
+.answer-body {
+  padding: 2px 16px 12px;
+  border-radius: 0 0 12px 12px;
+  background: var(--surface);
+}
+.answer-body > :first-child { margin-top: .9em; }
+.answer-body > :last-child { margin-bottom: .4em; }
 .table-wrap { overflow-x: auto; margin: 1.2em 0; }
 table { width: 100%; border-collapse: collapse; min-width: 480px; }
 th, td { padding: 10px 12px; border: 1px solid var(--border); text-align: left; }

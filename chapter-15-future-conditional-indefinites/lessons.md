@@ -15,6 +15,19 @@ Before beginning, make sure you can already:
 - identify the difference between a main clause and a subordinate clause;
 - recognize agreement in gender and number, since `tout` changes form.
 If you cannot produce `nous parlions`, `j'ai fini`, and `elle est arrivée` quickly, review those first.
+
+:::answer
+Check the prerequisites with these five quick productions.
+
+1. Give the imparfait of `parler` with `nous`. — `nous parlions`. The conditional will reuse endings from this family.
+2. Put `finir` in the passé composé with `j'`. — `j'ai fini`. The pluperfect and past conditional still need past participles.
+3. Put `arriver` in the passé composé with `elle`. — `elle est arrivée`. **Être** agreement continues in compound tenses.
+4. In `Si j'avais le temps, je voyagerais`, which clause gives the condition? — `Si j'avais le temps`. The `si` clause sets the condition; the other clause gives the result.
+5. Choose the right form: `___ les maisons`. — `toutes les maisons`. `maisons` is feminine plural, so `tout` becomes `toutes`.
+
+If you missed two or more, review the imparfait, passé composé, and agreement before continuing. Chapter 15 combines all three.
+:::
+
 ## How to study this chapter
 Learn the future and the conditional together, because they share the same stems. Then study the `si` patterns as fixed sentence frames. When you practice, say the whole two-clause sentence aloud rather than memorizing only isolated verb forms.
 ## Unit 1: Forming the future tense
@@ -56,6 +69,16 @@ Do not use the present tense automatically for future meaning just because Engli
 1. Conjugate `finir` and `vendre` in the future for all six persons.
 2. Build three sentences with these cues: `demain / nous / visiter le musée`, `ce soir / elle / écrire à sa sœur`, `la semaine prochaine / ils / vendre leur voiture`.
 3. Say the six future endings from memory.
+
+:::answer
+1. Future of `finir`: `je finirai`, `tu finiras`, `il finira`, `nous finirons`, `vous finirez`, `ils finiront` — regular -ir verbs keep the infinitive as the future stem.
+2. Future of `vendre`: `je vendrai`, `tu vendras`, `elle vendra`, `nous vendrons`, `vous vendrez`, `ils vendront` — -re verbs drop the final -e before the future endings.
+3. `Demain, nous visiterons le musée.` — future ending -ons with `nous`.
+4. `Ce soir, elle écrira à sa sœur.` — `écrire` uses the future stem écrir-, plus -a for `elle`.
+5. `La semaine prochaine, ils vendront leur voiture.` — `vendre` drops final -e, then takes -ont for `ils`.
+6. The six endings are -ai, -as, -a, -ons, -ez, -ont. The stem says which verb; the ending says who will do it.
+:::
+
 ## Unit 2: Irregular future stems and future-time clauses
 ### Core idea
 Many common verbs have irregular future stems, but the endings stay regular. French also uses the future in time clauses introduced by `quand`, `lorsque`, and `dès que` when the meaning is future.
@@ -91,6 +114,17 @@ Do not write `*Quand j'arrive, je t'appellerai` when you mean a future arrival. 
 1. Conjugate `être`, `avoir`, `aller`, and `venir` in the future for `je`, `nous`, and `ils`.
 2. Complete these frames: `Quand je...`, `Lorsque nous...`, `Dès qu'elle...`.
 3. Rewrite three English prompts in French: “When we arrive, we will eat.” “As soon as he knows, he will tell me.” “When you see Paul, you will give him the file.”
+
+:::answer
+1. `je serai`, `nous serons`, `ils seront`; `j'aurai`, `nous aurons`, `ils auront`; `j'irai`, `nous irons`, `ils iront`; `je viendrai`, `nous viendrons`, `ils viendront` — the stems are irregular, but the future endings are regular.
+2. `Quand je finirai, je t'appellerai.` — future meaning after `quand` takes the future in French.
+3. `Lorsque nous arriverons, nous mangerons.` — both actions are future, so both verbs are future.
+4. `Dès qu'elle saura la réponse, elle nous le dira.` — `savoir` uses saur-; `dire` uses dir- in the future.
+5. “When we arrive, we will eat.” → `Quand nous arriverons, nous mangerons.`
+6. “As soon as he knows, he will tell me.” → `Dès qu'il saura, il me le dira.`
+7. “When you see Paul, you will give him the file.” → `Quand tu verras Paul, tu lui donneras le dossier.`
+:::
+
 ## Unit 3: Forming and using the conditional
 ### Core idea
 The conditional uses the **future stem** plus the **imparfait endings**. It often expresses politeness, desire, advice, or a hypothetical result.
@@ -134,6 +168,18 @@ Do not mix future endings and conditional endings.
 1. Write the conditional forms of `être`, `avoir`, `faire`, and `venir` for all six persons.
 2. Turn these prompts into polite requests: `pouvoir / fermer la fenêtre`; `vouloir / parler au directeur`; `aimer / essayer ce dessert`.
 3. Give three pieces of advice beginning with `Tu devrais...` or `Vous devriez...`.
+
+:::answer
+1. `je serais`, `tu serais`, `il serait`, `nous serions`, `vous seriez`, `ils seraient`.
+2. `j'aurais`, `tu aurais`, `elle aurait`, `nous aurions`, `vous auriez`, `elles auraient`.
+3. `je ferais`, `tu ferais`, `on ferait`, `nous ferions`, `vous feriez`, `ils feraient`.
+4. `je viendrais`, `tu viendrais`, `elle viendrait`, `nous viendrions`, `vous viendriez`, `ils viendraient`.
+5. `Pourriez-vous fermer la fenêtre ?` — conditional of `pouvoir` makes the request polite.
+6. `Je voudrais parler au directeur.` — `voudrais` is the polite conditional; `voudrai` would mean future.
+7. `J'aimerais essayer ce dessert.` — conditional of `aimer` expresses a wish.
+8. Advice examples: `Tu devrais dormir plus tôt.`, `Vous devriez appeler le médecin.`, `Tu devrais relire la consigne.` Advice uses conditional forms of `devoir`.
+:::
+
 ## Unit 4: The pluperfect and the past conditional
 ### Core idea
 The pluperfect (`plus-que-parfait`) places one past action before another past moment. The past conditional expresses what would have happened under different past circumstances.
@@ -164,6 +210,17 @@ Do not confuse `j'avais fini` (had finished) with `j'ai fini` (finished / have f
 1. Build one pluperfect sentence with `avoir`, one with `être`, and one pronominal pluperfect sentence.
 2. Turn these cues into past conditional sentences: `nous / venir`, `elle / accepter`, `ils / se lever plus tôt`.
 3. Pair one pluperfect sentence with one passé composé sentence to show sequence in the past.
+
+:::answer
+1. `J'avais fini le travail.` — pluperfect with the imparfait auxiliary `avais` plus the participle `fini`.
+2. `Elle était partie avant midi.` — pluperfect with **être**; `partie` agrees with feminine singular `elle`.
+3. `Nous nous étions levés tôt.` — pronominal pluperfect uses **être**, and the participle agrees with `nous` when the reflexive pronoun is direct.
+4. `Nous serions venus.` — past conditional with conditional **être** plus participle; `venus` agrees with masculine or mixed plural `nous`.
+5. `Elle aurait accepté.` — past conditional with conditional **avoir**; no agreement because there is no preceding direct object.
+6. `Ils se seraient levés plus tôt.` — pronominal past conditional uses **être** and agreement with `ils`.
+7. Sequence pair: `J'avais déjà préparé le dîner quand mes amis sont arrivés.` The pluperfect action happened first; the passé composé event happened next in the story.
+:::
+
 ## Unit 5: The three standard `si` patterns
 ### Core idea
 French `si` clauses follow stable tense patterns. Learn them as complete sentence frames.
@@ -188,6 +245,20 @@ Never put the future or the conditional directly after `si` in these standard pa
 1. Finish three real-possibility sentences starting with `Si j'ai...`, `Si nous finissons...`, `Si vous voyez Paul...`.
 2. Finish three hypothetical sentences starting with `Si j'étais...`, `Si tu pouvais...`, `Si elles habitaient ici...`.
 3. Finish two regret sentences starting with `Si nous avions su...`, `Si je m'étais réveillé plus tôt...`.
+
+:::answer
+1. `Si j'ai le temps, je t'appellerai.` — real possibility: `si` + present, then future.
+2. `Si nous finissons tôt, nous sortirons.` — still a real future possibility, so the `si` clause stays present.
+3. `Si vous voyez Paul, donnez-lui le dossier.` — real possibility plus imperative is allowed.
+4. `Si j'étais riche, je voyagerais.` — present/future hypothetical: `si` + imparfait, then conditional.
+5. `Si tu pouvais venir, nous dînerions ensemble.` — `pouvais` is imparfait; `dînerions` is conditional.
+6. `Si elles habitaient ici, elles prendraient le métro.` — hypothetical condition plus hypothetical result.
+7. `Si nous avions su, nous serions venus plus tôt.` — unreal past: `si` + pluperfect, then past conditional.
+8. `Si je m'étais réveillé plus tôt, j'aurais pris le train.` — the missed condition is pluperfect; the missed result is past conditional.
+
+Never put a future or conditional form immediately after `si` in these standard patterns.
+:::
+
 ## Unit 6: `Tout` and other common indefinite words
 ### Core idea
 Indefinites help you speak about quantity or identity without naming exact numbers or exact people: all, every, some, several, none, each.
@@ -218,6 +289,18 @@ Remember that `chaque` is singular in form, even though it refers to many people
 1. Complete with the right form of `tout`: `___ la ville`, `___ les jours`, `___ mes amies`, `___ le repas`.
 2. Write one future sentence with `chaque`, one conditional sentence with `certains`, and one negative sentence with `aucun`.
 3. Replace a specific quantity with an indefinite word: `trois amis viendront` -> `quelques amis viendront`.
+
+:::answer
+1. `toute la ville` — `ville` is feminine singular, so use `toute`.
+2. `tous les jours` — `jours` is masculine plural, so use `tous`.
+3. `toutes mes amies` — `amies` is feminine plural, so use `toutes`.
+4. `tout le repas` — `repas` is masculine singular, so use `tout`.
+5. `Chaque étudiant recevra un courriel.` — `chaque` is followed by a singular noun and a singular verb.
+6. `Certains préféreraient attendre.` — `certains` is plural and the conditional expresses preference.
+7. `Aucune réponse ne serait parfaite.` — `aucun / aucune` normally appears with `ne`; `réponse` is feminine singular.
+8. `Trois amis viendront.` → `Quelques amis viendront.` — `quelques` gives an indefinite small quantity and stays with a plural noun.
+:::
+
 ## Cumulative sentence-usage practice
 Read each sentence aloud twice, then cover it and rebuild it from memory.
 1. `Demain, nous irons à la banque et nous parlerons au directeur.` — Tomorrow, we will go to the bank and speak to the manager.
@@ -226,22 +309,73 @@ Read each sentence aloud twice, then cover it and rebuild it from memory.
 4. `Elle avait déjà terminé quand nous sommes arrivés.` — She had already finished when we arrived.
 5. `Quand tu verras Paul, tu lui donneras toutes les informations.` — When you see Paul, you will give him all the information.
 6. `Si nous avions réservé plus tôt, nous aurions eu quelques places près de la fenêtre.` — If we had reserved earlier, we would have had a few seats near the window.
+
+:::answer
+After writing from memory, check stems and tense patterns before small spelling details.
+
+- **Future stems.** `irons`, `parlerons`, `verras`, and `donneras` are future forms. Sentence 5 uses future in both clauses because `quand` refers to future time.
+- **Conditional forms.** `voudrais` and `voyagerais` use future stems plus imparfait endings. Do not confuse `voudrais` with future `voudrai`.
+- **Earlier past.** `avait terminé` and `avions réservé` are pluperfect forms: imparfait auxiliary plus participle.
+- **Unreal past result.** `aurions eu` is past conditional: conditional auxiliary plus participle.
+- **Indefinites.** Check `tous ces pays`, `toutes les informations`, and `quelques places`. The form must match the noun or the quantity idea.
+
+Mark yourself wrong for any future or conditional form placed directly after `si` in these standard patterns.
+:::
+
 ### Notice and mark
 For each sentence:
 1. circle the tense-bearing verb;
 2. label it future, conditional, pluperfect, past conditional, or passé composé;
 3. box the indefinite word if there is one.
+
+:::answer
+| # | Tense-bearing verb(s) | Label | Indefinite |
+|---|---|---|---|
+| 1 | `irons`, `parlerons` | future, future | — |
+| 2 | `voudrais` | conditional | — |
+| 3 | `avais`, `voyagerais` | imparfait in the `si` clause, conditional result | `tous ces pays` |
+| 4 | `avait terminé`, `sommes arrivés` | pluperfect, passé composé | — |
+| 5 | `verras`, `donneras` | future, future | `toutes les informations` |
+| 6 | `avions réservé`, `aurions eu` | pluperfect, past conditional | `quelques places` |
+
+The most important pattern is sentence 6: `si` + pluperfect gives an unreal past condition, and the result uses the past conditional. Do not write a conditional auxiliary immediately after `si`.
+:::
+
 ### Change the sentence
 Rewrite sentences 1-4 twice each:
 1. change the subject, person, or number;
 2. change one meaningful detail such as the place, object, or condition.
 Then rewrite sentence 3 as a real possibility and sentence 6 as present advice instead of regret.
+
+:::answer
+One worked set:
+
+1. Subject: `Demain, elle ira à la banque et elle parlera au directeur.` Detail: `Demain, nous irons à la gare et nous parlerons à l'employé.`
+2. Subject: `Nous voudrions ouvrir un compte, s'il vous plaît.` Detail: `Je voudrais réserver une table, s'il vous plaît.`
+3. Subject: `Si nous avions plus de temps, nous voyagerions dans tous ces pays.` Detail: `Si j'avais plus d'argent, j'achèterais tous ces livres.`
+4. Subject: `Elles avaient déjà terminé quand nous sommes arrivés.` Detail: `Elle avait déjà préparé le dîner quand ses amis sont arrivés.`
+
+Sentence 3 as a real possibility: `Si j'ai plus de temps, je voyagerai dans tous ces pays.` Sentence 6 as present advice instead of regret: `Vous devriez réserver plus tôt pour avoir quelques places près de la fenêtre.`
+:::
+
 ### Make it personal
 Write four new sentences:
 - one with the future;
 - one with the conditional;
 - one `si` sentence;
 - one sentence using `tout`, `chaque`, `plusieurs`, `aucun`, or `chacun`.
+
+:::answer
+Answers vary. A model set:
+
+- Future: `Demain, je travaillerai à la maison.` — future stem plus future ending.
+- Conditional: `J'aimerais visiter Montréal.` — conditional of `aimer` expresses a wish.
+- `Si` sentence: `Si j'avais plus de temps, je lirais tous les soirs.` — `si` + imparfait, then conditional.
+- Indefinite: `Chaque ami recevra un message.` — `chaque` is followed by a singular noun and singular verb.
+
+Check your own four for the big errors: no future or conditional directly after `si`, correct irregular stems, and agreement in forms of `tout`.
+:::
+
 ## Mini-dialogue: planning a move
 **Nora :** `Alors, quand est-ce que tu déménageras ?` — So, when will you move?
 **Yanis :** `Je partirai probablement en octobre, dès que je signerai le nouveau bail.` — I will probably leave in October, as soon as I sign the new lease.
@@ -257,15 +391,33 @@ Write four new sentences:
 3. Replace `quelques amis` with `toute la famille` and make every necessary agreement change.
 4. Rewrite `Ce serait pratique` as direct present-tense advice to `tu`.
 5. Create one more `si` sentence that Nora could say.
+
+:::answer
+1. Future form: `tu déménageras`, `Je partirai`, `je signerai`, `Tu vivras`. Conditional form: `j'aimerais`, `trouvais` is imparfait in a `si` clause, and `serait` is conditional. Pluperfect: `Tu avais déjà visité`, `je ne l'avais pas aimé`. Past conditional: `je ne l'aurais jamais choisi`.
+2. In future-time clauses with `dès que`, French uses the future in both clauses: `dès que je signerai le nouveau bail, je partirai probablement en octobre`. English often uses present after “as soon as,” but French does not in this pattern.
+3. `J'aimerais inviter toute la famille le premier soir.` — `quelques amis` becomes feminine singular `toute la famille`. No participle agreement is involved because this is an infinitive construction.
+4. Direct advice: `Tu devrais chercher un appartement plus près du centre.` The conditional of `devoir` gives advice.
+5. Nora could add: `Si tu avais plus d'argent, tu choisirais un appartement près du centre.` This is `si` + imparfait with a conditional result.
+:::
+
 ## Connected reading: un projet pour l'année prochaine
 `L'année prochaine, je prendrai une semaine de vacances en avril et je visiterai la Bretagne avec ma sœur. Nous irons en train, et dès que nous arriverons, nous louerons des vélos pour explorer les villages voisins. J'aimerais voir la mer tous les matins, mais je voudrais aussi passer du temps dans les petites librairies du centre. Si le temps était mauvais, nous changerions peut-être notre programme, mais nous trouverions quand même quelque chose d'intéressant à faire. J'avais déjà regardé plusieurs hôtels l'hiver dernier, mais aucun ne convenait vraiment à notre budget. Si j'avais réservé plus tôt, j'aurais sans doute trouvé une meilleure offre.`
 — Next year, I will take a week of vacation in April and I will visit Brittany with my sister. We will go by train, and as soon as we arrive, we will rent bicycles to explore the neighboring villages. I would like to see the sea every morning, but I would also like to spend time in the small bookstores downtown. If the weather were bad, we might change our plan, but we would still find something interesting to do. I had already looked at several hotels last winter, but none of them really suited our budget. If I had booked earlier, I probably would have found a better deal.
 ### Reading practice
 1. List the future forms and explain why each one is future rather than present.
-2. Find the two conditional forms and explain what condition they depend on.
+2. Find the four conditional forms. Say which two depend on a `si` clause, and what the other two are doing instead.
 3. Find the pluperfect and the past conditional.
 4. List every indefinite word in the passage and explain what it refers to.
 5. Write three follow-up sentences about what the narrator will do after arriving.
+
+:::answer
+1. Future forms: `je prendrai`, `je visiterai`, `Nous irons`, `nous arriverons`, `nous louerons`. They refer to planned future actions, and `dès que nous arriverons` is future because the arrival is still in the future.
+2. Conditional forms: `J'aimerais`, `je voudrais`, `nous changerions`, `nous trouverions`. Only the last two depend on a condition — the `si` clause `Si le temps était mauvais`, which pairs an imperfect `si` clause with a conditional main clause. `J'aimerais` and `je voudrais` depend on nothing: the conditional is being used to soften a wish, which is why `je voudrais` sounds polite where `je veux` sounds blunt.
+3. Pluperfect: `J'avais déjà regardé plusieurs hôtels`. Past conditional: `j'aurais sans doute trouvé une meilleure offre`.
+4. Indefinites: `tous les matins` means every morning; `plusieurs hôtels` means several hotels; `aucun` refers to no hotel; `quelque chose` means something indefinite; `une meilleure offre` is one nonspecific offer.
+5. Follow-up sentences: `Quand nous arriverons, nous déposerons nos sacs à l'hôtel. Ensuite, nous marcherons près de la mer. Si nous avons assez d'énergie, nous visiterons une petite librairie.` Future-time `quand` and real `si` possibilities use future or present according to the standard patterns.
+:::
+
 ## Common mistakes to avoid
 1. Forgetting to drop the final `-e` in `-re` verbs: `elle vendra`, not `*elle vendera`.
 2. Using the present after `quand`, `lorsque`, or `dès que` when the meaning is future.
@@ -333,3 +485,19 @@ After writing:
 4. check agreement of every indefinite word;
 5. read the paragraph aloud twice;
 6. rewrite any sentence whose tense pattern was wrong.
+
+:::answer
+Answers vary. Here is a model paragraph that satisfies the brief:
+
+`L'année prochaine, je commencerai un nouveau projet et je travaillerai avec plusieurs collègues. Quand nous aurons le calendrier final, nous réserverons toutes les salles nécessaires. J'aimerais organiser une première réunion en avril, et mes collègues voudraient inviter quelques partenaires. J'avais déjà préparé une liste l'année dernière, mais elle était trop vague. Si j'avais gardé mes anciennes notes, j'aurais gagné du temps. Si le budget augmente, nous achèterons aussi de nouveaux logiciels. Chaque personne recevra un rôle précis. Ce serait plus simple avec un assistant, mais nous ferons le travail ensemble.`
+
+How it satisfies the brief: future forms include `commencerai`, `travaillerai`, `aurons`, `réserverons`, `achèterons`, `recevra`, `ferons`; conditionals include `j'aimerais`, `voudraient`, and `serait`; the future-time clause is `Quand nous aurons...`; the pluperfect is `j'avais déjà préparé`; the past conditional is `j'aurais gagné`; the `si` clauses follow correct patterns; and the indefinites include `plusieurs`, `toutes`, `quelques`, and `chaque`.
+
+Mark yourself wrong if:
+- a future-time `quand` or `dès que` clause uses the present by English habit;
+- a future or conditional appears immediately after `si`;
+- `tout` fails to agree with its noun;
+- a past conditional uses a present auxiliary instead of a conditional auxiliary;
+- a conditional request accidentally uses future `voudrai` instead of `voudrais`.
+:::
+
