@@ -34,17 +34,20 @@
           <input id="search" type="search" placeholder="e.g. adjective, passé composé">
         </div>
         <div id="progress-summary" class="progress-summary"></div>
-        <div class="search-wrap voice-wrap">
-          <label for="voice-select">French voice</label>
-          <select id="voice-select"></select>
-          <p id="voice-hint" class="voice-hint"></p>
-        </div>
-        <div class="search-wrap voice-wrap">
-          <label for="speed-range">Speaking speed — <span id="speed-value">88%</span></label>
-          <input id="speed-range" class="speed-range" type="range" min="20" max="100" step="5" value="88" />
-          <p class="voice-hint">100% is normal French speed; 50% is half speed. Slow it down to hear every syllable, then build back up.</p>
-        </div>
         <nav id="chapter-list"></nav>
+        <details class="settings-group">
+          <summary>Pronunciation settings</summary>
+          <div class="search-wrap voice-wrap">
+            <label for="voice-select">French voice</label>
+            <select id="voice-select"></select>
+            <p id="voice-hint" class="voice-hint"></p>
+          </div>
+          <div class="search-wrap voice-wrap">
+            <label for="speed-range">Speaking speed — <span id="speed-value">88%</span></label>
+            <input id="speed-range" class="speed-range" type="range" min="20" max="100" step="5" value="88" />
+            <p class="voice-hint">100% is normal French speed; 50% is half speed. Slow it down to hear every syllable, then build back up.</p>
+          </div>
+        </details>
       </aside>
 
       <main id="main" class="main-content" tabindex="-1">

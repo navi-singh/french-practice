@@ -488,107 +488,107 @@ Mark yourself wrong if:
 
 ## English-to-French Translation Practice (100 Sentences)
 
-Translate each English sentence aloud or in writing before checking the French on the right.
+Cover the French column, translate each English sentence aloud, then uncover to check. These sentences use only grammar and vocabulary from this chapter and the chapters before it.
 
 | English | French |
 | --- | --- |
-| 1. I am a student and I am tired today. | `Je suis étudiant et je suis fatigué aujourd’hui.` |
-| 2. I am a student and I am tired every day. | `Je suis étudiant et je suis fatigué tous les jours.` |
-| 3. I am a student and I am tired at home. | `Je suis étudiant et je suis fatigué à la maison.` |
-| 4. I am a student and I am tired at school. | `Je suis étudiant et je suis fatigué à l’école.` |
-| 5. I am a student and I am tired with my family. | `Je suis étudiant et je suis fatigué avec ma famille.` |
-| 6. I am a student and I am tired with my friends. | `Je suis étudiant et je suis fatigué avec mes amis.` |
-| 7. I am a student and I am tired after lunch. | `Je suis étudiant et je suis fatigué après le déjeuner.` |
-| 8. I am a student and I am tired before dinner. | `Je suis étudiant et je suis fatigué avant le dîner.` |
-| 9. I am a student and I am tired in the morning. | `Je suis étudiant et je suis fatigué le matin.` |
-| 10. I am a student and I am tired on Sundays. | `Je suis étudiant et je suis fatigué le dimanche.` |
-| 11. She has two brothers today. | `Elle a deux frères aujourd’hui.` |
-| 12. She has two brothers every day. | `Elle a deux frères tous les jours.` |
-| 13. She has two brothers at home. | `Elle a deux frères à la maison.` |
-| 14. She has two brothers at school. | `Elle a deux frères à l’école.` |
-| 15. She has two brothers with my family. | `Elle a deux frères avec ma famille.` |
-| 16. She has two brothers with my friends. | `Elle a deux frères avec mes amis.` |
-| 17. She has two brothers after lunch. | `Elle a deux frères après le déjeuner.` |
-| 18. She has two brothers before dinner. | `Elle a deux frères avant le dîner.` |
-| 19. She has two brothers in the morning. | `Elle a deux frères le matin.` |
-| 20. She has two brothers on Sundays. | `Elle a deux frères le dimanche.` |
-| 21. We are not at home today today. | `Nous ne sommes pas à la maison aujourd’hui aujourd’hui.` |
-| 22. We are not at home today every day. | `Nous ne sommes pas à la maison aujourd’hui tous les jours.` |
-| 23. We are not at home today at home. | `Nous ne sommes pas à la maison aujourd’hui à la maison.` |
-| 24. We are not at home today at school. | `Nous ne sommes pas à la maison aujourd’hui à l’école.` |
-| 25. We are not at home today with my family. | `Nous ne sommes pas à la maison aujourd’hui avec ma famille.` |
-| 26. We are not at home today with my friends. | `Nous ne sommes pas à la maison aujourd’hui avec mes amis.` |
-| 27. We are not at home today after lunch. | `Nous ne sommes pas à la maison aujourd’hui après le déjeuner.` |
-| 28. We are not at home today before dinner. | `Nous ne sommes pas à la maison aujourd’hui avant le dîner.` |
-| 29. We are not at home today in the morning. | `Nous ne sommes pas à la maison aujourd’hui le matin.` |
-| 30. We are not at home today on Sundays. | `Nous ne sommes pas à la maison aujourd’hui le dimanche.` |
-| 31. There is a book on the table today. | `Il y a un livre sur la table aujourd’hui.` |
-| 32. There is a book on the table every day. | `Il y a un livre sur la table tous les jours.` |
-| 33. There is a book on the table at home. | `Il y a un livre sur la table à la maison.` |
-| 34. There is a book on the table at school. | `Il y a un livre sur la table à l’école.` |
-| 35. There is a book on the table with my family. | `Il y a un livre sur la table avec ma famille.` |
-| 36. There is a book on the table with my friends. | `Il y a un livre sur la table avec mes amis.` |
-| 37. There is a book on the table after lunch. | `Il y a un livre sur la table après le déjeuner.` |
-| 38. There is a book on the table before dinner. | `Il y a un livre sur la table avant le dîner.` |
-| 39. There is a book on the table in the morning. | `Il y a un livre sur la table le matin.` |
-| 40. There is a book on the table on Sundays. | `Il y a un livre sur la table le dimanche.` |
-| 41. They do not have any children today. | `Ils n’ont pas d’enfants aujourd’hui.` |
-| 42. They do not have any children every day. | `Ils n’ont pas d’enfants tous les jours.` |
-| 43. They do not have any children at home. | `Ils n’ont pas d’enfants à la maison.` |
-| 44. They do not have any children at school. | `Ils n’ont pas d’enfants à l’école.` |
-| 45. They do not have any children with my family. | `Ils n’ont pas d’enfants avec ma famille.` |
-| 46. They do not have any children with my friends. | `Ils n’ont pas d’enfants avec mes amis.` |
-| 47. They do not have any children after lunch. | `Ils n’ont pas d’enfants après le déjeuner.` |
-| 48. They do not have any children before dinner. | `Ils n’ont pas d’enfants avant le dîner.` |
-| 49. They do not have any children in the morning. | `Ils n’ont pas d’enfants le matin.` |
-| 50. They do not have any children on Sundays. | `Ils n’ont pas d’enfants le dimanche.` |
-| 51. Are you hungry today? | `Est-ce que tu as faim aujourd’hui ?` |
-| 52. Are you hungry every day? | `Est-ce que tu as faim tous les jours ?` |
-| 53. Are you hungry at home? | `Est-ce que tu as faim à la maison ?` |
-| 54. Are you hungry at school? | `Est-ce que tu as faim à l’école ?` |
-| 55. Are you hungry with my family? | `Est-ce que tu as faim avec ma famille ?` |
-| 56. Are you hungry with my friends? | `Est-ce que tu as faim avec mes amis ?` |
-| 57. Are you hungry after lunch? | `Est-ce que tu as faim après le déjeuner ?` |
-| 58. Are you hungry before dinner? | `Est-ce que tu as faim avant le dîner ?` |
-| 59. Are you hungry in the morning? | `Est-ce que tu as faim le matin ?` |
-| 60. Are you hungry on Sundays? | `Est-ce que tu as faim le dimanche ?` |
-| 61. You are kind, but you are not always patient today. | `Vous êtes gentil, mais vous n’êtes pas toujours patient aujourd’hui.` |
-| 62. You are kind, but you are not always patient every day. | `Vous êtes gentil, mais vous n’êtes pas toujours patient tous les jours.` |
-| 63. You are kind, but you are not always patient at home. | `Vous êtes gentil, mais vous n’êtes pas toujours patient à la maison.` |
-| 64. You are kind, but you are not always patient at school. | `Vous êtes gentil, mais vous n’êtes pas toujours patient à l’école.` |
-| 65. You are kind, but you are not always patient with my family. | `Vous êtes gentil, mais vous n’êtes pas toujours patient avec ma famille.` |
-| 66. You are kind, but you are not always patient with my friends. | `Vous êtes gentil, mais vous n’êtes pas toujours patient avec mes amis.` |
-| 67. You are kind, but you are not always patient after lunch. | `Vous êtes gentil, mais vous n’êtes pas toujours patient après le déjeuner.` |
-| 68. You are kind, but you are not always patient before dinner. | `Vous êtes gentil, mais vous n’êtes pas toujours patient avant le dîner.` |
-| 69. You are kind, but you are not always patient in the morning. | `Vous êtes gentil, mais vous n’êtes pas toujours patient le matin.` |
-| 70. You are kind, but you are not always patient on Sundays. | `Vous êtes gentil, mais vous n’êtes pas toujours patient le dimanche.` |
-| 71. We have a little time today. | `Nous avons un peu de temps aujourd’hui.` |
-| 72. We have a little time every day. | `Nous avons un peu de temps tous les jours.` |
-| 73. We have a little time at home. | `Nous avons un peu de temps à la maison.` |
-| 74. We have a little time at school. | `Nous avons un peu de temps à l’école.` |
-| 75. We have a little time with my family. | `Nous avons un peu de temps avec ma famille.` |
-| 76. We have a little time with my friends. | `Nous avons un peu de temps avec mes amis.` |
-| 77. We have a little time after lunch. | `Nous avons un peu de temps après le déjeuner.` |
-| 78. We have a little time before dinner. | `Nous avons un peu de temps avant le dîner.` |
-| 79. We have a little time in the morning. | `Nous avons un peu de temps le matin.` |
-| 80. We have a little time on Sundays. | `Nous avons un peu de temps le dimanche.` |
-| 81. Is there a café near the station today? | `Y a-t-il un café près de la gare aujourd’hui ?` |
-| 82. Is there a café near the station every day? | `Y a-t-il un café près de la gare tous les jours ?` |
-| 83. Is there a café near the station at home? | `Y a-t-il un café près de la gare à la maison ?` |
-| 84. Is there a café near the station at school? | `Y a-t-il un café près de la gare à l’école ?` |
-| 85. Is there a café near the station with my family? | `Y a-t-il un café près de la gare avec ma famille ?` |
-| 86. Is there a café near the station with my friends? | `Y a-t-il un café près de la gare avec mes amis ?` |
-| 87. Is there a café near the station after lunch? | `Y a-t-il un café près de la gare après le déjeuner ?` |
-| 88. Is there a café near the station before dinner? | `Y a-t-il un café près de la gare avant le dîner ?` |
-| 89. Is there a café near the station in the morning? | `Y a-t-il un café près de la gare le matin ?` |
-| 90. Is there a café near the station on Sundays? | `Y a-t-il un café près de la gare le dimanche ?` |
-| 91. They are Canadian and they are very happy today. | `Ils sont canadiens et ils sont très heureux aujourd’hui.` |
-| 92. They are Canadian and they are very happy every day. | `Ils sont canadiens et ils sont très heureux tous les jours.` |
-| 93. They are Canadian and they are very happy at home. | `Ils sont canadiens et ils sont très heureux à la maison.` |
-| 94. They are Canadian and they are very happy at school. | `Ils sont canadiens et ils sont très heureux à l’école.` |
-| 95. They are Canadian and they are very happy with my family. | `Ils sont canadiens et ils sont très heureux avec ma famille.` |
-| 96. They are Canadian and they are very happy with my friends. | `Ils sont canadiens et ils sont très heureux avec mes amis.` |
-| 97. They are Canadian and they are very happy after lunch. | `Ils sont canadiens et ils sont très heureux après le déjeuner.` |
-| 98. They are Canadian and they are very happy before dinner. | `Ils sont canadiens et ils sont très heureux avant le dîner.` |
-| 99. They are Canadian and they are very happy in the morning. | `Ils sont canadiens et ils sont très heureux le matin.` |
-| 100. They are Canadian and they are very happy on Sundays. | `Ils sont canadiens et ils sont très heureux le dimanche.` |
+| 1. I am a student. | `Je suis étudiant.` |
+| 2. You informal are my friend. | `Tu es mon ami.` |
+| 3. He is Canadian. | `Il est canadien.` |
+| 4. She is French. | `Elle est française.` |
+| 5. We are in Paris. | `Nous sommes à Paris.` |
+| 6. You formal are on time. | `Vous êtes à l’heure.` |
+| 7. They masculine are tired. | `Ils sont fatigués.` |
+| 8. They feminine are happy. | `Elles sont contentes.` |
+| 9. People are friendly here. | `On est sympathique ici.` |
+| 10. We informal are in a small café. | `On est dans un petit café.` |
+| 11. You plural are Canadian. | `Vous êtes canadiens.` |
+| 12. My sister is a doctor. | `Ma sœur est médecin.` |
+| 13. My brother is an engineer. | `Mon frère est ingénieur.` |
+| 14. This is my new apartment. | `C’est mon nouvel appartement.` |
+| 15. It is a good restaurant. | `C’est un bon restaurant.` |
+| 16. I am American. | `Je suis américain.` |
+| 17. She is American. | `Elle est américaine.` |
+| 18. We are students. | `Nous sommes étudiants.` |
+| 19. They are professors. | `Ils sont professeurs.` |
+| 20. The kitchen is white. | `La cuisine est blanche.` |
+| 21. The neighbors are noisy. | `Les voisins sont bruyants.` |
+| 22. The street is quiet. | `La rue est tranquille.` |
+| 23. You formal are late. | `Vous êtes en retard.` |
+| 24. We are early. | `Nous sommes en avance.` |
+| 25. I agree with you informal. | `Je suis d’accord avec toi.` |
+| 26. We agree with you formal. | `Nous sommes d’accord avec vous.` |
+| 27. She is in the middle of studying French. | `Elle est en train d’étudier le français.` |
+| 28. They are in the middle of working. | `Ils sont en train de travailler.` |
+| 29. I am happy to be here. | `Je suis content d’être ici.` |
+| 30. She is happy to be in Montreal. | `Elle est contente d’être à Montréal.` |
+| 31. The hotel is downtown. | `L’hôtel est dans le centre-ville.` |
+| 32. My roommates are friendly. | `Mes colocataires sont sympathiques.` |
+| 33. This is Sophie. | `C’est Sophie.` |
+| 34. It is pleasant. | `C’est agréable.` |
+| 35. You informal are the new roommate. | `Tu es la nouvelle colocataire.` |
+| 36. I am twenty years old. | `J’ai vingt ans.` |
+| 37. You informal are hungry. | `Tu as faim.` |
+| 38. He is thirsty. | `Il a soif.` |
+| 39. She is cold. | `Elle a froid.` |
+| 40. We are hot. | `Nous avons chaud.` |
+| 41. You formal are right. | `Vous avez raison.` |
+| 42. They are wrong. | `Ils ont tort.` |
+| 43. I am afraid of the dog. | `J’ai peur du chien.` |
+| 44. She needs a pen. | `Elle a besoin d’un stylo.` |
+| 45. We feel like going out this evening. | `Nous avons envie de sortir ce soir.` |
+| 46. They are lucky. | `Ils ont de la chance.` |
+| 47. My brother has a blue notebook. | `Mon frère a un cahier bleu.` |
+| 48. My sister has a red bag. | `Ma sœur a un sac rouge.` |
+| 49. We have two bedrooms. | `Nous avons deux chambres.` |
+| 50. You plural have a large garden. | `Vous avez un grand jardin.` |
+| 51. The apartment has a beautiful view. | `L’appartement a une belle vue.` |
+| 52. The house has a white kitchen. | `La maison a une cuisine blanche.` |
+| 53. I have nineteen euros. | `J’ai dix-neuf euros.` |
+| 54. You informal have a new friend. | `Tu as un nouvel ami.` |
+| 55. The students have French books. | `Les étudiants ont des livres français.` |
+| 56. There is a pharmacy near the house. | `Il y a une pharmacie près de la maison.` |
+| 57. There are children in the garden. | `Il y a des enfants dans le jardin.` |
+| 58. There is a problem. | `Il y a un problème.` |
+| 59. There is bread in the kitchen. | `Il y a du pain dans la cuisine.` |
+| 60. There are some fruits on the table. | `Il y a des fruits sur la table.` |
+| 61. There is water in the fridge. | `Il y a de l’eau dans le frigo.` |
+| 62. There is a park near my street. | `Il y a un parc près de ma rue.` |
+| 63. There are two chairs in the room. | `Il y a deux chaises dans la salle.` |
+| 64. There is a quiet café downtown. | `Il y a un café tranquille dans le centre-ville.` |
+| 65. There are no cars in the street. | `Il n’y a pas de voitures dans la rue.` |
+| 66. I am not ready. | `Je ne suis pas prêt.` |
+| 67. You informal are not late. | `Tu n’es pas en retard.` |
+| 68. He is not American. | `Il n’est pas américain.` |
+| 69. She is not tired. | `Elle n’est pas fatiguée.` |
+| 70. We are not noisy. | `Nous ne sommes pas bruyants.` |
+| 71. You formal are not alone. | `Vous n’êtes pas seul.` |
+| 72. They feminine are not Canadian. | `Elles ne sont pas canadiennes.` |
+| 73. It is not a car. | `Ce n’est pas une voiture.` |
+| 74. It is not a problem. | `Ce n’est pas un problème.` |
+| 75. My neighbor is not patient. | `Ma voisine n’est pas patiente.` |
+| 76. I do not have a car. | `Je n’ai pas de voiture.` |
+| 77. You informal do not have a pen. | `Tu n’as pas de stylo.` |
+| 78. He does not have a notebook. | `Il n’a pas de cahier.` |
+| 79. She does not have brothers. | `Elle n’a pas de frères.` |
+| 80. We do not have coffee. | `Nous n’avons pas de café.` |
+| 81. You plural do not have photos. | `Vous n’avez pas de photos.` |
+| 82. They do not have French books. | `Ils n’ont pas de livres français.` |
+| 83. I am not hungry. | `Je n’ai pas faim.` |
+| 84. She is not thirsty. | `Elle n’a pas soif.` |
+| 85. We are not cold. | `Nous n’avons pas froid.` |
+| 86. There is no solution. | `Il n’y a pas de solution.` |
+| 87. There are no chairs. | `Il n’y a pas de chaises.` |
+| 88. There is no noise in the street. | `Il n’y a pas de bruit dans la rue.` |
+| 89. There is no water in the fridge. | `Il n’y a pas d’eau dans le frigo.` |
+| 90. There is no problem here. | `Il n’y a pas de problème ici.` |
+| 91. I am a student, but my sister is an engineer. | `Je suis étudiant, mais ma sœur est ingénieure.` |
+| 92. We have a small apartment and a large garden. | `Nous avons un petit appartement et un grand jardin.` |
+| 93. There is a pharmacy near our house. | `Il y a une pharmacie près de notre maison.` |
+| 94. My neighbors are not noisy. | `Mes voisins ne sont pas bruyants.` |
+| 95. We informal do not have coffee, so we are thirsty. | `On n’a pas de café, alors on a soif.` |
+| 96. She is twenty years old and she is happy. | `Elle a vingt ans et elle est contente.` |
+| 97. You formal are not late, it is still early. | `Vous n’êtes pas en retard, il est encore tôt.` |
+| 98. I do not have a car, but I have a bike. | `Je n’ai pas de voiture, mais j’ai un vélo.` |
+| 99. It is not a big house, it is a small apartment. | `Ce n’est pas une grande maison, c’est un petit appartement.` |
+| 100. There are no noisy neighbors, and we are happy here. | `Il n’y a pas de voisins bruyants, et nous sommes contents ici.` |

@@ -662,107 +662,107 @@ Mark yourself wrong if any of these appear:
 
 ## English-to-French Translation Practice (100 Sentences)
 
-Translate each English sentence aloud or in writing before checking the French on the right.
+Cover the French column, translate each English sentence aloud, then uncover to check. These sentences use only grammar and vocabulary from this chapter and the chapters before it.
 
 | English | French |
 | --- | --- |
-| 1. I wait for the bus every morning today. | `J’attends le bus tous les matins aujourd’hui.` |
-| 2. I wait for the bus every morning every day. | `J’attends le bus tous les matins tous les jours.` |
-| 3. I wait for the bus every morning at home. | `J’attends le bus tous les matins à la maison.` |
-| 4. I wait for the bus every morning at school. | `J’attends le bus tous les matins à l’école.` |
-| 5. I wait for the bus every morning with my family. | `J’attends le bus tous les matins avec ma famille.` |
-| 6. I wait for the bus every morning with my friends. | `J’attends le bus tous les matins avec mes amis.` |
-| 7. I wait for the bus every morning after lunch. | `J’attends le bus tous les matins après le déjeuner.` |
-| 8. I wait for the bus every morning before dinner. | `J’attends le bus tous les matins avant le dîner.` |
-| 9. I wait for the bus every morning in the morning. | `J’attends le bus tous les matins le matin.` |
-| 10. I wait for the bus every morning on Sundays. | `J’attends le bus tous les matins le dimanche.` |
-| 11. She sells her old bicycle today. | `Elle vend son vieux vélo aujourd’hui.` |
-| 12. She sells her old bicycle every day. | `Elle vend son vieux vélo tous les jours.` |
-| 13. She sells her old bicycle at home. | `Elle vend son vieux vélo à la maison.` |
-| 14. She sells her old bicycle at school. | `Elle vend son vieux vélo à l’école.` |
-| 15. She sells her old bicycle with my family. | `Elle vend son vieux vélo avec ma famille.` |
-| 16. She sells her old bicycle with my friends. | `Elle vend son vieux vélo avec mes amis.` |
-| 17. She sells her old bicycle after lunch. | `Elle vend son vieux vélo après le déjeuner.` |
-| 18. She sells her old bicycle before dinner. | `Elle vend son vieux vélo avant le dîner.` |
-| 19. She sells her old bicycle in the morning. | `Elle vend son vieux vélo le matin.` |
-| 20. She sells her old bicycle on Sundays. | `Elle vend son vieux vélo le dimanche.` |
-| 21. We have lived here for three years today. | `Nous habitons ici depuis trois ans aujourd’hui.` |
-| 22. We have lived here for three years every day. | `Nous habitons ici depuis trois ans tous les jours.` |
-| 23. We have lived here for three years at home. | `Nous habitons ici depuis trois ans à la maison.` |
-| 24. We have lived here for three years at school. | `Nous habitons ici depuis trois ans à l’école.` |
-| 25. We have lived here for three years with my family. | `Nous habitons ici depuis trois ans avec ma famille.` |
-| 26. We have lived here for three years with my friends. | `Nous habitons ici depuis trois ans avec mes amis.` |
-| 27. We have lived here for three years after lunch. | `Nous habitons ici depuis trois ans après le déjeuner.` |
-| 28. We have lived here for three years before dinner. | `Nous habitons ici depuis trois ans avant le dîner.` |
-| 29. We have lived here for three years in the morning. | `Nous habitons ici depuis trois ans le matin.` |
-| 30. We have lived here for three years on Sundays. | `Nous habitons ici depuis trois ans le dimanche.` |
-| 31. They begin the lesson at nine today. | `Ils commencent la leçon à neuf heures aujourd’hui.` |
-| 32. They begin the lesson at nine every day. | `Ils commencent la leçon à neuf heures tous les jours.` |
-| 33. They begin the lesson at nine at home. | `Ils commencent la leçon à neuf heures à la maison.` |
-| 34. They begin the lesson at nine at school. | `Ils commencent la leçon à neuf heures à l’école.` |
-| 35. They begin the lesson at nine with my family. | `Ils commencent la leçon à neuf heures avec ma famille.` |
-| 36. They begin the lesson at nine with my friends. | `Ils commencent la leçon à neuf heures avec mes amis.` |
-| 37. They begin the lesson at nine after lunch. | `Ils commencent la leçon à neuf heures après le déjeuner.` |
-| 38. They begin the lesson at nine before dinner. | `Ils commencent la leçon à neuf heures avant le dîner.` |
-| 39. They begin the lesson at nine in the morning. | `Ils commencent la leçon à neuf heures le matin.` |
-| 40. They begin the lesson at nine on Sundays. | `Ils commencent la leçon à neuf heures le dimanche.` |
-| 41. We eat dinner together on Sundays today. | `Nous mangeons ensemble le dimanche aujourd’hui.` |
-| 42. We eat dinner together on Sundays every day. | `Nous mangeons ensemble le dimanche tous les jours.` |
-| 43. We eat dinner together on Sundays at home. | `Nous mangeons ensemble le dimanche à la maison.` |
-| 44. We eat dinner together on Sundays at school. | `Nous mangeons ensemble le dimanche à l’école.` |
-| 45. We eat dinner together on Sundays with my family. | `Nous mangeons ensemble le dimanche avec ma famille.` |
-| 46. We eat dinner together on Sundays with my friends. | `Nous mangeons ensemble le dimanche avec mes amis.` |
-| 47. We eat dinner together on Sundays after lunch. | `Nous mangeons ensemble le dimanche après le déjeuner.` |
-| 48. We eat dinner together on Sundays before dinner. | `Nous mangeons ensemble le dimanche avant le dîner.` |
-| 49. We eat dinner together on Sundays in the morning. | `Nous mangeons ensemble le dimanche le matin.` |
-| 50. We eat dinner together on Sundays on Sundays. | `Nous mangeons ensemble le dimanche le dimanche.` |
-| 51. I am buying a new notebook today. | `J’achète un nouveau cahier aujourd’hui.` |
-| 52. I am buying a new notebook every day. | `J’achète un nouveau cahier tous les jours.` |
-| 53. I am buying a new notebook at home. | `J’achète un nouveau cahier à la maison.` |
-| 54. I am buying a new notebook at school. | `J’achète un nouveau cahier à l’école.` |
-| 55. I am buying a new notebook with my family. | `J’achète un nouveau cahier avec ma famille.` |
-| 56. I am buying a new notebook with my friends. | `J’achète un nouveau cahier avec mes amis.` |
-| 57. I am buying a new notebook after lunch. | `J’achète un nouveau cahier après le déjeuner.` |
-| 58. I am buying a new notebook before dinner. | `J’achète un nouveau cahier avant le dîner.` |
-| 59. I am buying a new notebook in the morning. | `J’achète un nouveau cahier le matin.` |
-| 60. I am buying a new notebook on Sundays. | `J’achète un nouveau cahier le dimanche.` |
-| 61. He prefers to walk to the station today. | `Il préfère marcher jusqu’à la gare aujourd’hui.` |
-| 62. He prefers to walk to the station every day. | `Il préfère marcher jusqu’à la gare tous les jours.` |
-| 63. He prefers to walk to the station at home. | `Il préfère marcher jusqu’à la gare à la maison.` |
-| 64. He prefers to walk to the station at school. | `Il préfère marcher jusqu’à la gare à l’école.` |
-| 65. He prefers to walk to the station with my family. | `Il préfère marcher jusqu’à la gare avec ma famille.` |
-| 66. He prefers to walk to the station with my friends. | `Il préfère marcher jusqu’à la gare avec mes amis.` |
-| 67. He prefers to walk to the station after lunch. | `Il préfère marcher jusqu’à la gare après le déjeuner.` |
-| 68. He prefers to walk to the station before dinner. | `Il préfère marcher jusqu’à la gare avant le dîner.` |
-| 69. He prefers to walk to the station in the morning. | `Il préfère marcher jusqu’à la gare le matin.` |
-| 70. He prefers to walk to the station on Sundays. | `Il préfère marcher jusqu’à la gare le dimanche.` |
-| 71. Do you hear the children today? | `Entendez-vous les enfants aujourd’hui ?` |
-| 72. Do you hear the children every day? | `Entendez-vous les enfants tous les jours ?` |
-| 73. Do you hear the children at home? | `Entendez-vous les enfants à la maison ?` |
-| 74. Do you hear the children at school? | `Entendez-vous les enfants à l’école ?` |
-| 75. Do you hear the children with my family? | `Entendez-vous les enfants avec ma famille ?` |
-| 76. Do you hear the children with my friends? | `Entendez-vous les enfants avec mes amis ?` |
-| 77. Do you hear the children after lunch? | `Entendez-vous les enfants après le déjeuner ?` |
-| 78. Do you hear the children before dinner? | `Entendez-vous les enfants avant le dîner ?` |
-| 79. Do you hear the children in the morning? | `Entendez-vous les enfants le matin ?` |
-| 80. Do you hear the children on Sundays? | `Entendez-vous les enfants le dimanche ?` |
-| 81. She answers the question correctly today. | `Elle répond correctement à la question aujourd’hui.` |
-| 82. She answers the question correctly every day. | `Elle répond correctement à la question tous les jours.` |
-| 83. She answers the question correctly at home. | `Elle répond correctement à la question à la maison.` |
-| 84. She answers the question correctly at school. | `Elle répond correctement à la question à l’école.` |
-| 85. She answers the question correctly with my family. | `Elle répond correctement à la question avec ma famille.` |
-| 86. She answers the question correctly with my friends. | `Elle répond correctement à la question avec mes amis.` |
-| 87. She answers the question correctly after lunch. | `Elle répond correctement à la question après le déjeuner.` |
-| 88. She answers the question correctly before dinner. | `Elle répond correctement à la question avant le dîner.` |
-| 89. She answers the question correctly in the morning. | `Elle répond correctement à la question le matin.` |
-| 90. She answers the question correctly on Sundays. | `Elle répond correctement à la question le dimanche.` |
-| 91. We are moving the chairs into the room today. | `Nous plaçons les chaises dans la pièce aujourd’hui.` |
-| 92. We are moving the chairs into the room every day. | `Nous plaçons les chaises dans la pièce tous les jours.` |
-| 93. We are moving the chairs into the room at home. | `Nous plaçons les chaises dans la pièce à la maison.` |
-| 94. We are moving the chairs into the room at school. | `Nous plaçons les chaises dans la pièce à l’école.` |
-| 95. We are moving the chairs into the room with my family. | `Nous plaçons les chaises dans la pièce avec ma famille.` |
-| 96. We are moving the chairs into the room with my friends. | `Nous plaçons les chaises dans la pièce avec mes amis.` |
-| 97. We are moving the chairs into the room after lunch. | `Nous plaçons les chaises dans la pièce après le déjeuner.` |
-| 98. We are moving the chairs into the room before dinner. | `Nous plaçons les chaises dans la pièce avant le dîner.` |
-| 99. We are moving the chairs into the room in the morning. | `Nous plaçons les chaises dans la pièce le matin.` |
-| 100. We are moving the chairs into the room on Sundays. | `Nous plaçons les chaises dans la pièce le dimanche.` |
+| 1. I wait for the bus in front of the station. | `J’attends le bus devant la gare.` |
+| 2. You answer the teacher’s question. | `Tu réponds à la question du professeur.` |
+| 3. She sells old books on Saturday. | `Elle vend de vieux livres le samedi.` |
+| 4. We lose our keys too often. | `Nous perdons nos clés trop souvent.` |
+| 5. Do you hear the music in the street? | `Entendez-vous la musique dans la rue ?` |
+| 6. They go down to the café at noon. | `Ils descendent au café à midi.` |
+| 7. I do not wait in the cold. | `Je n’attends pas dans le froid.` |
+| 8. He answers quickly after class. | `Il répond vite après le cours.` |
+| 9. We sell three chairs for twenty euros. | `Nous vendons trois chaises pour vingt euros.` |
+| 10. Where do you lose your notebooks? | `Où perdez-vous vos cahiers ?` |
+| 11. The children hear the train at night. | `Les enfants entendent le train la nuit.` |
+| 12. My sister goes down the stairs slowly. | `Ma sœur descend l’escalier lentement.` |
+| 13. Are you waiting for your friend? | `Tu attends ton ami ?` |
+| 14. Does she answer in French? | `Est-ce qu’elle répond en français ?` |
+| 15. We do not sell coffee here. | `Nous ne vendons pas de café ici.` |
+| 16. They lose time before the meeting. | `Ils perdent du temps avant la réunion.` |
+| 17. I hear a small noise. | `J’entends un petit bruit.` |
+| 18. You go down to the first floor. | `Vous descendez au premier étage.` |
+| 19. I have lived here for two years. | `J’habite ici depuis deux ans.` |
+| 20. She has been waiting since noon. | `Elle attend depuis midi.` |
+| 21. We have studied French since September. | `Nous étudions le français depuis septembre.` |
+| 22. How long have you worked here? | `Depuis quand travaillez-vous ici ?` |
+| 23. They have preferred this café for three months. | `Ils préfèrent ce café depuis trois mois.` |
+| 24. The store has been open since nine o’clock. | `Le magasin est ouvert depuis neuf heures.` |
+| 25. I have had this notebook since January. | `J’ai ce cahier depuis janvier.` |
+| 26. We have lived in this neighborhood since 2024. | `Nous habitons dans ce quartier depuis deux mille vingt-quatre.` |
+| 27. Has he been waiting for ten minutes? | `Est-ce qu’il attend depuis dix minutes ?` |
+| 28. Since when do you prefer this restaurant? | `Depuis quand préférez-vous ce restaurant ?` |
+| 29. My parents have had this apartment for twenty years. | `Mes parents ont cet appartement depuis vingt ans.` |
+| 30. She has been answering messages since this morning. | `Elle répond aux messages depuis ce matin.` |
+| 31. We begin the class at eight fifteen. | `Nous commençons le cours à huit heures quinze.` |
+| 32. I begin with the easy exercises. | `Je commence par les exercices faciles.` |
+| 33. They begin in September. | `Ils commencent en septembre.` |
+| 34. Do you begin work at nine? | `Commencez-vous le travail à neuf heures ?` |
+| 35. We eat at the restaurant before the film. | `Nous mangeons au restaurant avant le film.` |
+| 36. She eats early in the evening. | `Elle mange tôt le soir.` |
+| 37. Where do you eat lunch on Mondays? | `Où manges-tu le lundi midi ?` |
+| 38. The students eat together at noon. | `Les étudiants mangent ensemble à midi.` |
+| 39. We place the chairs near the window. | `Nous plaçons les chaises près de la fenêtre.` |
+| 40. I move the table in the small room. | `Je déplace la table dans la petite salle.` |
+| 41. They travel in France in July. | `Ils voyagent en France en juillet.` |
+| 42. We travel by train in summer. | `Nous voyageons en train en été.` |
+| 43. Why do you begin so late? | `Pourquoi commences-tu si tard ?` |
+| 44. We do not eat meat on Friday. | `Nous ne mangeons pas de viande le vendredi.` |
+| 45. I buy bread every morning. | `J’achète du pain tous les matins.` |
+| 46. You buy two tickets online. | `Tu achètes deux billets en ligne.` |
+| 47. We buy our vegetables at the market. | `Nous achetons nos légumes au marché.` |
+| 48. They buy a gift for their mother. | `Ils achètent un cadeau pour leur mère.` |
+| 49. I prefer the blue shirt. | `Je préfère la chemise bleue.` |
+| 50. Do you prefer tea or coffee? | `Préfères-tu le thé ou le café ?` |
+| 51. We prefer the train because it is calm. | `Nous préférons le train parce qu’il est calme.` |
+| 52. They prefer to study in the evening. | `Ils préfèrent étudier le soir.` |
+| 53. She hopes for a quiet day. | `Elle espère une journée calme.` |
+| 54. We hope for good weather in spring. | `Nous espérons du beau temps au printemps.` |
+| 55. I repeat the question slowly. | `Je répète la question lentement.` |
+| 56. You repeat the new words after class. | `Vous répétez les nouveaux mots après le cours.` |
+| 57. Does she buy fruit at noon? | `Est-ce qu’elle achète des fruits à midi ?` |
+| 58. Why do they prefer this neighborhood? | `Pourquoi préfèrent-ils ce quartier ?` |
+| 59. We do not buy expensive tickets. | `Nous n’achetons pas de billets chers.` |
+| 60. I call my sister this evening. | `J’appelle ma sœur ce soir.` |
+| 61. We call a taxi at midnight. | `Nous appelons un taxi à minuit.` |
+| 62. The teacher calls the students by name. | `Le professeur appelle les étudiants par leur nom.` |
+| 63. Do you call your parents on Sunday? | `Appelles-tu tes parents le dimanche ?` |
+| 64. She throws away the old ticket. | `Elle jette le vieux billet.` |
+| 65. We throw away the empty boxes. | `Nous jetons les boîtes vides.` |
+| 66. I try on a black jacket. | `J’essaie une veste noire.` |
+| 67. You try another solution. | `Tu essaies une autre solution.` |
+| 68. We try several ideas before dinner. | `Nous essayons plusieurs idées avant le dîner.` |
+| 69. They try the second exercise together. | `Ils essaient le deuxième exercice ensemble.` |
+| 70. I send a message after class. | `J’envoie un message après le cours.` |
+| 71. We send the documents tomorrow morning. | `Nous envoyons les documents demain matin.` |
+| 72. Do you send photos to your family? | `Envoyez-vous des photos à votre famille ?` |
+| 73. They send their answers before noon. | `Ils envoient leurs réponses avant midi.` |
+| 74. Why does she call so late? | `Pourquoi appelle-t-elle si tard ?` |
+| 75. I do not throw away useful papers. | `Je ne jette pas les papiers utiles.` |
+| 76. I have been waiting for my brother since eighteen hundred. | `J’attends mon frère depuis dix-huit heures.` |
+| 77. We have lived near the station for six months. | `Nous habitons près de la gare depuis six mois.` |
+| 78. She has preferred this café since February. | `Elle préfère ce café depuis février.` |
+| 79. They have been selling vegetables here for ten years. | `Ils vendent des légumes ici depuis dix ans.` |
+| 80. How long have you been studying French? | `Depuis quand étudies-tu le français ?` |
+| 81. I buy a notebook, then I answer the message. | `J’achète un cahier, puis je réponds au message.` |
+| 82. We begin at nine and finish at noon. | `Nous commençons à neuf heures et nous finissons à midi.` |
+| 83. She tries on a coat but prefers the blue one. | `Elle essaie un manteau, mais elle préfère le bleu.` |
+| 84. They wait in front of the store and hear the music. | `Ils attendent devant le magasin et entendent la musique.` |
+| 85. Do you prefer to eat before or after the meeting? | `Préfères-tu manger avant ou après la réunion ?` |
+| 86. We eat at the café, then we send a message. | `Nous mangeons au café, puis nous envoyons un message.` |
+| 87. I call the hotel because I am waiting for an answer. | `J’appelle l’hôtel parce que j’attends une réponse.` |
+| 88. Since when has the store sold these cakes? | `Depuis quand le magasin vend-il ces gâteaux ?` |
+| 89. You buy the tickets and choose the second row. | `Vous achetez les billets et choisissez la deuxième rangée.` |
+| 90. We travel in April because we prefer spring. | `Nous voyageons en avril parce que nous préférons le printemps.` |
+| 91. She starts the letter, repeats the date, and sends the document. | `Elle commence la lettre, répète la date et envoie le document.` |
+| 92. I do not answer because I do not hear the question. | `Je ne réponds pas parce que je n’entends pas la question.` |
+| 93. At what time do you start the course today? | `À quelle heure commencez-vous le cours aujourd’hui ?` |
+| 94. There have been ninety students in this school since September. | `Il y a quatre-vingt-dix élèves dans cette école depuis septembre.` |
+| 95. We prefer this apartment because we have lived here for a year. | `Nous préférons cet appartement parce que nous habitons ici depuis un an.` |
+| 96. Do they try the exercise before they answer? | `Est-ce qu’ils essaient l’exercice avant de répondre ?` |
+| 97. I sell my bicycle and buy a train ticket. | `Je vends mon vélo et j’achète un billet de train.` |
+| 98. She waits for the bus, calls her father, and sends a message. | `Elle attend le bus, appelle son père et envoie un message.` |
+| 99. We begin dinner at quarter past eight. | `Nous commençons le dîner à huit heures et quart.` |
+| 100. Why have you been waiting in the street since noon? | `Pourquoi attends-tu dans la rue depuis midi ?` |

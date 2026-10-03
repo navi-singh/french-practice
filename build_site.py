@@ -123,7 +123,16 @@ def markdown_to_html(source):
                 close_list()
                 close_table()
                 headers = [cell.strip() for cell in stripped.strip("|").split("|")]
-                output.append('<div class="table-wrap"><table><thead><tr>')
+                # The English/French drill tables get their own markup so the
+                # site can lay them out as two equal columns and mask answers.
+                drill = [cell.lower() for cell in headers] == ["english", "french"]
+                if drill:
+                    output.append(
+                        '<div class="table-wrap translation-wrap">'
+                        '<table class="translation-table"><thead><tr>'
+                    )
+                else:
+                    output.append('<div class="table-wrap"><table><thead><tr>')
                 output.extend(f"<th>{inline(cell)}</th>" for cell in headers)
                 output.append("</tr></thead><tbody>")
                 in_table = True
@@ -188,9 +197,24 @@ def document_type(path):
         return "Answers"
     if "review" in name or "plan" in name:
         return "Review"
-    if "audio" in name or path.suffix == ".txt":
+    if "narration" in name or path.suffix == ".txt":
+        return "Narration"
+    if "audio" in name:
         return "Audio"
     return "Resource"
+
+
+def outline(source):
+    """Top-level sections of a document, for the in-page jump menu."""
+    sections = []
+    for line in source.splitlines():
+        match = re.match(r"^##\s+(.+)$", line.strip())
+        if not match:
+            continue
+        text = re.sub(r"[*`]", "", match.group(1)).strip()
+        anchor = re.sub(r"[^a-z0-9]+", "-", match.group(1).lower()).strip("-")
+        sections.append({"id": anchor, "title": text})
+    return sections
 
 
 def chapter_data(folder):
@@ -210,8 +234,9 @@ def chapter_data(folder):
         "Answers": 5,
         "Review": 6,
         "Audio": 7,
-        "Reference": 8,
-        "Resource": 9,
+        "Narration": 8,
+        "Reference": 9,
+        "Resource": 10,
     }
     documents = []
     for path in paths:
@@ -223,6 +248,7 @@ def chapter_data(folder):
                 "title": title_from_markdown(path),
                 "type": kind,
                 "html": markdown_to_html(raw),
+                "sections": outline(raw),
                 "search": re.sub(r"\s+", " ", re.sub(r":::answer\s*|:::", " ", raw)).lower(),
             }
         )

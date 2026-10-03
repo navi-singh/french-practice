@@ -577,107 +577,107 @@ Mark yourself wrong if any of these appear:
 
 ## English-to-French Translation Practice (100 Sentences)
 
-Translate each English sentence aloud or in writing before checking the French on the right.
+Cover the French column, translate each English sentence aloud, then uncover to check. These sentences use only grammar and vocabulary from this chapter and the chapters before it.
 
 | English | French |
 | --- | --- |
-| 1. I am going to the market today. | `Je vais au marché aujourd’hui.` |
-| 2. I am going to the market every day. | `Je vais au marché tous les jours.` |
-| 3. I am going to the market at home. | `Je vais au marché à la maison.` |
-| 4. I am going to the market at school. | `Je vais au marché à l’école.` |
-| 5. I am going to the market with my family. | `Je vais au marché avec ma famille.` |
-| 6. I am going to the market with my friends. | `Je vais au marché avec mes amis.` |
-| 7. I am going to the market after lunch. | `Je vais au marché après le déjeuner.` |
-| 8. I am going to the market before dinner. | `Je vais au marché avant le dîner.` |
-| 9. I am going to the market in the morning. | `Je vais au marché le matin.` |
-| 10. I am going to the market on Sundays. | `Je vais au marché le dimanche.` |
-| 11. We are going to visit our grandparents tomorrow today. | `Nous allons rendre visite à nos grands-parents demain aujourd’hui.` |
-| 12. We are going to visit our grandparents tomorrow every day. | `Nous allons rendre visite à nos grands-parents demain tous les jours.` |
-| 13. We are going to visit our grandparents tomorrow at home. | `Nous allons rendre visite à nos grands-parents demain à la maison.` |
-| 14. We are going to visit our grandparents tomorrow at school. | `Nous allons rendre visite à nos grands-parents demain à l’école.` |
-| 15. We are going to visit our grandparents tomorrow with my family. | `Nous allons rendre visite à nos grands-parents demain avec ma famille.` |
-| 16. We are going to visit our grandparents tomorrow with my friends. | `Nous allons rendre visite à nos grands-parents demain avec mes amis.` |
-| 17. We are going to visit our grandparents tomorrow after lunch. | `Nous allons rendre visite à nos grands-parents demain après le déjeuner.` |
-| 18. We are going to visit our grandparents tomorrow before dinner. | `Nous allons rendre visite à nos grands-parents demain avant le dîner.` |
-| 19. We are going to visit our grandparents tomorrow in the morning. | `Nous allons rendre visite à nos grands-parents demain le matin.` |
-| 20. We are going to visit our grandparents tomorrow on Sundays. | `Nous allons rendre visite à nos grands-parents demain le dimanche.` |
-| 21. She is coming back from the office today. | `Elle revient du bureau aujourd’hui.` |
-| 22. She is coming back from the office every day. | `Elle revient du bureau tous les jours.` |
-| 23. She is coming back from the office at home. | `Elle revient du bureau à la maison.` |
-| 24. She is coming back from the office at school. | `Elle revient du bureau à l’école.` |
-| 25. She is coming back from the office with my family. | `Elle revient du bureau avec ma famille.` |
-| 26. She is coming back from the office with my friends. | `Elle revient du bureau avec mes amis.` |
-| 27. She is coming back from the office after lunch. | `Elle revient du bureau après le déjeuner.` |
-| 28. She is coming back from the office before dinner. | `Elle revient du bureau avant le dîner.` |
-| 29. She is coming back from the office in the morning. | `Elle revient du bureau le matin.` |
-| 30. She is coming back from the office on Sundays. | `Elle revient du bureau le dimanche.` |
-| 31. They are doing their homework after dinner today. | `Ils font leurs devoirs après le dîner aujourd’hui.` |
-| 32. They are doing their homework after dinner every day. | `Ils font leurs devoirs après le dîner tous les jours.` |
-| 33. They are doing their homework after dinner at home. | `Ils font leurs devoirs après le dîner à la maison.` |
-| 34. They are doing their homework after dinner at school. | `Ils font leurs devoirs après le dîner à l’école.` |
-| 35. They are doing their homework after dinner with my family. | `Ils font leurs devoirs après le dîner avec ma famille.` |
-| 36. They are doing their homework after dinner with my friends. | `Ils font leurs devoirs après le dîner avec mes amis.` |
-| 37. They are doing their homework after dinner after lunch. | `Ils font leurs devoirs après le dîner après le déjeuner.` |
-| 38. They are doing their homework after dinner before dinner. | `Ils font leurs devoirs après le dîner avant le dîner.` |
-| 39. They are doing their homework after dinner in the morning. | `Ils font leurs devoirs après le dîner le matin.` |
-| 40. They are doing their homework after dinner on Sundays. | `Ils font leurs devoirs après le dîner le dimanche.` |
-| 41. He is going to Canada next month today. | `Il va au Canada le mois prochain aujourd’hui.` |
-| 42. He is going to Canada next month every day. | `Il va au Canada le mois prochain tous les jours.` |
-| 43. He is going to Canada next month at home. | `Il va au Canada le mois prochain à la maison.` |
-| 44. He is going to Canada next month at school. | `Il va au Canada le mois prochain à l’école.` |
-| 45. He is going to Canada next month with my family. | `Il va au Canada le mois prochain avec ma famille.` |
-| 46. He is going to Canada next month with my friends. | `Il va au Canada le mois prochain avec mes amis.` |
-| 47. He is going to Canada next month after lunch. | `Il va au Canada le mois prochain après le déjeuner.` |
-| 48. He is going to Canada next month before dinner. | `Il va au Canada le mois prochain avant le dîner.` |
-| 49. He is going to Canada next month in the morning. | `Il va au Canada le mois prochain le matin.` |
-| 50. He is going to Canada next month on Sundays. | `Il va au Canada le mois prochain le dimanche.` |
-| 51. We are going to the United States by train today. | `Nous allons aux États-Unis en train aujourd’hui.` |
-| 52. We are going to the United States by train every day. | `Nous allons aux États-Unis en train tous les jours.` |
-| 53. We are going to the United States by train at home. | `Nous allons aux États-Unis en train à la maison.` |
-| 54. We are going to the United States by train at school. | `Nous allons aux États-Unis en train à l’école.` |
-| 55. We are going to the United States by train with my family. | `Nous allons aux États-Unis en train avec ma famille.` |
-| 56. We are going to the United States by train with my friends. | `Nous allons aux États-Unis en train avec mes amis.` |
-| 57. We are going to the United States by train after lunch. | `Nous allons aux États-Unis en train après le déjeuner.` |
-| 58. We are going to the United States by train before dinner. | `Nous allons aux États-Unis en train avant le dîner.` |
-| 59. We are going to the United States by train in the morning. | `Nous allons aux États-Unis en train le matin.` |
-| 60. We are going to the United States by train on Sundays. | `Nous allons aux États-Unis en train le dimanche.` |
-| 61. I leave the keys on the table today. | `Je laisse les clés sur la table aujourd’hui.` |
-| 62. I leave the keys on the table every day. | `Je laisse les clés sur la table tous les jours.` |
-| 63. I leave the keys on the table at home. | `Je laisse les clés sur la table à la maison.` |
-| 64. I leave the keys on the table at school. | `Je laisse les clés sur la table à l’école.` |
-| 65. I leave the keys on the table with my family. | `Je laisse les clés sur la table avec ma famille.` |
-| 66. I leave the keys on the table with my friends. | `Je laisse les clés sur la table avec mes amis.` |
-| 67. I leave the keys on the table after lunch. | `Je laisse les clés sur la table après le déjeuner.` |
-| 68. I leave the keys on the table before dinner. | `Je laisse les clés sur la table avant le dîner.` |
-| 69. I leave the keys on the table in the morning. | `Je laisse les clés sur la table le matin.` |
-| 70. I leave the keys on the table on Sundays. | `Je laisse les clés sur la table le dimanche.` |
-| 71. What are you doing this weekend today? | `Qu’est-ce que vous faites ce week-end aujourd’hui ?` |
-| 72. What are you doing this weekend every day? | `Qu’est-ce que vous faites ce week-end tous les jours ?` |
-| 73. What are you doing this weekend at home? | `Qu’est-ce que vous faites ce week-end à la maison ?` |
-| 74. What are you doing this weekend at school? | `Qu’est-ce que vous faites ce week-end à l’école ?` |
-| 75. What are you doing this weekend with my family? | `Qu’est-ce que vous faites ce week-end avec ma famille ?` |
-| 76. What are you doing this weekend with my friends? | `Qu’est-ce que vous faites ce week-end avec mes amis ?` |
-| 77. What are you doing this weekend after lunch? | `Qu’est-ce que vous faites ce week-end après le déjeuner ?` |
-| 78. What are you doing this weekend before dinner? | `Qu’est-ce que vous faites ce week-end avant le dîner ?` |
-| 79. What are you doing this weekend in the morning? | `Qu’est-ce que vous faites ce week-end le matin ?` |
-| 80. What are you doing this weekend on Sundays? | `Qu’est-ce que vous faites ce week-end le dimanche ?` |
-| 81. The children are playing in the garden today. | `Les enfants jouent dans le jardin aujourd’hui.` |
-| 82. The children are playing in the garden every day. | `Les enfants jouent dans le jardin tous les jours.` |
-| 83. The children are playing in the garden at home. | `Les enfants jouent dans le jardin à la maison.` |
-| 84. The children are playing in the garden at school. | `Les enfants jouent dans le jardin à l’école.` |
-| 85. The children are playing in the garden with my family. | `Les enfants jouent dans le jardin avec ma famille.` |
-| 86. The children are playing in the garden with my friends. | `Les enfants jouent dans le jardin avec mes amis.` |
-| 87. The children are playing in the garden after lunch. | `Les enfants jouent dans le jardin après le déjeuner.` |
-| 88. The children are playing in the garden before dinner. | `Les enfants jouent dans le jardin avant le dîner.` |
-| 89. The children are playing in the garden in the morning. | `Les enfants jouent dans le jardin le matin.` |
-| 90. The children are playing in the garden on Sundays. | `Les enfants jouent dans le jardin le dimanche.` |
-| 91. She is going to learn how to cook today. | `Elle va apprendre à cuisiner aujourd’hui.` |
-| 92. She is going to learn how to cook every day. | `Elle va apprendre à cuisiner tous les jours.` |
-| 93. She is going to learn how to cook at home. | `Elle va apprendre à cuisiner à la maison.` |
-| 94. She is going to learn how to cook at school. | `Elle va apprendre à cuisiner à l’école.` |
-| 95. She is going to learn how to cook with my family. | `Elle va apprendre à cuisiner avec ma famille.` |
-| 96. She is going to learn how to cook with my friends. | `Elle va apprendre à cuisiner avec mes amis.` |
-| 97. She is going to learn how to cook after lunch. | `Elle va apprendre à cuisiner après le déjeuner.` |
-| 98. She is going to learn how to cook before dinner. | `Elle va apprendre à cuisiner avant le dîner.` |
-| 99. She is going to learn how to cook in the morning. | `Elle va apprendre à cuisiner le matin.` |
-| 100. She is going to learn how to cook on Sundays. | `Elle va apprendre à cuisiner le dimanche.` |
+| 1. I am going to the library after class. | `Je vais à la bibliothèque après le cours.` |
+| 2. Are you going to the café this morning? | `Est-ce que tu vas au café ce matin ?` |
+| 3. She is going to her aunt’s house on Friday. | `Elle va chez sa tante vendredi.` |
+| 4. We are not going to the park today. | `Nous n’allons pas au parc aujourd’hui.` |
+| 5. You are going downtown on foot. | `Vous allez en ville à pied.` |
+| 6. The children are going to school together. | `Les enfants vont à l’école ensemble.` |
+| 7. How is your grandmother doing? | `Comment va ta grand-mère ?` |
+| 8. Everything is going well this week. | `Tout va bien cette semaine.` |
+| 9. I am going to the station at noon. | `Je vais à la gare à midi.` |
+| 10. Do we go to the museum before lunch? | `Est-ce que nous allons au musée avant le déjeuner ?` |
+| 11. My brother is going to the office now. | `Mon frère va au bureau maintenant.` |
+| 12. They are going to the shops on Saturday. | `Ils vont aux magasins samedi.` |
+| 13. You are not going to the hotel tonight. | `Tu ne vas pas à l’hôtel ce soir.` |
+| 14. We are going to the doctor’s office at eight. | `Nous allons chez le médecin à huit heures.` |
+| 15. Where are your parents going? | `Où vont tes parents ?` |
+| 16. I am going to study this evening. | `Je vais étudier ce soir.` |
+| 17. She is going to prepare dinner. | `Elle va préparer le dîner.` |
+| 18. We are going to finish the chapter tomorrow. | `Nous allons finir le chapitre demain.` |
+| 19. Are you going to call your cousin? | `Est-ce que tu vas appeler ton cousin ?` |
+| 20. They are not going to wait until nine o’clock. | `Ils ne vont pas attendre jusqu’à neuf heures.` |
+| 21. You are going to choose a good restaurant. | `Vous allez choisir un bon restaurant.` |
+| 22. I am going to buy a ticket at the station. | `Je vais acheter un billet à la gare.` |
+| 23. My sister is going to play tennis after work. | `Ma sœur va jouer au tennis après le travail.` |
+| 24. We are going to talk about the film. | `Nous allons parler du film.` |
+| 25. Are they going to visit the village? | `Est-ce qu’ils vont visiter le village ?` |
+| 26. I am not going to stay at home. | `Je ne vais pas rester à la maison.` |
+| 27. You are going to listen to the lesson again. | `Tu vas écouter la leçon encore une fois.` |
+| 28. The students are going to work in the garden. | `Les étudiants vont travailler dans le jardin.` |
+| 29. We are going to have dinner at our friends’ house. | `Nous allons dîner chez nos amis.` |
+| 30. What are you going to do after breakfast? | `Qu’est-ce que vous allez faire après le petit-déjeuner ?` |
+| 31. The bag is on the teacher’s desk. | `Le sac est sur le bureau du professeur.` |
+| 32. I am talking to the neighbor about the dog. | `Je parle au voisin du chien.` |
+| 33. We arrive from the airport at six. | `Nous arrivons de l’aéroport à six heures.` |
+| 34. She is leaving the classroom at noon. | `Elle sort de la classe à midi.` |
+| 35. This is the children’s room. | `C’est la chambre des enfants.` |
+| 36. Are you going to the bank or to the post office? | `Est-ce que tu vas à la banque ou à la poste ?` |
+| 37. The keys are in the bottom of the bag. | `Les clés sont au fond du sac.` |
+| 38. We are thinking about the exams. | `Nous pensons aux examens.` |
+| 39. I need a glass of water. | `J’ai besoin d’un verre d’eau.` |
+| 40. The entrance to the museum is on the left. | `L’entrée du musée est à gauche.` |
+| 41. She speaks to the students after the class. | `Elle parle aux étudiants après le cours.` |
+| 42. My parents are coming back from the mountains Sunday. | `Mes parents rentrent des montagnes dimanche.` |
+| 43. Do you live near the center of town? | `Est-ce que tu habites près du centre-ville ?` |
+| 44. The door of the hotel is closed. | `La porte de l’hôtel est fermée.` |
+| 45. We are going to the beach in August. | `Nous allons à la plage en août.` |
+| 46. The cat is under the chair. | `Le chat est sous la chaise.` |
+| 47. Your book is behind the computer. | `Ton livre est derrière l’ordinateur.` |
+| 48. We are waiting in front of the school. | `Nous attendons devant l’école.` |
+| 49. The café is across from the station. | `Le café est en face de la gare.` |
+| 50. There is a small table between the beds. | `Il y a une petite table entre les lits.` |
+| 51. I am going to read before sleeping. | `Je vais lire avant de dormir.` |
+| 52. She works during the summer. | `Elle travaille pendant l’été.` |
+| 53. We are staying here until Friday. | `Nous restons ici jusqu’à vendredi.` |
+| 54. They arrive around three o’clock. | `Ils arrivent vers trois heures.` |
+| 55. The school is far from my house. | `L’école est loin de ma maison.` |
+| 56. My shoes are in the closet. | `Mes chaussures sont dans le placard.` |
+| 57. We are going to your brother’s house after dinner. | `Nous allons chez ton frère après le dîner.` |
+| 58. The hotel is near the river. | `L’hôtel est près de la rivière.` |
+| 59. I am going to finish before going out. | `Je vais finir avant de sortir.` |
+| 60. The children play behind the house. | `Les enfants jouent derrière la maison.` |
+| 61. My friend lives in France. | `Mon ami habite en France.` |
+| 62. Are you going to Italy in July? | `Est-ce que tu vas en Italie en juillet ?` |
+| 63. We come from Canada. | `Nous venons du Canada.` |
+| 64. She works in the United States. | `Elle travaille aux États-Unis.` |
+| 65. They arrive from the Netherlands tomorrow. | `Ils arrivent des Pays-Bas demain.` |
+| 66. I live in Lyon, but I study in Belgium. | `J’habite à Lyon, mais j’étudie en Belgique.` |
+| 67. He is going to Japan next month. | `Il va au Japon le mois prochain.` |
+| 68. My sister comes from Iran. | `Ma sœur vient d’Iran.` |
+| 69. We are visiting Quebec in May. | `Nous visitons le Québec en mai.` |
+| 70. To whom are you writing this letter? | `À qui écris-tu cette lettre ?` |
+| 71. What are you thinking about? | `À quoi penses-tu ?` |
+| 72. Who are you having dinner with tonight? | `Avec qui dînes-tu ce soir ?` |
+| 73. What do you need for the trip? | `De quoi avez-vous besoin pour le voyage ?` |
+| 74. Which of these books are you talking about? | `Duquel de ces livres parles-tu ?` |
+| 75. Which chair is the cat under? | `Sous laquelle de ces chaises est le chat ?` |
+| 76. Which roads lead to the village? | `Lesquelles de ces routes mènent au village ?` |
+| 77. Which friends are you writing to? | `Auxquels de ces amis écris-tu ?` |
+| 78. The weather is nice this morning. | `Il fait beau ce matin.` |
+| 79. Is it cold in the house? | `Est-ce qu’il fait froid dans la maison ?` |
+| 80. It is windy near the lake. | `Il fait du vent près du lac.` |
+| 81. We do the shopping on Saturday morning. | `Nous faisons les courses le samedi matin.` |
+| 82. I cook for my family on Sunday. | `Je fais la cuisine pour ma famille dimanche.` |
+| 83. You do your homework before dinner. | `Tu fais tes devoirs avant le dîner.` |
+| 84. My cousins ride bikes in the park. | `Mes cousins font du vélo dans le parc.` |
+| 85. She takes a walk after lunch. | `Elle fait une promenade après le déjeuner.` |
+| 86. Do you exercise during the week? | `Est-ce que vous faites du sport pendant la semaine ?` |
+| 87. They do the dishes after the meal. | `Ils font la vaisselle après le repas.` |
+| 88. Be careful in front of the hotel. | `Faites attention devant l’hôtel.` |
+| 89. What is the weather like in Paris today? | `Quel temps fait-il à Paris aujourd’hui ?` |
+| 90. It is hot, so we are going to stay inside. | `Il fait chaud, alors nous allons rester dedans.` |
+| 91. I am going to do the shopping before going home. | `Je vais faire les courses avant de rentrer.` |
+| 92. We are not going to ride bikes in the rain. | `Nous n’allons pas faire du vélo sous la pluie.` |
+| 93. My brother is going to do his homework at the library. | `Mon frère va faire ses devoirs à la bibliothèque.` |
+| 94. Are you going to take a walk by the river? | `Est-ce que tu vas faire une promenade près de la rivière ?` |
+| 95. The weather is bad in the mountains today. | `Il fait mauvais dans les montagnes aujourd’hui.` |
+| 96. You are going to cook at your grandparents’ house. | `Vous allez faire la cuisine chez vos grands-parents.` |
+| 97. What are the children doing in the garden? | `Qu’est-ce que les enfants font dans le jardin ?` |
+| 98. I make plans before the trip. | `Je fais des projets avant le voyage.` |
+| 99. We are going to do our homework before going out. | `Nous allons faire nos devoirs avant de sortir.` |
+| 100. They are doing the shopping at the market near the station. | `Ils font les courses au marché près de la gare.` |

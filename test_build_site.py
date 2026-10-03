@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Tests for the static site generator."""
+import re
 import unittest
 from pathlib import Path
 
@@ -19,7 +20,7 @@ class DocumentTypeTests(unittest.TestCase):
         self.assert_type("review-plan.md", "Review")
         self.assert_type("writing-drills.md", "Writing")
         self.assert_type("audio-script.md", "Audio")
-        self.assert_type("tts-narration.txt", "Audio")
+        self.assert_type("tts-narration.txt", "Narration")
         self.assert_type("error-log.md", "Resource")
 
     def test_phrasebook_and_reference_types(self):
@@ -113,8 +114,113 @@ class MarkdownRenderingTests(unittest.TestCase):
         self.assertIn('id="nasal-vowels"', html)
 
 
-if __name__ == "__main__":
-    unittest.main()
+class TranslationTableTests(unittest.TestCase):
+    """English/French drill tables need their own markup so the site can lay
+    them out in two equal columns and mask the answers."""
+
+    DRILL = "| English | French |\n|---|---|\n| 1. Hello. | `Bonjour.` |\n"
+
+    def test_english_french_table_is_marked_as_a_drill(self):
+        html = build_site.markdown_to_html(self.DRILL)
+        self.assertIn('<div class="table-wrap translation-wrap">', html)
+        self.assertIn('<table class="translation-table">', html)
+
+    def test_drill_header_match_ignores_case(self):
+        html = build_site.markdown_to_html(
+            "| english | FRENCH |\n|---|---|\n| 1. Hi. | `Salut.` |\n"
+        )
+        self.assertIn('<table class="translation-table">', html)
+
+    def test_drill_rows_keep_speakable_french(self):
+        html = build_site.markdown_to_html(self.DRILL)
+        self.assertIn('<code class="speakable" lang="fr">Bonjour.</code>', html)
+        body = html.split("<tbody>")[1]
+        self.assertEqual(body.count("<tr>"), 1)
+
+    def test_other_tables_are_untouched(self):
+        html = build_site.markdown_to_html("| Letter | Name |\n|---|---|\n| a | a |\n")
+        self.assertIn('<div class="table-wrap"><table>', html)
+        self.assertNotIn("translation-table", html)
+
+    def test_three_column_table_is_not_a_drill(self):
+        html = build_site.markdown_to_html(
+            "| English | French | Note |\n|---|---|---|\n| Hi | `Salut` | x |\n"
+        )
+        self.assertNotIn("translation-table", html)
+
+
+class OutlineTests(unittest.TestCase):
+    def test_outline_lists_second_level_headings_in_order(self):
+        sections = build_site.outline("# Title\n\n## First\n\ntext\n\n## Second\n")
+        self.assertEqual([s["title"] for s in sections], ["First", "Second"])
+
+    def test_outline_skips_other_heading_levels(self):
+        sections = build_site.outline("# Title\n\n### Sub\n\n## Real\n")
+        self.assertEqual([s["title"] for s in sections], ["Real"])
+
+    def test_outline_titles_drop_markdown_emphasis(self):
+        sections = build_site.outline("## Unit 1: `être` and **avoir**")
+        self.assertEqual(sections[0]["title"], "Unit 1: être and avoir")
+
+    def test_outline_ids_match_the_rendered_heading_anchors(self):
+        source = "## Unit 1: `être` and Avoir\n\n## Translation Practice (100 Sentences)\n"
+        html = build_site.markdown_to_html(source)
+        for section in build_site.outline(source):
+            with self.subTest(section=section["title"]):
+                self.assertIn(f'id="{section["id"]}"', html)
+
+    def test_every_lesson_document_exposes_its_outline(self):
+        for folder in sorted(build_site.ROOT.glob("chapter-*")):
+            chapter = build_site.chapter_data(folder)
+            lessons = next(
+                doc for doc in chapter["documents"] if doc["type"] == "Lessons"
+            )
+            with self.subTest(chapter=chapter["number"]):
+                self.assertTrue(lessons["sections"])
+
+
+class TranslationPracticeContentTests(unittest.TestCase):
+    """Every chapter ends with a 100-sentence drill the learner can translate
+    from memory, so the rows must stay numbered, unique, and parseable."""
+
+    HEADING = "## English-to-French Translation Practice (100 Sentences)"
+
+    def lesson_files(self):
+        return sorted(build_site.ROOT.glob("chapter-*/lessons.md"))
+
+    def drill_rows(self, path):
+        source = path.read_text(encoding="utf-8")
+        self.assertEqual(source.count(self.HEADING), 1, path)
+        section = source.split(self.HEADING)[1]
+        return [
+            line for line in section.splitlines() if re.match(r"^\| \d+\. ", line)
+        ]
+
+    def test_every_chapter_has_one_hundred_numbered_rows(self):
+        for path in self.lesson_files():
+            with self.subTest(chapter=path.parent.name):
+                rows = self.drill_rows(path)
+                self.assertEqual(len(rows), 100)
+                for number, row in enumerate(rows, 1):
+                    self.assertTrue(row.startswith(f"| {number}. "), row)
+
+    def test_french_column_is_speakable_and_english_is_not(self):
+        for path in self.lesson_files():
+            with self.subTest(chapter=path.parent.name):
+                for row in self.drill_rows(path):
+                    self.assertRegex(row, r"^\| \d+\. [^`|]+ \| `[^`|]+` \|$")
+
+    def test_rows_are_not_mechanical_repeats(self):
+        """The first version padded 10 sentences with 10 time phrases; every
+        row must now be a distinct sentence."""
+        for path in self.lesson_files():
+            with self.subTest(chapter=path.parent.name):
+                rows = self.drill_rows(path)
+                english = [row.split("|")[1].strip() for row in rows]
+                french = [row.split("`")[1] for row in rows]
+                self.assertEqual(len(set(english)), 100)
+                self.assertEqual(len(set(french)), 100)
+
 
 
 class AnswerBlockTests(unittest.TestCase):
@@ -261,3 +367,5 @@ class PracticeCoverageTests(unittest.TestCase):
             len(uncovered),
             f"{len(uncovered)} practice sections have no answers:\n{report}",
         )
+if __name__ == "__main__":
+    unittest.main()

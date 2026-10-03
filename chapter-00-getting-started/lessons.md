@@ -906,107 +906,107 @@ Mark yourself wrong if:
 
 ## English-to-French Translation Practice (100 Sentences)
 
-Translate each English sentence aloud or in writing before checking the French on the right.
+Cover the French column, translate each English sentence aloud, then uncover to check. These sentences use only grammar and vocabulary from this chapter and the chapters before it.
 
 | English | French |
 | --- | --- |
-| 1. Hello, my name is Anna today. | `Bonjour, je m’appelle Anna aujourd’hui.` |
-| 2. Hello, my name is Anna every day. | `Bonjour, je m’appelle Anna tous les jours.` |
-| 3. Hello, my name is Anna at home. | `Bonjour, je m’appelle Anna à la maison.` |
-| 4. Hello, my name is Anna at school. | `Bonjour, je m’appelle Anna à l’école.` |
-| 5. Hello, my name is Anna with my family. | `Bonjour, je m’appelle Anna avec ma famille.` |
-| 6. Hello, my name is Anna with my friends. | `Bonjour, je m’appelle Anna avec mes amis.` |
-| 7. Hello, my name is Anna after lunch. | `Bonjour, je m’appelle Anna après le déjeuner.` |
-| 8. Hello, my name is Anna before dinner. | `Bonjour, je m’appelle Anna avant le dîner.` |
-| 9. Hello, my name is Anna in the morning. | `Bonjour, je m’appelle Anna le matin.` |
-| 10. Hello, my name is Anna on Sundays. | `Bonjour, je m’appelle Anna le dimanche.` |
-| 11. How are you today? | `Comment allez-vous aujourd’hui ?` |
-| 12. How are you every day? | `Comment allez-vous tous les jours ?` |
-| 13. How are you at home? | `Comment allez-vous à la maison ?` |
-| 14. How are you at school? | `Comment allez-vous à l’école ?` |
-| 15. How are you with my family? | `Comment allez-vous avec ma famille ?` |
-| 16. How are you with my friends? | `Comment allez-vous avec mes amis ?` |
-| 17. How are you after lunch? | `Comment allez-vous après le déjeuner ?` |
-| 18. How are you before dinner? | `Comment allez-vous avant le dîner ?` |
-| 19. How are you in the morning? | `Comment allez-vous le matin ?` |
-| 20. How are you on Sundays? | `Comment allez-vous le dimanche ?` |
-| 21. I speak a little French today. | `Je parle un peu français aujourd’hui.` |
-| 22. I speak a little French every day. | `Je parle un peu français tous les jours.` |
-| 23. I speak a little French at home. | `Je parle un peu français à la maison.` |
-| 24. I speak a little French at school. | `Je parle un peu français à l’école.` |
-| 25. I speak a little French with my family. | `Je parle un peu français avec ma famille.` |
-| 26. I speak a little French with my friends. | `Je parle un peu français avec mes amis.` |
-| 27. I speak a little French after lunch. | `Je parle un peu français après le déjeuner.` |
-| 28. I speak a little French before dinner. | `Je parle un peu français avant le dîner.` |
-| 29. I speak a little French in the morning. | `Je parle un peu français le matin.` |
-| 30. I speak a little French on Sundays. | `Je parle un peu français le dimanche.` |
-| 31. Please speak slowly today. | `Parlez lentement, s’il vous plaît aujourd’hui.` |
-| 32. Please speak slowly every day. | `Parlez lentement, s’il vous plaît tous les jours.` |
-| 33. Please speak slowly at home. | `Parlez lentement, s’il vous plaît à la maison.` |
-| 34. Please speak slowly at school. | `Parlez lentement, s’il vous plaît à l’école.` |
-| 35. Please speak slowly with my family. | `Parlez lentement, s’il vous plaît avec ma famille.` |
-| 36. Please speak slowly with my friends. | `Parlez lentement, s’il vous plaît avec mes amis.` |
-| 37. Please speak slowly after lunch. | `Parlez lentement, s’il vous plaît après le déjeuner.` |
-| 38. Please speak slowly before dinner. | `Parlez lentement, s’il vous plaît avant le dîner.` |
-| 39. Please speak slowly in the morning. | `Parlez lentement, s’il vous plaît le matin.` |
-| 40. Please speak slowly on Sundays. | `Parlez lentement, s’il vous plaît le dimanche.` |
-| 41. I do not understand today. | `Je ne comprends pas aujourd’hui.` |
-| 42. I do not understand every day. | `Je ne comprends pas tous les jours.` |
-| 43. I do not understand at home. | `Je ne comprends pas à la maison.` |
-| 44. I do not understand at school. | `Je ne comprends pas à l’école.` |
-| 45. I do not understand with my family. | `Je ne comprends pas avec ma famille.` |
-| 46. I do not understand with my friends. | `Je ne comprends pas avec mes amis.` |
-| 47. I do not understand after lunch. | `Je ne comprends pas après le déjeuner.` |
-| 48. I do not understand before dinner. | `Je ne comprends pas avant le dîner.` |
-| 49. I do not understand in the morning. | `Je ne comprends pas le matin.` |
-| 50. I do not understand on Sundays. | `Je ne comprends pas le dimanche.` |
-| 51. Can you repeat that today? | `Pouvez-vous répéter aujourd’hui ?` |
-| 52. Can you repeat that every day? | `Pouvez-vous répéter tous les jours ?` |
-| 53. Can you repeat that at home? | `Pouvez-vous répéter à la maison ?` |
-| 54. Can you repeat that at school? | `Pouvez-vous répéter à l’école ?` |
-| 55. Can you repeat that with my family? | `Pouvez-vous répéter avec ma famille ?` |
-| 56. Can you repeat that with my friends? | `Pouvez-vous répéter avec mes amis ?` |
-| 57. Can you repeat that after lunch? | `Pouvez-vous répéter après le déjeuner ?` |
-| 58. Can you repeat that before dinner? | `Pouvez-vous répéter avant le dîner ?` |
-| 59. Can you repeat that in the morning? | `Pouvez-vous répéter le matin ?` |
-| 60. Can you repeat that on Sundays? | `Pouvez-vous répéter le dimanche ?` |
-| 61. My friend lives in France today. | `Mon ami habite en France aujourd’hui.` |
-| 62. My friend lives in France every day. | `Mon ami habite en France tous les jours.` |
-| 63. My friend lives in France at home. | `Mon ami habite en France à la maison.` |
-| 64. My friend lives in France at school. | `Mon ami habite en France à l’école.` |
-| 65. My friend lives in France with my family. | `Mon ami habite en France avec ma famille.` |
-| 66. My friend lives in France with my friends. | `Mon ami habite en France avec mes amis.` |
-| 67. My friend lives in France after lunch. | `Mon ami habite en France après le déjeuner.` |
-| 68. My friend lives in France before dinner. | `Mon ami habite en France avant le dîner.` |
-| 69. My friend lives in France in the morning. | `Mon ami habite en France le matin.` |
-| 70. My friend lives in France on Sundays. | `Mon ami habite en France le dimanche.` |
-| 71. The small boy is happy today. | `Le petit garçon est heureux aujourd’hui.` |
-| 72. The small boy is happy every day. | `Le petit garçon est heureux tous les jours.` |
-| 73. The small boy is happy at home. | `Le petit garçon est heureux à la maison.` |
-| 74. The small boy is happy at school. | `Le petit garçon est heureux à l’école.` |
-| 75. The small boy is happy with my family. | `Le petit garçon est heureux avec ma famille.` |
-| 76. The small boy is happy with my friends. | `Le petit garçon est heureux avec mes amis.` |
-| 77. The small boy is happy after lunch. | `Le petit garçon est heureux après le déjeuner.` |
-| 78. The small boy is happy before dinner. | `Le petit garçon est heureux avant le dîner.` |
-| 79. The small boy is happy in the morning. | `Le petit garçon est heureux le matin.` |
-| 80. The small boy is happy on Sundays. | `Le petit garçon est heureux le dimanche.` |
-| 81. We are studying French today. | `Nous étudions le français aujourd’hui.` |
-| 82. We are studying French every day. | `Nous étudions le français tous les jours.` |
-| 83. We are studying French at home. | `Nous étudions le français à la maison.` |
-| 84. We are studying French at school. | `Nous étudions le français à l’école.` |
-| 85. We are studying French with my family. | `Nous étudions le français avec ma famille.` |
-| 86. We are studying French with my friends. | `Nous étudions le français avec mes amis.` |
-| 87. We are studying French after lunch. | `Nous étudions le français après le déjeuner.` |
-| 88. We are studying French before dinner. | `Nous étudions le français avant le dîner.` |
-| 89. We are studying French in the morning. | `Nous étudions le français le matin.` |
-| 90. We are studying French on Sundays. | `Nous étudions le français le dimanche.` |
-| 91. I repeat each French word aloud today! | `Je répète chaque mot français à voix haute aujourd’hui !` |
-| 92. I repeat each French word aloud every day! | `Je répète chaque mot français à voix haute tous les jours !` |
-| 93. I repeat each French word aloud at home! | `Je répète chaque mot français à voix haute à la maison !` |
-| 94. I repeat each French word aloud at school! | `Je répète chaque mot français à voix haute à l’école !` |
-| 95. I repeat each French word aloud with my family! | `Je répète chaque mot français à voix haute avec ma famille !` |
-| 96. I repeat each French word aloud with my friends! | `Je répète chaque mot français à voix haute avec mes amis !` |
-| 97. I repeat each French word aloud after lunch! | `Je répète chaque mot français à voix haute après le déjeuner !` |
-| 98. I repeat each French word aloud before dinner! | `Je répète chaque mot français à voix haute avant le dîner !` |
-| 99. I repeat each French word aloud in the morning! | `Je répète chaque mot français à voix haute le matin !` |
-| 100. I repeat each French word aloud on Sundays! | `Je répète chaque mot français à voix haute le dimanche !` |
+| 1. How is that spelled? | `Comment ça s’écrit ?` |
+| 2. It is spelled A-N-A. | `Ça s’écrit A-N-A.` |
+| 3. Spell Paris, please. | `Épelez Paris, s’il vous plaît.` |
+| 4. The letter G is difficult. | `La lettre G est difficile.` |
+| 5. Where is the accent? | `Où est l’accent ?` |
+| 6. It is a French celebration. | `C’est une fête française.` |
+| 7. I live in Paris. | `J’habite à Paris.` |
+| 8. Where is the café? | `Où est le café ?` |
+| 9. It is written with a cedilla. | `Ça s’écrit avec une cédille.` |
+| 10. My name has two accents. | `Mon nom a deux accents.` |
+| 11. Hi, how is it going? | `Salut, ça va ?` |
+| 12. Hello, sir. | `Bonjour monsieur.` |
+| 13. Good evening, madam. | `Bonsoir madame.` |
+| 14. Goodbye and have a good day. | `Au revoir, bonne journée !` |
+| 15. See you soon. | `À bientôt.` |
+| 16. Thank you very much. | `Merci beaucoup.` |
+| 17. You are welcome. | `De rien.` |
+| 18. Sorry. | `Pardon.` |
+| 19. Excuse me, please. | `Excusez-moi, s’il vous plaît.` |
+| 20. A coffee, please. | `Un café, s’il vous plaît.` |
+| 21. A croissant, please. | `Un croissant, s’il vous plaît.` |
+| 22. A tea, please. | `Un thé, s’il vous plaît.` |
+| 23. Some water, please. | `De l’eau, s’il vous plaît.` |
+| 24. More slowly, please. | `Plus lentement, s’il vous plaît.` |
+| 25. Can you repeat, please? | `Pouvez-vous répéter, s’il vous plaît ?` |
+| 26. I do not understand. | `Je ne comprends pas.` |
+| 27. How do you say café in French? | `Comment dit-on « café » en français ?` |
+| 28. Is that all? | `C’est tout ?` |
+| 29. Yes, that is all. | `Oui, c’est tout.` |
+| 30. How much is it? | `Ça fait combien ?` |
+| 31. Six euros, please. | `Six euros, s’il vous plaît.` |
+| 32. Two coffees, please. | `Deux cafés, s’il vous plaît.` |
+| 33. Three croissants, please. | `Trois croissants, s’il vous plaît.` |
+| 34. Nine euros. | `Neuf euros.` |
+| 35. Twenty euros. | `Vingt euros.` |
+| 36. I am sorry. | `Je suis désolé.` |
+| 37. Hello, how are you? | `Bonjour, comment allez-vous ?` |
+| 38. How are you doing? | `Comment ça va ?` |
+| 39. I am well, thank you. | `Ça va bien, merci.` |
+| 40. I am fine, and you? | `Ça va, et vous ?` |
+| 41. Hi, and you? | `Salut, et toi ?` |
+| 42. Good evening, how are you? | `Bonsoir, comment allez-vous ?` |
+| 43. Please, formal. | `S’il vous plaît.` |
+| 44. Please, informal. | `S’il te plaît.` |
+| 45. Hello madam, how is it going? | `Bonjour madame, ça va ?` |
+| 46. Hi my friend, how is it going? | `Salut mon ami, ça va ?` |
+| 47. My name is Marie. | `Je m’appelle Marie.` |
+| 48. What is your name, formal? | `Comment vous appelez-vous ?` |
+| 49. What is your name, informal? | `Comment tu t’appelles ?` |
+| 50. Nice to meet you, said by a man. | `Enchanté.` |
+| 51. Nice to meet you, said by a woman. | `Enchantée.` |
+| 52. I am twenty years old. | `J’ai vingt ans.` |
+| 53. I am nineteen years old. | `J’ai dix-neuf ans.` |
+| 54. I am American, said by a man. | `Je suis américain.` |
+| 55. I am American, said by a woman. | `Je suis américaine.` |
+| 56. I am Canadian, said by a man. | `Je suis canadien.` |
+| 57. I am Canadian, said by a woman. | `Je suis canadienne.` |
+| 58. I live in Montreal. | `J’habite à Montréal.` |
+| 59. I speak a little French. | `Je parle un peu français.` |
+| 60. I am a beginner. | `Je suis débutant.` |
+| 61. I am a female beginner. | `Je suis débutante.` |
+| 62. I am in Paris. | `Je suis à Paris.` |
+| 63. The hotel is open. | `L’hôtel est ouvert.` |
+| 64. The café is here. | `Le café est ici.` |
+| 65. The station is there. | `La gare est là.` |
+| 66. Where is the station? | `Où est la gare ?` |
+| 67. Where is the hotel? | `Où est l’hôtel ?` |
+| 68. Who is it? | `Qui est-ce ?` |
+| 69. Me, I live in a small street. | `Moi, j’habite dans une petite rue.` |
+| 70. The French family arrives today. | `La famille française arrive aujourd’hui.` |
+| 71. Hello, you formal are doing well? | `Bonjour, vous allez bien ?` |
+| 72. You informal have two brothers? | `Tu as deux frères ?` |
+| 73. I would like some water, please. | `Je voudrais de l’eau, s’il vous plaît.` |
+| 74. I would like a tea, please. | `Je voudrais un thé, s’il vous plaît.` |
+| 75. I would like a coffee, please. | `Je voudrais un café, s’il vous plaît.` |
+| 76. A large loaf of bread, please. | `Un grand pain, s’il vous plaît.` |
+| 77. How much time? | `Combien de temps ?` |
+| 78. It is a good Italian restaurant. | `C’est un bon restaurant italien.` |
+| 79. Thank you very much! | `Merci beaucoup !` |
+| 80. The boy is eating fish. | `Le garçon mange du poisson.` |
+| 81. The kitchen of the house is large. | `La cuisine de la maison est grande.` |
+| 82. I like children. | `J’aime les enfants.` |
+| 83. You formal have a large apartment. | `Vous avez un grand appartement.` |
+| 84. We are going to school. | `Nous allons à l’école.` |
+| 85. It is not a problem. | `Ce n’est pas un problème.` |
+| 86. A man and a woman are arriving. | `Un homme et une femme arrivent.` |
+| 87. Good morning, madam, how are you? | `Bonjour madame, comment allez-vous ?` |
+| 88. Hi, are you doing okay? | `Salut ! Ça va ?` |
+| 89. Excuse me, where is the station? | `Excusez-moi, où est la gare ?` |
+| 90. Goodbye, see you soon! | `Au revoir, à bientôt !` |
+| 91. Hello. One coffee and one croissant, please. | `Bonjour. Un café et un croissant, s’il vous plaît.` |
+| 92. Sorry, I do not understand. | `Pardon, je ne comprends pas.` |
+| 93. Ah, thank you very much! | `Ah, merci beaucoup !` |
+| 94. My name is Ana. | `Je m’appelle Ana.` |
+| 95. I am nineteen years old and I am Canadian. | `J’ai dix-neuf ans et je suis canadienne.` |
+| 96. I live in Montreal, near the university. | `J’habite à Montréal, près de l’université.` |
+| 97. I do not always understand. | `Je ne comprends pas toujours.` |
+| 98. Good evening, I speak a little French. | `Bonsoir, je parle un peu français.` |
+| 99. Please repeat more slowly. | `Répétez plus lentement, s’il vous plaît.` |
+| 100. Hello, my name is Sam, and I live in Toronto. | `Bonjour, je m’appelle Sam, et j’habite à Toronto.` |

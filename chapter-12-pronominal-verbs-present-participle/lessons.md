@@ -578,107 +578,107 @@ Mark yourself wrong if any of these appear:
 
 ## English-to-French Translation Practice (100 Sentences)
 
-Translate each English sentence aloud or in writing before checking the French on the right.
+Cover the French column, translate each English sentence aloud, then uncover to check. These sentences use only grammar and vocabulary from this chapter and the chapters before it.
 
 | English | French |
 | --- | --- |
-| 1. I get up at six every morning today. | `Je me lève à six heures tous les matins aujourd’hui.` |
-| 2. I get up at six every morning every day. | `Je me lève à six heures tous les matins tous les jours.` |
-| 3. I get up at six every morning at home. | `Je me lève à six heures tous les matins à la maison.` |
-| 4. I get up at six every morning at school. | `Je me lève à six heures tous les matins à l’école.` |
-| 5. I get up at six every morning with my family. | `Je me lève à six heures tous les matins avec ma famille.` |
-| 6. I get up at six every morning with my friends. | `Je me lève à six heures tous les matins avec mes amis.` |
-| 7. I get up at six every morning after lunch. | `Je me lève à six heures tous les matins après le déjeuner.` |
-| 8. I get up at six every morning before dinner. | `Je me lève à six heures tous les matins avant le dîner.` |
-| 9. I get up at six every morning in the morning. | `Je me lève à six heures tous les matins le matin.` |
-| 10. I get up at six every morning on Sundays. | `Je me lève à six heures tous les matins le dimanche.` |
-| 11. She does not remember his name today. | `Elle ne se souvient pas de son nom aujourd’hui.` |
-| 12. She does not remember his name every day. | `Elle ne se souvient pas de son nom tous les jours.` |
-| 13. She does not remember his name at home. | `Elle ne se souvient pas de son nom à la maison.` |
-| 14. She does not remember his name at school. | `Elle ne se souvient pas de son nom à l’école.` |
-| 15. She does not remember his name with my family. | `Elle ne se souvient pas de son nom avec ma famille.` |
-| 16. She does not remember his name with my friends. | `Elle ne se souvient pas de son nom avec mes amis.` |
-| 17. She does not remember his name after lunch. | `Elle ne se souvient pas de son nom après le déjeuner.` |
-| 18. She does not remember his name before dinner. | `Elle ne se souvient pas de son nom avant le dîner.` |
-| 19. She does not remember his name in the morning. | `Elle ne se souvient pas de son nom le matin.` |
-| 20. She does not remember his name on Sundays. | `Elle ne se souvient pas de son nom le dimanche.` |
-| 21. We are going to get ready quickly today. | `Nous allons nous préparer rapidement aujourd’hui.` |
-| 22. We are going to get ready quickly every day. | `Nous allons nous préparer rapidement tous les jours.` |
-| 23. We are going to get ready quickly at home. | `Nous allons nous préparer rapidement à la maison.` |
-| 24. We are going to get ready quickly at school. | `Nous allons nous préparer rapidement à l’école.` |
-| 25. We are going to get ready quickly with my family. | `Nous allons nous préparer rapidement avec ma famille.` |
-| 26. We are going to get ready quickly with my friends. | `Nous allons nous préparer rapidement avec mes amis.` |
-| 27. We are going to get ready quickly after lunch. | `Nous allons nous préparer rapidement après le déjeuner.` |
-| 28. We are going to get ready quickly before dinner. | `Nous allons nous préparer rapidement avant le dîner.` |
-| 29. We are going to get ready quickly in the morning. | `Nous allons nous préparer rapidement le matin.` |
-| 30. We are going to get ready quickly on Sundays. | `Nous allons nous préparer rapidement le dimanche.` |
-| 31. Do you wash your hands before dinner today? | `Est-ce que tu te laves les mains avant le dîner aujourd’hui ?` |
-| 32. Do you wash your hands before dinner every day? | `Est-ce que tu te laves les mains avant le dîner tous les jours ?` |
-| 33. Do you wash your hands before dinner at home? | `Est-ce que tu te laves les mains avant le dîner à la maison ?` |
-| 34. Do you wash your hands before dinner at school? | `Est-ce que tu te laves les mains avant le dîner à l’école ?` |
-| 35. Do you wash your hands before dinner with my family? | `Est-ce que tu te laves les mains avant le dîner avec ma famille ?` |
-| 36. Do you wash your hands before dinner with my friends? | `Est-ce que tu te laves les mains avant le dîner avec mes amis ?` |
-| 37. Do you wash your hands before dinner after lunch? | `Est-ce que tu te laves les mains avant le dîner après le déjeuner ?` |
-| 38. Do you wash your hands before dinner before dinner? | `Est-ce que tu te laves les mains avant le dîner avant le dîner ?` |
-| 39. Do you wash your hands before dinner in the morning? | `Est-ce que tu te laves les mains avant le dîner le matin ?` |
-| 40. Do you wash your hands before dinner on Sundays? | `Est-ce que tu te laves les mains avant le dîner le dimanche ?` |
-| 41. The friends are writing to each other today. | `Les amis s’écrivent aujourd’hui.` |
-| 42. The friends are writing to each other every day. | `Les amis s’écrivent tous les jours.` |
-| 43. The friends are writing to each other at home. | `Les amis s’écrivent à la maison.` |
-| 44. The friends are writing to each other at school. | `Les amis s’écrivent à l’école.` |
-| 45. The friends are writing to each other with my family. | `Les amis s’écrivent avec ma famille.` |
-| 46. The friends are writing to each other with my friends. | `Les amis s’écrivent avec mes amis.` |
-| 47. The friends are writing to each other after lunch. | `Les amis s’écrivent après le déjeuner.` |
-| 48. The friends are writing to each other before dinner. | `Les amis s’écrivent avant le dîner.` |
-| 49. The friends are writing to each other in the morning. | `Les amis s’écrivent le matin.` |
-| 50. The friends are writing to each other on Sundays. | `Les amis s’écrivent le dimanche.` |
-| 51. Hurry up today! | `Dépêche-toi aujourd’hui !` |
-| 52. Hurry up every day! | `Dépêche-toi tous les jours !` |
-| 53. Hurry up at home! | `Dépêche-toi à la maison !` |
-| 54. Hurry up at school! | `Dépêche-toi à l’école !` |
-| 55. Hurry up with my family! | `Dépêche-toi avec ma famille !` |
-| 56. Hurry up with my friends! | `Dépêche-toi avec mes amis !` |
-| 57. Hurry up after lunch! | `Dépêche-toi après le déjeuner !` |
-| 58. Hurry up before dinner! | `Dépêche-toi avant le dîner !` |
-| 59. Hurry up in the morning! | `Dépêche-toi le matin !` |
-| 60. Hurry up on Sundays! | `Dépêche-toi le dimanche !` |
-| 61. He is interested in French history today. | `Il s’intéresse à l’histoire de France aujourd’hui.` |
-| 62. He is interested in French history every day. | `Il s’intéresse à l’histoire de France tous les jours.` |
-| 63. He is interested in French history at home. | `Il s’intéresse à l’histoire de France à la maison.` |
-| 64. He is interested in French history at school. | `Il s’intéresse à l’histoire de France à l’école.` |
-| 65. He is interested in French history with my family. | `Il s’intéresse à l’histoire de France avec ma famille.` |
-| 66. He is interested in French history with my friends. | `Il s’intéresse à l’histoire de France avec mes amis.` |
-| 67. He is interested in French history after lunch. | `Il s’intéresse à l’histoire de France après le déjeuner.` |
-| 68. He is interested in French history before dinner. | `Il s’intéresse à l’histoire de France avant le dîner.` |
-| 69. He is interested in French history in the morning. | `Il s’intéresse à l’histoire de France le matin.` |
-| 70. He is interested in French history on Sundays. | `Il s’intéresse à l’histoire de France le dimanche.` |
-| 71. While walking, I listen to a podcast today. | `En marchant, j’écoute un podcast aujourd’hui.` |
-| 72. While walking, I listen to a podcast every day. | `En marchant, j’écoute un podcast tous les jours.` |
-| 73. While walking, I listen to a podcast at home. | `En marchant, j’écoute un podcast à la maison.` |
-| 74. While walking, I listen to a podcast at school. | `En marchant, j’écoute un podcast à l’école.` |
-| 75. While walking, I listen to a podcast with my family. | `En marchant, j’écoute un podcast avec ma famille.` |
-| 76. While walking, I listen to a podcast with my friends. | `En marchant, j’écoute un podcast avec mes amis.` |
-| 77. While walking, I listen to a podcast after lunch. | `En marchant, j’écoute un podcast après le déjeuner.` |
-| 78. While walking, I listen to a podcast before dinner. | `En marchant, j’écoute un podcast avant le dîner.` |
-| 79. While walking, I listen to a podcast in the morning. | `En marchant, j’écoute un podcast le matin.` |
-| 80. While walking, I listen to a podcast on Sundays. | `En marchant, j’écoute un podcast le dimanche.` |
-| 81. They met each other at the station today. | `Ils se sont rencontrés à la gare aujourd’hui.` |
-| 82. They met each other at the station every day. | `Ils se sont rencontrés à la gare tous les jours.` |
-| 83. They met each other at the station at home. | `Ils se sont rencontrés à la gare à la maison.` |
-| 84. They met each other at the station at school. | `Ils se sont rencontrés à la gare à l’école.` |
-| 85. They met each other at the station with my family. | `Ils se sont rencontrés à la gare avec ma famille.` |
-| 86. They met each other at the station with my friends. | `Ils se sont rencontrés à la gare avec mes amis.` |
-| 87. They met each other at the station after lunch. | `Ils se sont rencontrés à la gare après le déjeuner.` |
-| 88. They met each other at the station before dinner. | `Ils se sont rencontrés à la gare avant le dîner.` |
-| 89. They met each other at the station in the morning. | `Ils se sont rencontrés à la gare le matin.` |
-| 90. They met each other at the station on Sundays. | `Ils se sont rencontrés à la gare le dimanche.` |
-| 91. She goes to bed late on weekends today. | `Elle se couche tard le week-end aujourd’hui.` |
-| 92. She goes to bed late on weekends every day. | `Elle se couche tard le week-end tous les jours.` |
-| 93. She goes to bed late on weekends at home. | `Elle se couche tard le week-end à la maison.` |
-| 94. She goes to bed late on weekends at school. | `Elle se couche tard le week-end à l’école.` |
-| 95. She goes to bed late on weekends with my family. | `Elle se couche tard le week-end avec ma famille.` |
-| 96. She goes to bed late on weekends with my friends. | `Elle se couche tard le week-end avec mes amis.` |
-| 97. She goes to bed late on weekends after lunch. | `Elle se couche tard le week-end après le déjeuner.` |
-| 98. She goes to bed late on weekends before dinner. | `Elle se couche tard le week-end avant le dîner.` |
-| 99. She goes to bed late on weekends in the morning. | `Elle se couche tard le week-end le matin.` |
-| 100. She goes to bed late on weekends on Sundays. | `Elle se couche tard le week-end le dimanche.` |
+| 1. I wake up before the alarm. | `Je me réveille avant le réveil.` |
+| 2. You get dressed quickly on Mondays. | `Tu t’habilles vite le lundi.` |
+| 3. She rests after lunch. | `Elle se repose après le déjeuner.` |
+| 4. We get up late on Sunday. | `Nous nous levons tard le dimanche.` |
+| 5. Do you all get ready together? | `Vous vous préparez ensemble ?` |
+| 6. The children go to bed at nine. | `Les enfants se couchent à neuf heures.` |
+| 7. My brother is sitting near the window. | `Mon frère s’assoit près de la fenêtre.` |
+| 8. I stop in front of the school. | `Je m’arrête devant l’école.` |
+| 9. They relax in the garden. | `Elles se détendent dans le jardin.` |
+| 10. What is your name? | `Comment tu t’appelles ?` |
+| 11. The students are getting ready for the exam. | `Les étudiants se préparent pour l’examen.` |
+| 12. I feel better today. | `Je me sens mieux aujourd’hui.` |
+| 13. The cat hides under the table. | `Le chat se cache sous la table.` |
+| 14. You are walking in the park. | `Tu te promènes dans le parc.` |
+| 15. We meet in front of the cinema. | `Nous nous retrouvons devant le cinéma.` |
+| 16. She looks at herself in the mirror. | `Elle se regarde dans le miroir.` |
+| 17. The little boy gets bored during the lesson. | `Le petit garçon s’ennuie pendant la leçon.` |
+| 18. I hurry because the bus is arriving. | `Je me dépêche parce que le bus arrive.` |
+| 19. They are not sitting here. | `Ils ne s’assoient pas ici.` |
+| 20. Are we leaving now? | `Nous nous en allons maintenant ?` |
+| 21. I am not getting up before seven. | `Je ne me lève pas avant sept heures.` |
+| 22. Do you remember the address? | `Est-ce que tu te souviens de l’adresse ?` |
+| 23. She is going to put on makeup before the party. | `Elle va se maquiller avant la fête.` |
+| 24. We want to rest this afternoon. | `Nous voulons nous reposer cet après-midi.` |
+| 25. You must hurry a little. | `Vous devez vous dépêcher un peu.` |
+| 26. He can sit next to me. | `Il peut s’asseoir à côté de moi.` |
+| 27. Do not worry. | `Ne t’inquiète pas.` |
+| 28. Get up right away! | `Lève-toi tout de suite !` |
+| 29. Let us sit down here. | `Asseyons-nous ici !` |
+| 30. Do not go to bed too late. | `Ne vous couchez pas trop tard.` |
+| 31. Are they going to meet after class? | `Est-ce qu’ils vont se retrouver après le cours ?` |
+| 32. I do not feel ready. | `Je ne me sens pas prêt.` |
+| 33. Why are you getting angry? | `Pourquoi est-ce que tu te fâches ?` |
+| 34. She is going to wash before dinner. | `Elle va se laver avant le dîner.` |
+| 35. We are not going to get bored tonight. | `Nous n’allons pas nous ennuyer ce soir.` |
+| 36. Hurry up, the train leaves soon! | `Dépêche-toi, le train part bientôt !` |
+| 37. Do not stop in the street. | `Ne t’arrête pas dans la rue.` |
+| 38. Get ready, children! | `Préparez-vous, les enfants !` |
+| 39. I want to sit near the door. | `Je veux m’asseoir près de la porte.` |
+| 40. Do you have to leave now? | `Est-ce que vous devez vous en aller maintenant ?` |
+| 41. I wash my hands before cooking. | `Je me lave les mains avant de cuisiner.` |
+| 42. She brushes her teeth after breakfast. | `Elle se brosse les dents après le petit déjeuner.` |
+| 43. We wash our faces with cold water. | `Nous nous lavons le visage à l’eau froide.` |
+| 44. The children rub their eyes when they are tired. | `Les enfants se frottent les yeux quand ils sont fatigués.` |
+| 45. You hurt your foot on the stairs. | `Tu te fais mal au pied dans l’escalier.` |
+| 46. He dries his hair in the bathroom. | `Il se sèche les cheveux dans la salle de bains.` |
+| 47. I cut my finger while preparing dinner. | `Je me coupe le doigt en préparant le dîner.` |
+| 48. Do you brush your hair every morning? | `Tu te brosses les cheveux chaque matin ?` |
+| 49. Do not touch your eyes. | `Ne te touche pas les yeux.` |
+| 50. Wash your hands, please. | `Lave-toi les mains, s’il te plaît.` |
+| 51. We talk to each other every evening. | `Nous nous parlons chaque soir.` |
+| 52. They write to each other often. | `Ils s’écrivent souvent.` |
+| 53. Do you call each other on weekends? | `Vous vous téléphonez le week-end ?` |
+| 54. The cousins see each other at the market. | `Les cousins se voient au marché.` |
+| 55. We understand each other very well. | `Nous nous comprenons très bien.` |
+| 56. They meet in front of the library. | `Elles se retrouvent devant la bibliothèque.` |
+| 57. We do not talk to each other during the film. | `Nous ne nous parlons pas pendant le film.` |
+| 58. Do the neighbors help each other? | `Est-ce que les voisins s’aident ?` |
+| 59. The two friends send each other messages. | `Les deux amis s’envoient des messages.` |
+| 60. Let us look at one another and speak slowly. | `Regardons-nous et parlons lentement.` |
+| 61. I remember this street. | `Je me souviens de cette rue.` |
+| 62. She gets along well with her roommate. | `Elle s’entend bien avec sa colocataire.` |
+| 63. We realize our mistake. | `Nous nous rendons compte de notre erreur.` |
+| 64. They leave without saying anything. | `Ils s’en vont sans rien dire.` |
+| 65. Do you remember his first name? | `Est-ce que vous vous souvenez de son prénom ?` |
+| 66. I get along badly with this neighbor. | `Je m’entends mal avec ce voisin.` |
+| 67. Let us hurry before the train leaves. | `Dépêchons-nous avant le départ du train.` |
+| 68. She realizes that she is late. | `Elle se rend compte qu’elle est en retard.` |
+| 69. I am leaving because I am tired. | `Je m’en vais parce que je suis fatigué.` |
+| 70. Go away now! | `Va-t’en maintenant !` |
+| 71. My name is Nora, and I call my mother every day. | `Je m’appelle Nora, et j’appelle ma mère chaque jour.` |
+| 72. The noise wakes the baby, and the baby wakes up. | `Le bruit réveille le bébé, et le bébé se réveille.` |
+| 73. This game amuses my sister, and she has fun. | `Ce jeu amuse ma sœur, et elle s’amuse.` |
+| 74. My father puts my little brother to bed, then he goes to bed. | `Mon père couche mon petit frère, puis il se couche.` |
+| 75. Do you realize the price of this ticket? | `Tu te rends compte du prix de ce billet ?` |
+| 76. We remember our first apartment. | `Nous nous souvenons de notre premier appartement.` |
+| 77. They do not get along with the new manager. | `Ils ne s’entendent pas avec le nouveau responsable.` |
+| 78. I do not remember the password. | `Je ne me souviens pas du mot de passe.` |
+| 79. Are you leaving already? | `Tu t’en vas déjà ?` |
+| 80. Let us hurry, but let us stay calm. | `Dépêchons-nous, mais restons calmes.` |
+| 81. I learn better by writing examples. | `J’apprends mieux en écrivant des exemples.` |
+| 82. She listens to music while cooking. | `Elle écoute de la musique en cuisinant.` |
+| 83. We talk while walking to work. | `Nous nous parlons en marchant vers le travail.` |
+| 84. He makes progress by studying every day. | `Il fait des progrès en étudiant chaque jour.` |
+| 85. You can relax while reading in the garden. | `Tu peux te détendre en lisant dans le jardin.` |
+| 86. Knowing the answer, she smiles. | `Sachant la réponse, elle sourit.` |
+| 87. Being very busy, we eat quickly. | `Étant très occupés, nous mangeons vite.` |
+| 88. Having time, I prepare a real breakfast. | `Ayant le temps, je prépare un vrai petit déjeuner.` |
+| 89. The smiling children wait near the door. | `Les enfants souriants attendent près de la porte.` |
+| 90. This surprising story makes everyone laugh. | `Cette histoire étonnante fait rire tout le monde.` |
+| 91. I close the door while leaving. | `Je ferme la porte en partant.` |
+| 92. She checks the time while getting ready. | `Elle regarde l’heure en se préparant.` |
+| 93. We remember the words by repeating them aloud. | `Nous nous souvenons des mots en les répétant à voix haute.` |
+| 94. Do not speak while eating. | `Ne parle pas en mangeant.` |
+| 95. They hurry while carrying their bags. | `Ils se dépêchent en portant leurs sacs.` |
+| 96. By drinking water, I feel better. | `En buvant de l’eau, je me sens mieux.` |
+| 97. While waiting for the bus, we call each other. | `En attendant le bus, nous nous téléphonons.` |
+| 98. Knowing that you are tired, I wait here. | `Sachant que tu es fatigué, j’attends ici.` |
+| 99. Let us review while listening to the dialogue. | `Révisons en écoutant le dialogue.` |
+| 100. Get dressed while keeping calm. | `Habille-toi en restant calme !` |

@@ -94,6 +94,8 @@ The generated website is in [`docs/`](docs/) and is ready for GitHub Pages. It i
 - local completion tracking;
 - dark mode;
 - tap-to-pronounce French examples;
+- a 100-sentence translation drill at the end of every lesson, with the French column hidden until you ask for it;
+- a jump button and section list at the top of each document;
 - pronunciation of selected French text, with a **Slower** button that repeats it at half your current speed;
 - a French voice picker, defaulting to a France French (`fr-FR`) voice;
 - a speaking-speed slider from 20% to 100% of normal French speed;
@@ -115,6 +117,18 @@ Speech uses the browser's built-in Web Speech API, so the available voices come 
 ````
 
 The block renders as a **Show answers** button that stays closed until you open it, and every answer explains the rule behind it. Backticks inside it become tappable French, so only ever wrap genuine French in them.
+
+**Translation practice** closes every lesson file: 100 sentences drawn from that chapter's own units, English on the left and French on the right. Say the French aloud before you check it. The site hides the French column by default and reveals one row at a time when you tap it, so the table stays a recall exercise rather than a reading list; **Hide French / show all** switches the whole column.
+
+Any table whose two columns are headed `English` and `French` is rendered as one of these drills, so write them like this:
+
+````markdown
+| English | French |
+| --- | --- |
+| 1. The garden is small. | `Le jardin est petit.` |
+````
+
+Keep the rows numbered, wrap only the French in backticks, and use no pipe characters inside a sentence.
 
 Regenerate the website after changing lesson files:
 

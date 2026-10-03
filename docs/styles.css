@@ -10,6 +10,10 @@
   --primary-2: #2f6b50;
   --accent: #d6a94b;
   --code-bg: #eef6f0;
+  --on-primary: #fffdf7;
+  --brand-bg: #12372a;
+  --on-brand: #fffdf7;
+  --focus: #8a5a00;
   --shadow: 0 12px 36px rgba(26, 45, 36, .11);
 }
 
@@ -25,6 +29,10 @@
   --primary-2: #7fc49a;
   --accent: #e8bf65;
   --code-bg: #22372d;
+  --on-primary: #0d1f17;
+  --brand-bg: #0c1713;
+  --on-brand: #ecf2ee;
+  --focus: #e8bf65;
   --shadow: 0 12px 36px rgba(0, 0, 0, .28);
 }
 
@@ -38,6 +46,15 @@ body {
 }
 button, input { font: inherit; }
 button { color: inherit; }
+
+:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+/* The main region is focused programmatically to move the reading position,
+   so it should not draw a control-sized focus ring around the whole page. */
+#main:focus, #main:focus-visible { outline: none; }
 
 .app-shell {
   display: grid;
@@ -55,8 +72,8 @@ button { color: inherit; }
   align-items: center;
   gap: 14px;
   padding: 0 20px;
-  background: var(--primary);
-  color: white;
+  background: var(--brand-bg);
+  color: var(--on-brand);
   box-shadow: 0 2px 12px rgba(0, 0, 0, .16);
 }
 
@@ -72,7 +89,7 @@ button { color: inherit; }
   place-items: center;
   width: 38px;
   height: 38px;
-  border: 2px solid rgba(255,255,255,.8);
+  border: 2px solid color-mix(in srgb, currentColor 65%, transparent);
   border-radius: 50%;
   font-weight: 800;
   letter-spacing: .04em;
@@ -88,7 +105,7 @@ button { color: inherit; }
   padding: 0;
   border: 0;
   border-radius: 10px;
-  background: rgba(255,255,255,.12);
+  background: color-mix(in srgb, currentColor 18%, transparent);
   cursor: pointer;
 }
 #menu-button { display: none; }
@@ -174,7 +191,7 @@ button { color: inherit; }
   height: 30px;
   border-radius: 8px;
   background: var(--primary);
-  color: white;
+  color: var(--on-primary);
   font-weight: 800;
 }
 .chapter-title { font-size: 13px; line-height: 1.25; }
@@ -227,7 +244,7 @@ button { color: inherit; }
 .document-tab.active {
   border-color: var(--primary-2);
   background: var(--primary);
-  color: white;
+  color: var(--on-primary);
 }
 .completion-button {
   margin: 4px 0 20px;
@@ -239,7 +256,7 @@ button { color: inherit; }
   cursor: pointer;
   font-weight: 700;
 }
-.completion-button.done { background: var(--primary-2); color: white; }
+.completion-button.done { background: var(--primary-2); color: var(--on-primary); }
 
 .lesson-body h1 { display: none; }
 .lesson-body h2 {
@@ -303,6 +320,92 @@ th, td { padding: 10px 12px; border: 1px solid var(--border); text-align: left; 
 th { background: var(--surface-2); }
 .reference-link { color: var(--primary-2); font-weight: 650; }
 
+/* Drill tables stay side-by-side at every width: the whole point is to read
+   the English and check the French without horizontal scrolling. */
+.translation-wrap { overflow-x: visible; }
+.translation-table { min-width: 0; table-layout: fixed; }
+.translation-table th, .translation-table td {
+  width: 50%;
+  padding: 9px 10px;
+  overflow-wrap: anywhere;
+}
+.translation-table thead th {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+.translation-table tbody tr:nth-child(even) { background: var(--surface-2); }
+.translation-wrap.masked tbody tr:not(.revealed) td:last-child code.speakable {
+  display: inline-block;
+  max-width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  vertical-align: middle;
+  color: transparent;
+  background: var(--surface-2);
+  box-shadow: inset 0 0 0 1px var(--border);
+  user-select: none;
+}
+
+.practice-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  margin: 0 0 22px;
+}
+.practice-jump {
+  padding: 9px 14px;
+  border: 1px solid var(--primary-2);
+  border-radius: 999px;
+  background: var(--primary-2);
+  color: var(--on-primary);
+  cursor: pointer;
+  font-weight: 700;
+}
+.outline-toggle, .mask-toggle {
+  padding: 9px 14px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--bg);
+  cursor: pointer;
+  font-weight: 650;
+}
+.mask-toggle[aria-pressed="true"] {
+  border-color: var(--primary-2);
+  background: var(--primary-2);
+  color: var(--on-primary);
+}
+.lesson-outline {
+  display: grid;
+  gap: 4px;
+  margin: 0 0 24px;
+  padding: 12px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--bg);
+}
+.lesson-outline[hidden] { display: none; }
+.lesson-outline button {
+  padding: 6px 8px;
+  border: 0;
+  border-radius: 8px;
+  background: transparent;
+  color: var(--primary-2);
+  cursor: pointer;
+  font-weight: 650;
+  text-align: left;
+}
+.lesson-outline button:hover { background: var(--surface-2); }
+.practice-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  margin: 1.4em 0 .4em;
+}
+.practice-controls .hint { color: var(--muted); font-size: 13px; }
+
 .home-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
@@ -310,11 +413,15 @@ th { background: var(--surface-2); }
   margin-top: 24px;
 }
 .home-card {
+  display: block;
+  width: 100%;
   padding: 18px;
   border: 1px solid var(--border);
   border-radius: 14px;
   background: var(--bg);
+  color: inherit;
   cursor: pointer;
+  text-align: left;
 }
 .home-card:hover { border-color: var(--primary-2); transform: translateY(-1px); }
 .home-card span { color: var(--muted); font-size: 13px; }
@@ -322,11 +429,13 @@ th { background: var(--surface-2); }
 
 .search-results { display: grid; gap: 10px; }
 .search-result {
+  width: 100%;
   padding: 14px;
   border: 1px solid var(--border);
   border-radius: 12px;
   background: var(--bg);
   cursor: pointer;
+  text-align: left;
 }
 .search-result strong, .search-result span { display: block; }
 .search-result span { color: var(--muted); font-size: 13px; }
@@ -345,7 +454,7 @@ th { background: var(--surface-2); }
   border: 0;
   border-radius: 999px;
   background: var(--primary);
-  color: white;
+  color: var(--on-primary);
   box-shadow: var(--shadow);
   cursor: pointer;
   font-weight: 750;
@@ -378,6 +487,30 @@ th { background: var(--surface-2); }
 .toast.show { opacity: 1; transform: translate(-50%, 0); }
 .backdrop { display: none; }
 
+.settings-group {
+  margin: 18px 7px 0;
+  padding: 10px 12px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--bg);
+}
+.settings-group > summary {
+  color: var(--muted);
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: .04em;
+  list-style: none;
+  text-transform: uppercase;
+  user-select: none;
+}
+.settings-group > summary::-webkit-details-marker { display: none; }
+.settings-group > summary::after { content: " ▸"; }
+.settings-group[open] > summary::after { content: " ▾"; }
+.settings-group[open] > summary { margin-bottom: 12px; }
+.settings-group .search-wrap { padding: 0 0 14px; }
+.settings-group .search-wrap:last-child { padding-bottom: 2px; }
+
 @media (max-width: 760px) {
   .app-shell {
     display: block;
@@ -406,5 +539,12 @@ th { background: var(--surface-2); }
   .content-card { padding: 22px 17px 36px; border-radius: 14px; }
   .document-header h1 { font-size: 1.65rem; }
   .lesson-body h2 { font-size: 1.28rem; }
-  .speak-button { right: 12px; bottom: 12px; }
+  .document-tabs { flex-wrap: wrap; overflow-x: visible; }
+  .translation-table th, .translation-table td {
+    padding: 7px 8px;
+    font-size: .92rem;
+  }
+  .translation-table code.speakable { font-size: .9em; }
+  .speak-bar { right: 12px; bottom: 12px; gap: 6px; }
+  .speak-button { padding: 9px 13px; font-size: .9rem; }
 }

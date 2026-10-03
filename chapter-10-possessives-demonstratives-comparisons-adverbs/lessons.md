@@ -622,107 +622,107 @@ Mark yourself wrong if any of these appear:
 
 ## English-to-French Translation Practice (100 Sentences)
 
-Translate each English sentence aloud or in writing before checking the French on the right.
+Cover the French column, translate each English sentence aloud, then uncover to check. These sentences use only grammar and vocabulary from this chapter and the chapters before it.
 
 | English | French |
 | --- | --- |
-| 1. My sister likes her new house today. | `Ma sœur aime sa nouvelle maison aujourd’hui.` |
-| 2. My sister likes her new house every day. | `Ma sœur aime sa nouvelle maison tous les jours.` |
-| 3. My sister likes her new house at home. | `Ma sœur aime sa nouvelle maison à la maison.` |
-| 4. My sister likes her new house at school. | `Ma sœur aime sa nouvelle maison à l’école.` |
-| 5. My sister likes her new house with my family. | `Ma sœur aime sa nouvelle maison avec ma famille.` |
-| 6. My sister likes her new house with my friends. | `Ma sœur aime sa nouvelle maison avec mes amis.` |
-| 7. My sister likes her new house after lunch. | `Ma sœur aime sa nouvelle maison après le déjeuner.` |
-| 8. My sister likes her new house before dinner. | `Ma sœur aime sa nouvelle maison avant le dîner.` |
-| 9. My sister likes her new house in the morning. | `Ma sœur aime sa nouvelle maison le matin.` |
-| 10. My sister likes her new house on Sundays. | `Ma sœur aime sa nouvelle maison le dimanche.` |
-| 11. These books are more interesting than those today. | `Ces livres sont plus intéressants que ceux-là aujourd’hui.` |
-| 12. These books are more interesting than those every day. | `Ces livres sont plus intéressants que ceux-là tous les jours.` |
-| 13. These books are more interesting than those at home. | `Ces livres sont plus intéressants que ceux-là à la maison.` |
-| 14. These books are more interesting than those at school. | `Ces livres sont plus intéressants que ceux-là à l’école.` |
-| 15. These books are more interesting than those with my family. | `Ces livres sont plus intéressants que ceux-là avec ma famille.` |
-| 16. These books are more interesting than those with my friends. | `Ces livres sont plus intéressants que ceux-là avec mes amis.` |
-| 17. These books are more interesting than those after lunch. | `Ces livres sont plus intéressants que ceux-là après le déjeuner.` |
-| 18. These books are more interesting than those before dinner. | `Ces livres sont plus intéressants que ceux-là avant le dîner.` |
-| 19. These books are more interesting than those in the morning. | `Ces livres sont plus intéressants que ceux-là le matin.` |
-| 20. These books are more interesting than those on Sundays. | `Ces livres sont plus intéressants que ceux-là le dimanche.` |
-| 21. This is yours, and that one is mine today. | `Celui-ci est à toi, et celui-là est à moi aujourd’hui.` |
-| 22. This is yours, and that one is mine every day. | `Celui-ci est à toi, et celui-là est à moi tous les jours.` |
-| 23. This is yours, and that one is mine at home. | `Celui-ci est à toi, et celui-là est à moi à la maison.` |
-| 24. This is yours, and that one is mine at school. | `Celui-ci est à toi, et celui-là est à moi à l’école.` |
-| 25. This is yours, and that one is mine with my family. | `Celui-ci est à toi, et celui-là est à moi avec ma famille.` |
-| 26. This is yours, and that one is mine with my friends. | `Celui-ci est à toi, et celui-là est à moi avec mes amis.` |
-| 27. This is yours, and that one is mine after lunch. | `Celui-ci est à toi, et celui-là est à moi après le déjeuner.` |
-| 28. This is yours, and that one is mine before dinner. | `Celui-ci est à toi, et celui-là est à moi avant le dîner.` |
-| 29. This is yours, and that one is mine in the morning. | `Celui-ci est à toi, et celui-là est à moi le matin.` |
-| 30. This is yours, and that one is mine on Sundays. | `Celui-ci est à toi, et celui-là est à moi le dimanche.` |
-| 31. Our train is faster than your train today. | `Notre train est plus rapide que votre train aujourd’hui.` |
-| 32. Our train is faster than your train every day. | `Notre train est plus rapide que votre train tous les jours.` |
-| 33. Our train is faster than your train at home. | `Notre train est plus rapide que votre train à la maison.` |
-| 34. Our train is faster than your train at school. | `Notre train est plus rapide que votre train à l’école.` |
-| 35. Our train is faster than your train with my family. | `Notre train est plus rapide que votre train avec ma famille.` |
-| 36. Our train is faster than your train with my friends. | `Notre train est plus rapide que votre train avec mes amis.` |
-| 37. Our train is faster than your train after lunch. | `Notre train est plus rapide que votre train après le déjeuner.` |
-| 38. Our train is faster than your train before dinner. | `Notre train est plus rapide que votre train avant le dîner.` |
-| 39. Our train is faster than your train in the morning. | `Notre train est plus rapide que votre train le matin.` |
-| 40. Our train is faster than your train on Sundays. | `Notre train est plus rapide que votre train le dimanche.` |
-| 41. He works as carefully as his colleague today. | `Il travaille aussi soigneusement que son collègue aujourd’hui.` |
-| 42. He works as carefully as his colleague every day. | `Il travaille aussi soigneusement que son collègue tous les jours.` |
-| 43. He works as carefully as his colleague at home. | `Il travaille aussi soigneusement que son collègue à la maison.` |
-| 44. He works as carefully as his colleague at school. | `Il travaille aussi soigneusement que son collègue à l’école.` |
-| 45. He works as carefully as his colleague with my family. | `Il travaille aussi soigneusement que son collègue avec ma famille.` |
-| 46. He works as carefully as his colleague with my friends. | `Il travaille aussi soigneusement que son collègue avec mes amis.` |
-| 47. He works as carefully as his colleague after lunch. | `Il travaille aussi soigneusement que son collègue après le déjeuner.` |
-| 48. He works as carefully as his colleague before dinner. | `Il travaille aussi soigneusement que son collègue avant le dîner.` |
-| 49. He works as carefully as his colleague in the morning. | `Il travaille aussi soigneusement que son collègue le matin.` |
-| 50. He works as carefully as his colleague on Sundays. | `Il travaille aussi soigneusement que son collègue le dimanche.` |
-| 51. That red car is the least expensive today. | `Cette voiture rouge est la moins chère aujourd’hui.` |
-| 52. That red car is the least expensive every day. | `Cette voiture rouge est la moins chère tous les jours.` |
-| 53. That red car is the least expensive at home. | `Cette voiture rouge est la moins chère à la maison.` |
-| 54. That red car is the least expensive at school. | `Cette voiture rouge est la moins chère à l’école.` |
-| 55. That red car is the least expensive with my family. | `Cette voiture rouge est la moins chère avec ma famille.` |
-| 56. That red car is the least expensive with my friends. | `Cette voiture rouge est la moins chère avec mes amis.` |
-| 57. That red car is the least expensive after lunch. | `Cette voiture rouge est la moins chère après le déjeuner.` |
-| 58. That red car is the least expensive before dinner. | `Cette voiture rouge est la moins chère avant le dîner.` |
-| 59. That red car is the least expensive in the morning. | `Cette voiture rouge est la moins chère le matin.` |
-| 60. That red car is the least expensive on Sundays. | `Cette voiture rouge est la moins chère le dimanche.` |
-| 61. Their children speak French very well today. | `Leurs enfants parlent très bien français aujourd’hui.` |
-| 62. Their children speak French very well every day. | `Leurs enfants parlent très bien français tous les jours.` |
-| 63. Their children speak French very well at home. | `Leurs enfants parlent très bien français à la maison.` |
-| 64. Their children speak French very well at school. | `Leurs enfants parlent très bien français à l’école.` |
-| 65. Their children speak French very well with my family. | `Leurs enfants parlent très bien français avec ma famille.` |
-| 66. Their children speak French very well with my friends. | `Leurs enfants parlent très bien français avec mes amis.` |
-| 67. Their children speak French very well after lunch. | `Leurs enfants parlent très bien français après le déjeuner.` |
-| 68. Their children speak French very well before dinner. | `Leurs enfants parlent très bien français avant le dîner.` |
-| 69. Their children speak French very well in the morning. | `Leurs enfants parlent très bien français le matin.` |
-| 70. Their children speak French very well on Sundays. | `Leurs enfants parlent très bien français le dimanche.` |
-| 71. I have as much time as you today. | `J’ai autant de temps que toi aujourd’hui.` |
-| 72. I have as much time as you every day. | `J’ai autant de temps que toi tous les jours.` |
-| 73. I have as much time as you at home. | `J’ai autant de temps que toi à la maison.` |
-| 74. I have as much time as you at school. | `J’ai autant de temps que toi à l’école.` |
-| 75. I have as much time as you with my family. | `J’ai autant de temps que toi avec ma famille.` |
-| 76. I have as much time as you with my friends. | `J’ai autant de temps que toi avec mes amis.` |
-| 77. I have as much time as you after lunch. | `J’ai autant de temps que toi après le déjeuner.` |
-| 78. I have as much time as you before dinner. | `J’ai autant de temps que toi avant le dîner.` |
-| 79. I have as much time as you in the morning. | `J’ai autant de temps que toi le matin.` |
-| 80. I have as much time as you on Sundays. | `J’ai autant de temps que toi le dimanche.` |
-| 81. Which of these dresses do you prefer today? | `Laquelle de ces robes préférez-vous aujourd’hui ?` |
-| 82. Which of these dresses do you prefer every day? | `Laquelle de ces robes préférez-vous tous les jours ?` |
-| 83. Which of these dresses do you prefer at home? | `Laquelle de ces robes préférez-vous à la maison ?` |
-| 84. Which of these dresses do you prefer at school? | `Laquelle de ces robes préférez-vous à l’école ?` |
-| 85. Which of these dresses do you prefer with my family? | `Laquelle de ces robes préférez-vous avec ma famille ?` |
-| 86. Which of these dresses do you prefer with my friends? | `Laquelle de ces robes préférez-vous avec mes amis ?` |
-| 87. Which of these dresses do you prefer after lunch? | `Laquelle de ces robes préférez-vous après le déjeuner ?` |
-| 88. Which of these dresses do you prefer before dinner? | `Laquelle de ces robes préférez-vous avant le dîner ?` |
-| 89. Which of these dresses do you prefer in the morning? | `Laquelle de ces robes préférez-vous le matin ?` |
-| 90. Which of these dresses do you prefer on Sundays? | `Laquelle de ces robes préférez-vous le dimanche ?` |
-| 91. This small café is better than the large one today. | `Ce petit café est meilleur que le grand aujourd’hui.` |
-| 92. This small café is better than the large one every day. | `Ce petit café est meilleur que le grand tous les jours.` |
-| 93. This small café is better than the large one at home. | `Ce petit café est meilleur que le grand à la maison.` |
-| 94. This small café is better than the large one at school. | `Ce petit café est meilleur que le grand à l’école.` |
-| 95. This small café is better than the large one with my family. | `Ce petit café est meilleur que le grand avec ma famille.` |
-| 96. This small café is better than the large one with my friends. | `Ce petit café est meilleur que le grand avec mes amis.` |
-| 97. This small café is better than the large one after lunch. | `Ce petit café est meilleur que le grand après le déjeuner.` |
-| 98. This small café is better than the large one before dinner. | `Ce petit café est meilleur que le grand avant le dîner.` |
-| 99. This small café is better than the large one in the morning. | `Ce petit café est meilleur que le grand le matin.` |
-| 100. This small café is better than the large one on Sundays. | `Ce petit café est meilleur que le grand le dimanche.` |
+| 1. My desk is near the window. | `Mon bureau est près de la fenêtre.` |
+| 2. Your address is very clear. | `Ton adresse est très claire.` |
+| 3. His sister works at the bank. | `Sa sœur travaille à la banque.` |
+| 4. Her brother lives in this neighborhood. | `Son frère habite dans ce quartier.` |
+| 5. Our children do their homework after dinner. | `Nos enfants font leurs devoirs après le dîner.` |
+| 6. Their house is smaller than ours. | `Leur maison est plus petite que la nôtre.` |
+| 7. I know your parents. | `Je connais tes parents.` |
+| 8. She is looking for her keys in her bag. | `Elle cherche ses clés dans son sac.` |
+| 9. We are taking our train at noon. | `Nous prenons notre train à midi.` |
+| 10. Do you like your new apartment ? | `Tu aimes ton nouvel appartement ?` |
+| 11. My female friend is learning French. | `Mon amie apprend le français.` |
+| 12. His story is interesting. | `Son histoire est intéressante.` |
+| 13. Their ideas are useful. | `Leurs idées sont utiles.` |
+| 14. Your room is cleaner today. | `Votre chambre est plus propre aujourd’hui.` |
+| 15. My watch is on the table. | `Ma montre est sur la table.` |
+| 16. Our teacher answers our questions. | `Notre professeur répond à nos questions.` |
+| 17. Their son drinks too much soda. | `Leur fils boit trop de soda.` |
+| 18. I prefer your plan to my plan. | `Je préfère ton plan à mon plan.` |
+| 19. Her office is behind the station. | `Son bureau est derrière la gare.` |
+| 20. We do not find our tickets. | `Nous ne trouvons pas nos billets.` |
+| 21. This book is mine. | `Ce livre est le mien.` |
+| 22. This key is yours. | `Cette clé est la tienne.` |
+| 23. These glasses are hers, not mine. | `Ces lunettes sont les siennes, pas les miennes.` |
+| 24. Our room is ready, but yours is not. | `Notre chambre est prête, mais la vôtre ne l’est pas.` |
+| 25. My apartment is small, but theirs is bright. | `Mon appartement est petit, mais le leur est lumineux.` |
+| 26. Here are our tickets. Where are yours ? | `Voici nos billets. Où sont les vôtres ?` |
+| 27. Your answer is clearer than his. | `Ta réponse est plus claire que la sienne.` |
+| 28. Their bags are heavier than ours. | `Leurs sacs sont plus lourds que les nôtres.` |
+| 29. I take my notebook, and you take yours. | `Je prends mon carnet, et tu prends le tien.` |
+| 30. Her method is slower than mine. | `Sa méthode est plus lente que la mienne.` |
+| 31. Our train leaves earlier than theirs. | `Notre train part plus tôt que le leur.` |
+| 32. Your flowers are prettier than mine. | `Tes fleurs sont plus jolies que les miennes.` |
+| 33. This seat is mine, and that one is yours. | `Cette place est la mienne, et celle-là est la tienne.` |
+| 34. Do you prefer our idea or theirs ? | `Tu préfères notre idée ou la leur ?` |
+| 35. My parents know yours. | `Mes parents connaissent les tiens.` |
+| 36. His suitcase takes less space than yours. | `Sa valise prend moins de place que la vôtre.` |
+| 37. This answer is not mine. | `Cette réponse n’est pas la mienne.` |
+| 38. The blue notebooks are ours. | `Les cahiers bleus sont les nôtres.` |
+| 39. This neighborhood is quiet. | `Ce quartier est calme.` |
+| 40. This hotel is near the station. | `Cet hôtel est près de la gare.` |
+| 41. This street is more lively at night. | `Cette rue est plus animée le soir.` |
+| 42. These buildings are old but beautiful. | `Ces immeubles sont vieux mais beaux.` |
+| 43. I prefer this book here. | `Je préfère ce livre-ci.` |
+| 44. She chooses that chair there. | `Elle choisit cette chaise-là.` |
+| 45. Do you want this one or that one ? | `Tu veux celui-ci ou celui-là ?` |
+| 46. The one near the park is less expensive. | `Celui près du parc est moins cher.` |
+| 47. The one that speaks clearly is our guide. | `Celle qui parle clairement est notre guide.` |
+| 48. Those here are too small. | `Ceux-ci sont trop petits.` |
+| 49. Those there belong to my parents. | `Ceux-là sont à mes parents.` |
+| 50. These here are cleaner than those there. | `Celles-ci sont plus propres que celles-là.` |
+| 51. I know that man, but not the one with him. | `Je connais cet homme, mais pas celui avec lui.` |
+| 52. This exercise is easier than the one before. | `Cet exercice est plus facile que celui d’avant.` |
+| 53. These shoes are mine, but those are yours. | `Ces chaussures sont les miennes, mais celles-là sont les tiennes.` |
+| 54. I am taking this suitcase because that one is heavy. | `Je prends cette valise parce que celle-là est lourde.` |
+| 55. Do you understand this rule here ? | `Tu comprends cette règle-ci ?` |
+| 56. The students in this class work well. | `Les étudiants de cette classe travaillent bien.` |
+| 57. That solution is worse than this one. | `Cette solution-là est pire que celle-ci.` |
+| 58. My room is bigger than your room. | `Ma chambre est plus grande que ta chambre.` |
+| 59. This café is less noisy than the restaurant. | `Ce café est moins bruyant que le restaurant.` |
+| 60. She is as patient as her brother. | `Elle est aussi patiente que son frère.` |
+| 61. We have more time than you. | `Nous avons plus de temps que vous.` |
+| 62. They have less money than their parents. | `Ils ont moins d’argent que leurs parents.` |
+| 63. I buy as many vegetables as my sister. | `J’achète autant de légumes que ma sœur.` |
+| 64. You work more than me. | `Tu travailles plus que moi.` |
+| 65. He goes out less than his friends. | `Il sort moins que ses amis.` |
+| 66. We read as much as our teacher. | `Nous lisons autant que notre professeur.` |
+| 67. This is the most practical bag. | `C’est le sac le plus pratique.` |
+| 68. This is the least expensive room. | `C’est la chambre la moins chère.` |
+| 69. These are the best seats in the room. | `Ce sont les meilleures places de la salle.` |
+| 70. She cooks better than I do. | `Elle cuisine mieux que moi.` |
+| 71. This is the worst excuse of the day. | `C’est la pire excuse de la journée.` |
+| 72. He writes worse when he is tired. | `Il écrit plus mal quand il est fatigué.` |
+| 73. Our car is faster than theirs. | `Notre voiture est plus rapide que la leur.` |
+| 74. Your idea is as useful as mine. | `Ton idée est aussi utile que la mienne.` |
+| 75. This table takes up the least space. | `Cette table prend le moins de place.` |
+| 76. Who has the most experience here ? | `Qui a le plus d’expérience ici ?` |
+| 77. I drink less coffee than my father. | `Je bois moins de café que mon père.` |
+| 78. They speak more clearly than we do. | `Ils parlent plus clairement que nous.` |
+| 79. She arrives earlier than him. | `Elle arrive plus tôt que lui.` |
+| 80. This problem is more serious than that one. | `Ce problème est plus sérieux que celui-là.` |
+| 81. I understand this lesson better today. | `Je comprends mieux cette leçon aujourd’hui.` |
+| 82. The guide speaks slowly. | `Le guide parle lentement.` |
+| 83. We listen carefully to the teacher. | `Nous écoutons attentivement le professeur.` |
+| 84. They answer politely. | `Ils répondent poliment.` |
+| 85. She explains the rule clearly. | `Elle explique clairement la règle.` |
+| 86. Fortunately, the train is not late. | `Heureusement, le train n’est pas en retard.` |
+| 87. I often work at the library. | `Je travaille souvent à la bibliothèque.` |
+| 88. You always arrive early. | `Tu arrives toujours tôt.` |
+| 89. He drives carefully in the city. | `Il conduit prudemment en ville.` |
+| 90. We wait patiently near the door. | `Nous attendons patiemment près de la porte.` |
+| 91. My brother studies regularly in the evening. | `Mon frère étudie régulièrement le soir.` |
+| 92. This child speaks more softly than the others. | `Cet enfant parle plus doucement que les autres.` |
+| 93. You explain less simply than our teacher. | `Tu expliques moins simplement que notre professeur.` |
+| 94. She sings as well as her mother. | `Elle chante aussi bien que sa mère.` |
+| 95. In this group, Lina answers best. | `Dans ce groupe, Lina répond le mieux.` |
+| 96. I already know this word. | `Je connais déjà ce mot.` |
+| 97. They leave late but walk quickly. | `Ils partent tard mais marchent vite.` |
+| 98. I read this sentence calmly. | `Je lis cette phrase calmement.` |
+| 99. Our neighbors rarely eat here. | `Nos voisins mangent rarement ici.` |
+| 100. This student writes more carefully than I do. | `Cet étudiant écrit plus soigneusement que moi.` |

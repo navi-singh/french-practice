@@ -459,107 +459,107 @@ Mark yourself wrong if you have:
 
 ## English-to-French Translation Practice (100 Sentences)
 
-Translate each English sentence aloud or in writing before checking the French on the right.
+Cover the French column, translate each English sentence aloud, then uncover to check. These sentences use only grammar and vocabulary from this chapter and the chapters before it.
 
 | English | French |
 | --- | --- |
-| 1. I leave the house at seven today. | `Je pars de la maison à sept heures aujourd’hui.` |
-| 2. I leave the house at seven every day. | `Je pars de la maison à sept heures tous les jours.` |
-| 3. I leave the house at seven at home. | `Je pars de la maison à sept heures à la maison.` |
-| 4. I leave the house at seven at school. | `Je pars de la maison à sept heures à l’école.` |
-| 5. I leave the house at seven with my family. | `Je pars de la maison à sept heures avec ma famille.` |
-| 6. I leave the house at seven with my friends. | `Je pars de la maison à sept heures avec mes amis.` |
-| 7. I leave the house at seven after lunch. | `Je pars de la maison à sept heures après le déjeuner.` |
-| 8. I leave the house at seven before dinner. | `Je pars de la maison à sept heures avant le dîner.` |
-| 9. I leave the house at seven in the morning. | `Je pars de la maison à sept heures le matin.` |
-| 10. I leave the house at seven on Sundays. | `Je pars de la maison à sept heures le dimanche.` |
-| 11. They are going out with their friends tonight today. | `Ils sortent avec leurs amis ce soir aujourd’hui.` |
-| 12. They are going out with their friends tonight every day. | `Ils sortent avec leurs amis ce soir tous les jours.` |
-| 13. They are going out with their friends tonight at home. | `Ils sortent avec leurs amis ce soir à la maison.` |
-| 14. They are going out with their friends tonight at school. | `Ils sortent avec leurs amis ce soir à l’école.` |
-| 15. They are going out with their friends tonight with my family. | `Ils sortent avec leurs amis ce soir avec ma famille.` |
-| 16. They are going out with their friends tonight with my friends. | `Ils sortent avec leurs amis ce soir avec mes amis.` |
-| 17. They are going out with their friends tonight after lunch. | `Ils sortent avec leurs amis ce soir après le déjeuner.` |
-| 18. They are going out with their friends tonight before dinner. | `Ils sortent avec leurs amis ce soir avant le dîner.` |
-| 19. They are going out with their friends tonight in the morning. | `Ils sortent avec leurs amis ce soir le matin.` |
-| 20. They are going out with their friends tonight on Sundays. | `Ils sortent avec leurs amis ce soir le dimanche.` |
-| 21. She has just finished her work today. | `Elle vient de finir son travail aujourd’hui.` |
-| 22. She has just finished her work every day. | `Elle vient de finir son travail tous les jours.` |
-| 23. She has just finished her work at home. | `Elle vient de finir son travail à la maison.` |
-| 24. She has just finished her work at school. | `Elle vient de finir son travail à l’école.` |
-| 25. She has just finished her work with my family. | `Elle vient de finir son travail avec ma famille.` |
-| 26. She has just finished her work with my friends. | `Elle vient de finir son travail avec mes amis.` |
-| 27. She has just finished her work after lunch. | `Elle vient de finir son travail après le déjeuner.` |
-| 28. She has just finished her work before dinner. | `Elle vient de finir son travail avant le dîner.` |
-| 29. She has just finished her work in the morning. | `Elle vient de finir son travail le matin.` |
-| 30. She has just finished her work on Sundays. | `Elle vient de finir son travail le dimanche.` |
-| 31. We are holding the tickets in our hands today. | `Nous tenons les billets dans nos mains aujourd’hui.` |
-| 32. We are holding the tickets in our hands every day. | `Nous tenons les billets dans nos mains tous les jours.` |
-| 33. We are holding the tickets in our hands at home. | `Nous tenons les billets dans nos mains à la maison.` |
-| 34. We are holding the tickets in our hands at school. | `Nous tenons les billets dans nos mains à l’école.` |
-| 35. We are holding the tickets in our hands with my family. | `Nous tenons les billets dans nos mains avec ma famille.` |
-| 36. We are holding the tickets in our hands with my friends. | `Nous tenons les billets dans nos mains avec mes amis.` |
-| 37. We are holding the tickets in our hands after lunch. | `Nous tenons les billets dans nos mains après le déjeuner.` |
-| 38. We are holding the tickets in our hands before dinner. | `Nous tenons les billets dans nos mains avant le dîner.` |
-| 39. We are holding the tickets in our hands in the morning. | `Nous tenons les billets dans nos mains le matin.` |
-| 40. We are holding the tickets in our hands on Sundays. | `Nous tenons les billets dans nos mains le dimanche.` |
-| 41. Can you read this letter today? | `Peux-tu lire cette lettre aujourd’hui ?` |
-| 42. Can you read this letter every day? | `Peux-tu lire cette lettre tous les jours ?` |
-| 43. Can you read this letter at home? | `Peux-tu lire cette lettre à la maison ?` |
-| 44. Can you read this letter at school? | `Peux-tu lire cette lettre à l’école ?` |
-| 45. Can you read this letter with my family? | `Peux-tu lire cette lettre avec ma famille ?` |
-| 46. Can you read this letter with my friends? | `Peux-tu lire cette lettre avec mes amis ?` |
-| 47. Can you read this letter after lunch? | `Peux-tu lire cette lettre après le déjeuner ?` |
-| 48. Can you read this letter before dinner? | `Peux-tu lire cette lettre avant le dîner ?` |
-| 49. Can you read this letter in the morning? | `Peux-tu lire cette lettre le matin ?` |
-| 50. Can you read this letter on Sundays? | `Peux-tu lire cette lettre le dimanche ?` |
-| 51. I have to write to my parents today. | `Je dois écrire à mes parents aujourd’hui.` |
-| 52. I have to write to my parents every day. | `Je dois écrire à mes parents tous les jours.` |
-| 53. I have to write to my parents at home. | `Je dois écrire à mes parents à la maison.` |
-| 54. I have to write to my parents at school. | `Je dois écrire à mes parents à l’école.` |
-| 55. I have to write to my parents with my family. | `Je dois écrire à mes parents avec ma famille.` |
-| 56. I have to write to my parents with my friends. | `Je dois écrire à mes parents avec mes amis.` |
-| 57. I have to write to my parents after lunch. | `Je dois écrire à mes parents après le déjeuner.` |
-| 58. I have to write to my parents before dinner. | `Je dois écrire à mes parents avant le dîner.` |
-| 59. I have to write to my parents in the morning. | `Je dois écrire à mes parents le matin.` |
-| 60. I have to write to my parents on Sundays. | `Je dois écrire à mes parents le dimanche.` |
-| 61. He wants to put the books on the shelf today. | `Il veut mettre les livres sur l’étagère aujourd’hui.` |
-| 62. He wants to put the books on the shelf every day. | `Il veut mettre les livres sur l’étagère tous les jours.` |
-| 63. He wants to put the books on the shelf at home. | `Il veut mettre les livres sur l’étagère à la maison.` |
-| 64. He wants to put the books on the shelf at school. | `Il veut mettre les livres sur l’étagère à l’école.` |
-| 65. He wants to put the books on the shelf with my family. | `Il veut mettre les livres sur l’étagère avec ma famille.` |
-| 66. He wants to put the books on the shelf with my friends. | `Il veut mettre les livres sur l’étagère avec mes amis.` |
-| 67. He wants to put the books on the shelf after lunch. | `Il veut mettre les livres sur l’étagère après le déjeuner.` |
-| 68. He wants to put the books on the shelf before dinner. | `Il veut mettre les livres sur l’étagère avant le dîner.` |
-| 69. He wants to put the books on the shelf in the morning. | `Il veut mettre les livres sur l’étagère le matin.` |
-| 70. He wants to put the books on the shelf on Sundays. | `Il veut mettre les livres sur l’étagère le dimanche.` |
-| 71. We can come and see you tomorrow today. | `Nous pouvons venir vous voir demain aujourd’hui.` |
-| 72. We can come and see you tomorrow every day. | `Nous pouvons venir vous voir demain tous les jours.` |
-| 73. We can come and see you tomorrow at home. | `Nous pouvons venir vous voir demain à la maison.` |
-| 74. We can come and see you tomorrow at school. | `Nous pouvons venir vous voir demain à l’école.` |
-| 75. We can come and see you tomorrow with my family. | `Nous pouvons venir vous voir demain avec ma famille.` |
-| 76. We can come and see you tomorrow with my friends. | `Nous pouvons venir vous voir demain avec mes amis.` |
-| 77. We can come and see you tomorrow after lunch. | `Nous pouvons venir vous voir demain après le déjeuner.` |
-| 78. We can come and see you tomorrow before dinner. | `Nous pouvons venir vous voir demain avant le dîner.` |
-| 79. We can come and see you tomorrow in the morning. | `Nous pouvons venir vous voir demain le matin.` |
-| 80. We can come and see you tomorrow on Sundays. | `Nous pouvons venir vous voir demain le dimanche.` |
-| 81. You must choose a restaurant today. | `Vous devez choisir un restaurant aujourd’hui.` |
-| 82. You must choose a restaurant every day. | `Vous devez choisir un restaurant tous les jours.` |
-| 83. You must choose a restaurant at home. | `Vous devez choisir un restaurant à la maison.` |
-| 84. You must choose a restaurant at school. | `Vous devez choisir un restaurant à l’école.` |
-| 85. You must choose a restaurant with my family. | `Vous devez choisir un restaurant avec ma famille.` |
-| 86. You must choose a restaurant with my friends. | `Vous devez choisir un restaurant avec mes amis.` |
-| 87. You must choose a restaurant after lunch. | `Vous devez choisir un restaurant après le déjeuner.` |
-| 88. You must choose a restaurant before dinner. | `Vous devez choisir un restaurant avant le dîner.` |
-| 89. You must choose a restaurant in the morning. | `Vous devez choisir un restaurant le matin.` |
-| 90. You must choose a restaurant on Sundays. | `Vous devez choisir un restaurant le dimanche.` |
-| 91. She learns to drive with her father today. | `Elle apprend à conduire avec son père aujourd’hui.` |
-| 92. She learns to drive with her father every day. | `Elle apprend à conduire avec son père tous les jours.` |
-| 93. She learns to drive with her father at home. | `Elle apprend à conduire avec son père à la maison.` |
-| 94. She learns to drive with her father at school. | `Elle apprend à conduire avec son père à l’école.` |
-| 95. She learns to drive with her father with my family. | `Elle apprend à conduire avec son père avec ma famille.` |
-| 96. She learns to drive with her father with my friends. | `Elle apprend à conduire avec son père avec mes amis.` |
-| 97. She learns to drive with her father after lunch. | `Elle apprend à conduire avec son père après le déjeuner.` |
-| 98. She learns to drive with her father before dinner. | `Elle apprend à conduire avec son père avant le dîner.` |
-| 99. She learns to drive with her father in the morning. | `Elle apprend à conduire avec son père le matin.` |
-| 100. She learns to drive with her father on Sundays. | `Elle apprend à conduire avec son père le dimanche.` |
+| 1. I leave early on Monday. | `Je pars tôt lundi.` |
+| 2. Are you leaving for Lyon tomorrow? | `Est-ce que tu pars pour Lyon demain ?` |
+| 3. The train leaves at seven o’clock. | `Le train part à sept heures.` |
+| 4. We are going out after dinner. | `Nous sortons après le dîner.` |
+| 5. She is going out with her colleagues tonight. | `Elle sort avec ses collègues ce soir.` |
+| 6. They take the chairs out onto the balcony. | `Ils sortent les chaises sur le balcon.` |
+| 7. I leave the office at six. | `Je quitte le bureau à six heures.` |
+| 8. Do you leave Paris on Friday? | `Est-ce que tu quittes Paris vendredi ?` |
+| 9. We are not leaving the house now. | `Nous ne quittons pas la maison maintenant.` |
+| 10. The children go out during the break. | `Les enfants sortent pendant la pause.` |
+| 11. My parents leave for Canada in July. | `Mes parents partent pour le Canada en juillet.` |
+| 12. You are leaving the classroom before noon. | `Vous quittez la salle de classe avant midi.` |
+| 13. I am going to leave after the meeting. | `Je vais partir après la réunion.` |
+| 14. She wants to go out this weekend. | `Elle veut sortir ce week-end.` |
+| 15. They have to leave the hotel before ten. | `Ils doivent quitter l’hôtel avant dix heures.` |
+| 16. We can go out if the weather is nice. | `Nous pouvons sortir s’il fait beau.` |
+| 17. Why are you leaving so late? | `Pourquoi est-ce que vous partez si tard ?` |
+| 18. He does not leave the city in winter. | `Il ne quitte pas la ville en hiver.` |
+| 19. The bus leaves from the station at noon. | `Le bus part de la gare à midi.` |
+| 20. I take my notebooks out of my bag. | `Je sors mes cahiers de mon sac.` |
+| 21. I am coming to the café with you. | `Je viens au café avec toi.` |
+| 22. Are you coming from the library? | `Est-ce que tu viens de la bibliothèque ?` |
+| 23. Our cousins are coming this weekend. | `Nos cousins viennent ce week-end.` |
+| 24. We hold the door for the teacher. | `Nous tenons la porte pour le professeur.` |
+| 25. She keeps a notebook in her bag. | `Elle tient un carnet dans son sac.` |
+| 26. Do you care about this project? | `Est-ce que vous tenez à ce projet ?` |
+| 27. I have just finished the exercise. | `Je viens de finir l’exercice.` |
+| 28. We have just come back from the market. | `Nous venons de rentrer du marché.` |
+| 29. They have just arrived at the hotel. | `Ils viennent d’arriver à l’hôtel.` |
+| 30. He has just written a short message. | `Il vient d’écrire un message court.` |
+| 31. You have just read the letter. | `Tu viens de lire la lettre.` |
+| 32. She has just gone out with her sister. | `Elle vient de sortir avec sa sœur.` |
+| 33. I have not just called the doctor. | `Je ne viens pas d’appeler le médecin.` |
+| 34. We come from Marseille, but we live in Paris. | `Nous venons de Marseille, mais nous habitons à Paris.` |
+| 35. What are you holding in your hand? | `Qu’est-ce que tu tiens dans ta main ?` |
+| 36. I tell the truth to my parents. | `Je dis la vérité à mes parents.` |
+| 37. What are the children saying? | `Qu’est-ce que les enfants disent ?` |
+| 38. You read the newspaper during breakfast. | `Vous lisez le journal pendant le petit-déjeuner.` |
+| 39. We read more in the evening. | `Nous lisons davantage le soir.` |
+| 40. She writes to her brother every week. | `Elle écrit à son frère chaque semaine.` |
+| 41. Are you writing an email to the director? | `Est-ce que tu écris un mail au directeur ?` |
+| 42. They put their coats near the door. | `Ils mettent leurs manteaux près de la porte.` |
+| 43. I set the table before dinner. | `Je mets la table avant le dîner.` |
+| 44. We receive letters from our grandparents. | `Nous recevons des lettres de nos grands-parents.` |
+| 45. She receives a message from the office. | `Elle reçoit un message du bureau.` |
+| 46. Do you say that often? | `Est-ce que vous dites cela souvent ?` |
+| 47. My friends write postcards in the summer. | `Mes amis écrivent des cartes postales en été.` |
+| 48. I am going to read this book tonight. | `Je vais lire ce livre ce soir.` |
+| 49. We have to put the bags under the table. | `Nous devons mettre les sacs sous la table.` |
+| 50. He wants to receive news from his family. | `Il veut recevoir des nouvelles de sa famille.` |
+| 51. Can you write the address here? | `Peux-tu écrire l’adresse ici ?` |
+| 52. The teacher says that the work is important. | `Le professeur dit que le travail est important.` |
+| 53. They do not read during the trip. | `Ils ne lisent pas pendant le voyage.` |
+| 54. You are going to tell the story tomorrow. | `Tu vas dire l’histoire demain.` |
+| 55. We have just received the tickets. | `Nous venons de recevoir les billets.` |
+| 56. I can come after work. | `Je peux venir après le travail.` |
+| 57. Can you close the window? | `Est-ce que tu peux fermer la fenêtre ?` |
+| 58. They cannot go out before nine. | `Ils ne peuvent pas sortir avant neuf heures.` |
+| 59. We want to leave now. | `Nous voulons partir maintenant.` |
+| 60. She wants to read in the train. | `Elle veut lire dans le train.` |
+| 61. Do you want to write to your aunt? | `Est-ce que vous voulez écrire à votre tante ?` |
+| 62. I have to finish this report tonight. | `Je dois finir ce rapport ce soir.` |
+| 63. You must put your phone on the table. | `Tu dois mettre ton téléphone sur la table.` |
+| 64. He probably is at the office. | `Il doit être au bureau.` |
+| 65. We owe ten euros to Paul. | `Nous devons dix euros à Paul.` |
+| 66. My sister can speak French at work. | `Ma sœur peut parler français au travail.` |
+| 67. The students want to learn quickly. | `Les étudiants veulent apprendre vite.` |
+| 68. You have to choose a seat. | `Vous devez choisir une place.` |
+| 69. I cannot read this letter without my glasses. | `Je ne peux pas lire cette lettre sans mes lunettes.` |
+| 70. Does he want to come to the restaurant? | `Est-ce qu’il veut venir au restaurant ?` |
+| 71. We can wait in front of the museum. | `Nous pouvons attendre devant le musée.` |
+| 72. They have to write the exercise again. | `Ils doivent écrire l’exercice encore une fois.` |
+| 73. She probably wants a glass of water. | `Elle doit vouloir un verre d’eau.` |
+| 74. I want to do the shopping before noon. | `Je veux faire les courses avant midi.` |
+| 75. I like to read in the morning. | `J’aime lire le matin.` |
+| 76. We prefer to stay at home tonight. | `Nous préférons rester à la maison ce soir.` |
+| 77. She is beginning to learn French. | `Elle commence à apprendre le français.` |
+| 78. Are you learning to cook with your father? | `Est-ce que tu apprends à cuisiner avec ton père ?` |
+| 79. Paul helps Marie carry the bags. | `Paul aide Marie à porter les sacs.` |
+| 80. They manage to finish on time. | `Ils réussissent à finir à temps.` |
+| 81. I try to speak every day. | `J’essaie de parler chaque jour.` |
+| 82. We stop working at six o’clock. | `Nous arrêtons de travailler à six heures.` |
+| 83. You forget to close the door. | `Tu oublies de fermer la porte.` |
+| 84. She chooses to stay near the station. | `Elle choisit de rester près de la gare.` |
+| 85. He refuses to answer the question. | `Il refuse de répondre à la question.` |
+| 86. Do you have to begin to write now? | `Est-ce que vous devez commencer à écrire maintenant ?` |
+| 87. We want to try to understand the problem. | `Nous voulons essayer de comprendre le problème.` |
+| 88. The children like to go out after school. | `Les enfants aiment sortir après l’école.` |
+| 89. I am going to learn to cook this summer. | `Je vais apprendre à cuisiner cet été.` |
+| 90. She can manage to finish before dinner. | `Elle peut réussir à finir avant le dîner.` |
+| 91. They are trying to leave earlier. | `Ils essaient de partir plus tôt.` |
+| 92. You must stop talking during the film. | `Tu dois arrêter de parler pendant le film.` |
+| 93. We are beginning to read longer texts. | `Nous commençons à lire des textes plus longs.` |
+| 94. I prefer to write before breakfast. | `Je préfère écrire avant le petit-déjeuner.` |
+| 95. Can you help your brother finish the dishes? | `Peux-tu aider ton frère à finir la vaisselle ?` |
+| 96. She has just chosen to stay in Paris. | `Elle vient de choisir de rester à Paris.` |
+| 97. We forget to buy bread at the market. | `Nous oublions d’acheter du pain au marché.` |
+| 98. He wants to learn to write better. | `Il veut apprendre à écrire mieux.` |
+| 99. Are they trying to receive more news? | `Est-ce qu’ils essaient de recevoir plus de nouvelles ?` |
+| 100. The students begin to receive messages from the professor. | `Les étudiants commencent à recevoir des messages du professeur.` |

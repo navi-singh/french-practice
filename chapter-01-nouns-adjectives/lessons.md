@@ -683,107 +683,107 @@ Mark yourself wrong if:
 
 ## English-to-French Translation Practice (100 Sentences)
 
-Translate each English sentence aloud or in writing before checking the French on the right.
+Cover the French column, translate each English sentence aloud, then uncover to check. These sentences use only grammar and vocabulary from this chapter and the chapters before it.
 
 | English | French |
 | --- | --- |
-| 1. The big house has a small garden today. | `La grande maison a un petit jardin aujourd’hui.` |
-| 2. The big house has a small garden every day. | `La grande maison a un petit jardin tous les jours.` |
-| 3. The big house has a small garden at home. | `La grande maison a un petit jardin à la maison.` |
-| 4. The big house has a small garden at school. | `La grande maison a un petit jardin à l’école.` |
-| 5. The big house has a small garden with my family. | `La grande maison a un petit jardin avec ma famille.` |
-| 6. The big house has a small garden with my friends. | `La grande maison a un petit jardin avec mes amis.` |
-| 7. The big house has a small garden after lunch. | `La grande maison a un petit jardin après le déjeuner.` |
-| 8. The big house has a small garden before dinner. | `La grande maison a un petit jardin avant le dîner.` |
-| 9. The big house has a small garden in the morning. | `La grande maison a un petit jardin le matin.` |
-| 10. The big house has a small garden on Sundays. | `La grande maison a un petit jardin le dimanche.` |
-| 11. The red books are interesting today. | `Les livres rouges sont intéressants aujourd’hui.` |
-| 12. The red books are interesting every day. | `Les livres rouges sont intéressants tous les jours.` |
-| 13. The red books are interesting at home. | `Les livres rouges sont intéressants à la maison.` |
-| 14. The red books are interesting at school. | `Les livres rouges sont intéressants à l’école.` |
-| 15. The red books are interesting with my family. | `Les livres rouges sont intéressants avec ma famille.` |
-| 16. The red books are interesting with my friends. | `Les livres rouges sont intéressants avec mes amis.` |
-| 17. The red books are interesting after lunch. | `Les livres rouges sont intéressants après le déjeuner.` |
-| 18. The red books are interesting before dinner. | `Les livres rouges sont intéressants avant le dîner.` |
-| 19. The red books are interesting in the morning. | `Les livres rouges sont intéressants le matin.` |
-| 20. The red books are interesting on Sundays. | `Les livres rouges sont intéressants le dimanche.` |
-| 21. A French student is visiting the old museum today. | `Un étudiant français visite le vieux musée aujourd’hui.` |
-| 22. A French student is visiting the old museum every day. | `Un étudiant français visite le vieux musée tous les jours.` |
-| 23. A French student is visiting the old museum at home. | `Un étudiant français visite le vieux musée à la maison.` |
-| 24. A French student is visiting the old museum at school. | `Un étudiant français visite le vieux musée à l’école.` |
-| 25. A French student is visiting the old museum with my family. | `Un étudiant français visite le vieux musée avec ma famille.` |
-| 26. A French student is visiting the old museum with my friends. | `Un étudiant français visite le vieux musée avec mes amis.` |
-| 27. A French student is visiting the old museum after lunch. | `Un étudiant français visite le vieux musée après le déjeuner.` |
-| 28. A French student is visiting the old museum before dinner. | `Un étudiant français visite le vieux musée avant le dîner.` |
-| 29. A French student is visiting the old museum in the morning. | `Un étudiant français visite le vieux musée le matin.` |
-| 30. A French student is visiting the old museum on Sundays. | `Un étudiant français visite le vieux musée le dimanche.` |
-| 31. The new hotel is beautiful today. | `Le nouvel hôtel est beau aujourd’hui.` |
-| 32. The new hotel is beautiful every day. | `Le nouvel hôtel est beau tous les jours.` |
-| 33. The new hotel is beautiful at home. | `Le nouvel hôtel est beau à la maison.` |
-| 34. The new hotel is beautiful at school. | `Le nouvel hôtel est beau à l’école.` |
-| 35. The new hotel is beautiful with my family. | `Le nouvel hôtel est beau avec ma famille.` |
-| 36. The new hotel is beautiful with my friends. | `Le nouvel hôtel est beau avec mes amis.` |
-| 37. The new hotel is beautiful after lunch. | `Le nouvel hôtel est beau après le déjeuner.` |
-| 38. The new hotel is beautiful before dinner. | `Le nouvel hôtel est beau avant le dîner.` |
-| 39. The new hotel is beautiful in the morning. | `Le nouvel hôtel est beau le matin.` |
-| 40. The new hotel is beautiful on Sundays. | `Le nouvel hôtel est beau le dimanche.` |
-| 41. My sister has a blue car today. | `Ma sœur a une voiture bleue aujourd’hui.` |
-| 42. My sister has a blue car every day. | `Ma sœur a une voiture bleue tous les jours.` |
-| 43. My sister has a blue car at home. | `Ma sœur a une voiture bleue à la maison.` |
-| 44. My sister has a blue car at school. | `Ma sœur a une voiture bleue à l’école.` |
-| 45. My sister has a blue car with my family. | `Ma sœur a une voiture bleue avec ma famille.` |
-| 46. My sister has a blue car with my friends. | `Ma sœur a une voiture bleue avec mes amis.` |
-| 47. My sister has a blue car after lunch. | `Ma sœur a une voiture bleue après le déjeuner.` |
-| 48. My sister has a blue car before dinner. | `Ma sœur a une voiture bleue avant le dîner.` |
-| 49. My sister has a blue car in the morning. | `Ma sœur a une voiture bleue le matin.` |
-| 50. My sister has a blue car on Sundays. | `Ma sœur a une voiture bleue le dimanche.` |
-| 51. The young women are intelligent today. | `Les jeunes femmes sont intelligentes aujourd’hui.` |
-| 52. The young women are intelligent every day. | `Les jeunes femmes sont intelligentes tous les jours.` |
-| 53. The young women are intelligent at home. | `Les jeunes femmes sont intelligentes à la maison.` |
-| 54. The young women are intelligent at school. | `Les jeunes femmes sont intelligentes à l’école.` |
-| 55. The young women are intelligent with my family. | `Les jeunes femmes sont intelligentes avec ma famille.` |
-| 56. The young women are intelligent with my friends. | `Les jeunes femmes sont intelligentes avec mes amis.` |
-| 57. The young women are intelligent after lunch. | `Les jeunes femmes sont intelligentes après le déjeuner.` |
-| 58. The young women are intelligent before dinner. | `Les jeunes femmes sont intelligentes avant le dîner.` |
-| 59. The young women are intelligent in the morning. | `Les jeunes femmes sont intelligentes le matin.` |
-| 60. The young women are intelligent on Sundays. | `Les jeunes femmes sont intelligentes le dimanche.` |
-| 61. There are two white cats in the apartment today. | `Il y a deux chats blancs dans l’appartement aujourd’hui.` |
-| 62. There are two white cats in the apartment every day. | `Il y a deux chats blancs dans l’appartement tous les jours.` |
-| 63. There are two white cats in the apartment at home. | `Il y a deux chats blancs dans l’appartement à la maison.` |
-| 64. There are two white cats in the apartment at school. | `Il y a deux chats blancs dans l’appartement à l’école.` |
-| 65. There are two white cats in the apartment with my family. | `Il y a deux chats blancs dans l’appartement avec ma famille.` |
-| 66. There are two white cats in the apartment with my friends. | `Il y a deux chats blancs dans l’appartement avec mes amis.` |
-| 67. There are two white cats in the apartment after lunch. | `Il y a deux chats blancs dans l’appartement après le déjeuner.` |
-| 68. There are two white cats in the apartment before dinner. | `Il y a deux chats blancs dans l’appartement avant le dîner.` |
-| 69. There are two white cats in the apartment in the morning. | `Il y a deux chats blancs dans l’appartement le matin.` |
-| 70. There are two white cats in the apartment on Sundays. | `Il y a deux chats blancs dans l’appartement le dimanche.` |
-| 71. The Italian restaurant serves excellent food today. | `Le restaurant italien sert une excellente cuisine aujourd’hui.` |
-| 72. The Italian restaurant serves excellent food every day. | `Le restaurant italien sert une excellente cuisine tous les jours.` |
-| 73. The Italian restaurant serves excellent food at home. | `Le restaurant italien sert une excellente cuisine à la maison.` |
-| 74. The Italian restaurant serves excellent food at school. | `Le restaurant italien sert une excellente cuisine à l’école.` |
-| 75. The Italian restaurant serves excellent food with my family. | `Le restaurant italien sert une excellente cuisine avec ma famille.` |
-| 76. The Italian restaurant serves excellent food with my friends. | `Le restaurant italien sert une excellente cuisine avec mes amis.` |
-| 77. The Italian restaurant serves excellent food after lunch. | `Le restaurant italien sert une excellente cuisine après le déjeuner.` |
-| 78. The Italian restaurant serves excellent food before dinner. | `Le restaurant italien sert une excellente cuisine avant le dîner.` |
-| 79. The Italian restaurant serves excellent food in the morning. | `Le restaurant italien sert une excellente cuisine le matin.` |
-| 80. The Italian restaurant serves excellent food on Sundays. | `Le restaurant italien sert une excellente cuisine le dimanche.` |
-| 81. The handsome boy is wearing a green shirt today. | `Le beau garçon porte une chemise verte aujourd’hui.` |
-| 82. The handsome boy is wearing a green shirt every day. | `Le beau garçon porte une chemise verte tous les jours.` |
-| 83. The handsome boy is wearing a green shirt at home. | `Le beau garçon porte une chemise verte à la maison.` |
-| 84. The handsome boy is wearing a green shirt at school. | `Le beau garçon porte une chemise verte à l’école.` |
-| 85. The handsome boy is wearing a green shirt with my family. | `Le beau garçon porte une chemise verte avec ma famille.` |
-| 86. The handsome boy is wearing a green shirt with my friends. | `Le beau garçon porte une chemise verte avec mes amis.` |
-| 87. The handsome boy is wearing a green shirt after lunch. | `Le beau garçon porte une chemise verte après le déjeuner.` |
-| 88. The handsome boy is wearing a green shirt before dinner. | `Le beau garçon porte une chemise verte avant le dîner.` |
-| 89. The handsome boy is wearing a green shirt in the morning. | `Le beau garçon porte une chemise verte le matin.` |
-| 90. The handsome boy is wearing a green shirt on Sundays. | `Le beau garçon porte une chemise verte le dimanche.` |
-| 91. Those old houses are very expensive today. | `Ces vieilles maisons sont très chères aujourd’hui.` |
-| 92. Those old houses are very expensive every day. | `Ces vieilles maisons sont très chères tous les jours.` |
-| 93. Those old houses are very expensive at home. | `Ces vieilles maisons sont très chères à la maison.` |
-| 94. Those old houses are very expensive at school. | `Ces vieilles maisons sont très chères à l’école.` |
-| 95. Those old houses are very expensive with my family. | `Ces vieilles maisons sont très chères avec ma famille.` |
-| 96. Those old houses are very expensive with my friends. | `Ces vieilles maisons sont très chères avec mes amis.` |
-| 97. Those old houses are very expensive after lunch. | `Ces vieilles maisons sont très chères après le déjeuner.` |
-| 98. Those old houses are very expensive before dinner. | `Ces vieilles maisons sont très chères avant le dîner.` |
-| 99. Those old houses are very expensive in the morning. | `Ces vieilles maisons sont très chères le matin.` |
-| 100. Those old houses are very expensive on Sundays. | `Ces vieilles maisons sont très chères le dimanche.` |
+| 1. The garden is small. | `Le jardin est petit.` |
+| 2. The window is large. | `La fenêtre est grande.` |
+| 3. The school is near the café. | `L’école est près du café.` |
+| 4. The neighbors are friendly. | `Les voisins sont sympathiques.` |
+| 5. The museum is downtown. | `Le musée est dans le centre-ville.` |
+| 6. The question is important. | `La question est importante.` |
+| 7. The hotel is near the station. | `L’hôtel est près de la gare.` |
+| 8. The students are in the classroom. | `Les étudiants sont dans la classe.` |
+| 9. The address is on the document. | `L’adresse est sur le document.` |
+| 10. The restaurant is open. | `Le restaurant est ouvert.` |
+| 11. The chair is white. | `La chaise est blanche.` |
+| 12. The tree is in the garden. | `L’arbre est dans le jardin.` |
+| 13. The cafés are small. | `Les cafés sont petits.` |
+| 14. The tables are black. | `Les tables sont noires.` |
+| 15. The board is in the room. | `Le tableau est dans la salle.` |
+| 16. The answer is difficult. | `La réponse est difficile.` |
+| 17. The friend is American. | `L’ami est américain.` |
+| 18. The story is French. | `L’histoire est française.` |
+| 19. The professors are patient. | `Les professeurs sont patients.` |
+| 20. The city is beautiful. | `La ville est belle.` |
+| 21. I have a blue notebook. | `J’ai un cahier bleu.` |
+| 22. There is a lamp in the bedroom. | `Il y a une lampe dans la chambre.` |
+| 23. We have some photos of Paris. | `Nous avons des photos de Paris.` |
+| 24. The desks are near the windows. | `Les bureaux sont près des fenêtres.` |
+| 25. There are some animals in the park. | `Il y a des animaux dans le parc.` |
+| 26. I have a red bag. | `J’ai un sac rouge.` |
+| 27. There is a door near the table. | `Il y a une porte près de la table.` |
+| 28. We have some notebooks in the bag. | `Nous avons des cahiers dans le sac.` |
+| 29. The newspapers are on the desk. | `Les journaux sont sur le bureau.` |
+| 30. There is a voice in the street. | `Il y a une voix dans la rue.` |
+| 31. I have a small apartment. | `J’ai un petit appartement.` |
+| 32. There are some doors in the hotel. | `Il y a des portes dans l’hôtel.` |
+| 33. The villages are quiet. | `Les villages sont tranquilles.` |
+| 34. We have a large bedroom. | `Nous avons une grande chambre.` |
+| 35. There is a beautiful board in the classroom. | `Il y a un beau tableau dans la classe.` |
+| 36. I have some black chairs. | `J’ai des chaises noires.` |
+| 37. The books are in the bag. | `Les livres sont dans le sac.` |
+| 38. There is a modern office. | `Il y a un bureau moderne.` |
+| 39. We have some old photos. | `Nous avons des vieilles photos.` |
+| 40. A notebook and a pen, please. | `Un cahier et un stylo, s’il vous plaît.` |
+| 41. Paul is happy. | `Paul est content.` |
+| 42. Marie is happy. | `Marie est contente.` |
+| 43. Paul and Marc are tired. | `Paul et Marc sont fatigués.` |
+| 44. Marie and Léa are tired. | `Marie et Léa sont fatiguées.` |
+| 45. Paul and Marie are happy. | `Paul et Marie sont heureux.` |
+| 46. The Canadian female students are active. | `Les étudiantes canadiennes sont actives.` |
+| 47. The athletic boy is calm. | `Le garçon sportif est calme.` |
+| 48. The athletic girl is calm. | `La fille sportive est calme.` |
+| 49. The good result is important. | `Le bon résultat est important.` |
+| 50. The expensive table is black. | `La table chère est noire.` |
+| 51. The natural park is large. | `Le parc naturel est grand.` |
+| 52. The Canadian family is friendly. | `La famille canadienne est sympathique.` |
+| 53. The Italian restaurant is good. | `Le restaurant italien est bon.` |
+| 54. The French actress is happy. | `L’actrice française est contente.` |
+| 55. The American actor is tired. | `L’acteur américain est fatigué.` |
+| 56. The calm girls are in the garden. | `Les filles calmes sont dans le jardin.` |
+| 57. The happy boys are at school. | `Les garçons heureux sont à l’école.` |
+| 58. The active neighbors are Canadian. | `Les voisins actifs sont canadiens.` |
+| 59. The old houses are white. | `Les vieilles maisons sont blanches.` |
+| 60. The small rooms are quiet. | `Les petites chambres sont tranquilles.` |
+| 61. We are in a large Canadian city. | `Nous sommes dans une grande ville canadienne.` |
+| 62. She has a small black jacket. | `Elle a une petite veste noire.` |
+| 63. It is a beautiful modern apartment. | `C’est un bel appartement moderne.` |
+| 64. There is a new French student. | `Il y a un nouvel étudiant français.` |
+| 65. The old white houses are near the river. | `Les vieilles maisons blanches sont près de la rivière.` |
+| 66. My Canadian colleagues are in the café. | `Mes collègues canadiens sont dans le café.` |
+| 67. The quiet street is near a small park. | `La rue tranquille est près d’un petit parc.` |
+| 68. There is a good meal in the kitchen. | `Il y a un bon repas dans la cuisine.` |
+| 69. The young female student is Italian. | `La jeune étudiante est italienne.` |
+| 70. The new friend is American. | `Le nouvel ami est américain.` |
+| 71. The old hotel is downtown. | `Le vieil hôtel est dans le centre-ville.` |
+| 72. The beautiful neighborhood is quiet. | `Le beau quartier est tranquille.` |
+| 73. The big black bag is on the chair. | `Le grand sac noir est sur la chaise.` |
+| 74. The small blue notebooks are in the office. | `Les petits cahiers bleus sont dans le bureau.` |
+| 75. The white kitchen has a black table. | `La cuisine blanche a une table noire.` |
+| 76. The red chairs are near the window. | `Les chaises rouges sont près de la fenêtre.` |
+| 77. The French language is difficult. | `Le français est difficile.` |
+| 78. The Canadian neighbors are friendly. | `Les voisins canadiens sont sympathiques.` |
+| 79. There are some modern apartments in the street. | `Il y a des appartements modernes dans la rue.` |
+| 80. The shared garden is pretty. | `Le jardin partagé est joli.` |
+| 81. My room has a large window. | `Ma chambre a une grande fenêtre.` |
+| 82. The living room has a comfortable sofa. | `Le salon a un canapé confortable.` |
+| 83. There is a white table and some red chairs. | `Il y a une table blanche et des chaises rouges.` |
+| 84. One female neighbor is French. | `Une voisine est française.` |
+| 85. Two male neighbors are Canadian. | `Deux voisins sont canadiens.` |
+| 86. The new apartment is small but modern. | `Le nouvel appartement est petit mais moderne.` |
+| 87. The little house is near a large school. | `La petite maison est près d’une grande école.` |
+| 88. The windows are large and bright. | `Les fenêtres sont grandes et lumineuses.` |
+| 89. Marie and Paul are happy in the neighborhood. | `Marie et Paul sont contents dans le quartier.` |
+| 90. The old sofa is comfortable. | `Le vieux canapé est confortable.` |
+| 91. There are some French books on the desk. | `Il y a des livres français sur le bureau.` |
+| 92. The black bag is under the table. | `Le sac noir est sous la table.` |
+| 93. The good coffee is in the small café. | `Le bon café est dans le petit café.` |
+| 94. The large city has a quiet street. | `La grande ville a une rue tranquille.` |
+| 95. The French students are near the museum. | `Les étudiants français sont près du musée.` |
+| 96. The Canadian female students have blue notebooks. | `Les étudiantes canadiennes ont des cahiers bleus.` |
+| 97. There is a beautiful tree near the school. | `Il y a un bel arbre près de l’école.` |
+| 98. The modern offices are downtown. | `Les bureaux modernes sont dans le centre-ville.` |
+| 99. The white houses have red doors. | `Les maisons blanches ont des portes rouges.` |
+| 100. A small French café is near the station. | `Un petit café français est près de la gare.` |

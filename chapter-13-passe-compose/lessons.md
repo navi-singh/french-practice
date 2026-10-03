@@ -536,107 +536,107 @@ Mark yourself wrong if:
 
 ## English-to-French Translation Practice (100 Sentences)
 
-Translate each English sentence aloud or in writing before checking the French on the right.
+Cover the French column, translate each English sentence aloud, then uncover to check. These sentences use only grammar and vocabulary from this chapter and the chapters before it.
 
 | English | French |
 | --- | --- |
-| 1. I finished my homework after dinner today. | `J’ai fini mes devoirs après le dîner aujourd’hui.` |
-| 2. I finished my homework after dinner every day. | `J’ai fini mes devoirs après le dîner tous les jours.` |
-| 3. I finished my homework after dinner at home. | `J’ai fini mes devoirs après le dîner à la maison.` |
-| 4. I finished my homework after dinner at school. | `J’ai fini mes devoirs après le dîner à l’école.` |
-| 5. I finished my homework after dinner with my family. | `J’ai fini mes devoirs après le dîner avec ma famille.` |
-| 6. I finished my homework after dinner with my friends. | `J’ai fini mes devoirs après le dîner avec mes amis.` |
-| 7. I finished my homework after dinner after lunch. | `J’ai fini mes devoirs après le dîner après le déjeuner.` |
-| 8. I finished my homework after dinner before dinner. | `J’ai fini mes devoirs après le dîner avant le dîner.` |
-| 9. I finished my homework after dinner in the morning. | `J’ai fini mes devoirs après le dîner le matin.` |
-| 10. I finished my homework after dinner on Sundays. | `J’ai fini mes devoirs après le dîner le dimanche.` |
-| 11. She has already read this book today. | `Elle a déjà lu ce livre aujourd’hui.` |
-| 12. She has already read this book every day. | `Elle a déjà lu ce livre tous les jours.` |
-| 13. She has already read this book at home. | `Elle a déjà lu ce livre à la maison.` |
-| 14. She has already read this book at school. | `Elle a déjà lu ce livre à l’école.` |
-| 15. She has already read this book with my family. | `Elle a déjà lu ce livre avec ma famille.` |
-| 16. She has already read this book with my friends. | `Elle a déjà lu ce livre avec mes amis.` |
-| 17. She has already read this book after lunch. | `Elle a déjà lu ce livre après le déjeuner.` |
-| 18. She has already read this book before dinner. | `Elle a déjà lu ce livre avant le dîner.` |
-| 19. She has already read this book in the morning. | `Elle a déjà lu ce livre le matin.` |
-| 20. She has already read this book on Sundays. | `Elle a déjà lu ce livre le dimanche.` |
-| 21. We did not see the new film today. | `Nous n’avons pas vu le nouveau film aujourd’hui.` |
-| 22. We did not see the new film every day. | `Nous n’avons pas vu le nouveau film tous les jours.` |
-| 23. We did not see the new film at home. | `Nous n’avons pas vu le nouveau film à la maison.` |
-| 24. We did not see the new film at school. | `Nous n’avons pas vu le nouveau film à l’école.` |
-| 25. We did not see the new film with my family. | `Nous n’avons pas vu le nouveau film avec ma famille.` |
-| 26. We did not see the new film with my friends. | `Nous n’avons pas vu le nouveau film avec mes amis.` |
-| 27. We did not see the new film after lunch. | `Nous n’avons pas vu le nouveau film après le déjeuner.` |
-| 28. We did not see the new film before dinner. | `Nous n’avons pas vu le nouveau film avant le dîner.` |
-| 29. We did not see the new film in the morning. | `Nous n’avons pas vu le nouveau film le matin.` |
-| 30. We did not see the new film on Sundays. | `Nous n’avons pas vu le nouveau film le dimanche.` |
-| 31. Did you take the train this morning today? | `Est-ce que tu as pris le train ce matin aujourd’hui ?` |
-| 32. Did you take the train this morning every day? | `Est-ce que tu as pris le train ce matin tous les jours ?` |
-| 33. Did you take the train this morning at home? | `Est-ce que tu as pris le train ce matin à la maison ?` |
-| 34. Did you take the train this morning at school? | `Est-ce que tu as pris le train ce matin à l’école ?` |
-| 35. Did you take the train this morning with my family? | `Est-ce que tu as pris le train ce matin avec ma famille ?` |
-| 36. Did you take the train this morning with my friends? | `Est-ce que tu as pris le train ce matin avec mes amis ?` |
-| 37. Did you take the train this morning after lunch? | `Est-ce que tu as pris le train ce matin après le déjeuner ?` |
-| 38. Did you take the train this morning before dinner? | `Est-ce que tu as pris le train ce matin avant le dîner ?` |
-| 39. Did you take the train this morning in the morning? | `Est-ce que tu as pris le train ce matin le matin ?` |
-| 40. Did you take the train this morning on Sundays? | `Est-ce que tu as pris le train ce matin le dimanche ?` |
-| 41. They arrived at the station at eight today. | `Ils sont arrivés à la gare à huit heures aujourd’hui.` |
-| 42. They arrived at the station at eight every day. | `Ils sont arrivés à la gare à huit heures tous les jours.` |
-| 43. They arrived at the station at eight at home. | `Ils sont arrivés à la gare à huit heures à la maison.` |
-| 44. They arrived at the station at eight at school. | `Ils sont arrivés à la gare à huit heures à l’école.` |
-| 45. They arrived at the station at eight with my family. | `Ils sont arrivés à la gare à huit heures avec ma famille.` |
-| 46. They arrived at the station at eight with my friends. | `Ils sont arrivés à la gare à huit heures avec mes amis.` |
-| 47. They arrived at the station at eight after lunch. | `Ils sont arrivés à la gare à huit heures après le déjeuner.` |
-| 48. They arrived at the station at eight before dinner. | `Ils sont arrivés à la gare à huit heures avant le dîner.` |
-| 49. They arrived at the station at eight in the morning. | `Ils sont arrivés à la gare à huit heures le matin.` |
-| 50. They arrived at the station at eight on Sundays. | `Ils sont arrivés à la gare à huit heures le dimanche.` |
-| 51. Marie went to the market with her brother today. | `Marie est allée au marché avec son frère aujourd’hui.` |
-| 52. Marie went to the market with her brother every day. | `Marie est allée au marché avec son frère tous les jours.` |
-| 53. Marie went to the market with her brother at home. | `Marie est allée au marché avec son frère à la maison.` |
-| 54. Marie went to the market with her brother at school. | `Marie est allée au marché avec son frère à l’école.` |
-| 55. Marie went to the market with her brother with my family. | `Marie est allée au marché avec son frère avec ma famille.` |
-| 56. Marie went to the market with her brother with my friends. | `Marie est allée au marché avec son frère avec mes amis.` |
-| 57. Marie went to the market with her brother after lunch. | `Marie est allée au marché avec son frère après le déjeuner.` |
-| 58. Marie went to the market with her brother before dinner. | `Marie est allée au marché avec son frère avant le dîner.` |
-| 59. Marie went to the market with her brother in the morning. | `Marie est allée au marché avec son frère le matin.` |
-| 60. Marie went to the market with her brother on Sundays. | `Marie est allée au marché avec son frère le dimanche.` |
-| 61. He wrote a long letter to his friend today. | `Il a écrit une longue lettre à son ami aujourd’hui.` |
-| 62. He wrote a long letter to his friend every day. | `Il a écrit une longue lettre à son ami tous les jours.` |
-| 63. He wrote a long letter to his friend at home. | `Il a écrit une longue lettre à son ami à la maison.` |
-| 64. He wrote a long letter to his friend at school. | `Il a écrit une longue lettre à son ami à l’école.` |
-| 65. He wrote a long letter to his friend with my family. | `Il a écrit une longue lettre à son ami avec ma famille.` |
-| 66. He wrote a long letter to his friend with my friends. | `Il a écrit une longue lettre à son ami avec mes amis.` |
-| 67. He wrote a long letter to his friend after lunch. | `Il a écrit une longue lettre à son ami après le déjeuner.` |
-| 68. He wrote a long letter to his friend before dinner. | `Il a écrit une longue lettre à son ami avant le dîner.` |
-| 69. He wrote a long letter to his friend in the morning. | `Il a écrit une longue lettre à son ami le matin.` |
-| 70. He wrote a long letter to his friend on Sundays. | `Il a écrit une longue lettre à son ami le dimanche.` |
-| 71. Have you ever visited Lyon today? | `As-tu déjà visité Lyon aujourd’hui ?` |
-| 72. Have you ever visited Lyon every day? | `As-tu déjà visité Lyon tous les jours ?` |
-| 73. Have you ever visited Lyon at home? | `As-tu déjà visité Lyon à la maison ?` |
-| 74. Have you ever visited Lyon at school? | `As-tu déjà visité Lyon à l’école ?` |
-| 75. Have you ever visited Lyon with my family? | `As-tu déjà visité Lyon avec ma famille ?` |
-| 76. Have you ever visited Lyon with my friends? | `As-tu déjà visité Lyon avec mes amis ?` |
-| 77. Have you ever visited Lyon after lunch? | `As-tu déjà visité Lyon après le déjeuner ?` |
-| 78. Have you ever visited Lyon before dinner? | `As-tu déjà visité Lyon avant le dîner ?` |
-| 79. Have you ever visited Lyon in the morning? | `As-tu déjà visité Lyon le matin ?` |
-| 80. Have you ever visited Lyon on Sundays? | `As-tu déjà visité Lyon le dimanche ?` |
-| 81. We ate quickly and then left today. | `Nous avons mangé rapidement, puis nous sommes partis aujourd’hui.` |
-| 82. We ate quickly and then left every day. | `Nous avons mangé rapidement, puis nous sommes partis tous les jours.` |
-| 83. We ate quickly and then left at home. | `Nous avons mangé rapidement, puis nous sommes partis à la maison.` |
-| 84. We ate quickly and then left at school. | `Nous avons mangé rapidement, puis nous sommes partis à l’école.` |
-| 85. We ate quickly and then left with my family. | `Nous avons mangé rapidement, puis nous sommes partis avec ma famille.` |
-| 86. We ate quickly and then left with my friends. | `Nous avons mangé rapidement, puis nous sommes partis avec mes amis.` |
-| 87. We ate quickly and then left after lunch. | `Nous avons mangé rapidement, puis nous sommes partis après le déjeuner.` |
-| 88. We ate quickly and then left before dinner. | `Nous avons mangé rapidement, puis nous sommes partis avant le dîner.` |
-| 89. We ate quickly and then left in the morning. | `Nous avons mangé rapidement, puis nous sommes partis le matin.` |
-| 90. We ate quickly and then left on Sundays. | `Nous avons mangé rapidement, puis nous sommes partis le dimanche.` |
-| 91. She did not forget her passport today. | `Elle n’a pas oublié son passeport aujourd’hui.` |
-| 92. She did not forget her passport every day. | `Elle n’a pas oublié son passeport tous les jours.` |
-| 93. She did not forget her passport at home. | `Elle n’a pas oublié son passeport à la maison.` |
-| 94. She did not forget her passport at school. | `Elle n’a pas oublié son passeport à l’école.` |
-| 95. She did not forget her passport with my family. | `Elle n’a pas oublié son passeport avec ma famille.` |
-| 96. She did not forget her passport with my friends. | `Elle n’a pas oublié son passeport avec mes amis.` |
-| 97. She did not forget her passport after lunch. | `Elle n’a pas oublié son passeport après le déjeuner.` |
-| 98. She did not forget her passport before dinner. | `Elle n’a pas oublié son passeport avant le dîner.` |
-| 99. She did not forget her passport in the morning. | `Elle n’a pas oublié son passeport le matin.` |
-| 100. She did not forget her passport on Sundays. | `Elle n’a pas oublié son passeport le dimanche.` |
+| 1. I finished the exercise. | `J’ai fini l’exercice.` |
+| 2. She prepared dinner. | `Elle a préparé le dîner.` |
+| 3. We waited for the bus. | `Nous avons attendu le bus.` |
+| 4. They sold their old car. | `Ils ont vendu leur vieille voiture.` |
+| 5. You chose the blue notebook. | `Tu as choisi le cahier bleu.` |
+| 6. I watched a film last night. | `J’ai regardé un film hier soir.` |
+| 7. The students answered the question. | `Les étudiants ont répondu à la question.` |
+| 8. We visited the museum on Saturday. | `Nous avons visité le musée samedi.` |
+| 9. She spoke to the teacher after class. | `Elle a parlé au professeur après le cours.` |
+| 10. Did you finish the report? | `Est-ce que vous avez fini le rapport ?` |
+| 11. I had a very good idea. | `J’ai eu une très bonne idée.` |
+| 12. He was sick yesterday. | `Il a été malade hier.` |
+| 13. We made a cake for Léa. | `Nous avons fait un gâteau pour Léa.` |
+| 14. They took the last train. | `Ils ont pris le dernier train.` |
+| 15. She put the keys on the table. | `Elle a mis les clés sur la table.` |
+| 16. You said the truth. | `Tu as dit la vérité.` |
+| 17. I wrote a message to my cousin. | `J’ai écrit un message à mon cousin.` |
+| 18. We read the article together. | `Nous avons lu l’article ensemble.` |
+| 19. Did they see the new apartment? | `Ont-ils vu le nouvel appartement ?` |
+| 20. She drank a coffee after lunch. | `Elle a bu un café après le déjeuner.` |
+| 21. I found out the news this morning. | `J’ai su la nouvelle ce matin.` |
+| 22. We were able to come before noon. | `Nous avons pu venir avant midi.` |
+| 23. He wanted to help his brother. | `Il a voulu aider son frère.` |
+| 24. You had to wait outside. | `Vous avez dû attendre dehors.` |
+| 25. She received a letter from her friend. | `Elle a reçu une lettre de son amie.` |
+| 26. I opened the window after lunch. | `J’ai ouvert la fenêtre après le déjeuner.` |
+| 27. They offered flowers to their mother. | `Ils ont offert des fleurs à leur mère.` |
+| 28. We knew this restaurant. | `Nous avons connu ce restaurant.` |
+| 29. He ran to the station. | `Il a couru à la gare.` |
+| 30. Did you believe his story? | `Est-ce que tu as cru son histoire ?` |
+| 31. I did not eat this morning. | `Je n’ai pas mangé ce matin.` |
+| 32. She did not understand the rule. | `Elle n’a pas compris la règle.` |
+| 33. We did not write to the director. | `Nous n’avons pas écrit au directeur.` |
+| 34. Did you already see this film? | `Tu as déjà vu ce film ?` |
+| 35. They worked well yesterday. | `Ils ont bien travaillé hier.` |
+| 36. I often spoke with my neighbor. | `J’ai souvent parlé avec mon voisin.` |
+| 37. Why did she change her plan? | `Pourquoi est-ce qu’elle a changé son projet ?` |
+| 38. Where did you put my bag? | `Où as-tu mis mon sac ?` |
+| 39. We have not answered yet. | `Nous n’avons pas encore répondu.` |
+| 40. He has never visited Paris. | `Il n’a jamais visité Paris.` |
+| 41. Did they take the train or the bus? | `Est-ce qu’ils ont pris le train ou le bus ?` |
+| 42. I read the message too quickly. | `J’ai lu le message trop vite.` |
+| 43. She has already done the shopping. | `Elle a déjà fait les courses.` |
+| 44. You did not say anything. | `Tu n’as rien dit.` |
+| 45. We saw no one in the street. | `Nous n’avons vu personne dans la rue.` |
+| 46. Have you received my email? | `Avez-vous reçu mon courriel ?` |
+| 47. When did you open the store? | `Quand avez-vous ouvert le magasin ?` |
+| 48. I did not want dessert. | `Je n’ai pas voulu de dessert.` |
+| 49. She has always loved this song. | `Elle a toujours aimé cette chanson.` |
+| 50. Did you understand everything? | `As-tu tout compris ?` |
+| 51. I went to the market yesterday. | `Je suis allé au marché hier.` |
+| 52. Marie arrived at eight o’clock. | `Marie est arrivée à huit heures.` |
+| 53. The children came back home early. | `Les enfants sont rentrés tôt à la maison.` |
+| 54. My sisters left after breakfast. | `Mes sœurs sont parties après le petit déjeuner.` |
+| 55. We went out after dinner. | `Nous sommes sortis après le dîner.` |
+| 56. Did you come with your parents? | `Est-ce que vous êtes venus avec vos parents ?` |
+| 57. Paul and Nora stayed at the hotel. | `Paul et Nora sont restés à l’hôtel.` |
+| 58. She went down to the kitchen. | `Elle est descendue à la cuisine.` |
+| 59. The cat went up onto the chair. | `Le chat est monté sur la chaise.` |
+| 60. They returned to Lyon on Friday. | `Ils sont retournés à Lyon vendredi.` |
+| 61. My grandmother was born in Marseille. | `Ma grand-mère est née à Marseille.` |
+| 62. The old tree died during the winter. | `Le vieil arbre est mort pendant l’hiver.` |
+| 63. We passed by the park. | `Nous sommes passés par le parc.` |
+| 64. The student became very calm. | `L’étudiante est devenue très calme.` |
+| 65. Did Clara fall in the street? | `Clara est-elle tombée dans la rue ?` |
+| 66. I did not go to the party. | `Je ne suis pas allé à la fête.` |
+| 67. They did not arrive late. | `Elles ne sont pas arrivées en retard.` |
+| 68. We have already returned home. | `Nous sommes déjà rentrés chez nous.` |
+| 69. Why did you leave so early? | `Pourquoi êtes-vous partis si tôt ?` |
+| 70. She came with me and stayed two hours. | `Elle est venue avec moi et elle est restée deux heures.` |
+| 71. I woke up before everyone. | `Je me suis réveillé avant tout le monde.` |
+| 72. She got up at six. | `Elle s’est levée à six heures.` |
+| 73. We got dressed quickly. | `Nous nous sommes habillés rapidement.` |
+| 74. They went to bed after midnight. | `Ils se sont couchés après minuit.` |
+| 75. Did you hurry this morning? | `Est-ce que tu t’es dépêché ce matin ?` |
+| 76. The girls saw each other at the station. | `Les filles se sont vues à la gare.` |
+| 77. The neighbors spoke to each other after the meeting. | `Les voisins se sont parlé après la réunion.` |
+| 78. We called each other yesterday evening. | `Nous nous sommes téléphoné hier soir.` |
+| 79. She washed her hands before dinner. | `Elle s’est lavé les mains avant le dîner.` |
+| 80. I did not sit near the door. | `Je ne me suis pas assis près de la porte.` |
+| 81. They did not get bored during the trip. | `Ils ne se sont pas ennuyés pendant le voyage.` |
+| 82. Did you remember the appointment? | `Vous vous êtes souvenus du rendez-vous ?` |
+| 83. We realized the problem too late. | `Nous nous sommes rendu compte du problème trop tard.` |
+| 84. She left quietly. | `Elle s’en est allée sans bruit.` |
+| 85. The friends met again in front of the café. | `Les amis se sont retrouvés devant le café.` |
+| 86. The letter? I wrote it yesterday. | `La lettre ? Je l’ai écrite hier.` |
+| 87. The books? We read them during vacation. | `Les livres ? Nous les avons lus pendant les vacances.` |
+| 88. The photos? She took them in the garden. | `Les photos ? Elle les a prises dans le jardin.` |
+| 89. The exercises? Did you do them alone? | `Les exercices ? Tu les as faits tout seul ?` |
+| 90. The song? They heard it on the radio. | `La chanson ? Ils l’ont entendue à la radio.` |
+| 91. The keys? I put them in my coat. | `Les clés ? Je les ai mises dans mon manteau.` |
+| 92. The windows? We opened them before breakfast. | `Les fenêtres ? Nous les avons ouvertes avant le petit déjeuner.` |
+| 93. The invitations? She received them this week. | `Les invitations ? Elle les a reçues cette semaine.` |
+| 94. The tickets? They bought them online. | `Les billets ? Ils les ont achetés en ligne.` |
+| 95. The address? I did not find it. | `L’adresse ? Je ne l’ai pas trouvée.` |
+| 96. These messages? Have you already read them? | `Ces messages ? Est-ce que tu les as déjà lus ?` |
+| 97. My cousins arrived, and we welcomed them. | `Mes cousins sont arrivés, et nous les avons accueillis.` |
+| 98. The scarf? Clara lost it on the bus. | `L’écharpe ? Clara l’a perdue dans le bus.` |
+| 99. The postcards? I sent them to my parents. | `Les cartes postales ? Je les ai envoyées à mes parents.` |
+| 100. The problem? We understood it after the lesson. | `Le problème ? Nous l’avons compris après la leçon.` |

@@ -69,10 +69,10 @@ function renderHome() {
       </div>
       <div class="home-grid">
         ${course.chapters.map((chapter) => `
-          <article class="home-card" data-route="${chapter.slug}">
+          <button type="button" class="home-card" data-route="${chapter.slug}">
             <span>Chapter ${chapter.number}</span>
             <h2>${escapeHtml(chapter.title)}</h2>
-          </article>
+          </button>
         `).join("")}
       </div>
     </section>`;
@@ -85,6 +85,8 @@ function renderHome() {
 
 function renderDocument(chapter, document) {
   const isDone = completed.has(document.id);
+  const sections = document.sections || [];
+  const practice = sections.find((section) => /translation practice/i.test(section.title));
   main.innerHTML = `
     <article class="content-card">
       <header class="document-header">
@@ -100,15 +102,47 @@ function renderDocument(chapter, document) {
           </button>
         `).join("")}
       </div>
+      ${sections.length > 1 ? `
+        <div class="practice-nav">
+          ${practice ? `
+            <button type="button" class="practice-jump" data-jump="${escapeAttribute(practice.id)}">
+              Jump to translation practice
+            </button>` : ""}
+          <button type="button" class="outline-toggle" id="outline-toggle"
+            aria-expanded="false" aria-controls="lesson-outline">
+            ${sections.length} sections
+          </button>
+        </div>
+        <nav class="lesson-outline" id="lesson-outline" aria-label="Sections in this document" hidden>
+          ${sections.map((section) => `
+            <button type="button" data-jump="${escapeAttribute(section.id)}">
+              ${escapeHtml(section.title)}
+            </button>
+          `).join("")}
+        </nav>` : ""}
+      <section class="lesson-body">${document.html}</section>
       <button class="completion-button ${isDone ? "done" : ""}" id="completion-button">
         ${isDone ? "✓ Completed" : "Mark this section complete"}
       </button>
-      <section class="lesson-body">${document.html}</section>
     </article>`;
 
   main.querySelectorAll("[data-document]").forEach((button) => {
     button.addEventListener("click", () => {
       location.hash = `#/${button.dataset.document}`;
+    });
+  });
+  const outlineToggle = main.querySelector("#outline-toggle");
+  outlineToggle?.addEventListener("click", () => {
+    const list = main.querySelector("#lesson-outline");
+    const open = list.hidden;
+    list.hidden = !open;
+    outlineToggle.setAttribute("aria-expanded", String(open));
+  });
+  // The hash drives routing, so jump by scrolling rather than by anchor href.
+  main.querySelectorAll("[data-jump]").forEach((button) => {
+    button.addEventListener("click", () => {
+      main.querySelector(`#${CSS.escape(button.dataset.jump)}`)
+        ?.scrollIntoView({ behavior: "smooth", block: "start" });
     });
   });
   main.querySelector("#completion-button").addEventListener("click", () => {
@@ -121,7 +155,37 @@ function renderDocument(chapter, document) {
     renderDocument(chapter, document);
     updateNavigation(chapter.slug);
   });
+  bindTranslationTables();
   bindSpeakableExamples();
+}
+
+// Hiding the French column first turns the table from a reading exercise back
+// into a recall exercise; each row can still be uncovered on its own.
+function bindTranslationTables() {
+  main.querySelectorAll(".translation-wrap").forEach((wrap) => {
+    const controls = document.createElement("div");
+    controls.className = "practice-controls";
+    const toggle = document.createElement("button");
+    toggle.type = "button";
+    toggle.className = "mask-toggle";
+    wrap.classList.add("masked");
+    const sync = () => {
+      const masked = wrap.classList.contains("masked");
+      toggle.setAttribute("aria-pressed", String(masked));
+      toggle.textContent = masked ? "French hidden — show all" : "Hide French";
+    };
+    toggle.addEventListener("click", () => {
+      wrap.classList.toggle("masked");
+      wrap.querySelectorAll("tr.revealed").forEach((row) => row.classList.remove("revealed"));
+      sync();
+    });
+    sync();
+    const hint = document.createElement("span");
+    hint.className = "hint";
+    hint.textContent = "Translate aloud, then tap a French answer to reveal or hear it.";
+    controls.append(toggle, hint);
+    wrap.before(controls);
+  });
 }
 
 function renderChapters(filter = "") {
@@ -196,8 +260,27 @@ function shortTitle(document) {
 
 function bindSpeakableExamples() {
   main.querySelectorAll("code.speakable").forEach((element) => {
-    element.title = "Tap to pronounce in French";
-    element.addEventListener("click", () => speakFrench(element.textContent));
+    const row = element.closest(".translation-wrap tbody tr");
+    const masked = () => row
+      && row.closest(".translation-wrap").classList.contains("masked")
+      && !row.classList.contains("revealed");
+    element.tabIndex = 0;
+    element.setAttribute("role", "button");
+    element.title = masked() ? "Tap to reveal" : "Tap to pronounce in French";
+    const activate = () => {
+      if (masked()) {
+        row.classList.add("revealed");
+        element.title = "Tap to pronounce in French";
+        return;
+      }
+      speakFrench(element.textContent);
+    };
+    element.addEventListener("click", activate);
+    element.addEventListener("keydown", (event) => {
+      if (event.key !== "Enter" && event.key !== " ") return;
+      event.preventDefault();
+      activate();
+    });
   });
 }
 
