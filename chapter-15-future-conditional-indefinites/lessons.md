@@ -501,3 +501,110 @@ Mark yourself wrong if:
 - a conditional request accidentally uses future `voudrai` instead of `voudrais`.
 :::
 
+
+## English-to-French Translation Practice (100 Sentences)
+
+Translate each English sentence aloud or in writing before checking the French on the right.
+
+| English | French |
+| --- | --- |
+| 1. I will call you when I arrive today. | `Je t’appellerai quand j’arriverai aujourd’hui.` |
+| 2. I will call you when I arrive every day. | `Je t’appellerai quand j’arriverai tous les jours.` |
+| 3. I will call you when I arrive at home. | `Je t’appellerai quand j’arriverai à la maison.` |
+| 4. I will call you when I arrive at school. | `Je t’appellerai quand j’arriverai à l’école.` |
+| 5. I will call you when I arrive with my family. | `Je t’appellerai quand j’arriverai avec ma famille.` |
+| 6. I will call you when I arrive with my friends. | `Je t’appellerai quand j’arriverai avec mes amis.` |
+| 7. I will call you when I arrive after lunch. | `Je t’appellerai quand j’arriverai après le déjeuner.` |
+| 8. I will call you when I arrive before dinner. | `Je t’appellerai quand j’arriverai avant le dîner.` |
+| 9. I will call you when I arrive in the morning. | `Je t’appellerai quand j’arriverai le matin.` |
+| 10. I will call you when I arrive on Sundays. | `Je t’appellerai quand j’arriverai le dimanche.` |
+| 11. She will be able to finish the project tomorrow today. | `Elle pourra finir le projet demain aujourd’hui.` |
+| 12. She will be able to finish the project tomorrow every day. | `Elle pourra finir le projet demain tous les jours.` |
+| 13. She will be able to finish the project tomorrow at home. | `Elle pourra finir le projet demain à la maison.` |
+| 14. She will be able to finish the project tomorrow at school. | `Elle pourra finir le projet demain à l’école.` |
+| 15. She will be able to finish the project tomorrow with my family. | `Elle pourra finir le projet demain avec ma famille.` |
+| 16. She will be able to finish the project tomorrow with my friends. | `Elle pourra finir le projet demain avec mes amis.` |
+| 17. She will be able to finish the project tomorrow after lunch. | `Elle pourra finir le projet demain après le déjeuner.` |
+| 18. She will be able to finish the project tomorrow before dinner. | `Elle pourra finir le projet demain avant le dîner.` |
+| 19. She will be able to finish the project tomorrow in the morning. | `Elle pourra finir le projet demain le matin.` |
+| 20. She will be able to finish the project tomorrow on Sundays. | `Elle pourra finir le projet demain le dimanche.` |
+| 21. We would like to visit every museum today. | `Nous aimerions visiter tous les musées aujourd’hui.` |
+| 22. We would like to visit every museum every day. | `Nous aimerions visiter tous les musées tous les jours.` |
+| 23. We would like to visit every museum at home. | `Nous aimerions visiter tous les musées à la maison.` |
+| 24. We would like to visit every museum at school. | `Nous aimerions visiter tous les musées à l’école.` |
+| 25. We would like to visit every museum with my family. | `Nous aimerions visiter tous les musées avec ma famille.` |
+| 26. We would like to visit every museum with my friends. | `Nous aimerions visiter tous les musées avec mes amis.` |
+| 27. We would like to visit every museum after lunch. | `Nous aimerions visiter tous les musées après le déjeuner.` |
+| 28. We would like to visit every museum before dinner. | `Nous aimerions visiter tous les musées avant le dîner.` |
+| 29. We would like to visit every museum in the morning. | `Nous aimerions visiter tous les musées le matin.` |
+| 30. We would like to visit every museum on Sundays. | `Nous aimerions visiter tous les musées le dimanche.` |
+| 31. If I had more time, I would learn Italian today. | `Si j’avais plus de temps, j’apprendrais l’italien aujourd’hui.` |
+| 32. If I had more time, I would learn Italian every day. | `Si j’avais plus de temps, j’apprendrais l’italien tous les jours.` |
+| 33. If I had more time, I would learn Italian at home. | `Si j’avais plus de temps, j’apprendrais l’italien à la maison.` |
+| 34. If I had more time, I would learn Italian at school. | `Si j’avais plus de temps, j’apprendrais l’italien à l’école.` |
+| 35. If I had more time, I would learn Italian with my family. | `Si j’avais plus de temps, j’apprendrais l’italien avec ma famille.` |
+| 36. If I had more time, I would learn Italian with my friends. | `Si j’avais plus de temps, j’apprendrais l’italien avec mes amis.` |
+| 37. If I had more time, I would learn Italian after lunch. | `Si j’avais plus de temps, j’apprendrais l’italien après le déjeuner.` |
+| 38. If I had more time, I would learn Italian before dinner. | `Si j’avais plus de temps, j’apprendrais l’italien avant le dîner.` |
+| 39. If I had more time, I would learn Italian in the morning. | `Si j’avais plus de temps, j’apprendrais l’italien le matin.` |
+| 40. If I had more time, I would learn Italian on Sundays. | `Si j’avais plus de temps, j’apprendrais l’italien le dimanche.` |
+| 41. They had already left when we arrived today. | `Ils étaient déjà partis quand nous sommes arrivés aujourd’hui.` |
+| 42. They had already left when we arrived every day. | `Ils étaient déjà partis quand nous sommes arrivés tous les jours.` |
+| 43. They had already left when we arrived at home. | `Ils étaient déjà partis quand nous sommes arrivés à la maison.` |
+| 44. They had already left when we arrived at school. | `Ils étaient déjà partis quand nous sommes arrivés à l’école.` |
+| 45. They had already left when we arrived with my family. | `Ils étaient déjà partis quand nous sommes arrivés avec ma famille.` |
+| 46. They had already left when we arrived with my friends. | `Ils étaient déjà partis quand nous sommes arrivés avec mes amis.` |
+| 47. They had already left when we arrived after lunch. | `Ils étaient déjà partis quand nous sommes arrivés après le déjeuner.` |
+| 48. They had already left when we arrived before dinner. | `Ils étaient déjà partis quand nous sommes arrivés avant le dîner.` |
+| 49. They had already left when we arrived in the morning. | `Ils étaient déjà partis quand nous sommes arrivés le matin.` |
+| 50. They had already left when we arrived on Sundays. | `Ils étaient déjà partis quand nous sommes arrivés le dimanche.` |
+| 51. He would have helped you if he had known today. | `Il t’aurait aidé s’il avait su aujourd’hui.` |
+| 52. He would have helped you if he had known every day. | `Il t’aurait aidé s’il avait su tous les jours.` |
+| 53. He would have helped you if he had known at home. | `Il t’aurait aidé s’il avait su à la maison.` |
+| 54. He would have helped you if he had known at school. | `Il t’aurait aidé s’il avait su à l’école.` |
+| 55. He would have helped you if he had known with my family. | `Il t’aurait aidé s’il avait su avec ma famille.` |
+| 56. He would have helped you if he had known with my friends. | `Il t’aurait aidé s’il avait su avec mes amis.` |
+| 57. He would have helped you if he had known after lunch. | `Il t’aurait aidé s’il avait su après le déjeuner.` |
+| 58. He would have helped you if he had known before dinner. | `Il t’aurait aidé s’il avait su avant le dîner.` |
+| 59. He would have helped you if he had known in the morning. | `Il t’aurait aidé s’il avait su le matin.` |
+| 60. He would have helped you if he had known on Sundays. | `Il t’aurait aidé s’il avait su le dimanche.` |
+| 61. Someone will bring something to eat today. | `Quelqu’un apportera quelque chose à manger aujourd’hui.` |
+| 62. Someone will bring something to eat every day. | `Quelqu’un apportera quelque chose à manger tous les jours.` |
+| 63. Someone will bring something to eat at home. | `Quelqu’un apportera quelque chose à manger à la maison.` |
+| 64. Someone will bring something to eat at school. | `Quelqu’un apportera quelque chose à manger à l’école.` |
+| 65. Someone will bring something to eat with my family. | `Quelqu’un apportera quelque chose à manger avec ma famille.` |
+| 66. Someone will bring something to eat with my friends. | `Quelqu’un apportera quelque chose à manger avec mes amis.` |
+| 67. Someone will bring something to eat after lunch. | `Quelqu’un apportera quelque chose à manger après le déjeuner.` |
+| 68. Someone will bring something to eat before dinner. | `Quelqu’un apportera quelque chose à manger avant le dîner.` |
+| 69. Someone will bring something to eat in the morning. | `Quelqu’un apportera quelque chose à manger le matin.` |
+| 70. Someone will bring something to eat on Sundays. | `Quelqu’un apportera quelque chose à manger le dimanche.` |
+| 71. Whenever you are ready, we will leave today. | `Dès que tu seras prêt, nous partirons aujourd’hui.` |
+| 72. Whenever you are ready, we will leave every day. | `Dès que tu seras prêt, nous partirons tous les jours.` |
+| 73. Whenever you are ready, we will leave at home. | `Dès que tu seras prêt, nous partirons à la maison.` |
+| 74. Whenever you are ready, we will leave at school. | `Dès que tu seras prêt, nous partirons à l’école.` |
+| 75. Whenever you are ready, we will leave with my family. | `Dès que tu seras prêt, nous partirons avec ma famille.` |
+| 76. Whenever you are ready, we will leave with my friends. | `Dès que tu seras prêt, nous partirons avec mes amis.` |
+| 77. Whenever you are ready, we will leave after lunch. | `Dès que tu seras prêt, nous partirons après le déjeuner.` |
+| 78. Whenever you are ready, we will leave before dinner. | `Dès que tu seras prêt, nous partirons avant le dîner.` |
+| 79. Whenever you are ready, we will leave in the morning. | `Dès que tu seras prêt, nous partirons le matin.` |
+| 80. Whenever you are ready, we will leave on Sundays. | `Dès que tu seras prêt, nous partirons le dimanche.` |
+| 81. She would never say anything so rude today. | `Elle ne dirait jamais quelque chose d’aussi impoli aujourd’hui.` |
+| 82. She would never say anything so rude every day. | `Elle ne dirait jamais quelque chose d’aussi impoli tous les jours.` |
+| 83. She would never say anything so rude at home. | `Elle ne dirait jamais quelque chose d’aussi impoli à la maison.` |
+| 84. She would never say anything so rude at school. | `Elle ne dirait jamais quelque chose d’aussi impoli à l’école.` |
+| 85. She would never say anything so rude with my family. | `Elle ne dirait jamais quelque chose d’aussi impoli avec ma famille.` |
+| 86. She would never say anything so rude with my friends. | `Elle ne dirait jamais quelque chose d’aussi impoli avec mes amis.` |
+| 87. She would never say anything so rude after lunch. | `Elle ne dirait jamais quelque chose d’aussi impoli après le déjeuner.` |
+| 88. She would never say anything so rude before dinner. | `Elle ne dirait jamais quelque chose d’aussi impoli avant le dîner.` |
+| 89. She would never say anything so rude in the morning. | `Elle ne dirait jamais quelque chose d’aussi impoli le matin.` |
+| 90. She would never say anything so rude on Sundays. | `Elle ne dirait jamais quelque chose d’aussi impoli le dimanche.` |
+| 91. I will send you the address as soon as I find it today. | `Je t’enverrai l’adresse dès que je l’aurai trouvée aujourd’hui.` |
+| 92. I will send you the address as soon as I find it every day. | `Je t’enverrai l’adresse dès que je l’aurai trouvée tous les jours.` |
+| 93. I will send you the address as soon as I find it at home. | `Je t’enverrai l’adresse dès que je l’aurai trouvée à la maison.` |
+| 94. I will send you the address as soon as I find it at school. | `Je t’enverrai l’adresse dès que je l’aurai trouvée à l’école.` |
+| 95. I will send you the address as soon as I find it with my family. | `Je t’enverrai l’adresse dès que je l’aurai trouvée avec ma famille.` |
+| 96. I will send you the address as soon as I find it with my friends. | `Je t’enverrai l’adresse dès que je l’aurai trouvée avec mes amis.` |
+| 97. I will send you the address as soon as I find it after lunch. | `Je t’enverrai l’adresse dès que je l’aurai trouvée après le déjeuner.` |
+| 98. I will send you the address as soon as I find it before dinner. | `Je t’enverrai l’adresse dès que je l’aurai trouvée avant le dîner.` |
+| 99. I will send you the address as soon as I find it in the morning. | `Je t’enverrai l’adresse dès que je l’aurai trouvée le matin.` |
+| 100. I will send you the address as soon as I find it on Sundays. | `Je t’enverrai l’adresse dès que je l’aurai trouvée le dimanche.` |

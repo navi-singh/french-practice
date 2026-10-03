@@ -448,3 +448,111 @@ Mark yourself wrong if you have:
 - a direct object pronoun after the verb;
 - `en` without the number or quantity that should stay after the verb.
 :::
+
+
+## English-to-French Translation Practice (100 Sentences)
+
+Translate each English sentence aloud or in writing before checking the French on the right.
+
+| English | French |
+| --- | --- |
+| 1. I am drinking some water today. | `Je bois de l’eau aujourd’hui.` |
+| 2. I am drinking some water every day. | `Je bois de l’eau tous les jours.` |
+| 3. I am drinking some water at home. | `Je bois de l’eau à la maison.` |
+| 4. I am drinking some water at school. | `Je bois de l’eau à l’école.` |
+| 5. I am drinking some water with my family. | `Je bois de l’eau avec ma famille.` |
+| 6. I am drinking some water with my friends. | `Je bois de l’eau avec mes amis.` |
+| 7. I am drinking some water after lunch. | `Je bois de l’eau après le déjeuner.` |
+| 8. I am drinking some water before dinner. | `Je bois de l’eau avant le dîner.` |
+| 9. I am drinking some water in the morning. | `Je bois de l’eau le matin.` |
+| 10. I am drinking some water on Sundays. | `Je bois de l’eau le dimanche.` |
+| 11. She is taking the keys and putting them on the table today. | `Elle prend les clés et les met sur la table aujourd’hui.` |
+| 12. She is taking the keys and putting them on the table every day. | `Elle prend les clés et les met sur la table tous les jours.` |
+| 13. She is taking the keys and putting them on the table at home. | `Elle prend les clés et les met sur la table à la maison.` |
+| 14. She is taking the keys and putting them on the table at school. | `Elle prend les clés et les met sur la table à l’école.` |
+| 15. She is taking the keys and putting them on the table with my family. | `Elle prend les clés et les met sur la table avec ma famille.` |
+| 16. She is taking the keys and putting them on the table with my friends. | `Elle prend les clés et les met sur la table avec mes amis.` |
+| 17. She is taking the keys and putting them on the table after lunch. | `Elle prend les clés et les met sur la table après le déjeuner.` |
+| 18. She is taking the keys and putting them on the table before dinner. | `Elle prend les clés et les met sur la table avant le dîner.` |
+| 19. She is taking the keys and putting them on the table in the morning. | `Elle prend les clés et les met sur la table le matin.` |
+| 20. She is taking the keys and putting them on the table on Sundays. | `Elle prend les clés et les met sur la table le dimanche.` |
+| 21. We do not eat any meat today. | `Nous ne mangeons pas de viande aujourd’hui.` |
+| 22. We do not eat any meat every day. | `Nous ne mangeons pas de viande tous les jours.` |
+| 23. We do not eat any meat at home. | `Nous ne mangeons pas de viande à la maison.` |
+| 24. We do not eat any meat at school. | `Nous ne mangeons pas de viande à l’école.` |
+| 25. We do not eat any meat with my family. | `Nous ne mangeons pas de viande avec ma famille.` |
+| 26. We do not eat any meat with my friends. | `Nous ne mangeons pas de viande avec mes amis.` |
+| 27. We do not eat any meat after lunch. | `Nous ne mangeons pas de viande après le déjeuner.` |
+| 28. We do not eat any meat before dinner. | `Nous ne mangeons pas de viande avant le dîner.` |
+| 29. We do not eat any meat in the morning. | `Nous ne mangeons pas de viande le matin.` |
+| 30. We do not eat any meat on Sundays. | `Nous ne mangeons pas de viande le dimanche.` |
+| 31. Do you want some coffee today? | `Est-ce que tu veux du café aujourd’hui ?` |
+| 32. Do you want some coffee every day? | `Est-ce que tu veux du café tous les jours ?` |
+| 33. Do you want some coffee at home? | `Est-ce que tu veux du café à la maison ?` |
+| 34. Do you want some coffee at school? | `Est-ce que tu veux du café à l’école ?` |
+| 35. Do you want some coffee with my family? | `Est-ce que tu veux du café avec ma famille ?` |
+| 36. Do you want some coffee with my friends? | `Est-ce que tu veux du café avec mes amis ?` |
+| 37. Do you want some coffee after lunch? | `Est-ce que tu veux du café après le déjeuner ?` |
+| 38. Do you want some coffee before dinner? | `Est-ce que tu veux du café avant le dîner ?` |
+| 39. Do you want some coffee in the morning? | `Est-ce que tu veux du café le matin ?` |
+| 40. Do you want some coffee on Sundays? | `Est-ce que tu veux du café le dimanche ?` |
+| 41. I am giving him the letter today. | `Je lui donne la lettre aujourd’hui.` |
+| 42. I am giving him the letter every day. | `Je lui donne la lettre tous les jours.` |
+| 43. I am giving him the letter at home. | `Je lui donne la lettre à la maison.` |
+| 44. I am giving him the letter at school. | `Je lui donne la lettre à l’école.` |
+| 45. I am giving him the letter with my family. | `Je lui donne la lettre avec ma famille.` |
+| 46. I am giving him the letter with my friends. | `Je lui donne la lettre avec mes amis.` |
+| 47. I am giving him the letter after lunch. | `Je lui donne la lettre après le déjeuner.` |
+| 48. I am giving him the letter before dinner. | `Je lui donne la lettre avant le dîner.` |
+| 49. I am giving him the letter in the morning. | `Je lui donne la lettre le matin.` |
+| 50. I am giving him the letter on Sundays. | `Je lui donne la lettre le dimanche.` |
+| 51. They are speaking to us about their trip today. | `Ils nous parlent de leur voyage aujourd’hui.` |
+| 52. They are speaking to us about their trip every day. | `Ils nous parlent de leur voyage tous les jours.` |
+| 53. They are speaking to us about their trip at home. | `Ils nous parlent de leur voyage à la maison.` |
+| 54. They are speaking to us about their trip at school. | `Ils nous parlent de leur voyage à l’école.` |
+| 55. They are speaking to us about their trip with my family. | `Ils nous parlent de leur voyage avec ma famille.` |
+| 56. They are speaking to us about their trip with my friends. | `Ils nous parlent de leur voyage avec mes amis.` |
+| 57. They are speaking to us about their trip after lunch. | `Ils nous parlent de leur voyage après le déjeuner.` |
+| 58. They are speaking to us about their trip before dinner. | `Ils nous parlent de leur voyage avant le dîner.` |
+| 59. They are speaking to us about their trip in the morning. | `Ils nous parlent de leur voyage le matin.` |
+| 60. They are speaking to us about their trip on Sundays. | `Ils nous parlent de leur voyage le dimanche.` |
+| 61. I see the new books and I am buying them today. | `Je vois les nouveaux livres et je les achète aujourd’hui.` |
+| 62. I see the new books and I am buying them every day. | `Je vois les nouveaux livres et je les achète tous les jours.` |
+| 63. I see the new books and I am buying them at home. | `Je vois les nouveaux livres et je les achète à la maison.` |
+| 64. I see the new books and I am buying them at school. | `Je vois les nouveaux livres et je les achète à l’école.` |
+| 65. I see the new books and I am buying them with my family. | `Je vois les nouveaux livres et je les achète avec ma famille.` |
+| 66. I see the new books and I am buying them with my friends. | `Je vois les nouveaux livres et je les achète avec mes amis.` |
+| 67. I see the new books and I am buying them after lunch. | `Je vois les nouveaux livres et je les achète après le déjeuner.` |
+| 68. I see the new books and I am buying them before dinner. | `Je vois les nouveaux livres et je les achète avant le dîner.` |
+| 69. I see the new books and I am buying them in the morning. | `Je vois les nouveaux livres et je les achète le matin.` |
+| 70. I see the new books and I am buying them on Sundays. | `Je vois les nouveaux livres et je les achète le dimanche.` |
+| 71. She is going to the library and she is going there by bus today. | `Elle va à la bibliothèque et elle y va en bus aujourd’hui.` |
+| 72. She is going to the library and she is going there by bus every day. | `Elle va à la bibliothèque et elle y va en bus tous les jours.` |
+| 73. She is going to the library and she is going there by bus at home. | `Elle va à la bibliothèque et elle y va en bus à la maison.` |
+| 74. She is going to the library and she is going there by bus at school. | `Elle va à la bibliothèque et elle y va en bus à l’école.` |
+| 75. She is going to the library and she is going there by bus with my family. | `Elle va à la bibliothèque et elle y va en bus avec ma famille.` |
+| 76. She is going to the library and she is going there by bus with my friends. | `Elle va à la bibliothèque et elle y va en bus avec mes amis.` |
+| 77. She is going to the library and she is going there by bus after lunch. | `Elle va à la bibliothèque et elle y va en bus après le déjeuner.` |
+| 78. She is going to the library and she is going there by bus before dinner. | `Elle va à la bibliothèque et elle y va en bus avant le dîner.` |
+| 79. She is going to the library and she is going there by bus in the morning. | `Elle va à la bibliothèque et elle y va en bus le matin.` |
+| 80. She is going to the library and she is going there by bus on Sundays. | `Elle va à la bibliothèque et elle y va en bus le dimanche.` |
+| 81. We have some bread and we are eating some today. | `Nous avons du pain et nous en mangeons aujourd’hui.` |
+| 82. We have some bread and we are eating some every day. | `Nous avons du pain et nous en mangeons tous les jours.` |
+| 83. We have some bread and we are eating some at home. | `Nous avons du pain et nous en mangeons à la maison.` |
+| 84. We have some bread and we are eating some at school. | `Nous avons du pain et nous en mangeons à l’école.` |
+| 85. We have some bread and we are eating some with my family. | `Nous avons du pain et nous en mangeons avec ma famille.` |
+| 86. We have some bread and we are eating some with my friends. | `Nous avons du pain et nous en mangeons avec mes amis.` |
+| 87. We have some bread and we are eating some after lunch. | `Nous avons du pain et nous en mangeons après le déjeuner.` |
+| 88. We have some bread and we are eating some before dinner. | `Nous avons du pain et nous en mangeons avant le dîner.` |
+| 89. We have some bread and we are eating some in the morning. | `Nous avons du pain et nous en mangeons le matin.` |
+| 90. We have some bread and we are eating some on Sundays. | `Nous avons du pain et nous en mangeons le dimanche.` |
+| 91. Give the documents to me today! | `Donne-moi les documents aujourd’hui !` |
+| 92. Give the documents to me every day! | `Donne-moi les documents tous les jours !` |
+| 93. Give the documents to me at home! | `Donne-moi les documents à la maison !` |
+| 94. Give the documents to me at school! | `Donne-moi les documents à l’école !` |
+| 95. Give the documents to me with my family! | `Donne-moi les documents avec ma famille !` |
+| 96. Give the documents to me with my friends! | `Donne-moi les documents avec mes amis !` |
+| 97. Give the documents to me after lunch! | `Donne-moi les documents après le déjeuner !` |
+| 98. Give the documents to me before dinner! | `Donne-moi les documents avant le dîner !` |
+| 99. Give the documents to me in the morning! | `Donne-moi les documents le matin !` |
+| 100. Give the documents to me on Sundays! | `Donne-moi les documents le dimanche !` |

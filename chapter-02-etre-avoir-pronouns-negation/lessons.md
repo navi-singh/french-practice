@@ -484,3 +484,111 @@ Mark yourself wrong if:
 - an adjective such as `étudiante`, `petit`, or `sympathiques` does not agree;
 - you use only one subject pronoun across the whole paragraph.
 :::
+
+
+## English-to-French Translation Practice (100 Sentences)
+
+Translate each English sentence aloud or in writing before checking the French on the right.
+
+| English | French |
+| --- | --- |
+| 1. I am a student and I am tired today. | `Je suis étudiant et je suis fatigué aujourd’hui.` |
+| 2. I am a student and I am tired every day. | `Je suis étudiant et je suis fatigué tous les jours.` |
+| 3. I am a student and I am tired at home. | `Je suis étudiant et je suis fatigué à la maison.` |
+| 4. I am a student and I am tired at school. | `Je suis étudiant et je suis fatigué à l’école.` |
+| 5. I am a student and I am tired with my family. | `Je suis étudiant et je suis fatigué avec ma famille.` |
+| 6. I am a student and I am tired with my friends. | `Je suis étudiant et je suis fatigué avec mes amis.` |
+| 7. I am a student and I am tired after lunch. | `Je suis étudiant et je suis fatigué après le déjeuner.` |
+| 8. I am a student and I am tired before dinner. | `Je suis étudiant et je suis fatigué avant le dîner.` |
+| 9. I am a student and I am tired in the morning. | `Je suis étudiant et je suis fatigué le matin.` |
+| 10. I am a student and I am tired on Sundays. | `Je suis étudiant et je suis fatigué le dimanche.` |
+| 11. She has two brothers today. | `Elle a deux frères aujourd’hui.` |
+| 12. She has two brothers every day. | `Elle a deux frères tous les jours.` |
+| 13. She has two brothers at home. | `Elle a deux frères à la maison.` |
+| 14. She has two brothers at school. | `Elle a deux frères à l’école.` |
+| 15. She has two brothers with my family. | `Elle a deux frères avec ma famille.` |
+| 16. She has two brothers with my friends. | `Elle a deux frères avec mes amis.` |
+| 17. She has two brothers after lunch. | `Elle a deux frères après le déjeuner.` |
+| 18. She has two brothers before dinner. | `Elle a deux frères avant le dîner.` |
+| 19. She has two brothers in the morning. | `Elle a deux frères le matin.` |
+| 20. She has two brothers on Sundays. | `Elle a deux frères le dimanche.` |
+| 21. We are not at home today today. | `Nous ne sommes pas à la maison aujourd’hui aujourd’hui.` |
+| 22. We are not at home today every day. | `Nous ne sommes pas à la maison aujourd’hui tous les jours.` |
+| 23. We are not at home today at home. | `Nous ne sommes pas à la maison aujourd’hui à la maison.` |
+| 24. We are not at home today at school. | `Nous ne sommes pas à la maison aujourd’hui à l’école.` |
+| 25. We are not at home today with my family. | `Nous ne sommes pas à la maison aujourd’hui avec ma famille.` |
+| 26. We are not at home today with my friends. | `Nous ne sommes pas à la maison aujourd’hui avec mes amis.` |
+| 27. We are not at home today after lunch. | `Nous ne sommes pas à la maison aujourd’hui après le déjeuner.` |
+| 28. We are not at home today before dinner. | `Nous ne sommes pas à la maison aujourd’hui avant le dîner.` |
+| 29. We are not at home today in the morning. | `Nous ne sommes pas à la maison aujourd’hui le matin.` |
+| 30. We are not at home today on Sundays. | `Nous ne sommes pas à la maison aujourd’hui le dimanche.` |
+| 31. There is a book on the table today. | `Il y a un livre sur la table aujourd’hui.` |
+| 32. There is a book on the table every day. | `Il y a un livre sur la table tous les jours.` |
+| 33. There is a book on the table at home. | `Il y a un livre sur la table à la maison.` |
+| 34. There is a book on the table at school. | `Il y a un livre sur la table à l’école.` |
+| 35. There is a book on the table with my family. | `Il y a un livre sur la table avec ma famille.` |
+| 36. There is a book on the table with my friends. | `Il y a un livre sur la table avec mes amis.` |
+| 37. There is a book on the table after lunch. | `Il y a un livre sur la table après le déjeuner.` |
+| 38. There is a book on the table before dinner. | `Il y a un livre sur la table avant le dîner.` |
+| 39. There is a book on the table in the morning. | `Il y a un livre sur la table le matin.` |
+| 40. There is a book on the table on Sundays. | `Il y a un livre sur la table le dimanche.` |
+| 41. They do not have any children today. | `Ils n’ont pas d’enfants aujourd’hui.` |
+| 42. They do not have any children every day. | `Ils n’ont pas d’enfants tous les jours.` |
+| 43. They do not have any children at home. | `Ils n’ont pas d’enfants à la maison.` |
+| 44. They do not have any children at school. | `Ils n’ont pas d’enfants à l’école.` |
+| 45. They do not have any children with my family. | `Ils n’ont pas d’enfants avec ma famille.` |
+| 46. They do not have any children with my friends. | `Ils n’ont pas d’enfants avec mes amis.` |
+| 47. They do not have any children after lunch. | `Ils n’ont pas d’enfants après le déjeuner.` |
+| 48. They do not have any children before dinner. | `Ils n’ont pas d’enfants avant le dîner.` |
+| 49. They do not have any children in the morning. | `Ils n’ont pas d’enfants le matin.` |
+| 50. They do not have any children on Sundays. | `Ils n’ont pas d’enfants le dimanche.` |
+| 51. Are you hungry today? | `Est-ce que tu as faim aujourd’hui ?` |
+| 52. Are you hungry every day? | `Est-ce que tu as faim tous les jours ?` |
+| 53. Are you hungry at home? | `Est-ce que tu as faim à la maison ?` |
+| 54. Are you hungry at school? | `Est-ce que tu as faim à l’école ?` |
+| 55. Are you hungry with my family? | `Est-ce que tu as faim avec ma famille ?` |
+| 56. Are you hungry with my friends? | `Est-ce que tu as faim avec mes amis ?` |
+| 57. Are you hungry after lunch? | `Est-ce que tu as faim après le déjeuner ?` |
+| 58. Are you hungry before dinner? | `Est-ce que tu as faim avant le dîner ?` |
+| 59. Are you hungry in the morning? | `Est-ce que tu as faim le matin ?` |
+| 60. Are you hungry on Sundays? | `Est-ce que tu as faim le dimanche ?` |
+| 61. You are kind, but you are not always patient today. | `Vous êtes gentil, mais vous n’êtes pas toujours patient aujourd’hui.` |
+| 62. You are kind, but you are not always patient every day. | `Vous êtes gentil, mais vous n’êtes pas toujours patient tous les jours.` |
+| 63. You are kind, but you are not always patient at home. | `Vous êtes gentil, mais vous n’êtes pas toujours patient à la maison.` |
+| 64. You are kind, but you are not always patient at school. | `Vous êtes gentil, mais vous n’êtes pas toujours patient à l’école.` |
+| 65. You are kind, but you are not always patient with my family. | `Vous êtes gentil, mais vous n’êtes pas toujours patient avec ma famille.` |
+| 66. You are kind, but you are not always patient with my friends. | `Vous êtes gentil, mais vous n’êtes pas toujours patient avec mes amis.` |
+| 67. You are kind, but you are not always patient after lunch. | `Vous êtes gentil, mais vous n’êtes pas toujours patient après le déjeuner.` |
+| 68. You are kind, but you are not always patient before dinner. | `Vous êtes gentil, mais vous n’êtes pas toujours patient avant le dîner.` |
+| 69. You are kind, but you are not always patient in the morning. | `Vous êtes gentil, mais vous n’êtes pas toujours patient le matin.` |
+| 70. You are kind, but you are not always patient on Sundays. | `Vous êtes gentil, mais vous n’êtes pas toujours patient le dimanche.` |
+| 71. We have a little time today. | `Nous avons un peu de temps aujourd’hui.` |
+| 72. We have a little time every day. | `Nous avons un peu de temps tous les jours.` |
+| 73. We have a little time at home. | `Nous avons un peu de temps à la maison.` |
+| 74. We have a little time at school. | `Nous avons un peu de temps à l’école.` |
+| 75. We have a little time with my family. | `Nous avons un peu de temps avec ma famille.` |
+| 76. We have a little time with my friends. | `Nous avons un peu de temps avec mes amis.` |
+| 77. We have a little time after lunch. | `Nous avons un peu de temps après le déjeuner.` |
+| 78. We have a little time before dinner. | `Nous avons un peu de temps avant le dîner.` |
+| 79. We have a little time in the morning. | `Nous avons un peu de temps le matin.` |
+| 80. We have a little time on Sundays. | `Nous avons un peu de temps le dimanche.` |
+| 81. Is there a café near the station today? | `Y a-t-il un café près de la gare aujourd’hui ?` |
+| 82. Is there a café near the station every day? | `Y a-t-il un café près de la gare tous les jours ?` |
+| 83. Is there a café near the station at home? | `Y a-t-il un café près de la gare à la maison ?` |
+| 84. Is there a café near the station at school? | `Y a-t-il un café près de la gare à l’école ?` |
+| 85. Is there a café near the station with my family? | `Y a-t-il un café près de la gare avec ma famille ?` |
+| 86. Is there a café near the station with my friends? | `Y a-t-il un café près de la gare avec mes amis ?` |
+| 87. Is there a café near the station after lunch? | `Y a-t-il un café près de la gare après le déjeuner ?` |
+| 88. Is there a café near the station before dinner? | `Y a-t-il un café près de la gare avant le dîner ?` |
+| 89. Is there a café near the station in the morning? | `Y a-t-il un café près de la gare le matin ?` |
+| 90. Is there a café near the station on Sundays? | `Y a-t-il un café près de la gare le dimanche ?` |
+| 91. They are Canadian and they are very happy today. | `Ils sont canadiens et ils sont très heureux aujourd’hui.` |
+| 92. They are Canadian and they are very happy every day. | `Ils sont canadiens et ils sont très heureux tous les jours.` |
+| 93. They are Canadian and they are very happy at home. | `Ils sont canadiens et ils sont très heureux à la maison.` |
+| 94. They are Canadian and they are very happy at school. | `Ils sont canadiens et ils sont très heureux à l’école.` |
+| 95. They are Canadian and they are very happy with my family. | `Ils sont canadiens et ils sont très heureux avec ma famille.` |
+| 96. They are Canadian and they are very happy with my friends. | `Ils sont canadiens et ils sont très heureux avec mes amis.` |
+| 97. They are Canadian and they are very happy after lunch. | `Ils sont canadiens et ils sont très heureux après le déjeuner.` |
+| 98. They are Canadian and they are very happy before dinner. | `Ils sont canadiens et ils sont très heureux avant le dîner.` |
+| 99. They are Canadian and they are very happy in the morning. | `Ils sont canadiens et ils sont très heureux le matin.` |
+| 100. They are Canadian and they are very happy on Sundays. | `Ils sont canadiens et ils sont très heureux le dimanche.` |

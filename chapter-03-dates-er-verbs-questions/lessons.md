@@ -611,3 +611,110 @@ Mark yourself wrong if any of these appear:
 - a missing space before `?`, which French requires.
 :::
 
+
+## English-to-French Translation Practice (100 Sentences)
+
+Translate each English sentence aloud or in writing before checking the French on the right.
+
+| English | French |
+| --- | --- |
+| 1. I work on Mondays today. | `Je travaille le lundi aujourd’hui.` |
+| 2. I work on Mondays every day. | `Je travaille le lundi tous les jours.` |
+| 3. I work on Mondays at home. | `Je travaille le lundi à la maison.` |
+| 4. I work on Mondays at school. | `Je travaille le lundi à l’école.` |
+| 5. I work on Mondays with my family. | `Je travaille le lundi avec ma famille.` |
+| 6. I work on Mondays with my friends. | `Je travaille le lundi avec mes amis.` |
+| 7. I work on Mondays after lunch. | `Je travaille le lundi après le déjeuner.` |
+| 8. I work on Mondays before dinner. | `Je travaille le lundi avant le dîner.` |
+| 9. I work on Mondays in the morning. | `Je travaille le lundi le matin.` |
+| 10. I work on Mondays on Sundays. | `Je travaille le lundi le dimanche.` |
+| 11. She is looking for a new apartment today. | `Elle cherche un nouvel appartement aujourd’hui.` |
+| 12. She is looking for a new apartment every day. | `Elle cherche un nouvel appartement tous les jours.` |
+| 13. She is looking for a new apartment at home. | `Elle cherche un nouvel appartement à la maison.` |
+| 14. She is looking for a new apartment at school. | `Elle cherche un nouvel appartement à l’école.` |
+| 15. She is looking for a new apartment with my family. | `Elle cherche un nouvel appartement avec ma famille.` |
+| 16. She is looking for a new apartment with my friends. | `Elle cherche un nouvel appartement avec mes amis.` |
+| 17. She is looking for a new apartment after lunch. | `Elle cherche un nouvel appartement après le déjeuner.` |
+| 18. She is looking for a new apartment before dinner. | `Elle cherche un nouvel appartement avant le dîner.` |
+| 19. She is looking for a new apartment in the morning. | `Elle cherche un nouvel appartement le matin.` |
+| 20. She is looking for a new apartment on Sundays. | `Elle cherche un nouvel appartement le dimanche.` |
+| 21. We are visiting the museum this afternoon today. | `Nous visitons le musée cet après-midi aujourd’hui.` |
+| 22. We are visiting the museum this afternoon every day. | `Nous visitons le musée cet après-midi tous les jours.` |
+| 23. We are visiting the museum this afternoon at home. | `Nous visitons le musée cet après-midi à la maison.` |
+| 24. We are visiting the museum this afternoon at school. | `Nous visitons le musée cet après-midi à l’école.` |
+| 25. We are visiting the museum this afternoon with my family. | `Nous visitons le musée cet après-midi avec ma famille.` |
+| 26. We are visiting the museum this afternoon with my friends. | `Nous visitons le musée cet après-midi avec mes amis.` |
+| 27. We are visiting the museum this afternoon after lunch. | `Nous visitons le musée cet après-midi après le déjeuner.` |
+| 28. We are visiting the museum this afternoon before dinner. | `Nous visitons le musée cet après-midi avant le dîner.` |
+| 29. We are visiting the museum this afternoon in the morning. | `Nous visitons le musée cet après-midi le matin.` |
+| 30. We are visiting the museum this afternoon on Sundays. | `Nous visitons le musée cet après-midi le dimanche.` |
+| 31. Do you speak French today? | `Est-ce que vous parlez français aujourd’hui ?` |
+| 32. Do you speak French every day? | `Est-ce que vous parlez français tous les jours ?` |
+| 33. Do you speak French at home? | `Est-ce que vous parlez français à la maison ?` |
+| 34. Do you speak French at school? | `Est-ce que vous parlez français à l’école ?` |
+| 35. Do you speak French with my family? | `Est-ce que vous parlez français avec ma famille ?` |
+| 36. Do you speak French with my friends? | `Est-ce que vous parlez français avec mes amis ?` |
+| 37. Do you speak French after lunch? | `Est-ce que vous parlez français après le déjeuner ?` |
+| 38. Do you speak French before dinner? | `Est-ce que vous parlez français avant le dîner ?` |
+| 39. Do you speak French in the morning? | `Est-ce que vous parlez français le matin ?` |
+| 40. Do you speak French on Sundays? | `Est-ce que vous parlez français le dimanche ?` |
+| 41. Where do they live today? | `Où habitent-ils aujourd’hui ?` |
+| 42. Where do they live every day? | `Où habitent-ils tous les jours ?` |
+| 43. Where do they live at home? | `Où habitent-ils à la maison ?` |
+| 44. Where do they live at school? | `Où habitent-ils à l’école ?` |
+| 45. Where do they live with my family? | `Où habitent-ils avec ma famille ?` |
+| 46. Where do they live with my friends? | `Où habitent-ils avec mes amis ?` |
+| 47. Where do they live after lunch? | `Où habitent-ils après le déjeuner ?` |
+| 48. Where do they live before dinner? | `Où habitent-ils avant le dîner ?` |
+| 49. Where do they live in the morning? | `Où habitent-ils le matin ?` |
+| 50. Where do they live on Sundays? | `Où habitent-ils le dimanche ?` |
+| 51. He is eating with his friends today. | `Il mange avec ses amis aujourd’hui.` |
+| 52. He is eating with his friends every day. | `Il mange avec ses amis tous les jours.` |
+| 53. He is eating with his friends at home. | `Il mange avec ses amis à la maison.` |
+| 54. He is eating with his friends at school. | `Il mange avec ses amis à l’école.` |
+| 55. He is eating with his friends with my family. | `Il mange avec ses amis avec ma famille.` |
+| 56. He is eating with his friends with my friends. | `Il mange avec ses amis avec mes amis.` |
+| 57. He is eating with his friends after lunch. | `Il mange avec ses amis après le déjeuner.` |
+| 58. He is eating with his friends before dinner. | `Il mange avec ses amis avant le dîner.` |
+| 59. He is eating with his friends in the morning. | `Il mange avec ses amis le matin.` |
+| 60. He is eating with his friends on Sundays. | `Il mange avec ses amis le dimanche.` |
+| 61. Today is the first of May today. | `Nous sommes le premier mai aujourd’hui.` |
+| 62. Today is the first of May every day. | `Nous sommes le premier mai tous les jours.` |
+| 63. Today is the first of May at home. | `Nous sommes le premier mai à la maison.` |
+| 64. Today is the first of May at school. | `Nous sommes le premier mai à l’école.` |
+| 65. Today is the first of May with my family. | `Nous sommes le premier mai avec ma famille.` |
+| 66. Today is the first of May with my friends. | `Nous sommes le premier mai avec mes amis.` |
+| 67. Today is the first of May after lunch. | `Nous sommes le premier mai après le déjeuner.` |
+| 68. Today is the first of May before dinner. | `Nous sommes le premier mai avant le dîner.` |
+| 69. Today is the first of May in the morning. | `Nous sommes le premier mai le matin.` |
+| 70. Today is the first of May on Sundays. | `Nous sommes le premier mai le dimanche.` |
+| 71. Are you studying or are you working today? | `Étudies-tu ou est-ce que tu travailles aujourd’hui ?` |
+| 72. Are you studying or are you working every day? | `Étudies-tu ou est-ce que tu travailles tous les jours ?` |
+| 73. Are you studying or are you working at home? | `Étudies-tu ou est-ce que tu travailles à la maison ?` |
+| 74. Are you studying or are you working at school? | `Étudies-tu ou est-ce que tu travailles à l’école ?` |
+| 75. Are you studying or are you working with my family? | `Étudies-tu ou est-ce que tu travailles avec ma famille ?` |
+| 76. Are you studying or are you working with my friends? | `Étudies-tu ou est-ce que tu travailles avec mes amis ?` |
+| 77. Are you studying or are you working after lunch? | `Étudies-tu ou est-ce que tu travailles après le déjeuner ?` |
+| 78. Are you studying or are you working before dinner? | `Étudies-tu ou est-ce que tu travailles avant le dîner ?` |
+| 79. Are you studying or are you working in the morning? | `Étudies-tu ou est-ce que tu travailles le matin ?` |
+| 80. Are you studying or are you working on Sundays? | `Étudies-tu ou est-ce que tu travailles le dimanche ?` |
+| 81. I listen to the radio every morning today. | `J’écoute la radio tous les matins aujourd’hui.` |
+| 82. I listen to the radio every morning every day. | `J’écoute la radio tous les matins tous les jours.` |
+| 83. I listen to the radio every morning at home. | `J’écoute la radio tous les matins à la maison.` |
+| 84. I listen to the radio every morning at school. | `J’écoute la radio tous les matins à l’école.` |
+| 85. I listen to the radio every morning with my family. | `J’écoute la radio tous les matins avec ma famille.` |
+| 86. I listen to the radio every morning with my friends. | `J’écoute la radio tous les matins avec mes amis.` |
+| 87. I listen to the radio every morning after lunch. | `J’écoute la radio tous les matins après le déjeuner.` |
+| 88. I listen to the radio every morning before dinner. | `J’écoute la radio tous les matins avant le dîner.` |
+| 89. I listen to the radio every morning in the morning. | `J’écoute la radio tous les matins le matin.` |
+| 90. I listen to the radio every morning on Sundays. | `J’écoute la radio tous les matins le dimanche.` |
+| 91. What are you looking at today? | `Que regardez-vous aujourd’hui ?` |
+| 92. What are you looking at every day? | `Que regardez-vous tous les jours ?` |
+| 93. What are you looking at at home? | `Que regardez-vous à la maison ?` |
+| 94. What are you looking at at school? | `Que regardez-vous à l’école ?` |
+| 95. What are you looking at with my family? | `Que regardez-vous avec ma famille ?` |
+| 96. What are you looking at with my friends? | `Que regardez-vous avec mes amis ?` |
+| 97. What are you looking at after lunch? | `Que regardez-vous après le déjeuner ?` |
+| 98. What are you looking at before dinner? | `Que regardez-vous avant le dîner ?` |
+| 99. What are you looking at in the morning? | `Que regardez-vous le matin ?` |
+| 100. What are you looking at on Sundays? | `Que regardez-vous le dimanche ?` |

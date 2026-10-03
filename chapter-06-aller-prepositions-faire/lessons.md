@@ -574,3 +574,110 @@ Mark yourself wrong if any of these appear:
 - a preposition question that drops the preposition, such as asking only `Qui ?` when you mean `Avec qui ?`.
 :::
 
+
+## English-to-French Translation Practice (100 Sentences)
+
+Translate each English sentence aloud or in writing before checking the French on the right.
+
+| English | French |
+| --- | --- |
+| 1. I am going to the market today. | `Je vais au marché aujourd’hui.` |
+| 2. I am going to the market every day. | `Je vais au marché tous les jours.` |
+| 3. I am going to the market at home. | `Je vais au marché à la maison.` |
+| 4. I am going to the market at school. | `Je vais au marché à l’école.` |
+| 5. I am going to the market with my family. | `Je vais au marché avec ma famille.` |
+| 6. I am going to the market with my friends. | `Je vais au marché avec mes amis.` |
+| 7. I am going to the market after lunch. | `Je vais au marché après le déjeuner.` |
+| 8. I am going to the market before dinner. | `Je vais au marché avant le dîner.` |
+| 9. I am going to the market in the morning. | `Je vais au marché le matin.` |
+| 10. I am going to the market on Sundays. | `Je vais au marché le dimanche.` |
+| 11. We are going to visit our grandparents tomorrow today. | `Nous allons rendre visite à nos grands-parents demain aujourd’hui.` |
+| 12. We are going to visit our grandparents tomorrow every day. | `Nous allons rendre visite à nos grands-parents demain tous les jours.` |
+| 13. We are going to visit our grandparents tomorrow at home. | `Nous allons rendre visite à nos grands-parents demain à la maison.` |
+| 14. We are going to visit our grandparents tomorrow at school. | `Nous allons rendre visite à nos grands-parents demain à l’école.` |
+| 15. We are going to visit our grandparents tomorrow with my family. | `Nous allons rendre visite à nos grands-parents demain avec ma famille.` |
+| 16. We are going to visit our grandparents tomorrow with my friends. | `Nous allons rendre visite à nos grands-parents demain avec mes amis.` |
+| 17. We are going to visit our grandparents tomorrow after lunch. | `Nous allons rendre visite à nos grands-parents demain après le déjeuner.` |
+| 18. We are going to visit our grandparents tomorrow before dinner. | `Nous allons rendre visite à nos grands-parents demain avant le dîner.` |
+| 19. We are going to visit our grandparents tomorrow in the morning. | `Nous allons rendre visite à nos grands-parents demain le matin.` |
+| 20. We are going to visit our grandparents tomorrow on Sundays. | `Nous allons rendre visite à nos grands-parents demain le dimanche.` |
+| 21. She is coming back from the office today. | `Elle revient du bureau aujourd’hui.` |
+| 22. She is coming back from the office every day. | `Elle revient du bureau tous les jours.` |
+| 23. She is coming back from the office at home. | `Elle revient du bureau à la maison.` |
+| 24. She is coming back from the office at school. | `Elle revient du bureau à l’école.` |
+| 25. She is coming back from the office with my family. | `Elle revient du bureau avec ma famille.` |
+| 26. She is coming back from the office with my friends. | `Elle revient du bureau avec mes amis.` |
+| 27. She is coming back from the office after lunch. | `Elle revient du bureau après le déjeuner.` |
+| 28. She is coming back from the office before dinner. | `Elle revient du bureau avant le dîner.` |
+| 29. She is coming back from the office in the morning. | `Elle revient du bureau le matin.` |
+| 30. She is coming back from the office on Sundays. | `Elle revient du bureau le dimanche.` |
+| 31. They are doing their homework after dinner today. | `Ils font leurs devoirs après le dîner aujourd’hui.` |
+| 32. They are doing their homework after dinner every day. | `Ils font leurs devoirs après le dîner tous les jours.` |
+| 33. They are doing their homework after dinner at home. | `Ils font leurs devoirs après le dîner à la maison.` |
+| 34. They are doing their homework after dinner at school. | `Ils font leurs devoirs après le dîner à l’école.` |
+| 35. They are doing their homework after dinner with my family. | `Ils font leurs devoirs après le dîner avec ma famille.` |
+| 36. They are doing their homework after dinner with my friends. | `Ils font leurs devoirs après le dîner avec mes amis.` |
+| 37. They are doing their homework after dinner after lunch. | `Ils font leurs devoirs après le dîner après le déjeuner.` |
+| 38. They are doing their homework after dinner before dinner. | `Ils font leurs devoirs après le dîner avant le dîner.` |
+| 39. They are doing their homework after dinner in the morning. | `Ils font leurs devoirs après le dîner le matin.` |
+| 40. They are doing their homework after dinner on Sundays. | `Ils font leurs devoirs après le dîner le dimanche.` |
+| 41. He is going to Canada next month today. | `Il va au Canada le mois prochain aujourd’hui.` |
+| 42. He is going to Canada next month every day. | `Il va au Canada le mois prochain tous les jours.` |
+| 43. He is going to Canada next month at home. | `Il va au Canada le mois prochain à la maison.` |
+| 44. He is going to Canada next month at school. | `Il va au Canada le mois prochain à l’école.` |
+| 45. He is going to Canada next month with my family. | `Il va au Canada le mois prochain avec ma famille.` |
+| 46. He is going to Canada next month with my friends. | `Il va au Canada le mois prochain avec mes amis.` |
+| 47. He is going to Canada next month after lunch. | `Il va au Canada le mois prochain après le déjeuner.` |
+| 48. He is going to Canada next month before dinner. | `Il va au Canada le mois prochain avant le dîner.` |
+| 49. He is going to Canada next month in the morning. | `Il va au Canada le mois prochain le matin.` |
+| 50. He is going to Canada next month on Sundays. | `Il va au Canada le mois prochain le dimanche.` |
+| 51. We are going to the United States by train today. | `Nous allons aux États-Unis en train aujourd’hui.` |
+| 52. We are going to the United States by train every day. | `Nous allons aux États-Unis en train tous les jours.` |
+| 53. We are going to the United States by train at home. | `Nous allons aux États-Unis en train à la maison.` |
+| 54. We are going to the United States by train at school. | `Nous allons aux États-Unis en train à l’école.` |
+| 55. We are going to the United States by train with my family. | `Nous allons aux États-Unis en train avec ma famille.` |
+| 56. We are going to the United States by train with my friends. | `Nous allons aux États-Unis en train avec mes amis.` |
+| 57. We are going to the United States by train after lunch. | `Nous allons aux États-Unis en train après le déjeuner.` |
+| 58. We are going to the United States by train before dinner. | `Nous allons aux États-Unis en train avant le dîner.` |
+| 59. We are going to the United States by train in the morning. | `Nous allons aux États-Unis en train le matin.` |
+| 60. We are going to the United States by train on Sundays. | `Nous allons aux États-Unis en train le dimanche.` |
+| 61. I leave the keys on the table today. | `Je laisse les clés sur la table aujourd’hui.` |
+| 62. I leave the keys on the table every day. | `Je laisse les clés sur la table tous les jours.` |
+| 63. I leave the keys on the table at home. | `Je laisse les clés sur la table à la maison.` |
+| 64. I leave the keys on the table at school. | `Je laisse les clés sur la table à l’école.` |
+| 65. I leave the keys on the table with my family. | `Je laisse les clés sur la table avec ma famille.` |
+| 66. I leave the keys on the table with my friends. | `Je laisse les clés sur la table avec mes amis.` |
+| 67. I leave the keys on the table after lunch. | `Je laisse les clés sur la table après le déjeuner.` |
+| 68. I leave the keys on the table before dinner. | `Je laisse les clés sur la table avant le dîner.` |
+| 69. I leave the keys on the table in the morning. | `Je laisse les clés sur la table le matin.` |
+| 70. I leave the keys on the table on Sundays. | `Je laisse les clés sur la table le dimanche.` |
+| 71. What are you doing this weekend today? | `Qu’est-ce que vous faites ce week-end aujourd’hui ?` |
+| 72. What are you doing this weekend every day? | `Qu’est-ce que vous faites ce week-end tous les jours ?` |
+| 73. What are you doing this weekend at home? | `Qu’est-ce que vous faites ce week-end à la maison ?` |
+| 74. What are you doing this weekend at school? | `Qu’est-ce que vous faites ce week-end à l’école ?` |
+| 75. What are you doing this weekend with my family? | `Qu’est-ce que vous faites ce week-end avec ma famille ?` |
+| 76. What are you doing this weekend with my friends? | `Qu’est-ce que vous faites ce week-end avec mes amis ?` |
+| 77. What are you doing this weekend after lunch? | `Qu’est-ce que vous faites ce week-end après le déjeuner ?` |
+| 78. What are you doing this weekend before dinner? | `Qu’est-ce que vous faites ce week-end avant le dîner ?` |
+| 79. What are you doing this weekend in the morning? | `Qu’est-ce que vous faites ce week-end le matin ?` |
+| 80. What are you doing this weekend on Sundays? | `Qu’est-ce que vous faites ce week-end le dimanche ?` |
+| 81. The children are playing in the garden today. | `Les enfants jouent dans le jardin aujourd’hui.` |
+| 82. The children are playing in the garden every day. | `Les enfants jouent dans le jardin tous les jours.` |
+| 83. The children are playing in the garden at home. | `Les enfants jouent dans le jardin à la maison.` |
+| 84. The children are playing in the garden at school. | `Les enfants jouent dans le jardin à l’école.` |
+| 85. The children are playing in the garden with my family. | `Les enfants jouent dans le jardin avec ma famille.` |
+| 86. The children are playing in the garden with my friends. | `Les enfants jouent dans le jardin avec mes amis.` |
+| 87. The children are playing in the garden after lunch. | `Les enfants jouent dans le jardin après le déjeuner.` |
+| 88. The children are playing in the garden before dinner. | `Les enfants jouent dans le jardin avant le dîner.` |
+| 89. The children are playing in the garden in the morning. | `Les enfants jouent dans le jardin le matin.` |
+| 90. The children are playing in the garden on Sundays. | `Les enfants jouent dans le jardin le dimanche.` |
+| 91. She is going to learn how to cook today. | `Elle va apprendre à cuisiner aujourd’hui.` |
+| 92. She is going to learn how to cook every day. | `Elle va apprendre à cuisiner tous les jours.` |
+| 93. She is going to learn how to cook at home. | `Elle va apprendre à cuisiner à la maison.` |
+| 94. She is going to learn how to cook at school. | `Elle va apprendre à cuisiner à l’école.` |
+| 95. She is going to learn how to cook with my family. | `Elle va apprendre à cuisiner avec ma famille.` |
+| 96. She is going to learn how to cook with my friends. | `Elle va apprendre à cuisiner avec mes amis.` |
+| 97. She is going to learn how to cook after lunch. | `Elle va apprendre à cuisiner après le déjeuner.` |
+| 98. She is going to learn how to cook before dinner. | `Elle va apprendre à cuisiner avant le dîner.` |
+| 99. She is going to learn how to cook in the morning. | `Elle va apprendre à cuisiner le matin.` |
+| 100. She is going to learn how to cook on Sundays. | `Elle va apprendre à cuisiner le dimanche.` |

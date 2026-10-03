@@ -574,3 +574,111 @@ Mark yourself wrong if any of these appear:
 - a body-part phrase such as `mes dents` where the reflexive pronoun already shows possession;
 - agreement added to the participle after `en`.
 :::
+
+
+## English-to-French Translation Practice (100 Sentences)
+
+Translate each English sentence aloud or in writing before checking the French on the right.
+
+| English | French |
+| --- | --- |
+| 1. I get up at six every morning today. | `Je me lève à six heures tous les matins aujourd’hui.` |
+| 2. I get up at six every morning every day. | `Je me lève à six heures tous les matins tous les jours.` |
+| 3. I get up at six every morning at home. | `Je me lève à six heures tous les matins à la maison.` |
+| 4. I get up at six every morning at school. | `Je me lève à six heures tous les matins à l’école.` |
+| 5. I get up at six every morning with my family. | `Je me lève à six heures tous les matins avec ma famille.` |
+| 6. I get up at six every morning with my friends. | `Je me lève à six heures tous les matins avec mes amis.` |
+| 7. I get up at six every morning after lunch. | `Je me lève à six heures tous les matins après le déjeuner.` |
+| 8. I get up at six every morning before dinner. | `Je me lève à six heures tous les matins avant le dîner.` |
+| 9. I get up at six every morning in the morning. | `Je me lève à six heures tous les matins le matin.` |
+| 10. I get up at six every morning on Sundays. | `Je me lève à six heures tous les matins le dimanche.` |
+| 11. She does not remember his name today. | `Elle ne se souvient pas de son nom aujourd’hui.` |
+| 12. She does not remember his name every day. | `Elle ne se souvient pas de son nom tous les jours.` |
+| 13. She does not remember his name at home. | `Elle ne se souvient pas de son nom à la maison.` |
+| 14. She does not remember his name at school. | `Elle ne se souvient pas de son nom à l’école.` |
+| 15. She does not remember his name with my family. | `Elle ne se souvient pas de son nom avec ma famille.` |
+| 16. She does not remember his name with my friends. | `Elle ne se souvient pas de son nom avec mes amis.` |
+| 17. She does not remember his name after lunch. | `Elle ne se souvient pas de son nom après le déjeuner.` |
+| 18. She does not remember his name before dinner. | `Elle ne se souvient pas de son nom avant le dîner.` |
+| 19. She does not remember his name in the morning. | `Elle ne se souvient pas de son nom le matin.` |
+| 20. She does not remember his name on Sundays. | `Elle ne se souvient pas de son nom le dimanche.` |
+| 21. We are going to get ready quickly today. | `Nous allons nous préparer rapidement aujourd’hui.` |
+| 22. We are going to get ready quickly every day. | `Nous allons nous préparer rapidement tous les jours.` |
+| 23. We are going to get ready quickly at home. | `Nous allons nous préparer rapidement à la maison.` |
+| 24. We are going to get ready quickly at school. | `Nous allons nous préparer rapidement à l’école.` |
+| 25. We are going to get ready quickly with my family. | `Nous allons nous préparer rapidement avec ma famille.` |
+| 26. We are going to get ready quickly with my friends. | `Nous allons nous préparer rapidement avec mes amis.` |
+| 27. We are going to get ready quickly after lunch. | `Nous allons nous préparer rapidement après le déjeuner.` |
+| 28. We are going to get ready quickly before dinner. | `Nous allons nous préparer rapidement avant le dîner.` |
+| 29. We are going to get ready quickly in the morning. | `Nous allons nous préparer rapidement le matin.` |
+| 30. We are going to get ready quickly on Sundays. | `Nous allons nous préparer rapidement le dimanche.` |
+| 31. Do you wash your hands before dinner today? | `Est-ce que tu te laves les mains avant le dîner aujourd’hui ?` |
+| 32. Do you wash your hands before dinner every day? | `Est-ce que tu te laves les mains avant le dîner tous les jours ?` |
+| 33. Do you wash your hands before dinner at home? | `Est-ce que tu te laves les mains avant le dîner à la maison ?` |
+| 34. Do you wash your hands before dinner at school? | `Est-ce que tu te laves les mains avant le dîner à l’école ?` |
+| 35. Do you wash your hands before dinner with my family? | `Est-ce que tu te laves les mains avant le dîner avec ma famille ?` |
+| 36. Do you wash your hands before dinner with my friends? | `Est-ce que tu te laves les mains avant le dîner avec mes amis ?` |
+| 37. Do you wash your hands before dinner after lunch? | `Est-ce que tu te laves les mains avant le dîner après le déjeuner ?` |
+| 38. Do you wash your hands before dinner before dinner? | `Est-ce que tu te laves les mains avant le dîner avant le dîner ?` |
+| 39. Do you wash your hands before dinner in the morning? | `Est-ce que tu te laves les mains avant le dîner le matin ?` |
+| 40. Do you wash your hands before dinner on Sundays? | `Est-ce que tu te laves les mains avant le dîner le dimanche ?` |
+| 41. The friends are writing to each other today. | `Les amis s’écrivent aujourd’hui.` |
+| 42. The friends are writing to each other every day. | `Les amis s’écrivent tous les jours.` |
+| 43. The friends are writing to each other at home. | `Les amis s’écrivent à la maison.` |
+| 44. The friends are writing to each other at school. | `Les amis s’écrivent à l’école.` |
+| 45. The friends are writing to each other with my family. | `Les amis s’écrivent avec ma famille.` |
+| 46. The friends are writing to each other with my friends. | `Les amis s’écrivent avec mes amis.` |
+| 47. The friends are writing to each other after lunch. | `Les amis s’écrivent après le déjeuner.` |
+| 48. The friends are writing to each other before dinner. | `Les amis s’écrivent avant le dîner.` |
+| 49. The friends are writing to each other in the morning. | `Les amis s’écrivent le matin.` |
+| 50. The friends are writing to each other on Sundays. | `Les amis s’écrivent le dimanche.` |
+| 51. Hurry up today! | `Dépêche-toi aujourd’hui !` |
+| 52. Hurry up every day! | `Dépêche-toi tous les jours !` |
+| 53. Hurry up at home! | `Dépêche-toi à la maison !` |
+| 54. Hurry up at school! | `Dépêche-toi à l’école !` |
+| 55. Hurry up with my family! | `Dépêche-toi avec ma famille !` |
+| 56. Hurry up with my friends! | `Dépêche-toi avec mes amis !` |
+| 57. Hurry up after lunch! | `Dépêche-toi après le déjeuner !` |
+| 58. Hurry up before dinner! | `Dépêche-toi avant le dîner !` |
+| 59. Hurry up in the morning! | `Dépêche-toi le matin !` |
+| 60. Hurry up on Sundays! | `Dépêche-toi le dimanche !` |
+| 61. He is interested in French history today. | `Il s’intéresse à l’histoire de France aujourd’hui.` |
+| 62. He is interested in French history every day. | `Il s’intéresse à l’histoire de France tous les jours.` |
+| 63. He is interested in French history at home. | `Il s’intéresse à l’histoire de France à la maison.` |
+| 64. He is interested in French history at school. | `Il s’intéresse à l’histoire de France à l’école.` |
+| 65. He is interested in French history with my family. | `Il s’intéresse à l’histoire de France avec ma famille.` |
+| 66. He is interested in French history with my friends. | `Il s’intéresse à l’histoire de France avec mes amis.` |
+| 67. He is interested in French history after lunch. | `Il s’intéresse à l’histoire de France après le déjeuner.` |
+| 68. He is interested in French history before dinner. | `Il s’intéresse à l’histoire de France avant le dîner.` |
+| 69. He is interested in French history in the morning. | `Il s’intéresse à l’histoire de France le matin.` |
+| 70. He is interested in French history on Sundays. | `Il s’intéresse à l’histoire de France le dimanche.` |
+| 71. While walking, I listen to a podcast today. | `En marchant, j’écoute un podcast aujourd’hui.` |
+| 72. While walking, I listen to a podcast every day. | `En marchant, j’écoute un podcast tous les jours.` |
+| 73. While walking, I listen to a podcast at home. | `En marchant, j’écoute un podcast à la maison.` |
+| 74. While walking, I listen to a podcast at school. | `En marchant, j’écoute un podcast à l’école.` |
+| 75. While walking, I listen to a podcast with my family. | `En marchant, j’écoute un podcast avec ma famille.` |
+| 76. While walking, I listen to a podcast with my friends. | `En marchant, j’écoute un podcast avec mes amis.` |
+| 77. While walking, I listen to a podcast after lunch. | `En marchant, j’écoute un podcast après le déjeuner.` |
+| 78. While walking, I listen to a podcast before dinner. | `En marchant, j’écoute un podcast avant le dîner.` |
+| 79. While walking, I listen to a podcast in the morning. | `En marchant, j’écoute un podcast le matin.` |
+| 80. While walking, I listen to a podcast on Sundays. | `En marchant, j’écoute un podcast le dimanche.` |
+| 81. They met each other at the station today. | `Ils se sont rencontrés à la gare aujourd’hui.` |
+| 82. They met each other at the station every day. | `Ils se sont rencontrés à la gare tous les jours.` |
+| 83. They met each other at the station at home. | `Ils se sont rencontrés à la gare à la maison.` |
+| 84. They met each other at the station at school. | `Ils se sont rencontrés à la gare à l’école.` |
+| 85. They met each other at the station with my family. | `Ils se sont rencontrés à la gare avec ma famille.` |
+| 86. They met each other at the station with my friends. | `Ils se sont rencontrés à la gare avec mes amis.` |
+| 87. They met each other at the station after lunch. | `Ils se sont rencontrés à la gare après le déjeuner.` |
+| 88. They met each other at the station before dinner. | `Ils se sont rencontrés à la gare avant le dîner.` |
+| 89. They met each other at the station in the morning. | `Ils se sont rencontrés à la gare le matin.` |
+| 90. They met each other at the station on Sundays. | `Ils se sont rencontrés à la gare le dimanche.` |
+| 91. She goes to bed late on weekends today. | `Elle se couche tard le week-end aujourd’hui.` |
+| 92. She goes to bed late on weekends every day. | `Elle se couche tard le week-end tous les jours.` |
+| 93. She goes to bed late on weekends at home. | `Elle se couche tard le week-end à la maison.` |
+| 94. She goes to bed late on weekends at school. | `Elle se couche tard le week-end à l’école.` |
+| 95. She goes to bed late on weekends with my family. | `Elle se couche tard le week-end avec ma famille.` |
+| 96. She goes to bed late on weekends with my friends. | `Elle se couche tard le week-end avec mes amis.` |
+| 97. She goes to bed late on weekends after lunch. | `Elle se couche tard le week-end après le déjeuner.` |
+| 98. She goes to bed late on weekends before dinner. | `Elle se couche tard le week-end avant le dîner.` |
+| 99. She goes to bed late on weekends in the morning. | `Elle se couche tard le week-end le matin.` |
+| 100. She goes to bed late on weekends on Sundays. | `Elle se couche tard le week-end le dimanche.` |

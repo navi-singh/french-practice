@@ -580,3 +580,111 @@ Mark yourself wrong if any of these appear:
 - an affirmative command pronoun before the verb;
 - a negative command pronoun after the verb.
 :::
+
+
+## English-to-French Translation Practice (100 Sentences)
+
+Translate each English sentence aloud or in writing before checking the French on the right.
+
+| English | French |
+| --- | --- |
+| 1. No, I do not want anything today. | `Non, je ne veux rien aujourd’hui.` |
+| 2. No, I do not want anything every day. | `Non, je ne veux rien tous les jours.` |
+| 3. No, I do not want anything at home. | `Non, je ne veux rien à la maison.` |
+| 4. No, I do not want anything at school. | `Non, je ne veux rien à l’école.` |
+| 5. No, I do not want anything with my family. | `Non, je ne veux rien avec ma famille.` |
+| 6. No, I do not want anything with my friends. | `Non, je ne veux rien avec mes amis.` |
+| 7. No, I do not want anything after lunch. | `Non, je ne veux rien après le déjeuner.` |
+| 8. No, I do not want anything before dinner. | `Non, je ne veux rien avant le dîner.` |
+| 9. No, I do not want anything in the morning. | `Non, je ne veux rien le matin.` |
+| 10. No, I do not want anything on Sundays. | `Non, je ne veux rien le dimanche.` |
+| 11. Yes, I do understand what you are saying today. | `Si, je comprends ce que vous dites aujourd’hui.` |
+| 12. Yes, I do understand what you are saying every day. | `Si, je comprends ce que vous dites tous les jours.` |
+| 13. Yes, I do understand what you are saying at home. | `Si, je comprends ce que vous dites à la maison.` |
+| 14. Yes, I do understand what you are saying at school. | `Si, je comprends ce que vous dites à l’école.` |
+| 15. Yes, I do understand what you are saying with my family. | `Si, je comprends ce que vous dites avec ma famille.` |
+| 16. Yes, I do understand what you are saying with my friends. | `Si, je comprends ce que vous dites avec mes amis.` |
+| 17. Yes, I do understand what you are saying after lunch. | `Si, je comprends ce que vous dites après le déjeuner.` |
+| 18. Yes, I do understand what you are saying before dinner. | `Si, je comprends ce que vous dites avant le dîner.` |
+| 19. Yes, I do understand what you are saying in the morning. | `Si, je comprends ce que vous dites le matin.` |
+| 20. Yes, I do understand what you are saying on Sundays. | `Si, je comprends ce que vous dites le dimanche.` |
+| 21. Neither my brother nor I have any news today. | `Ni mon frère ni moi n’avons de nouvelles aujourd’hui.` |
+| 22. Neither my brother nor I have any news every day. | `Ni mon frère ni moi n’avons de nouvelles tous les jours.` |
+| 23. Neither my brother nor I have any news at home. | `Ni mon frère ni moi n’avons de nouvelles à la maison.` |
+| 24. Neither my brother nor I have any news at school. | `Ni mon frère ni moi n’avons de nouvelles à l’école.` |
+| 25. Neither my brother nor I have any news with my family. | `Ni mon frère ni moi n’avons de nouvelles avec ma famille.` |
+| 26. Neither my brother nor I have any news with my friends. | `Ni mon frère ni moi n’avons de nouvelles avec mes amis.` |
+| 27. Neither my brother nor I have any news after lunch. | `Ni mon frère ni moi n’avons de nouvelles après le déjeuner.` |
+| 28. Neither my brother nor I have any news before dinner. | `Ni mon frère ni moi n’avons de nouvelles avant le dîner.` |
+| 29. Neither my brother nor I have any news in the morning. | `Ni mon frère ni moi n’avons de nouvelles le matin.` |
+| 30. Neither my brother nor I have any news on Sundays. | `Ni mon frère ni moi n’avons de nouvelles le dimanche.` |
+| 31. She never goes out without her sister today. | `Elle ne sort jamais sans sa sœur aujourd’hui.` |
+| 32. She never goes out without her sister every day. | `Elle ne sort jamais sans sa sœur tous les jours.` |
+| 33. She never goes out without her sister at home. | `Elle ne sort jamais sans sa sœur à la maison.` |
+| 34. She never goes out without her sister at school. | `Elle ne sort jamais sans sa sœur à l’école.` |
+| 35. She never goes out without her sister with my family. | `Elle ne sort jamais sans sa sœur avec ma famille.` |
+| 36. She never goes out without her sister with my friends. | `Elle ne sort jamais sans sa sœur avec mes amis.` |
+| 37. She never goes out without her sister after lunch. | `Elle ne sort jamais sans sa sœur après le déjeuner.` |
+| 38. She never goes out without her sister before dinner. | `Elle ne sort jamais sans sa sœur avant le dîner.` |
+| 39. She never goes out without her sister in the morning. | `Elle ne sort jamais sans sa sœur le matin.` |
+| 40. She never goes out without her sister on Sundays. | `Elle ne sort jamais sans sa sœur le dimanche.` |
+| 41. You and I are ready, but they are not today. | `Toi et moi, nous sommes prêts, mais eux ne le sont pas aujourd’hui.` |
+| 42. You and I are ready, but they are not every day. | `Toi et moi, nous sommes prêts, mais eux ne le sont pas tous les jours.` |
+| 43. You and I are ready, but they are not at home. | `Toi et moi, nous sommes prêts, mais eux ne le sont pas à la maison.` |
+| 44. You and I are ready, but they are not at school. | `Toi et moi, nous sommes prêts, mais eux ne le sont pas à l’école.` |
+| 45. You and I are ready, but they are not with my family. | `Toi et moi, nous sommes prêts, mais eux ne le sont pas avec ma famille.` |
+| 46. You and I are ready, but they are not with my friends. | `Toi et moi, nous sommes prêts, mais eux ne le sont pas avec mes amis.` |
+| 47. You and I are ready, but they are not after lunch. | `Toi et moi, nous sommes prêts, mais eux ne le sont pas après le déjeuner.` |
+| 48. You and I are ready, but they are not before dinner. | `Toi et moi, nous sommes prêts, mais eux ne le sont pas avant le dîner.` |
+| 49. You and I are ready, but they are not in the morning. | `Toi et moi, nous sommes prêts, mais eux ne le sont pas le matin.` |
+| 50. You and I are ready, but they are not on Sundays. | `Toi et moi, nous sommes prêts, mais eux ne le sont pas le dimanche.` |
+| 51. Please close the window today. | `Ferme la fenêtre, s’il te plaît aujourd’hui.` |
+| 52. Please close the window every day. | `Ferme la fenêtre, s’il te plaît tous les jours.` |
+| 53. Please close the window at home. | `Ferme la fenêtre, s’il te plaît à la maison.` |
+| 54. Please close the window at school. | `Ferme la fenêtre, s’il te plaît à l’école.` |
+| 55. Please close the window with my family. | `Ferme la fenêtre, s’il te plaît avec ma famille.` |
+| 56. Please close the window with my friends. | `Ferme la fenêtre, s’il te plaît avec mes amis.` |
+| 57. Please close the window after lunch. | `Ferme la fenêtre, s’il te plaît après le déjeuner.` |
+| 58. Please close the window before dinner. | `Ferme la fenêtre, s’il te plaît avant le dîner.` |
+| 59. Please close the window in the morning. | `Ferme la fenêtre, s’il te plaît le matin.` |
+| 60. Please close the window on Sundays. | `Ferme la fenêtre, s’il te plaît le dimanche.` |
+| 61. Let us take the next train today. | `Prenons le prochain train aujourd’hui.` |
+| 62. Let us take the next train every day. | `Prenons le prochain train tous les jours.` |
+| 63. Let us take the next train at home. | `Prenons le prochain train à la maison.` |
+| 64. Let us take the next train at school. | `Prenons le prochain train à l’école.` |
+| 65. Let us take the next train with my family. | `Prenons le prochain train avec ma famille.` |
+| 66. Let us take the next train with my friends. | `Prenons le prochain train avec mes amis.` |
+| 67. Let us take the next train after lunch. | `Prenons le prochain train après le déjeuner.` |
+| 68. Let us take the next train before dinner. | `Prenons le prochain train avant le dîner.` |
+| 69. Let us take the next train in the morning. | `Prenons le prochain train le matin.` |
+| 70. Let us take the next train on Sundays. | `Prenons le prochain train le dimanche.` |
+| 71. Do not forget your keys today! | `N’oublie pas tes clés aujourd’hui !` |
+| 72. Do not forget your keys every day! | `N’oublie pas tes clés tous les jours !` |
+| 73. Do not forget your keys at home! | `N’oublie pas tes clés à la maison !` |
+| 74. Do not forget your keys at school! | `N’oublie pas tes clés à l’école !` |
+| 75. Do not forget your keys with my family! | `N’oublie pas tes clés avec ma famille !` |
+| 76. Do not forget your keys with my friends! | `N’oublie pas tes clés avec mes amis !` |
+| 77. Do not forget your keys after lunch! | `N’oublie pas tes clés après le déjeuner !` |
+| 78. Do not forget your keys before dinner! | `N’oublie pas tes clés avant le dîner !` |
+| 79. Do not forget your keys in the morning! | `N’oublie pas tes clés le matin !` |
+| 80. Do not forget your keys on Sundays! | `N’oublie pas tes clés le dimanche !` |
+| 81. Tell me the truth today. | `Dis-moi la vérité aujourd’hui.` |
+| 82. Tell me the truth every day. | `Dis-moi la vérité tous les jours.` |
+| 83. Tell me the truth at home. | `Dis-moi la vérité à la maison.` |
+| 84. Tell me the truth at school. | `Dis-moi la vérité à l’école.` |
+| 85. Tell me the truth with my family. | `Dis-moi la vérité avec ma famille.` |
+| 86. Tell me the truth with my friends. | `Dis-moi la vérité avec mes amis.` |
+| 87. Tell me the truth after lunch. | `Dis-moi la vérité après le déjeuner.` |
+| 88. Tell me the truth before dinner. | `Dis-moi la vérité avant le dîner.` |
+| 89. Tell me the truth in the morning. | `Dis-moi la vérité le matin.` |
+| 90. Tell me the truth on Sundays. | `Dis-moi la vérité le dimanche.` |
+| 91. Wait for us here today. | `Attendez-nous ici aujourd’hui.` |
+| 92. Wait for us here every day. | `Attendez-nous ici tous les jours.` |
+| 93. Wait for us here at home. | `Attendez-nous ici à la maison.` |
+| 94. Wait for us here at school. | `Attendez-nous ici à l’école.` |
+| 95. Wait for us here with my family. | `Attendez-nous ici avec ma famille.` |
+| 96. Wait for us here with my friends. | `Attendez-nous ici avec mes amis.` |
+| 97. Wait for us here after lunch. | `Attendez-nous ici après le déjeuner.` |
+| 98. Wait for us here before dinner. | `Attendez-nous ici avant le dîner.` |
+| 99. Wait for us here in the morning. | `Attendez-nous ici le matin.` |
+| 100. Wait for us here on Sundays. | `Attendez-nous ici le dimanche.` |

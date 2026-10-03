@@ -434,3 +434,110 @@ Mark yourself wrong if:
 - you choose the mood from English wording instead of from the French trigger.
 :::
 
+
+## English-to-French Translation Practice (100 Sentences)
+
+Translate each English sentence aloud or in writing before checking the French on the right.
+
+| English | French |
+| --- | --- |
+| 1. I want you to come with us today. | `Je veux que tu viennes avec nous aujourd’hui.` |
+| 2. I want you to come with us every day. | `Je veux que tu viennes avec nous tous les jours.` |
+| 3. I want you to come with us at home. | `Je veux que tu viennes avec nous à la maison.` |
+| 4. I want you to come with us at school. | `Je veux que tu viennes avec nous à l’école.` |
+| 5. I want you to come with us with my family. | `Je veux que tu viennes avec nous avec ma famille.` |
+| 6. I want you to come with us with my friends. | `Je veux que tu viennes avec nous avec mes amis.` |
+| 7. I want you to come with us after lunch. | `Je veux que tu viennes avec nous après le déjeuner.` |
+| 8. I want you to come with us before dinner. | `Je veux que tu viennes avec nous avant le dîner.` |
+| 9. I want you to come with us in the morning. | `Je veux que tu viennes avec nous le matin.` |
+| 10. I want you to come with us on Sundays. | `Je veux que tu viennes avec nous le dimanche.` |
+| 11. It is important that she finish her work today today. | `Il est important qu’elle finisse son travail aujourd’hui aujourd’hui.` |
+| 12. It is important that she finish her work today every day. | `Il est important qu’elle finisse son travail aujourd’hui tous les jours.` |
+| 13. It is important that she finish her work today at home. | `Il est important qu’elle finisse son travail aujourd’hui à la maison.` |
+| 14. It is important that she finish her work today at school. | `Il est important qu’elle finisse son travail aujourd’hui à l’école.` |
+| 15. It is important that she finish her work today with my family. | `Il est important qu’elle finisse son travail aujourd’hui avec ma famille.` |
+| 16. It is important that she finish her work today with my friends. | `Il est important qu’elle finisse son travail aujourd’hui avec mes amis.` |
+| 17. It is important that she finish her work today after lunch. | `Il est important qu’elle finisse son travail aujourd’hui après le déjeuner.` |
+| 18. It is important that she finish her work today before dinner. | `Il est important qu’elle finisse son travail aujourd’hui avant le dîner.` |
+| 19. It is important that she finish her work today in the morning. | `Il est important qu’elle finisse son travail aujourd’hui le matin.` |
+| 20. It is important that she finish her work today on Sundays. | `Il est important qu’elle finisse son travail aujourd’hui le dimanche.` |
+| 21. We are happy that you are here today. | `Nous sommes heureux que vous soyez ici aujourd’hui.` |
+| 22. We are happy that you are here every day. | `Nous sommes heureux que vous soyez ici tous les jours.` |
+| 23. We are happy that you are here at home. | `Nous sommes heureux que vous soyez ici à la maison.` |
+| 24. We are happy that you are here at school. | `Nous sommes heureux que vous soyez ici à l’école.` |
+| 25. We are happy that you are here with my family. | `Nous sommes heureux que vous soyez ici avec ma famille.` |
+| 26. We are happy that you are here with my friends. | `Nous sommes heureux que vous soyez ici avec mes amis.` |
+| 27. We are happy that you are here after lunch. | `Nous sommes heureux que vous soyez ici après le déjeuner.` |
+| 28. We are happy that you are here before dinner. | `Nous sommes heureux que vous soyez ici avant le dîner.` |
+| 29. We are happy that you are here in the morning. | `Nous sommes heureux que vous soyez ici le matin.` |
+| 30. We are happy that you are here on Sundays. | `Nous sommes heureux que vous soyez ici le dimanche.` |
+| 31. He doubts that they know the answer today. | `Il doute qu’ils sachent la réponse aujourd’hui.` |
+| 32. He doubts that they know the answer every day. | `Il doute qu’ils sachent la réponse tous les jours.` |
+| 33. He doubts that they know the answer at home. | `Il doute qu’ils sachent la réponse à la maison.` |
+| 34. He doubts that they know the answer at school. | `Il doute qu’ils sachent la réponse à l’école.` |
+| 35. He doubts that they know the answer with my family. | `Il doute qu’ils sachent la réponse avec ma famille.` |
+| 36. He doubts that they know the answer with my friends. | `Il doute qu’ils sachent la réponse avec mes amis.` |
+| 37. He doubts that they know the answer after lunch. | `Il doute qu’ils sachent la réponse après le déjeuner.` |
+| 38. He doubts that they know the answer before dinner. | `Il doute qu’ils sachent la réponse avant le dîner.` |
+| 39. He doubts that they know the answer in the morning. | `Il doute qu’ils sachent la réponse le matin.` |
+| 40. He doubts that they know the answer on Sundays. | `Il doute qu’ils sachent la réponse le dimanche.` |
+| 41. Although it is raining, we are going out today. | `Bien qu’il pleuve, nous sortons aujourd’hui.` |
+| 42. Although it is raining, we are going out every day. | `Bien qu’il pleuve, nous sortons tous les jours.` |
+| 43. Although it is raining, we are going out at home. | `Bien qu’il pleuve, nous sortons à la maison.` |
+| 44. Although it is raining, we are going out at school. | `Bien qu’il pleuve, nous sortons à l’école.` |
+| 45. Although it is raining, we are going out with my family. | `Bien qu’il pleuve, nous sortons avec ma famille.` |
+| 46. Although it is raining, we are going out with my friends. | `Bien qu’il pleuve, nous sortons avec mes amis.` |
+| 47. Although it is raining, we are going out after lunch. | `Bien qu’il pleuve, nous sortons après le déjeuner.` |
+| 48. Although it is raining, we are going out before dinner. | `Bien qu’il pleuve, nous sortons avant le dîner.` |
+| 49. Although it is raining, we are going out in the morning. | `Bien qu’il pleuve, nous sortons le matin.` |
+| 50. Although it is raining, we are going out on Sundays. | `Bien qu’il pleuve, nous sortons le dimanche.` |
+| 51. You must be patient today. | `Il faut que tu sois patient aujourd’hui.` |
+| 52. You must be patient every day. | `Il faut que tu sois patient tous les jours.` |
+| 53. You must be patient at home. | `Il faut que tu sois patient à la maison.` |
+| 54. You must be patient at school. | `Il faut que tu sois patient à l’école.` |
+| 55. You must be patient with my family. | `Il faut que tu sois patient avec ma famille.` |
+| 56. You must be patient with my friends. | `Il faut que tu sois patient avec mes amis.` |
+| 57. You must be patient after lunch. | `Il faut que tu sois patient après le déjeuner.` |
+| 58. You must be patient before dinner. | `Il faut que tu sois patient avant le dîner.` |
+| 59. You must be patient in the morning. | `Il faut que tu sois patient le matin.` |
+| 60. You must be patient on Sundays. | `Il faut que tu sois patient le dimanche.` |
+| 61. I am afraid that he will not be able to come today. | `J’ai peur qu’il ne puisse pas venir aujourd’hui.` |
+| 62. I am afraid that he will not be able to come every day. | `J’ai peur qu’il ne puisse pas venir tous les jours.` |
+| 63. I am afraid that he will not be able to come at home. | `J’ai peur qu’il ne puisse pas venir à la maison.` |
+| 64. I am afraid that he will not be able to come at school. | `J’ai peur qu’il ne puisse pas venir à l’école.` |
+| 65. I am afraid that he will not be able to come with my family. | `J’ai peur qu’il ne puisse pas venir avec ma famille.` |
+| 66. I am afraid that he will not be able to come with my friends. | `J’ai peur qu’il ne puisse pas venir avec mes amis.` |
+| 67. I am afraid that he will not be able to come after lunch. | `J’ai peur qu’il ne puisse pas venir après le déjeuner.` |
+| 68. I am afraid that he will not be able to come before dinner. | `J’ai peur qu’il ne puisse pas venir avant le dîner.` |
+| 69. I am afraid that he will not be able to come in the morning. | `J’ai peur qu’il ne puisse pas venir le matin.` |
+| 70. I am afraid that he will not be able to come on Sundays. | `J’ai peur qu’il ne puisse pas venir le dimanche.` |
+| 71. She prefers that we take the early train today. | `Elle préfère que nous prenions le train tôt aujourd’hui.` |
+| 72. She prefers that we take the early train every day. | `Elle préfère que nous prenions le train tôt tous les jours.` |
+| 73. She prefers that we take the early train at home. | `Elle préfère que nous prenions le train tôt à la maison.` |
+| 74. She prefers that we take the early train at school. | `Elle préfère que nous prenions le train tôt à l’école.` |
+| 75. She prefers that we take the early train with my family. | `Elle préfère que nous prenions le train tôt avec ma famille.` |
+| 76. She prefers that we take the early train with my friends. | `Elle préfère que nous prenions le train tôt avec mes amis.` |
+| 77. She prefers that we take the early train after lunch. | `Elle préfère que nous prenions le train tôt après le déjeuner.` |
+| 78. She prefers that we take the early train before dinner. | `Elle préfère que nous prenions le train tôt avant le dîner.` |
+| 79. She prefers that we take the early train in the morning. | `Elle préfère que nous prenions le train tôt le matin.` |
+| 80. She prefers that we take the early train on Sundays. | `Elle préfère que nous prenions le train tôt le dimanche.` |
+| 81. It is necessary for them to do the exercise today. | `Il faut qu’ils fassent l’exercice aujourd’hui.` |
+| 82. It is necessary for them to do the exercise every day. | `Il faut qu’ils fassent l’exercice tous les jours.` |
+| 83. It is necessary for them to do the exercise at home. | `Il faut qu’ils fassent l’exercice à la maison.` |
+| 84. It is necessary for them to do the exercise at school. | `Il faut qu’ils fassent l’exercice à l’école.` |
+| 85. It is necessary for them to do the exercise with my family. | `Il faut qu’ils fassent l’exercice avec ma famille.` |
+| 86. It is necessary for them to do the exercise with my friends. | `Il faut qu’ils fassent l’exercice avec mes amis.` |
+| 87. It is necessary for them to do the exercise after lunch. | `Il faut qu’ils fassent l’exercice après le déjeuner.` |
+| 88. It is necessary for them to do the exercise before dinner. | `Il faut qu’ils fassent l’exercice avant le dîner.` |
+| 89. It is necessary for them to do the exercise in the morning. | `Il faut qu’ils fassent l’exercice le matin.` |
+| 90. It is necessary for them to do the exercise on Sundays. | `Il faut qu’ils fassent l’exercice le dimanche.` |
+| 91. I am looking for a place that is quiet today. | `Je cherche un endroit qui soit calme aujourd’hui.` |
+| 92. I am looking for a place that is quiet every day. | `Je cherche un endroit qui soit calme tous les jours.` |
+| 93. I am looking for a place that is quiet at home. | `Je cherche un endroit qui soit calme à la maison.` |
+| 94. I am looking for a place that is quiet at school. | `Je cherche un endroit qui soit calme à l’école.` |
+| 95. I am looking for a place that is quiet with my family. | `Je cherche un endroit qui soit calme avec ma famille.` |
+| 96. I am looking for a place that is quiet with my friends. | `Je cherche un endroit qui soit calme avec mes amis.` |
+| 97. I am looking for a place that is quiet after lunch. | `Je cherche un endroit qui soit calme après le déjeuner.` |
+| 98. I am looking for a place that is quiet before dinner. | `Je cherche un endroit qui soit calme avant le dîner.` |
+| 99. I am looking for a place that is quiet in the morning. | `Je cherche un endroit qui soit calme le matin.` |
+| 100. I am looking for a place that is quiet on Sundays. | `Je cherche un endroit qui soit calme le dimanche.` |

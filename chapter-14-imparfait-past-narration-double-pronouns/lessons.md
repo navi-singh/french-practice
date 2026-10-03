@@ -421,3 +421,110 @@ Mark yourself wrong if:
 - a preceding direct object pronoun fails to trigger agreement where it should.
 :::
 
+
+## English-to-French Translation Practice (100 Sentences)
+
+Translate each English sentence aloud or in writing before checking the French on the right.
+
+| English | French |
+| --- | --- |
+| 1. When I was young, I played outside every day today. | `Quand j’étais jeune, je jouais dehors tous les jours aujourd’hui.` |
+| 2. When I was young, I played outside every day every day. | `Quand j’étais jeune, je jouais dehors tous les jours tous les jours.` |
+| 3. When I was young, I played outside every day at home. | `Quand j’étais jeune, je jouais dehors tous les jours à la maison.` |
+| 4. When I was young, I played outside every day at school. | `Quand j’étais jeune, je jouais dehors tous les jours à l’école.` |
+| 5. When I was young, I played outside every day with my family. | `Quand j’étais jeune, je jouais dehors tous les jours avec ma famille.` |
+| 6. When I was young, I played outside every day with my friends. | `Quand j’étais jeune, je jouais dehors tous les jours avec mes amis.` |
+| 7. When I was young, I played outside every day after lunch. | `Quand j’étais jeune, je jouais dehors tous les jours après le déjeuner.` |
+| 8. When I was young, I played outside every day before dinner. | `Quand j’étais jeune, je jouais dehors tous les jours avant le dîner.` |
+| 9. When I was young, I played outside every day in the morning. | `Quand j’étais jeune, je jouais dehors tous les jours le matin.` |
+| 10. When I was young, I played outside every day on Sundays. | `Quand j’étais jeune, je jouais dehors tous les jours le dimanche.` |
+| 11. It was raining when the bus arrived today. | `Il pleuvait quand le bus est arrivé aujourd’hui.` |
+| 12. It was raining when the bus arrived every day. | `Il pleuvait quand le bus est arrivé tous les jours.` |
+| 13. It was raining when the bus arrived at home. | `Il pleuvait quand le bus est arrivé à la maison.` |
+| 14. It was raining when the bus arrived at school. | `Il pleuvait quand le bus est arrivé à l’école.` |
+| 15. It was raining when the bus arrived with my family. | `Il pleuvait quand le bus est arrivé avec ma famille.` |
+| 16. It was raining when the bus arrived with my friends. | `Il pleuvait quand le bus est arrivé avec mes amis.` |
+| 17. It was raining when the bus arrived after lunch. | `Il pleuvait quand le bus est arrivé après le déjeuner.` |
+| 18. It was raining when the bus arrived before dinner. | `Il pleuvait quand le bus est arrivé avant le dîner.` |
+| 19. It was raining when the bus arrived in the morning. | `Il pleuvait quand le bus est arrivé le matin.` |
+| 20. It was raining when the bus arrived on Sundays. | `Il pleuvait quand le bus est arrivé le dimanche.` |
+| 21. We were having dinner when she called today. | `Nous dînions quand elle a appelé aujourd’hui.` |
+| 22. We were having dinner when she called every day. | `Nous dînions quand elle a appelé tous les jours.` |
+| 23. We were having dinner when she called at home. | `Nous dînions quand elle a appelé à la maison.` |
+| 24. We were having dinner when she called at school. | `Nous dînions quand elle a appelé à l’école.` |
+| 25. We were having dinner when she called with my family. | `Nous dînions quand elle a appelé avec ma famille.` |
+| 26. We were having dinner when she called with my friends. | `Nous dînions quand elle a appelé avec mes amis.` |
+| 27. We were having dinner when she called after lunch. | `Nous dînions quand elle a appelé après le déjeuner.` |
+| 28. We were having dinner when she called before dinner. | `Nous dînions quand elle a appelé avant le dîner.` |
+| 29. We were having dinner when she called in the morning. | `Nous dînions quand elle a appelé le matin.` |
+| 30. We were having dinner when she called on Sundays. | `Nous dînions quand elle a appelé le dimanche.` |
+| 31. He used to read while his sister was sleeping today. | `Il lisait pendant que sa sœur dormait aujourd’hui.` |
+| 32. He used to read while his sister was sleeping every day. | `Il lisait pendant que sa sœur dormait tous les jours.` |
+| 33. He used to read while his sister was sleeping at home. | `Il lisait pendant que sa sœur dormait à la maison.` |
+| 34. He used to read while his sister was sleeping at school. | `Il lisait pendant que sa sœur dormait à l’école.` |
+| 35. He used to read while his sister was sleeping with my family. | `Il lisait pendant que sa sœur dormait avec ma famille.` |
+| 36. He used to read while his sister was sleeping with my friends. | `Il lisait pendant que sa sœur dormait avec mes amis.` |
+| 37. He used to read while his sister was sleeping after lunch. | `Il lisait pendant que sa sœur dormait après le déjeuner.` |
+| 38. He used to read while his sister was sleeping before dinner. | `Il lisait pendant que sa sœur dormait avant le dîner.` |
+| 39. He used to read while his sister was sleeping in the morning. | `Il lisait pendant que sa sœur dormait le matin.` |
+| 40. He used to read while his sister was sleeping on Sundays. | `Il lisait pendant que sa sœur dormait le dimanche.` |
+| 41. I gave the keys to Marie and then I gave them to her today. | `J’ai donné les clés à Marie, puis je les lui ai données aujourd’hui.` |
+| 42. I gave the keys to Marie and then I gave them to her every day. | `J’ai donné les clés à Marie, puis je les lui ai données tous les jours.` |
+| 43. I gave the keys to Marie and then I gave them to her at home. | `J’ai donné les clés à Marie, puis je les lui ai données à la maison.` |
+| 44. I gave the keys to Marie and then I gave them to her at school. | `J’ai donné les clés à Marie, puis je les lui ai données à l’école.` |
+| 45. I gave the keys to Marie and then I gave them to her with my family. | `J’ai donné les clés à Marie, puis je les lui ai données avec ma famille.` |
+| 46. I gave the keys to Marie and then I gave them to her with my friends. | `J’ai donné les clés à Marie, puis je les lui ai données avec mes amis.` |
+| 47. I gave the keys to Marie and then I gave them to her after lunch. | `J’ai donné les clés à Marie, puis je les lui ai données après le déjeuner.` |
+| 48. I gave the keys to Marie and then I gave them to her before dinner. | `J’ai donné les clés à Marie, puis je les lui ai données avant le dîner.` |
+| 49. I gave the keys to Marie and then I gave them to her in the morning. | `J’ai donné les clés à Marie, puis je les lui ai données le matin.` |
+| 50. I gave the keys to Marie and then I gave them to her on Sundays. | `J’ai donné les clés à Marie, puis je les lui ai données le dimanche.` |
+| 51. They were waiting for us at the station today. | `Ils nous attendaient à la gare aujourd’hui.` |
+| 52. They were waiting for us at the station every day. | `Ils nous attendaient à la gare tous les jours.` |
+| 53. They were waiting for us at the station at home. | `Ils nous attendaient à la gare à la maison.` |
+| 54. They were waiting for us at the station at school. | `Ils nous attendaient à la gare à l’école.` |
+| 55. They were waiting for us at the station with my family. | `Ils nous attendaient à la gare avec ma famille.` |
+| 56. They were waiting for us at the station with my friends. | `Ils nous attendaient à la gare avec mes amis.` |
+| 57. They were waiting for us at the station after lunch. | `Ils nous attendaient à la gare après le déjeuner.` |
+| 58. They were waiting for us at the station before dinner. | `Ils nous attendaient à la gare avant le dîner.` |
+| 59. They were waiting for us at the station in the morning. | `Ils nous attendaient à la gare le matin.` |
+| 60. They were waiting for us at the station on Sundays. | `Ils nous attendaient à la gare le dimanche.` |
+| 61. She sent the photographs to me yesterday today. | `Elle me les a envoyées hier aujourd’hui.` |
+| 62. She sent the photographs to me yesterday every day. | `Elle me les a envoyées hier tous les jours.` |
+| 63. She sent the photographs to me yesterday at home. | `Elle me les a envoyées hier à la maison.` |
+| 64. She sent the photographs to me yesterday at school. | `Elle me les a envoyées hier à l’école.` |
+| 65. She sent the photographs to me yesterday with my family. | `Elle me les a envoyées hier avec ma famille.` |
+| 66. She sent the photographs to me yesterday with my friends. | `Elle me les a envoyées hier avec mes amis.` |
+| 67. She sent the photographs to me yesterday after lunch. | `Elle me les a envoyées hier après le déjeuner.` |
+| 68. She sent the photographs to me yesterday before dinner. | `Elle me les a envoyées hier avant le dîner.` |
+| 69. She sent the photographs to me yesterday in the morning. | `Elle me les a envoyées hier le matin.` |
+| 70. She sent the photographs to me yesterday on Sundays. | `Elle me les a envoyées hier le dimanche.` |
+| 71. The sun was shining, but the wind was cold today. | `Le soleil brillait, mais le vent était froid aujourd’hui.` |
+| 72. The sun was shining, but the wind was cold every day. | `Le soleil brillait, mais le vent était froid tous les jours.` |
+| 73. The sun was shining, but the wind was cold at home. | `Le soleil brillait, mais le vent était froid à la maison.` |
+| 74. The sun was shining, but the wind was cold at school. | `Le soleil brillait, mais le vent était froid à l’école.` |
+| 75. The sun was shining, but the wind was cold with my family. | `Le soleil brillait, mais le vent était froid avec ma famille.` |
+| 76. The sun was shining, but the wind was cold with my friends. | `Le soleil brillait, mais le vent était froid avec mes amis.` |
+| 77. The sun was shining, but the wind was cold after lunch. | `Le soleil brillait, mais le vent était froid après le déjeuner.` |
+| 78. The sun was shining, but the wind was cold before dinner. | `Le soleil brillait, mais le vent était froid avant le dîner.` |
+| 79. The sun was shining, but the wind was cold in the morning. | `Le soleil brillait, mais le vent était froid le matin.` |
+| 80. The sun was shining, but the wind was cold on Sundays. | `Le soleil brillait, mais le vent était froid le dimanche.` |
+| 81. We told him the story while he was making coffee today. | `Nous lui racontions l’histoire pendant qu’il préparait du café aujourd’hui.` |
+| 82. We told him the story while he was making coffee every day. | `Nous lui racontions l’histoire pendant qu’il préparait du café tous les jours.` |
+| 83. We told him the story while he was making coffee at home. | `Nous lui racontions l’histoire pendant qu’il préparait du café à la maison.` |
+| 84. We told him the story while he was making coffee at school. | `Nous lui racontions l’histoire pendant qu’il préparait du café à l’école.` |
+| 85. We told him the story while he was making coffee with my family. | `Nous lui racontions l’histoire pendant qu’il préparait du café avec ma famille.` |
+| 86. We told him the story while he was making coffee with my friends. | `Nous lui racontions l’histoire pendant qu’il préparait du café avec mes amis.` |
+| 87. We told him the story while he was making coffee after lunch. | `Nous lui racontions l’histoire pendant qu’il préparait du café après le déjeuner.` |
+| 88. We told him the story while he was making coffee before dinner. | `Nous lui racontions l’histoire pendant qu’il préparait du café avant le dîner.` |
+| 89. We told him the story while he was making coffee in the morning. | `Nous lui racontions l’histoire pendant qu’il préparait du café le matin.` |
+| 90. We told him the story while he was making coffee on Sundays. | `Nous lui racontions l’histoire pendant qu’il préparait du café le dimanche.` |
+| 91. I was looking for my phone when you saw me today. | `Je cherchais mon téléphone quand tu m’as vu aujourd’hui.` |
+| 92. I was looking for my phone when you saw me every day. | `Je cherchais mon téléphone quand tu m’as vu tous les jours.` |
+| 93. I was looking for my phone when you saw me at home. | `Je cherchais mon téléphone quand tu m’as vu à la maison.` |
+| 94. I was looking for my phone when you saw me at school. | `Je cherchais mon téléphone quand tu m’as vu à l’école.` |
+| 95. I was looking for my phone when you saw me with my family. | `Je cherchais mon téléphone quand tu m’as vu avec ma famille.` |
+| 96. I was looking for my phone when you saw me with my friends. | `Je cherchais mon téléphone quand tu m’as vu avec mes amis.` |
+| 97. I was looking for my phone when you saw me after lunch. | `Je cherchais mon téléphone quand tu m’as vu après le déjeuner.` |
+| 98. I was looking for my phone when you saw me before dinner. | `Je cherchais mon téléphone quand tu m’as vu avant le dîner.` |
+| 99. I was looking for my phone when you saw me in the morning. | `Je cherchais mon téléphone quand tu m’as vu le matin.` |
+| 100. I was looking for my phone when you saw me on Sundays. | `Je cherchais mon téléphone quand tu m’as vu le dimanche.` |

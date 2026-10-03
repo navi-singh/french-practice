@@ -442,3 +442,111 @@ Mark yourself wrong if you have:
 - `dont` when there is no hidden `de`;
 - a form of `lequel` that does not agree with its antecedent.
 :::
+
+
+## English-to-French Translation Practice (100 Sentences)
+
+Translate each English sentence aloud or in writing before checking the French on the right.
+
+| English | French |
+| --- | --- |
+| 1. I know how to answer this question today. | `Je sais répondre à cette question aujourd’hui.` |
+| 2. I know how to answer this question every day. | `Je sais répondre à cette question tous les jours.` |
+| 3. I know how to answer this question at home. | `Je sais répondre à cette question à la maison.` |
+| 4. I know how to answer this question at school. | `Je sais répondre à cette question à l’école.` |
+| 5. I know how to answer this question with my family. | `Je sais répondre à cette question avec ma famille.` |
+| 6. I know how to answer this question with my friends. | `Je sais répondre à cette question avec mes amis.` |
+| 7. I know how to answer this question after lunch. | `Je sais répondre à cette question après le déjeuner.` |
+| 8. I know how to answer this question before dinner. | `Je sais répondre à cette question avant le dîner.` |
+| 9. I know how to answer this question in the morning. | `Je sais répondre à cette question le matin.` |
+| 10. I know how to answer this question on Sundays. | `Je sais répondre à cette question le dimanche.` |
+| 11. We know a good doctor who works nearby today. | `Nous connaissons un bon médecin qui travaille près d’ici aujourd’hui.` |
+| 12. We know a good doctor who works nearby every day. | `Nous connaissons un bon médecin qui travaille près d’ici tous les jours.` |
+| 13. We know a good doctor who works nearby at home. | `Nous connaissons un bon médecin qui travaille près d’ici à la maison.` |
+| 14. We know a good doctor who works nearby at school. | `Nous connaissons un bon médecin qui travaille près d’ici à l’école.` |
+| 15. We know a good doctor who works nearby with my family. | `Nous connaissons un bon médecin qui travaille près d’ici avec ma famille.` |
+| 16. We know a good doctor who works nearby with my friends. | `Nous connaissons un bon médecin qui travaille près d’ici avec mes amis.` |
+| 17. We know a good doctor who works nearby after lunch. | `Nous connaissons un bon médecin qui travaille près d’ici après le déjeuner.` |
+| 18. We know a good doctor who works nearby before dinner. | `Nous connaissons un bon médecin qui travaille près d’ici avant le dîner.` |
+| 19. We know a good doctor who works nearby in the morning. | `Nous connaissons un bon médecin qui travaille près d’ici le matin.` |
+| 20. We know a good doctor who works nearby on Sundays. | `Nous connaissons un bon médecin qui travaille près d’ici le dimanche.` |
+| 21. The film that you are watching is very funny today. | `Le film que tu regardes est très drôle aujourd’hui.` |
+| 22. The film that you are watching is very funny every day. | `Le film que tu regardes est très drôle tous les jours.` |
+| 23. The film that you are watching is very funny at home. | `Le film que tu regardes est très drôle à la maison.` |
+| 24. The film that you are watching is very funny at school. | `Le film que tu regardes est très drôle à l’école.` |
+| 25. The film that you are watching is very funny with my family. | `Le film que tu regardes est très drôle avec ma famille.` |
+| 26. The film that you are watching is very funny with my friends. | `Le film que tu regardes est très drôle avec mes amis.` |
+| 27. The film that you are watching is very funny after lunch. | `Le film que tu regardes est très drôle après le déjeuner.` |
+| 28. The film that you are watching is very funny before dinner. | `Le film que tu regardes est très drôle avant le dîner.` |
+| 29. The film that you are watching is very funny in the morning. | `Le film que tu regardes est très drôle le matin.` |
+| 30. The film that you are watching is very funny on Sundays. | `Le film que tu regardes est très drôle le dimanche.` |
+| 31. This is the town where my parents were born today. | `C’est la ville où mes parents sont nés aujourd’hui.` |
+| 32. This is the town where my parents were born every day. | `C’est la ville où mes parents sont nés tous les jours.` |
+| 33. This is the town where my parents were born at home. | `C’est la ville où mes parents sont nés à la maison.` |
+| 34. This is the town where my parents were born at school. | `C’est la ville où mes parents sont nés à l’école.` |
+| 35. This is the town where my parents were born with my family. | `C’est la ville où mes parents sont nés avec ma famille.` |
+| 36. This is the town where my parents were born with my friends. | `C’est la ville où mes parents sont nés avec mes amis.` |
+| 37. This is the town where my parents were born after lunch. | `C’est la ville où mes parents sont nés après le déjeuner.` |
+| 38. This is the town where my parents were born before dinner. | `C’est la ville où mes parents sont nés avant le dîner.` |
+| 39. This is the town where my parents were born in the morning. | `C’est la ville où mes parents sont nés le matin.` |
+| 40. This is the town where my parents were born on Sundays. | `C’est la ville où mes parents sont nés le dimanche.` |
+| 41. Here is the book that I told you about today. | `Voici le livre dont je t’ai parlé aujourd’hui.` |
+| 42. Here is the book that I told you about every day. | `Voici le livre dont je t’ai parlé tous les jours.` |
+| 43. Here is the book that I told you about at home. | `Voici le livre dont je t’ai parlé à la maison.` |
+| 44. Here is the book that I told you about at school. | `Voici le livre dont je t’ai parlé à l’école.` |
+| 45. Here is the book that I told you about with my family. | `Voici le livre dont je t’ai parlé avec ma famille.` |
+| 46. Here is the book that I told you about with my friends. | `Voici le livre dont je t’ai parlé avec mes amis.` |
+| 47. Here is the book that I told you about after lunch. | `Voici le livre dont je t’ai parlé après le déjeuner.` |
+| 48. Here is the book that I told you about before dinner. | `Voici le livre dont je t’ai parlé avant le dîner.` |
+| 49. Here is the book that I told you about in the morning. | `Voici le livre dont je t’ai parlé le matin.` |
+| 50. Here is the book that I told you about on Sundays. | `Voici le livre dont je t’ai parlé le dimanche.` |
+| 51. She sees the people who are waiting outside today. | `Elle voit les gens qui attendent dehors aujourd’hui.` |
+| 52. She sees the people who are waiting outside every day. | `Elle voit les gens qui attendent dehors tous les jours.` |
+| 53. She sees the people who are waiting outside at home. | `Elle voit les gens qui attendent dehors à la maison.` |
+| 54. She sees the people who are waiting outside at school. | `Elle voit les gens qui attendent dehors à l’école.` |
+| 55. She sees the people who are waiting outside with my family. | `Elle voit les gens qui attendent dehors avec ma famille.` |
+| 56. She sees the people who are waiting outside with my friends. | `Elle voit les gens qui attendent dehors avec mes amis.` |
+| 57. She sees the people who are waiting outside after lunch. | `Elle voit les gens qui attendent dehors après le déjeuner.` |
+| 58. She sees the people who are waiting outside before dinner. | `Elle voit les gens qui attendent dehors avant le dîner.` |
+| 59. She sees the people who are waiting outside in the morning. | `Elle voit les gens qui attendent dehors le matin.` |
+| 60. She sees the people who are waiting outside on Sundays. | `Elle voit les gens qui attendent dehors le dimanche.` |
+| 61. I believe that you can do it today. | `Je crois que tu peux le faire aujourd’hui.` |
+| 62. I believe that you can do it every day. | `Je crois que tu peux le faire tous les jours.` |
+| 63. I believe that you can do it at home. | `Je crois que tu peux le faire à la maison.` |
+| 64. I believe that you can do it at school. | `Je crois que tu peux le faire à l’école.` |
+| 65. I believe that you can do it with my family. | `Je crois que tu peux le faire avec ma famille.` |
+| 66. I believe that you can do it with my friends. | `Je crois que tu peux le faire avec mes amis.` |
+| 67. I believe that you can do it after lunch. | `Je crois que tu peux le faire après le déjeuner.` |
+| 68. I believe that you can do it before dinner. | `Je crois que tu peux le faire avant le dîner.` |
+| 69. I believe that you can do it in the morning. | `Je crois que tu peux le faire le matin.` |
+| 70. I believe that you can do it on Sundays. | `Je crois que tu peux le faire le dimanche.` |
+| 71. The woman with whom I work speaks three languages today. | `La femme avec laquelle je travaille parle trois langues aujourd’hui.` |
+| 72. The woman with whom I work speaks three languages every day. | `La femme avec laquelle je travaille parle trois langues tous les jours.` |
+| 73. The woman with whom I work speaks three languages at home. | `La femme avec laquelle je travaille parle trois langues à la maison.` |
+| 74. The woman with whom I work speaks three languages at school. | `La femme avec laquelle je travaille parle trois langues à l’école.` |
+| 75. The woman with whom I work speaks three languages with my family. | `La femme avec laquelle je travaille parle trois langues avec ma famille.` |
+| 76. The woman with whom I work speaks three languages with my friends. | `La femme avec laquelle je travaille parle trois langues avec mes amis.` |
+| 77. The woman with whom I work speaks three languages after lunch. | `La femme avec laquelle je travaille parle trois langues après le déjeuner.` |
+| 78. The woman with whom I work speaks three languages before dinner. | `La femme avec laquelle je travaille parle trois langues avant le dîner.` |
+| 79. The woman with whom I work speaks three languages in the morning. | `La femme avec laquelle je travaille parle trois langues le matin.` |
+| 80. The woman with whom I work speaks three languages on Sundays. | `La femme avec laquelle je travaille parle trois langues le dimanche.` |
+| 81. They offer us a place that is very comfortable today. | `Ils nous offrent une place qui est très confortable aujourd’hui.` |
+| 82. They offer us a place that is very comfortable every day. | `Ils nous offrent une place qui est très confortable tous les jours.` |
+| 83. They offer us a place that is very comfortable at home. | `Ils nous offrent une place qui est très confortable à la maison.` |
+| 84. They offer us a place that is very comfortable at school. | `Ils nous offrent une place qui est très confortable à l’école.` |
+| 85. They offer us a place that is very comfortable with my family. | `Ils nous offrent une place qui est très confortable avec ma famille.` |
+| 86. They offer us a place that is very comfortable with my friends. | `Ils nous offrent une place qui est très confortable avec mes amis.` |
+| 87. They offer us a place that is very comfortable after lunch. | `Ils nous offrent une place qui est très confortable après le déjeuner.` |
+| 88. They offer us a place that is very comfortable before dinner. | `Ils nous offrent une place qui est très confortable avant le dîner.` |
+| 89. They offer us a place that is very comfortable in the morning. | `Ils nous offrent une place qui est très confortable le matin.` |
+| 90. They offer us a place that is very comfortable on Sundays. | `Ils nous offrent une place qui est très confortable le dimanche.` |
+| 91. Whoever arrives first can choose a seat today. | `Quiconque arrive en premier peut choisir une place aujourd’hui.` |
+| 92. Whoever arrives first can choose a seat every day. | `Quiconque arrive en premier peut choisir une place tous les jours.` |
+| 93. Whoever arrives first can choose a seat at home. | `Quiconque arrive en premier peut choisir une place à la maison.` |
+| 94. Whoever arrives first can choose a seat at school. | `Quiconque arrive en premier peut choisir une place à l’école.` |
+| 95. Whoever arrives first can choose a seat with my family. | `Quiconque arrive en premier peut choisir une place avec ma famille.` |
+| 96. Whoever arrives first can choose a seat with my friends. | `Quiconque arrive en premier peut choisir une place avec mes amis.` |
+| 97. Whoever arrives first can choose a seat after lunch. | `Quiconque arrive en premier peut choisir une place après le déjeuner.` |
+| 98. Whoever arrives first can choose a seat before dinner. | `Quiconque arrive en premier peut choisir une place avant le dîner.` |
+| 99. Whoever arrives first can choose a seat in the morning. | `Quiconque arrive en premier peut choisir une place le matin.` |
+| 100. Whoever arrives first can choose a seat on Sundays. | `Quiconque arrive en premier peut choisir une place le dimanche.` |

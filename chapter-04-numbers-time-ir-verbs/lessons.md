@@ -625,3 +625,110 @@ Mark yourself wrong if any of these appear:
 - a question without the required space before `?`.
 :::
 
+
+## English-to-French Translation Practice (100 Sentences)
+
+Translate each English sentence aloud or in writing before checking the French on the right.
+
+| English | French |
+| --- | --- |
+| 1. I finish work at five o’clock today. | `Je finis le travail à cinq heures aujourd’hui.` |
+| 2. I finish work at five o’clock every day. | `Je finis le travail à cinq heures tous les jours.` |
+| 3. I finish work at five o’clock at home. | `Je finis le travail à cinq heures à la maison.` |
+| 4. I finish work at five o’clock at school. | `Je finis le travail à cinq heures à l’école.` |
+| 5. I finish work at five o’clock with my family. | `Je finis le travail à cinq heures avec ma famille.` |
+| 6. I finish work at five o’clock with my friends. | `Je finis le travail à cinq heures avec mes amis.` |
+| 7. I finish work at five o’clock after lunch. | `Je finis le travail à cinq heures après le déjeuner.` |
+| 8. I finish work at five o’clock before dinner. | `Je finis le travail à cinq heures avant le dîner.` |
+| 9. I finish work at five o’clock in the morning. | `Je finis le travail à cinq heures le matin.` |
+| 10. I finish work at five o’clock on Sundays. | `Je finis le travail à cinq heures le dimanche.` |
+| 11. There are seventy-two students in the school today. | `Il y a soixante-douze élèves dans l’école aujourd’hui.` |
+| 12. There are seventy-two students in the school every day. | `Il y a soixante-douze élèves dans l’école tous les jours.` |
+| 13. There are seventy-two students in the school at home. | `Il y a soixante-douze élèves dans l’école à la maison.` |
+| 14. There are seventy-two students in the school at school. | `Il y a soixante-douze élèves dans l’école à l’école.` |
+| 15. There are seventy-two students in the school with my family. | `Il y a soixante-douze élèves dans l’école avec ma famille.` |
+| 16. There are seventy-two students in the school with my friends. | `Il y a soixante-douze élèves dans l’école avec mes amis.` |
+| 17. There are seventy-two students in the school after lunch. | `Il y a soixante-douze élèves dans l’école après le déjeuner.` |
+| 18. There are seventy-two students in the school before dinner. | `Il y a soixante-douze élèves dans l’école avant le dîner.` |
+| 19. There are seventy-two students in the school in the morning. | `Il y a soixante-douze élèves dans l’école le matin.` |
+| 20. There are seventy-two students in the school on Sundays. | `Il y a soixante-douze élèves dans l’école le dimanche.` |
+| 21. Her birthday is on the ninth of October today. | `Son anniversaire est le neuf octobre aujourd’hui.` |
+| 22. Her birthday is on the ninth of October every day. | `Son anniversaire est le neuf octobre tous les jours.` |
+| 23. Her birthday is on the ninth of October at home. | `Son anniversaire est le neuf octobre à la maison.` |
+| 24. Her birthday is on the ninth of October at school. | `Son anniversaire est le neuf octobre à l’école.` |
+| 25. Her birthday is on the ninth of October with my family. | `Son anniversaire est le neuf octobre avec ma famille.` |
+| 26. Her birthday is on the ninth of October with my friends. | `Son anniversaire est le neuf octobre avec mes amis.` |
+| 27. Her birthday is on the ninth of October after lunch. | `Son anniversaire est le neuf octobre après le déjeuner.` |
+| 28. Her birthday is on the ninth of October before dinner. | `Son anniversaire est le neuf octobre avant le dîner.` |
+| 29. Her birthday is on the ninth of October in the morning. | `Son anniversaire est le neuf octobre le matin.` |
+| 30. Her birthday is on the ninth of October on Sundays. | `Son anniversaire est le neuf octobre le dimanche.` |
+| 31. We choose a table for four people today. | `Nous choisissons une table pour quatre personnes aujourd’hui.` |
+| 32. We choose a table for four people every day. | `Nous choisissons une table pour quatre personnes tous les jours.` |
+| 33. We choose a table for four people at home. | `Nous choisissons une table pour quatre personnes à la maison.` |
+| 34. We choose a table for four people at school. | `Nous choisissons une table pour quatre personnes à l’école.` |
+| 35. We choose a table for four people with my family. | `Nous choisissons une table pour quatre personnes avec ma famille.` |
+| 36. We choose a table for four people with my friends. | `Nous choisissons une table pour quatre personnes avec mes amis.` |
+| 37. We choose a table for four people after lunch. | `Nous choisissons une table pour quatre personnes après le déjeuner.` |
+| 38. We choose a table for four people before dinner. | `Nous choisissons une table pour quatre personnes avant le dîner.` |
+| 39. We choose a table for four people in the morning. | `Nous choisissons une table pour quatre personnes le matin.` |
+| 40. We choose a table for four people on Sundays. | `Nous choisissons une table pour quatre personnes le dimanche.` |
+| 41. It is quarter past eight in the morning today. | `Il est huit heures et quart du matin aujourd’hui.` |
+| 42. It is quarter past eight in the morning every day. | `Il est huit heures et quart du matin tous les jours.` |
+| 43. It is quarter past eight in the morning at home. | `Il est huit heures et quart du matin à la maison.` |
+| 44. It is quarter past eight in the morning at school. | `Il est huit heures et quart du matin à l’école.` |
+| 45. It is quarter past eight in the morning with my family. | `Il est huit heures et quart du matin avec ma famille.` |
+| 46. It is quarter past eight in the morning with my friends. | `Il est huit heures et quart du matin avec mes amis.` |
+| 47. It is quarter past eight in the morning after lunch. | `Il est huit heures et quart du matin après le déjeuner.` |
+| 48. It is quarter past eight in the morning before dinner. | `Il est huit heures et quart du matin avant le dîner.` |
+| 49. It is quarter past eight in the morning in the morning. | `Il est huit heures et quart du matin le matin.` |
+| 50. It is quarter past eight in the morning on Sundays. | `Il est huit heures et quart du matin le dimanche.` |
+| 51. The train leaves at twenty-one thirty today. | `Le train part à vingt et une heures trente aujourd’hui.` |
+| 52. The train leaves at twenty-one thirty every day. | `Le train part à vingt et une heures trente tous les jours.` |
+| 53. The train leaves at twenty-one thirty at home. | `Le train part à vingt et une heures trente à la maison.` |
+| 54. The train leaves at twenty-one thirty at school. | `Le train part à vingt et une heures trente à l’école.` |
+| 55. The train leaves at twenty-one thirty with my family. | `Le train part à vingt et une heures trente avec ma famille.` |
+| 56. The train leaves at twenty-one thirty with my friends. | `Le train part à vingt et une heures trente avec mes amis.` |
+| 57. The train leaves at twenty-one thirty after lunch. | `Le train part à vingt et une heures trente après le déjeuner.` |
+| 58. The train leaves at twenty-one thirty before dinner. | `Le train part à vingt et une heures trente avant le dîner.` |
+| 59. The train leaves at twenty-one thirty in the morning. | `Le train part à vingt et une heures trente le matin.` |
+| 60. The train leaves at twenty-one thirty on Sundays. | `Le train part à vingt et une heures trente le dimanche.` |
+| 61. They succeed because they work hard today. | `Ils réussissent parce qu’ils travaillent dur aujourd’hui.` |
+| 62. They succeed because they work hard every day. | `Ils réussissent parce qu’ils travaillent dur tous les jours.` |
+| 63. They succeed because they work hard at home. | `Ils réussissent parce qu’ils travaillent dur à la maison.` |
+| 64. They succeed because they work hard at school. | `Ils réussissent parce qu’ils travaillent dur à l’école.` |
+| 65. They succeed because they work hard with my family. | `Ils réussissent parce qu’ils travaillent dur avec ma famille.` |
+| 66. They succeed because they work hard with my friends. | `Ils réussissent parce qu’ils travaillent dur avec mes amis.` |
+| 67. They succeed because they work hard after lunch. | `Ils réussissent parce qu’ils travaillent dur après le déjeuner.` |
+| 68. They succeed because they work hard before dinner. | `Ils réussissent parce qu’ils travaillent dur avant le dîner.` |
+| 69. They succeed because they work hard in the morning. | `Ils réussissent parce qu’ils travaillent dur le matin.` |
+| 70. They succeed because they work hard on Sundays. | `Ils réussissent parce qu’ils travaillent dur le dimanche.` |
+| 71. This book costs ninety-nine euros today. | `Ce livre coûte quatre-vingt-dix-neuf euros aujourd’hui.` |
+| 72. This book costs ninety-nine euros every day. | `Ce livre coûte quatre-vingt-dix-neuf euros tous les jours.` |
+| 73. This book costs ninety-nine euros at home. | `Ce livre coûte quatre-vingt-dix-neuf euros à la maison.` |
+| 74. This book costs ninety-nine euros at school. | `Ce livre coûte quatre-vingt-dix-neuf euros à l’école.` |
+| 75. This book costs ninety-nine euros with my family. | `Ce livre coûte quatre-vingt-dix-neuf euros avec ma famille.` |
+| 76. This book costs ninety-nine euros with my friends. | `Ce livre coûte quatre-vingt-dix-neuf euros avec mes amis.` |
+| 77. This book costs ninety-nine euros after lunch. | `Ce livre coûte quatre-vingt-dix-neuf euros après le déjeuner.` |
+| 78. This book costs ninety-nine euros before dinner. | `Ce livre coûte quatre-vingt-dix-neuf euros avant le dîner.` |
+| 79. This book costs ninety-nine euros in the morning. | `Ce livre coûte quatre-vingt-dix-neuf euros le matin.` |
+| 80. This book costs ninety-nine euros on Sundays. | `Ce livre coûte quatre-vingt-dix-neuf euros le dimanche.` |
+| 81. I have been waiting for you for ten minutes today. | `Je t’attends depuis dix minutes aujourd’hui.` |
+| 82. I have been waiting for you for ten minutes every day. | `Je t’attends depuis dix minutes tous les jours.` |
+| 83. I have been waiting for you for ten minutes at home. | `Je t’attends depuis dix minutes à la maison.` |
+| 84. I have been waiting for you for ten minutes at school. | `Je t’attends depuis dix minutes à l’école.` |
+| 85. I have been waiting for you for ten minutes with my family. | `Je t’attends depuis dix minutes avec ma famille.` |
+| 86. I have been waiting for you for ten minutes with my friends. | `Je t’attends depuis dix minutes avec mes amis.` |
+| 87. I have been waiting for you for ten minutes after lunch. | `Je t’attends depuis dix minutes après le déjeuner.` |
+| 88. I have been waiting for you for ten minutes before dinner. | `Je t’attends depuis dix minutes avant le dîner.` |
+| 89. I have been waiting for you for ten minutes in the morning. | `Je t’attends depuis dix minutes le matin.` |
+| 90. I have been waiting for you for ten minutes on Sundays. | `Je t’attends depuis dix minutes le dimanche.` |
+| 91. We are having lunch at noon today. | `Nous déjeunons à midi aujourd’hui.` |
+| 92. We are having lunch at noon every day. | `Nous déjeunons à midi tous les jours.` |
+| 93. We are having lunch at noon at home. | `Nous déjeunons à midi à la maison.` |
+| 94. We are having lunch at noon at school. | `Nous déjeunons à midi à l’école.` |
+| 95. We are having lunch at noon with my family. | `Nous déjeunons à midi avec ma famille.` |
+| 96. We are having lunch at noon with my friends. | `Nous déjeunons à midi avec mes amis.` |
+| 97. We are having lunch at noon after lunch. | `Nous déjeunons à midi après le déjeuner.` |
+| 98. We are having lunch at noon before dinner. | `Nous déjeunons à midi avant le dîner.` |
+| 99. We are having lunch at noon in the morning. | `Nous déjeunons à midi le matin.` |
+| 100. We are having lunch at noon on Sundays. | `Nous déjeunons à midi le dimanche.` |
