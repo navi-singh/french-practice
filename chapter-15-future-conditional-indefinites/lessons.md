@@ -101,7 +101,7 @@ Many common verbs have irregular future stems, but the endings stay regular. Fre
 - `Nous aurons plus de temps samedi.` — We will have more time on Saturday.
 - `Ils viendront après le travail.` — They will come after work.
 - `Tu verras la différence demain.` — You will see the difference tomorrow.
-### Future after `quand`, `lorsque`, `dès que`
+### Future after `quand` (when), `lorsque` (when), `dès que` (as soon as)
 English says “When I arrive, I will call you,” with a present-tense verb in the time clause. French uses the future in **both** clauses when the meaning is future.
 | English idea | French structure | Example |
 |---|---|---|

@@ -125,7 +125,7 @@ Sample original sentences:
 
 ### Core idea
 
-Use `depuis` + a point in time or a duration with the **present tense** when something started in the past and is still true now.
+Use `depuis` (since/for) + a point in time or a duration with the **present tense** when something started in the past and is still true now.
 
 ### Main structures
 
@@ -183,7 +183,7 @@ Mark yourself wrong if you used a past tense for an action that is still continu
 
 Some regular `-er` verbs change spelling in the `nous` form so that the pronunciation stays natural.
 
-### `commencer`: add a cedilla before `o`
+### `commencer` (to begin): add a cedilla before `o`
 
 | Subject | Form |
 |---|---|
@@ -194,7 +194,7 @@ Some regular `-er` verbs change spelling in the `nous` form so that the pronunci
 | `vous` | `commencez` |
 | `ils / elles` | `commencent` |
 
-### `manger`: add `e` before `ons`
+### `manger` (to eat): add `e` before `ons`
 
 | Subject | Form |
 |---|---|
@@ -258,7 +258,7 @@ Rewrites with `nous`:
 
 Some verbs change the vowel in the stem so that the stressed syllable sounds natural. The change usually appears in all forms **except** `nous` and `vous`.
 
-### Model 1: `acheter` (`e` -> `è`)
+### Model 1: `acheter` (to buy) (`e` -> `è`)
 
 | Subject | Form |
 |---|---|
@@ -269,7 +269,7 @@ Some verbs change the vowel in the stem so that the stressed syllable sounds nat
 | `vous` | `achetez` |
 | `ils / elles` | `achètent` |
 
-### Model 2: `préférer` (`é` -> `è`)
+### Model 2: `préférer` (to prefer) (`é` -> `è`)
 
 | Subject | Form |
 |---|---|
@@ -327,7 +327,7 @@ Model subject replacements:
 
 A few high-frequency `-er` verbs keep their pronunciation by doubling a consonant or changing `y` to `i` in certain forms.
 
-### Model 1: `appeler` (double consonant)
+### Model 1: `appeler` (to call) (double consonant)
 
 | Subject | Form |
 |---|---|
@@ -338,9 +338,9 @@ A few high-frequency `-er` verbs keep their pronunciation by doubling a consonan
 | `vous` | `appelez` |
 | `ils / elles` | `appellent` |
 
-`Jeter` follows the same idea: `je jette`, `nous jetons`.
+`Jeter` (to throw / throw away) follows the same idea: `je jette`, `nous jetons`.
 
-### Model 2: `essayer` (`y` -> `i` in the common spelling shown here)
+### Model 2: `essayer` (to try / try on) (`y` -> `i` in the common spelling shown here)
 
 | Subject | Form |
 |---|---|
@@ -351,7 +351,7 @@ A few high-frequency `-er` verbs keep their pronunciation by doubling a consonan
 | `vous` | `essayez` |
 | `ils / elles` | `essaient` |
 
-### Another common `y` verb: `envoyer`
+### Another common `y` verb: `envoyer` (to send)
 
 | Subject | Form |
 |---|---|

@@ -342,7 +342,7 @@ The plural forms are easy to hear because of `-issons`, `-issez`, and `-issent`.
 
 ### Common mistake for English speakers
 
-Not every verb ending in `-ir` is regular like `finir`. Verbs such as `partir` and `dormir` follow a different pattern, so do not assume every `-ir` verb works the same way.
+Not every verb ending in `-ir` is regular like `finir`. Verbs such as `partir` (to leave) and `dormir` (to sleep) follow a different pattern, so do not assume every `-ir` verb works the same way.
 
 ### Sentence-building practice
 

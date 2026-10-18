@@ -181,12 +181,12 @@ Personal expressions of desire, emotion, fear, and doubt usually trigger the sub
 ### Common trigger groups
 | Group | Trigger | Example |
 |---|---|---|
-| volition | `vouloir que` | `Je veux que tu viennes.` |
-| preference | `préférer que` | `Nous préférons que vous restiez ici.` |
-| emotion | `être content(e) que` | `Nous sommes heureux qu'elle soit ici avec nous.` |
-| fear | `avoir peur que` | `J'ai peur qu'il oublie l'adresse.` |
-| doubt | `douter que` | `Je doute qu'ils puissent finir aujourd'hui.` |
-| negative opinion | `ne pas penser que`, `ne pas croire que` | `Je ne pense pas qu'il connaisse la réponse.` |
+| volition | `vouloir que` (to want someone to) | `Je veux que tu viennes.` |
+| preference | `préférer que` (to prefer that) | `Nous préférons que vous restiez ici.` |
+| emotion | `être content(e) que` (to be glad that) | `Nous sommes heureux qu'elle soit ici avec nous.` |
+| fear | `avoir peur que` (to be afraid that) | `J'ai peur qu'il oublie l'adresse.` |
+| doubt | `douter que` (to doubt that) | `Je doute qu'ils puissent finir aujourd'hui.` |
+| negative opinion | `ne pas penser que` (not to think that), `ne pas croire que` (not to believe that) | `Je ne pense pas qu'il connaisse la réponse.` |
 ### More examples
 - `Je veux que mes amis puissent venir à la fête.` — I want my friends to be able to come to the party.
 - `Elle est contente que nous soyons là.` — She is happy that we are here.

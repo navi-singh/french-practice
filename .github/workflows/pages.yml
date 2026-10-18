@@ -3,7 +3,7 @@ name: Deploy French practice site
 on:
   push:
     branches:
-      - nmehrok/frenchPracticeWebsite
+      - main
   workflow_dispatch:
 
 permissions:

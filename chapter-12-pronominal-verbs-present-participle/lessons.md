@@ -1,5 +1,5 @@
 # Chapter 12 Lessons: Pronominal Verbs and the Present Participle
-This chapter gives you two very useful tools. First, you will learn pronominal verbs such as `se lever`, `se souvenir de`, and `s'appeler`, which are everywhere in everyday French. Then you will learn the present participle, which helps you connect actions smoothly: `En étudiant chaque jour, elle fait des progrès.`
+This chapter gives you two very useful tools. First, you will learn pronominal verbs such as `se lever` (to get up), `se souvenir de` (to remember), and `s'appeler` (to be called / named), which are everywhere in everyday French. Then you will learn the present participle, which helps you connect actions smoothly: `En étudiant chaque jour, elle fait des progrès.`
 
 ## Learning objectives
 You will learn to:
@@ -38,7 +38,7 @@ Say the pronoun and the verb together every time: `je me lève`, `nous nous dép
 
 ## Unit 1: What a pronominal verb is
 ### Core idea
-A pronominal verb appears with a reflexive-form pronoun: `me`, `te`, `se`, `nous`, `vous`, `se`. Sometimes the action comes back to the subject (`je me lave`), and sometimes the pronominal form has a special meaning (`je me souviens`).
+A pronominal verb appears with a reflexive-form pronoun: `me`, `te`, `se`, `nous`, `vous`, `se`. Sometimes the action comes back to the subject (`je me lave`, I wash myself), and sometimes the pronominal form has a special meaning (`je me souviens`, I remember).
 
 ### Reflexive pronouns
 | Subject | Reflexive pronoun | Before vowel sound | English idea |

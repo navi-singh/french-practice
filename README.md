@@ -136,6 +136,10 @@ Regenerate the website after changing lesson files:
 python3 build_site.py
 ```
 
+Pushing to `main` automatically builds and deploys the site to
+[GitHub Pages](https://navi-singh.github.io/french-practice/) through
+`.github/workflows/pages.yml`.
+
 Check the generator after changing it:
 
 ```bash

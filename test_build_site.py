@@ -74,6 +74,25 @@ class ChapterOrderingTests(unittest.TestCase):
 
 
 class CourseBuildTests(unittest.TestCase):
+    def test_prendre_family_introduction_includes_english_meanings(self):
+        folder = build_site.ROOT / "chapter-09-partitives-object-pronouns"
+        chapter = build_site.chapter_data(folder)
+        lesson = next(
+            doc for doc in chapter["documents"]
+            if doc["id"] == f"{folder.name}/lessons.md"
+        )
+        for word, meaning in (
+            ("apprendre", "to learn"),
+            ("comprendre", "to understand"),
+            ("Boire", "to drink"),
+        ):
+            with self.subTest(word=word):
+                self.assertIn(
+                    f'<code class="speakable" lang="fr">{word}</code> '
+                    f'(<strong>{meaning}</strong>)',
+                    lesson["html"],
+                )
+
     def test_all_chapters_build_and_sort(self):
         chapters = sorted(
             (

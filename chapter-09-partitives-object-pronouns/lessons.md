@@ -33,7 +33,7 @@ If you missed two or more, review negatives, `à`/`de`, and Chapter 7 verb frame
 Always start from the full sentence. Identify the noun you want to replace, ask whether it is direct or indirect, and only then choose the pronoun. For food and drink, memorize complete chunks: `du pain`, `de la soupe`, `en prendre`, `y aller`.
 ## Unit 1: `prendre`, its family, and `boire`
 ### Core idea
-`Prendre` means **to take**, but it also appears in many daily expressions: taking the bus, taking a seat, taking breakfast, taking notes. Its close relatives `apprendre` and `comprendre` follow the same pattern. `Boire` adds an important food-and-drink verb.
+`Prendre` means **to take**, but it also appears in many daily expressions: taking the bus, taking a seat, taking breakfast, taking notes. Its close relatives `apprendre` (**to learn**) and `comprendre` (**to understand**) follow the same pattern. `Boire` (**to drink**) adds an important food-and-drink verb.
 ### Present tense forms
 | Pronoun | `prendre` | `apprendre` | `comprendre` | `boire` |
 |---|---|---|---|---|
