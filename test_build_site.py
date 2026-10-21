@@ -103,7 +103,7 @@ class CourseBuildTests(unittest.TestCase):
             key=lambda chapter: chapter["number"],
         )
         numbers = [chapter["number"] for chapter in chapters]
-        self.assertEqual(numbers, list(range(0, 17)))
+        self.assertEqual(numbers, list(range(0, 26)))
         self.assertEqual(numbers[0], 0, "Chapter 0 must come first for beginners")
 
     def test_every_chapter_has_lessons_and_overview(self):
@@ -227,7 +227,10 @@ class TranslationPracticeContentTests(unittest.TestCase):
         for path in self.lesson_files():
             with self.subTest(chapter=path.parent.name):
                 for row in self.drill_rows(path):
-                    self.assertRegex(row, r"^\| \d+\. [^`|]+ \| `[^`|]+` \|$")
+                    self.assertRegex(
+                        row,
+                        r"^\| \d+\. [^`|]+ \| `[^`|]+`(?: — [^`|]+)? \|$",
+                    )
 
     def test_rows_are_not_mechanical_repeats(self):
         """The first version padded 10 sentences with 10 time phrases; every

@@ -1,6 +1,6 @@
 # French Practice Course
 
-This folder contains an original 17-chapter companion course organized around the progression in *Easy French Step-by-Step*. The exercises and explanations are newly written and do not reproduce the textbook.
+This folder contains an original 26-chapter French course organized around the progression in *Easy French Step-by-Step*. Chapters 17-25 revisit the tense system with full explanations and practice focused on choosing the right form. The exercises and explanations are newly written and do not reproduce the textbook.
 
 **New to French? Start with [Chapter 0](chapter-00-getting-started/).** It teaches pronunciation, the alphabet, silent letters, nasal vowels, liaison, greetings, and your first phrases. Chapters 1-16 assume you can already read a French example aloud.
 
@@ -60,6 +60,22 @@ Writing is valuable because it forces you to retrieve spelling, agreement, conju
 | 14 | Imparfait, narration, double object pronouns | [Chapter 14](chapter-14-imparfait-past-narration-double-pronouns/) |
 | 15 | Future, conditional, pluperfect, indefinites | [Chapter 15](chapter-15-future-conditional-indefinites/) |
 | 16 | Present subjunctive | [Chapter 16](chapter-16-subjunctive/) |
+
+## Phase 4: Master French tenses and moods
+
+Chapters 17-25 reteach and extend the tense system, including forms introduced earlier. Work through each form, compare its meaning with related forms, then use Chapter 25 for integrated practice. Literary past forms are included for recognition rather than required production.
+
+| Chapter | Focus | Folder |
+|---:|---|---|
+| 17 | Present tense | [Chapter 17](chapter-17-present-tense/) |
+| 18 | Passé composé | [Chapter 18](chapter-18-passe-compose/) |
+| 19 | Imparfait and past-tense choices, including plus-que-parfait | [Chapter 19](chapter-19-past-tense-choices/) |
+| 20 | Futur proche, futur simple, and futur antérieur | [Chapter 20](chapter-20-future-forms/) |
+| 21 | Present and past conditional, including si clauses | [Chapter 21](chapter-21-conditional-and-si-clauses/) |
+| 22 | Present and past subjunctive vs. indicative | [Chapter 22](chapter-22-subjunctive-and-indicative/) |
+| 23 | Imperative, gerund, and practical participle forms | [Chapter 23](chapter-23-imperative-and-nonfinite-forms/) |
+| 24 | Passé simple and passé antérieur recognition | [Chapter 24](chapter-24-literary-past-recognition/) |
+| 25 | Mixed tense selection and review | [Chapter 25](chapter-25-integrated-tense-review/) |
 
 ## Recommended pacing
 

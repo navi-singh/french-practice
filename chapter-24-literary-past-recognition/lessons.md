@@ -1,0 +1,190 @@
+# Chapter 24 Lessons: Recognizing Literary Pasts
+
+## Unit 1: Read literary forms; produce contemporary forms
+
+Passé simple is common in written narration, history, and stories. It advances completed events, often where everyday French uses passé composé. It is not “a more distant past”: the distinction concerns narrative register and viewpoint. `La porte s'ouvrit. Un homme entra.` means “The door opened. A man entered.” An everyday retelling is `La porte s'est ouverte. Un homme est entré.` Background still uses imparfait: `Il faisait froid quand l'homme entra.`
+
+Your target is recognition and interpretation, not composing literary conjugations. The translation table below contains only contemporary productive forms. Separate French-to-English exercises teach recognition.
+
+## Unit 2: Recognize the passé simple patterns
+
+For regular -er verbs, remove -er and recognize -ai, -as, -a, -âmes, -âtes, -èrent. For regular -ir and many -re verbs, recognize an i-series: -is, -is, -it, -îmes, -îtes, -irent. The singular forms may look identical to another tense; context and the whole paradigm help.
+
+| Model | Six forms to recognize |
+| --- | --- |
+| parler | `je parlai, tu parlas, elle parla, nous parlâmes, vous parlâtes, ils parlèrent` |
+| finir | `je finis, tu finis, il finit, nous finîmes, vous finîtes, elles finirent` |
+| vendre | `je vendis, tu vendis, elle vendit, nous vendîmes, vous vendîtes, ils vendirent` |
+
+The circumflex often marks literary nous/vous forms. Do not confuse `je parlai` (passé simple) with `je parlais` (imparfait). `Il finit` can be present or passé simple; a narrative frame is needed. Do not insist that one isolated spelling always identifies one tense.
+
+Common irregulars fall into recognizable families:
+
+| Family | Complete models or third-person recognition anchors |
+| --- | --- |
+| avoir | `j'eus, tu eus, il eut, nous eûmes, vous eûtes, elles eurent` |
+| être | `je fus, tu fus, elle fut, nous fûmes, vous fûtes, ils furent` |
+| venir | `je vins, tu vins, il vint, nous vînmes, vous vîntes, elles vinrent` |
+| tenir, same -in- family | `il tint, elles tinrent` |
+| faire, prendre, mettre | `elle fit, il prit, elle mit` |
+| dire, écrire, voir | `il dit, elle écrivit, il vit` |
+| savoir, pouvoir, vouloir | `elle sut, il put, elle voulut` |
+| devoir, boire, lire | `il dut, elle but, il lut` |
+| recevoir, mourir, naître | `elle reçut, il mourut, elle naquit` |
+
+Many irregular u-series forms use -us, -us, -ut, -ûmes, -ûtes, -urent (as in avoir and être). Irregular i-series use the regular i endings but a changed stem (prendre → pris/prit/prirent). Aller follows the -er pattern in this tense: `il alla`. Venir/tenir use -ins, -ins, -int, -înmes, -întes, -inrent.
+
+### Recognition checkpoint
+
+Translate and identify: (1) `Elle entra.` (2) `Ils prirent le train.` (3) `Nous vînmes.` (4) `Il finit son travail.`
+
+:::answer
+1. “She entered.” — passé simple, -er third-person singular.
+2. “They took the train.” — passé simple of prendre, irregular i-series.
+3. “We came.” — passé simple of venir, -in- family.
+4. Either “He finishes/is finishing his work” (present) or “He finished his work” (passé simple). The isolated form is ambiguous; a narrative context resolves it.
+:::
+
+## Unit 3: Passé antérieur marks earlier completion
+
+Recognize passé simple avoir or être + past participle: `il eut fini`, `elle fut partie`. The auxiliary is the only finite verb. This literary compound tense commonly follows quand, lorsque, dès que, or après que and signals completion immediately before a following narrative event.
+
+| Auxiliary | Six-form recognition model |
+| --- | --- |
+| avoir | `j'eus fini, tu eus fini, il eut fini, nous eûmes fini, vous eûtes fini, elles eurent fini` |
+| être, masculine model | `je fus parti, tu fus parti, il fut parti, nous fûmes partis, vous fûtes partis, ils furent partis` |
+
+`Dès qu'elle eut fermé la porte, elle partit.` means “As soon as she had closed the door, she left.” Everyday retelling can use `Après avoir fermé la porte, elle est partie.` A contemporary narrative can also make the earlier relationship explicit with plus-que-parfait: `Elle avait fermé la porte avant de partir.`
+
+Agreement follows the same rules as other compound tenses: `Quand elles furent arrivées…` agrees with a feminine plural subject; `Quand elle se fut lavé les mains…` has a following direct object, so lavé does not agree. Negation surrounds the auxiliary: `Il n'eut pas fini.` Recognize these, but do not practice producing passé antérieur from English.
+
+Compare `il avait fini` (plus-que-parfait: earlier past in any ordinary narrative), `il eut fini` (passé antérieur: literary sequence), and `il aurait fini` (past conditional: hypothetical result). Similar participles do not make these interchangeable.
+
+### Earlier-event checkpoint
+
+Translate `Lorsqu'ils eurent mangé, ils sortirent.` Name the two tenses and put the events in order.
+
+:::answer
+“When they had eaten, they went out.” Eurent mangé is passé antérieur; sortirent is passé simple. Eating finishes first; going out follows. A contemporary retelling is `Après avoir mangé, ils sont sortis.`
+:::
+
+## Unit 4: Contemporary retelling toolkit
+
+For production, use present for current action or a clearly framed historical present; passé composé (present auxiliary + participle) for completed events; imparfait (nous stem + -ais/-ais/-ait/-ions/-iez/-aient, être → ét-) for scenes; plus-que-parfait (imparfait auxiliary + participle) for earlier events.
+
+Future stem + -ai/-as/-a/-ons/-ez/-ont gives futur simple; present aller + infinitive gives an intention; future auxiliary + participle gives futur antérieur. Conditional uses the future stem + imparfait endings; conditional auxiliary + participle gives an unreal past outcome. Present subjunctive uses the present ils/nous stems with -e/-es/-e/-ions/-iez/-ent, with irregular être/avoir (`soit`, `ait`); subjunctive auxiliary + participle gives completed action under a trigger. Infinitives and en + -ant do not themselves establish tense.
+
+### Contemporary-retelling checkpoint
+
+Retell `Il ouvrit la lettre. Il était inquiet. Dès qu'il eut lu le message, il sourit.` using ordinary contemporary forms, not new literary forms.
+
+:::answer
+`Il a ouvert la lettre. Il était inquiet. Après avoir lu le message, il a souri.` — passé composé advances events; imparfait retains the emotional background; the past infinitive preserves completed reading before the smile.
+:::
+
+## English-to-French Translation Practice (100 Sentences)
+
+Translate from English before revealing the French cell. The answer and its tense-choice cue are revealed together. Rows 1–70 focus on this chapter; rows 71–100 are cumulative. Use informal singular “you” unless the prompt specifies formal or plural. Where gender is unspecified, masculine agreement is the model default; feminine alternatives are equally valid. Natural alternatives can also be correct.
+
+| English | French |
+| --- | --- |
+| 1. The traveller knocked on the wooden door. | `Le voyageur a frappé à la porte en bois.` — Passé composé: contemporary narration of a completed event. |
+| 2. A woman opened the upstairs window. | `Une femme a ouvert la fenêtre de l'étage.` — Passé composé: contemporary narration of a completed event. |
+| 3. The children found a letter under the table. | `Les enfants ont trouvé une lettre sous la table.` — Passé composé: contemporary narration of a completed event. |
+| 4. Paul took a candle from the cupboard. | `Paul a pris une bougie dans le placard.` — Passé composé: contemporary narration of a completed event. |
+| 5. Léa read the first line aloud. | `Léa a lu la première ligne à voix haute.` — Passé composé: contemporary narration of a completed event. |
+| 6. The dog ran towards the gate. | `Le chien a couru vers le portail.` — Passé composé: contemporary narration of a completed event. |
+| 7. We heard footsteps in the corridor. | `Nous avons entendu des pas dans le couloir.` — Passé composé: contemporary narration of a completed event. |
+| 8. You put the envelope in your pocket. | `Tu as mis l'enveloppe dans ta poche.` — Passé composé: contemporary narration of a completed event. |
+| 9. The visitors entered the courtyard. | `Les visiteurs sont entrés dans la cour.` — Passé composé: contemporary narration of a completed event. |
+| 10. My aunt recognised the handwriting. | `Ma tante a reconnu l'écriture.` — Passé composé: contemporary narration of a completed event. |
+| 11. The girl went down the narrow staircase. | `La fille est descendue par l'escalier étroit.` — Passé composé: contemporary narration of a completed event. |
+| 12. The boy told his mother everything. | `Le garçon a tout raconté à sa mère.` — Passé composé: contemporary narration of a completed event. |
+| 13. We saw a boat near the bridge. | `Nous avons vu un bateau près du pont.` — Passé composé: contemporary narration of a completed event. |
+| 14. The old man smiled at the children. | `Le vieil homme a souri aux enfants.` — Passé composé: contemporary narration of a completed event. |
+| 15. She closed the book and stood up. | `Elle a fermé le livre et s'est levée.` — Passé composé: contemporary narration of a completed event. |
+| 16. The house stood at the end of the street. | `La maison se trouvait au bout de la rue.` — Imparfait: a narrative scene or habit. |
+| 17. It was raining on the deserted square. | `Il pleuvait sur la place déserte.` — Imparfait: a narrative scene or habit. |
+| 18. The windows were covered with dust. | `Les fenêtres étaient couvertes de poussière.` — Imparfait: a narrative scene or habit. |
+| 19. A lamp was shining in the kitchen. | `Une lampe brillait dans la cuisine.` — Imparfait: a narrative scene or habit. |
+| 20. The little boy was afraid of the dark. | `Le petit garçon avait peur du noir.` — Imparfait: a narrative scene or habit. |
+| 21. We were walking beside the river. | `Nous marchions au bord de la rivière.` — Imparfait: a narrative scene or habit. |
+| 22. The family used to meet every Sunday. | `La famille se retrouvait tous les dimanches.` — Imparfait: a narrative scene or habit. |
+| 23. She was wearing a long grey coat. | `Elle portait un long manteau gris.` — Imparfait: a narrative scene or habit. |
+| 24. The villagers knew the old story. | `Les habitants du village connaissaient la vieille histoire.` — Imparfait: a narrative scene or habit. |
+| 25. Every evening, he told the same tale. | `Tous les soirs, il racontait le même conte.` — Imparfait: a narrative scene or habit. |
+| 26. Someone had left a basket by the door. | `Quelqu'un avait laissé un panier près de la porte.` — Plus-que-parfait: an event before the story's reference point. |
+| 27. The guests had already gone home when Paul arrived. | `Les invités étaient déjà rentrés quand Paul est arrivé.` — Plus-que-parfait: an event before the story's reference point. |
+| 28. She had never visited that village before. | `Elle n'avait jamais visité ce village auparavant.` — Plus-que-parfait: an event before the story's reference point. |
+| 29. We had hidden the key under a stone. | `Nous avions caché la clé sous une pierre.` — Plus-que-parfait: an event before the story's reference point. |
+| 30. The child had forgotten his mother's warning. | `L'enfant avait oublié l'avertissement de sa mère.` — Plus-que-parfait: an event before the story's reference point. |
+| 31. They (female) had crossed the bridge before nightfall. | `Elles avaient traversé le pont avant la nuit.` — Plus-que-parfait: an event before the story's reference point. |
+| 32. He had written the letter three days earlier. | `Il avait écrit la lettre trois jours plus tôt.` — Plus-que-parfait: an event before the story's reference point. |
+| 33. I had already heard that story. | `J'avais déjà entendu cette histoire.` — Plus-que-parfait: an event before the story's reference point. |
+| 34. The girls had fallen asleep before our return. | `Les filles s'étaient endormies avant notre retour.` — Plus-que-parfait: an event before the story's reference point. |
+| 35. You had taken the wrong path. | `Tu avais pris le mauvais chemin.` — Plus-que-parfait: an event before the story's reference point. |
+| 36. In this story, the hero lives near a forest. | `Dans cette histoire, le héros habite près d'une forêt.` — Present: a current retelling, description, or historical-present frame. |
+| 37. The narrator describes a quiet village. | `Le narrateur décrit un village tranquille.` — Present: a current retelling, description, or historical-present frame. |
+| 38. At the beginning, a stranger arrives at the inn. | `Au début, un inconnu arrive à l'auberge.` — Present: a current retelling, description, or historical-present frame. |
+| 39. The girl does not know who is knocking. | `La fille ne sait pas qui frappe.` — Present: a current retelling, description, or historical-present frame. |
+| 40. We understand why the father is worried. | `Nous comprenons pourquoi le père est inquiet.` — Present: a current retelling, description, or historical-present frame. |
+| 41. The last page explains the mystery. | `La dernière page explique le mystère.` — Present: a current retelling, description, or historical-present frame. |
+| 42. The story ends with a wedding. | `L'histoire se termine par un mariage.` — Present: a current retelling, description, or historical-present frame. |
+| 43. I prefer the second ending. | `Je préfère la deuxième fin.` — Present: a current retelling, description, or historical-present frame. |
+| 44. Do you remember the traveller's name? | `Est-ce que tu te souviens du nom du voyageur ?` — Present: a current retelling, description, or historical-present frame. |
+| 45. This character always tells the truth. | `Ce personnage dit toujours la vérité.` — Present: a current retelling, description, or historical-present frame. |
+| 46. I am going to retell the story to my sister. | `Je vais raconter l'histoire à ma sœur.` — Futur proche: a current plan. |
+| 47. We will read the next chapter tomorrow. | `Nous lirons le chapitre suivant demain.` — Futur simple: a future activity. |
+| 48. You will find out the secret at the end. | `Tu découvriras le secret à la fin.` — Futur simple: a prediction. |
+| 49. She is going to explain the difficult words. | `Elle va expliquer les mots difficiles.` — Futur proche: a current intention. |
+| 50. By Friday, I will have finished this novel. | `D'ici vendredi, j'aurai fini ce roman.` — Futur antérieur: completion by a deadline. |
+| 51. When we have read the ending, we will discuss it. | `Quand nous aurons lu la fin, nous en discuterons.` — Futur antérieur before futur simple. |
+| 52. The children will want to hear another story. | `Les enfants voudront entendre une autre histoire.` — Futur simple: a predicted wish. |
+| 53. He will return the book next week. | `Il rendra le livre la semaine prochaine.` — Futur simple: a future event. |
+| 54. I would like to know what happened. | `Je voudrais savoir ce qui s'est passé.` — Conditional: contemporary interpretation, advice, or an unreal result. |
+| 55. You should read the introduction first. | `Tu devrais lire l'introduction d'abord.` — Conditional: contemporary interpretation, advice, or an unreal result. |
+| 56. If I were the hero, I would ask for help. | `Si j'étais le héros, je demanderais de l'aide.` — Imparfait condition; present conditional result. |
+| 57. If she had seen the letter, she would have understood. | `Si elle avait vu la lettre, elle aurait compris.` — Plus-que-parfait condition; past conditional result. |
+| 58. We could tell the story differently. | `Nous pourrions raconter l'histoire autrement.` — Conditional: contemporary interpretation, advice, or an unreal result. |
+| 59. He would have liked to meet the author. | `Il aurait aimé rencontrer l'auteur.` — Past conditional: an unrealized wish. |
+| 60. I want you to read this passage. | `Je veux que tu lises ce passage.` — Subjunctive: a contemporary reaction to a story. |
+| 61. We must understand the order of events. | `Il faut que nous comprenions l'ordre des événements.` — Subjunctive: a contemporary reaction to a story. |
+| 62. She is happy that the children have returned. | `Elle est contente que les enfants soient revenus.` — Passé du subjonctif: emotion about completed return. |
+| 63. I doubt that the traveller knows the secret. | `Je doute que le voyageur connaisse le secret.` — Subjunctive: a contemporary reaction to a story. |
+| 64. Read the sentence before answering. | `Lis la phrase avant de répondre.` — Imperative; avant de + infinitive marks sequence. |
+| 65. Tell us what you think of the ending. | `Dis-nous ce que tu penses de la fin.` — Affirmative imperative: pronoun follows the verb. |
+| 66. I understand better by reading aloud. | `Je comprends mieux en lisant à voix haute.` — Present; gérondif expresses means. |
+| 67. After closing the book, she smiled. | `Après avoir fermé le livre, elle a souri.` — Past infinitive before a passé composé event. |
+| 68. Do not confuse the two characters. | `Ne confonds pas les deux personnages.` — Negative imperative: ne…pas encloses the command. |
+| 69. Let us compare the two versions. | `Comparons les deux versions.` — Nous imperative: a shared instruction. |
+| 70. I am trying to explain the difference. | `J'essaie d'expliquer la différence.` — Present essayer de + infinitive. |
+| 71. I have been waiting for the bus for twenty minutes. | `J'attends le bus depuis vingt minutes.` — Present: current or continuing situation. |
+| 72. She knows where the nearest bank is. | `Elle sait où est la banque la plus proche.` — Present: current or continuing situation. |
+| 73. We are cooking for ten people. | `Nous cuisinons pour dix personnes.` — Present: current or continuing situation. |
+| 74. I dropped my phone in the kitchen. | `J'ai fait tomber mon téléphone dans la cuisine.` — Passé composé: everyday completed events. |
+| 75. They (female) bought fresh fish. | `Elles ont acheté du poisson frais.` — Passé composé: everyday completed events. |
+| 76. My brother got up at six. | `Mon frère s'est levé à six heures.` — Passé composé: everyday completed events. |
+| 77. I was hungry because I had not eaten. | `J'avais faim parce que je n'avais pas mangé.` — Imparfait state; plus-que-parfait earlier cause. |
+| 78. We used to rent a house by the sea. | `Nous louions une maison au bord de la mer.` — Imparfait: a past habit. |
+| 79. She had already left when the taxi arrived. | `Elle était déjà partie quand le taxi est arrivé.` — Plus-que-parfait departure before passé composé arrival. |
+| 80. I am going to replace the battery. | `Je vais remplacer la pile.` — Futur proche: a current intention. |
+| 81. We will have good weather on Sunday. | `Nous aurons beau temps dimanche.` — Futur simple: a forecast, not future completion. |
+| 82. By six, the girls will have arrived. | `À six heures, les filles seront arrivées.` — Futur antérieur: arrival complete by six. |
+| 83. Could you (formal) keep my bag for a moment? | `Pourriez-vous garder mon sac un instant ?` — Conditional: politeness and advice. |
+| 84. You should eat something before leaving. | `Tu devrais manger quelque chose avant de partir.` — Conditional: politeness and advice. |
+| 85. If the weather is good, we will have a picnic. | `S'il fait beau, nous pique-niquerons.` — Present condition; future result. |
+| 86. If I had more space, I would buy a piano. | `Si j'avais plus de place, j'achèterais un piano.` — Imparfait condition; present conditional result. |
+| 87. If you had warned me, I would have stayed. (female speaker) | `Si tu m'avais prévenue, je serais restée.` — Plus-que-parfait condition; past conditional result. |
+| 88. We would have preferred a quieter hotel. | `Nous aurions préféré un hôtel plus calme.` — Past conditional: unrealized preference. |
+| 89. I want her to wait for us. | `Je veux qu'elle nous attende.` — Subjunctive: trigger and completion determine the form. |
+| 90. It is important that you (plural) be careful. | `Il est important que vous fassiez attention.` — Subjunctive: trigger and completion determine the form. |
+| 91. I am glad that he found his wallet. (male speaker) | `Je suis content qu'il ait retrouvé son portefeuille.` — Passé du subjonctif: emotion about a completed event. |
+| 92. I doubt that they (male) have finished the meal. | `Je doute qu'ils aient fini le repas.` — Passé du subjonctif: doubted completion. |
+| 93. I am sure that the train is on time. | `Je suis sûr que le train est à l'heure.` — Indicative: certainty or positive hope. |
+| 94. I hope that she will feel better tomorrow. | `J'espère qu'elle ira mieux demain.` — Indicative: certainty or positive hope. |
+| 95. Put them on the table. (them = the keys) | `Mets-les sur la table.` — Imperative: direct practical instruction. |
+| 96. Do not give him my address. | `Ne lui donne pas mon adresse.` — Imperative: direct practical instruction. |
+| 97. He learns French by watching films. | `Il apprend le français en regardant des films.` — Gérondif: simultaneous action or means. |
+| 98. We chatted while waiting for the lift. | `Nous avons bavardé en attendant l'ascenseur.` — Gérondif: simultaneous action or means. |
+| 99. She has just bought some stamps. | `Elle vient d'acheter des timbres.` — Recent past: venir de + infinitive. |
+| 100. I need to change my appointment. | `J'ai besoin de changer mon rendez-vous.` — Infinitive: governed construction. |

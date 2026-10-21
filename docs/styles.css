@@ -335,6 +335,7 @@ th { background: var(--surface-2); }
   z-index: 1;
 }
 .translation-table tbody tr:nth-child(even) { background: var(--surface-2); }
+.translation-wrap.masked tbody tr:not(.revealed) td:last-child { color: transparent; }
 .translation-wrap.masked tbody tr:not(.revealed) td:last-child code.speakable {
   display: inline-block;
   max-width: 100%;
