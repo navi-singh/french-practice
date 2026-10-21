@@ -1,0 +1,133 @@
+{
+  "id": "checkpoint-2",
+  "title": "Checkpoint 2 — Everyday transactions",
+  "kind": "checkpoint",
+  "phase": 2,
+  "intro": "A cumulative check for Chapters 5–8, with useful details from the foundations phase. Listen for numbers, times, conditions, and changes of plan. Choose a remediation chapter by the skill and clue you missed; this checkpoint does not assign a level or restrict access.",
+  "sections": [
+    {
+      "id": "listening",
+      "skill": "listening",
+      "title": "Listening: appointments and service changes",
+      "seconds": 300,
+      "items": [
+        {
+          "id": "checkpoint2-listening-01",
+          "skill": "listening",
+          "type": "choice",
+          "title": "Catch a changed appointment",
+          "prompt": "What is the new appointment time?",
+          "script": "Bonjour, c'est le cabinet médical. Votre rendez-vous de mardi à quatorze heures est déplacé à mercredi, à quatorze heures trente. Merci de confirmer en rappelant avant midi.",
+          "options": ["Wednesday at 2:30 p.m.", "Tuesday at 2:00 p.m.", "Wednesday at noon.", "Thursday at 2:30 p.m."],
+          "answer": 0,
+          "explanation": "The original Tuesday appointment is moved to Wednesday at 14:30. Calling before noon is the confirmation deadline, not the appointment time.",
+          "seconds": 75
+        },
+        {
+          "id": "checkpoint2-listening-02",
+          "skill": "listening",
+          "type": "choice",
+          "title": "Understand a transport notice",
+          "prompt": "What should passengers do to reach the station?",
+          "script": "En raison de travaux, l'autobus 12 ne passe pas devant la gare jusqu'à vendredi. Descendez à l'arrêt du musée et prenez la navette gratuite. Elle part toutes les dix minutes.",
+          "options": ["Get off at the museum and take the free shuttle.", "Wait for bus 12 outside the station.", "Walk to the museum and buy a ticket.", "Use the shuttle only after Friday."],
+          "answer": 0,
+          "explanation": "The announcement gives a temporary route: get off at the museum stop and transfer to the free shuttle, which runs every ten minutes.",
+          "seconds": 75
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "skill": "reading",
+      "title": "Reading: instructions and conditions",
+      "seconds": 300,
+      "items": [
+        {
+          "id": "checkpoint2-reading-01",
+          "skill": "reading",
+          "type": "choice",
+          "title": "Read a shop return policy",
+          "prompt": "What must a customer provide to exchange an item?",
+          "passage": "Échanges possibles dans les 14 jours avec le reçu et l'emballage d'origine. Les articles soldés ne sont pas remboursés; ils peuvent être échangés contre un article de prix égal ou supérieur.",
+          "options": ["The receipt and original packaging.", "A bank statement and a new label.", "The receipt only after 30 days.", "A refund request for the sale item."],
+          "answer": 0,
+          "explanation": "The notice requires both the receipt and original packaging and gives a 14-day limit. A sale item can be exchanged, but not refunded.",
+          "seconds": 75
+        },
+        {
+          "id": "checkpoint2-reading-02",
+          "skill": "reading",
+          "type": "choice",
+          "title": "Interpret a housing message",
+          "prompt": "What does the landlord ask the tenant to do?",
+          "passage": "Bonjour, l'inspection des détecteurs aura lieu jeudi entre 9 h et 12 h. Si vous êtes absent, laissez votre autorisation écrite dans la boîte aux lettres du bureau avant mercredi soir. Il n'est pas nécessaire de déplacer les meubles.",
+          "options": ["Leave written permission by Wednesday evening if absent.", "Move the furniture before Thursday morning.", "Wait at home all day Wednesday.", "Send the permission after the inspection."],
+          "answer": 0,
+          "explanation": "The tenant who cannot be present should leave written permission before Wednesday evening; furniture does not need to be moved.",
+          "seconds": 75
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "skill": "speaking",
+      "title": "Speaking: manage a practical exchange",
+      "seconds": 240,
+      "items": [
+        {
+          "id": "checkpoint2-speaking-01",
+          "skill": "speaking",
+          "type": "production",
+          "title": "Request a repair",
+          "prompt": "Call a building manager about a kitchen tap that has been leaking for two days. Explain when you are available and ask when someone can come. Speak for about one minute.",
+          "seconds": 60,
+          "model": "Bonjour, je vous appelle au sujet du robinet de la cuisine. Il fuit depuis lundi et l'eau coule même quand je le ferme. Je suis disponible demain après 16 heures ou vendredi matin. Pourriez-vous me dire quand un technicien pourrait passer ? Merci de me rappeler.",
+          "rubric": ["I described the problem and when it began.", "I offered a clear availability window.", "I asked for a next step and used a polite tone."]
+        },
+        {
+          "id": "checkpoint2-speaking-02",
+          "skill": "speaking",
+          "type": "production",
+          "title": "Get directions",
+          "prompt": "Ask a passer-by how to reach the closest pharmacy from the public library. Confirm whether to walk or take transit and thank them.",
+          "seconds": 60,
+          "model": "Excusez-moi, pourriez-vous m'indiquer le chemin pour aller à la pharmacie la plus proche ? Est-ce que je peux y aller à pied ou faut-il prendre l'autobus ? Merci pour votre aide.",
+          "rubric": ["I asked for directions to the correct destination.", "I asked a useful follow-up question.", "I acknowledged the response or closed politely."]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "skill": "writing",
+      "title": "Writing: practical messages",
+      "seconds": 300,
+      "items": [
+        {
+          "id": "checkpoint2-writing-01",
+          "skill": "writing",
+          "type": "production",
+          "title": "Reschedule a service visit",
+          "prompt": "Write to a bicycle repair shop. You cannot attend your Friday 15:00 appointment, can come Monday after 16:00 or Tuesday morning, and need the bicycle before the weekend.",
+          "seconds": 150,
+          "minWords": 45,
+          "maxWords": 90,
+          "model": "Bonjour, je vous écris au sujet de mon rendez-vous de réparation prévu vendredi à 15 h. Malheureusement, je ne pourrai pas venir à cette heure-là. Serait-il possible de déplacer le rendez-vous à lundi après 16 h ou à mardi matin ? J'aurais besoin de récupérer mon vélo avant le week-end, si cela est possible. Merci de me confirmer la nouvelle date. Cordialement, Émile.",
+          "rubric": ["I explained which appointment must change.", "I offered both available alternatives and the deadline.", "I used an appropriate greeting and closing."]
+        },
+        {
+          "id": "checkpoint2-writing-02",
+          "skill": "writing",
+          "type": "production",
+          "title": "Recommend a local place",
+          "prompt": "A new colleague asks where to buy affordable lunch near work. Recommend a place, explain what it offers, and give one practical detail such as opening hours or how to get there.",
+          "seconds": 150,
+          "minWords": 50,
+          "maxWords": 95,
+          "model": "Salut Noor, je te conseille le petit café du marché, à deux rues du bureau. Il propose des soupes et des sandwichs préparés le matin, avec plusieurs options végétariennes. Les prix sont raisonnables et le service est rapide, surtout avant midi. Le café ouvre à 8 h et ferme à 16 h, mais il est fermé le dimanche. Tu peux aussi commander à emporter si tu n'as pas beaucoup de temps. J'y vais souvent le mercredi. Veux-tu que je te montre le chemin demain ?",
+          "rubric": ["I made a specific recommendation.", "I explained why it may suit the colleague.", "I included a useful practical detail."]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": "checkpoint-4",
+  "title": "Checkpoint 4 — Planning and reasoning",
+  "kind": "checkpoint",
+  "phase": 4,
+  "intro": "A cumulative check for Chapters 13–16, with prior everyday and past-event language. Listen and read for plans, conditions, advice, and the reason behind a suggestion. Production models illustrate one way to complete a task; they are not scripts to memorize.",
+  "sections": [
+    {
+      "id": "listening",
+      "skill": "listening",
+      "title": "Listening: plans, conditions, and advice",
+      "seconds": 300,
+      "items": [
+        {
+          "id": "checkpoint4-listening-01",
+          "skill": "listening",
+          "type": "choice",
+          "title": "Understand a conditional plan",
+          "prompt": "What will the speakers do if the weather stays dry?",
+          "script": "Si le temps reste sec samedi, nous irons au marché à vélo. Sinon, nous prendrons le tram et nous déjeunerons près de la gare. J'aimerais quand même partir tôt pour éviter la foule.",
+          "options": ["Go to the market by bicycle.", "Cancel the visit and stay home.", "Take the tram even if it is sunny.", "Meet at the station in the evening."],
+          "answer": 0,
+          "explanation": "The bicycle plan depends on dry weather; the tram is the alternative if the weather changes.",
+          "seconds": 75
+        },
+        {
+          "id": "checkpoint4-listening-02",
+          "skill": "listening",
+          "type": "choice",
+          "title": "Identify a recommendation and its reason",
+          "prompt": "Why does the speaker recommend booking the workshop early?",
+          "script": "Le nouvel atelier de photographie est ouvert à tous, mais le groupe est limité à douze personnes. Comme les places partent vite, je te conseille de réserver cette semaine. Tu pourras annuler sans frais jusqu'à jeudi.",
+          "options": ["The number of places is limited.", "The workshop is only for professionals.", "The booking fee rises on Thursday.", "The class is held only this week."],
+          "answer": 0,
+          "explanation": "The speaker explicitly links early booking to the twelve-person limit and the fact that places fill quickly.",
+          "seconds": 75
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "skill": "reading",
+      "title": "Reading: evaluate a proposal",
+      "seconds": 300,
+      "items": [
+        {
+          "id": "checkpoint4-reading-01",
+          "skill": "reading",
+          "type": "choice",
+          "title": "Read a community proposal",
+          "prompt": "What change does the committee propose?",
+          "passage": "Notre association envisage d'ouvrir la salle commune deux soirs par semaine pour des ateliers gratuits. Le projet dépend toutefois de la disponibilité de bénévoles; si nous n'en trouvons pas assez d'ici la fin du mois, nous commencerons par un seul soir. Les membres intéressés peuvent répondre au sondage.",
+          "options": ["Begin with one evening if volunteer numbers are insufficient.", "Charge for every workshop from the start.", "Close the room at the end of the month.", "Require all members to lead an activity."],
+          "answer": 0,
+          "explanation": "The two-evening plan is conditional on recruiting enough volunteers; otherwise the committee will start with one evening.",
+          "seconds": 75
+        },
+        {
+          "id": "checkpoint4-reading-02",
+          "skill": "reading",
+          "type": "choice",
+          "title": "Separate a concern from a conclusion",
+          "prompt": "What is the author's main recommendation about flexible schedules?",
+          "passage": "Les horaires flexibles aident les parents et les personnes qui ont un long trajet. Ils peuvent cependant compliquer les réunions si personne ne partage les mêmes heures. Plutôt que d'imposer une présence identique chaque jour, l'entreprise devrait fixer quelques périodes communes et laisser le reste du temps adaptable.",
+          "options": ["Set shared meeting periods while keeping some flexibility.", "Require everyone to work the same hours every day.", "Allow meetings only outside work hours.", "End flexible schedules because they never help employees."],
+          "answer": 0,
+          "explanation": "The writer acknowledges benefits and a coordination problem, then recommends a compromise: a few shared periods with flexibility otherwise.",
+          "seconds": 75
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "skill": "speaking",
+      "title": "Speaking: advise and justify",
+      "seconds": 240,
+      "items": [
+        {
+          "id": "checkpoint4-speaking-01",
+          "skill": "speaking",
+          "type": "production",
+          "title": "Advise someone choosing a course",
+          "prompt": "A friend wants to learn French but has little time. Recommend one practical routine, explain why it may work, and mention one adjustment if the plan feels too demanding.",
+          "seconds": 75,
+          "model": "Je te conseillerais de travailler vingt minutes chaque jour plutôt que de faire une longue séance le dimanche. Tu pourrais écouter un court dialogue, noter trois expressions et les réutiliser le lendemain. Cela rend la révision plus régulière. Si tu es très occupé, fais seulement une activité orale de cinq minutes pour garder l'habitude. L'important est de choisir une routine réaliste.",
+          "rubric": ["I offered a relevant recommendation.", "I supported it with a reason or example.", "I included a realistic alternative or condition."]
+        },
+        {
+          "id": "checkpoint4-speaking-02",
+          "skill": "speaking",
+          "type": "production",
+          "title": "Discuss two possible plans",
+          "prompt": "Your community group must choose between a weekday evening event and a Saturday afternoon event. Compare one advantage and one drawback of each, then make a recommendation.",
+          "seconds": 75,
+          "model": "Le soir de semaine convient aux personnes qui travaillent le week-end, mais certains membres rentrent tard. Le samedi après-midi donne plus de temps pour participer, même si plusieurs familles ont déjà des activités. Je choisirais samedi une fois par mois et je demanderais d'abord aux membres de répondre à un sondage.",
+          "rubric": ["I described both options fairly.", "I compared them using reasons.", "I made a clear recommendation and supported it."]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "skill": "writing",
+      "title": "Writing: propose a practical solution",
+      "seconds": 300,
+      "items": [
+        {
+          "id": "checkpoint4-writing-01",
+          "skill": "writing",
+          "type": "production",
+          "title": "Suggest a change at work",
+          "prompt": "Write to your team proposing one meeting-free morning each week. Explain a possible benefit, acknowledge a concern, and suggest how to test the idea.",
+          "seconds": 180,
+          "minWords": 80,
+          "maxWords": 130,
+          "model": "Bonjour à tous, je propose que nous essayions une matinée sans réunion chaque semaine. Nous pourrions ainsi avancer sur les tâches qui demandent de la concentration, sans interrompre constamment notre travail. Je comprends toutefois que certains projets nécessitent une réponse rapide. Nous pourrions conserver les réunions urgentes et tester cette organisation pendant un mois. À la fin de la période, un court sondage nous permettrait de savoir si le changement est utile. Si l'expérience complique la coordination, nous pourrons choisir un autre créneau ou revenir à notre fonctionnement actuel. Qu'en pensez-vous ?",
+          "rubric": ["I stated a concrete proposal.", "I explained a benefit and acknowledged a concern.", "I suggested a test or next step.", "My tone invites discussion."]
+        },
+        {
+          "id": "checkpoint4-writing-02",
+          "skill": "writing",
+          "type": "production",
+          "title": "Recommend an accessible outing",
+          "prompt": "A colleague visiting your city asks for an enjoyable low-cost weekend activity. Recommend one option, explain why it suits different visitors, and mention a condition or alternative.",
+          "seconds": 120,
+          "minWords": 65,
+          "maxWords": 115,
+          "model": "Je te recommande le parcours piéton le long de la rivière. Il est gratuit, facile à rejoindre en autobus et chacun peut choisir la distance qui lui convient. On y trouve des bancs et un petit marché le samedi matin. Si la météo est mauvaise, le musée municipal propose une entrée à prix réduit le dimanche. Je vérifierais les horaires avant de partir, car certaines activités changent selon la saison.",
+          "rubric": ["I gave a specific recommendation.", "I explained its appeal and gave practical detail.", "I included a useful condition or alternative."]
+        }
+      ]
+    }
+  ]
+}

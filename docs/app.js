@@ -26,8 +26,50 @@ const voicePreference = [
 
 let availableVoices = [];
 
-let completed = new Set(JSON.parse(localStorage.getItem(completionKey) || "[]"));
+let legacyStorageInvalid = false;
+let completed = readCompleted();
 let lastSelectedText = "";
+
+function storageWarning(message) {
+  const warning = document.querySelector("#storage-warning");
+  if (warning) {
+    warning.hidden = false;
+    warning.textContent = message;
+  }
+}
+
+function readSetting(key) {
+  try {
+    return localStorage.getItem(key);
+  } catch (error) {
+    storageWarning("Device storage is unavailable. Progress and preferences cannot be saved. Enable site storage and reload.");
+    return null;
+  }
+}
+
+function writeSetting(key, value) {
+  try {
+    localStorage.setItem(key, value);
+    return true;
+  } catch (error) {
+    storageWarning("Saving failed. Current changes are only in memory. Free device storage or enable site storage before reloading.");
+    return false;
+  }
+}
+
+function readCompleted() {
+  try {
+    const saved = JSON.parse(localStorage.getItem(completionKey) || "[]");
+    if (!Array.isArray(saved) || !saved.every((id) => typeof id === "string")) {
+      throw new Error("Invalid completion records");
+    }
+    return new Set(saved);
+  } catch (error) {
+    legacyStorageInvalid = true;
+    storageWarning("Legacy progress could not be read and has not been overwritten. Export or repair french-practice-completed in browser storage, then reload.");
+    return new Set();
+  }
+}
 
 document.addEventListener("selectionchange", () => {
   const text = getSelection()?.toString().trim();
@@ -35,7 +77,29 @@ document.addEventListener("selectionchange", () => {
 });
 
 function route() {
-  const hash = decodeURIComponent(location.hash.replace(/^#\/?/, ""));
+  window.Coach?.cleanup();
+  let hash;
+  try {
+    hash = decodeURIComponent(location.hash.replace(/^#\/?/, ""));
+  } catch (error) {
+    showToast("This link is malformed. Returning to the course chooser.");
+    hash = "";
+  }
+  const trackSelect = document.querySelector("#track-select");
+  if (trackSelect) trackSelect.value = /^coach(?:\/|$)/.test(hash) ? "coach" : "legacy";
+  if (hash === "coach" || hash.startsWith("coach/")) {
+    if (!window.Coach) {
+      main.textContent = "Coach tools could not load. Reload online to update the cached site.";
+      chapterList.textContent = "French coach plan is unavailable until its tools load.";
+      progressSummary.textContent = "";
+      return;
+    }
+    window.Coach.route(hash.split("/").slice(1));
+    closeSidebar();
+    main.scrollTop = 0;
+    main.focus({ preventScroll: true });
+    return;
+  }
   if (!hash) {
     renderHome();
     updateNavigation();
@@ -45,14 +109,15 @@ function route() {
   const chapter = course.chapters.find((item) => item.slug === chapterSlug);
   if (!chapter) {
     renderHome();
+    updateNavigation();
     return;
   }
   const documentId = documentParts.length
     ? `${chapterSlug}/${documentParts.join("/")}`
     : chapter.documents[0].id;
-  const document = chapter.documents.find((item) => item.id === documentId)
+  const selectedDocument = chapter.documents.find((item) => item.id === documentId)
     || chapter.documents[0];
-  renderDocument(chapter, document);
+  renderDocument(chapter, selectedDocument);
   updateNavigation(chapter.slug);
   closeSidebar();
   main.scrollTop = 0;
@@ -63,8 +128,10 @@ function renderHome() {
   main.innerHTML = `
     <section class="content-card">
       <div class="document-header">
-        <div class="eyebrow">Beginner course · Chapters 0-16</div>
+        <div class="eyebrow">French Practice · Choose your track</div>
         <h1>Learn French by using it</h1>
+        <a class="coach-entry" href="#/coach"><strong>French coach plan</strong><span>Start from zero. Build all four skills for TCF Canada, with 24 chapters, daily practice, and unofficial assessments.</span></a>
+        <h2>Original French course · Chapters 0–25</h2>
         <p>New to French? Start with Chapter 0 for pronunciation and your first phrases. Read, listen, write from memory, correct, and review. Your progress is saved on this device.</p>
       </div>
       <div class="home-grid">
@@ -189,6 +256,10 @@ function bindTranslationTables() {
 }
 
 function renderChapters(filter = "") {
+  if (/^#\/coach(?:\/|$)/.test(location.hash) && window.Coach) {
+    window.Coach.navigation(filter);
+    return;
+  }
   const needle = filter.trim().toLowerCase();
   if (needle) {
     const results = [];
@@ -222,7 +293,7 @@ function renderChapters(filter = "") {
     return;
   }
 
-  const activeSlug = decodeURIComponent(location.hash).split("/")[1] || "";
+  const activeSlug = location.hash.split("/")[1] || "";
   chapterList.innerHTML = course.chapters.map((chapter) => {
     const done = chapter.documents.length > 0
       && chapter.documents.every((document) => completed.has(document.id));
@@ -242,9 +313,14 @@ function renderChapters(filter = "") {
 }
 
 function updateNavigation() {
+  if (/^#\/coach(?:\/|$)/.test(location.hash) && window.Coach) {
+    window.Coach.navigation(search.value);
+    return;
+  }
   renderChapters(search.value);
   const total = course.chapters.reduce((sum, chapter) => sum + chapter.documents.length, 0);
-  const count = completed.size;
+  const count = course.chapters.reduce((sum, chapter) =>
+    sum + chapter.documents.filter((document) => completed.has(document.id)).length, 0);
   const percentage = total ? Math.round((count / total) * 100) : 0;
   progressSummary.innerHTML = `
     <strong>${count} of ${total} sections complete</strong>
@@ -260,6 +336,8 @@ function shortTitle(document) {
 
 function bindSpeakableExamples() {
   main.querySelectorAll("code.speakable").forEach((element) => {
+    if (element.dataset.speechBound === "true") return;
+    element.dataset.speechBound = "true";
     const row = element.closest(".translation-wrap tbody tr");
     const masked = () => row
       && row.closest(".translation-wrap").classList.contains("masked")
@@ -285,6 +363,10 @@ function bindSpeakableExamples() {
 }
 
 function speakFrench(text, ratePercent) {
+  if (window.Coach?.examActive()) {
+    showToast("Pronunciation controls are disabled during an exam-style attempt.");
+    return;
+  }
   if (!("speechSynthesis" in window)) {
     showToast("Speech is not supported in this browser.");
     return;
@@ -292,6 +374,7 @@ function speakFrench(text, ratePercent) {
   // getVoices() is empty until the engine finishes loading, so defer the
   // first utterance rather than letting it fall back to an English voice.
   whenVoicesReady(() => {
+    if (window.Coach?.examActive()) return;
     const voice = preferredVoice();
     const utterance = new SpeechSynthesisUtterance(text);
     utterance.lang = voice ? voice.lang : "fr-FR";
@@ -314,7 +397,7 @@ function refreshVoices() {
 // The slider is a percentage of normal French speed, so 50 really is half
 // speed. Engines below about 0.2 produce unusable audio, hence the floor.
 function speechRate(ratePercent) {
-  const percent = Number(ratePercent ?? localStorage.getItem(rateKey) ?? defaultRate);
+  const percent = Number(ratePercent ?? readSetting(rateKey) ?? defaultRate);
   if (!Number.isFinite(percent)) return defaultRate / 100;
   return Math.min(1, Math.max(0.2, percent / 100));
 }
@@ -378,7 +461,7 @@ function voiceId(voice) {
 function preferredVoice() {
   const voices = frenchVoices();
   if (!voices.length) return null;
-  const saved = voices.find((voice) => voiceId(voice) === localStorage.getItem(voiceKey));
+  const saved = voices.find((voice) => voiceId(voice) === readSetting(voiceKey));
   if (saved) return saved;
   // France French first: the course teaches standard metropolitan forms.
   // Locale is the primary key, so a nicer-sounding voice from another French
@@ -426,7 +509,11 @@ function renderVoiceOptions() {
 }
 
 function saveProgress() {
-  localStorage.setItem(completionKey, JSON.stringify([...completed]));
+  if (legacyStorageInvalid) {
+    storageWarning("Legacy progress is unreadable; it remains untouched. Repair its saved records and reload before saving.");
+    return;
+  }
+  writeSetting(completionKey, JSON.stringify([...completed]));
 }
 
 function showToast(message) {
@@ -466,9 +553,13 @@ window.addEventListener("hashchange", route);
 document.querySelector("#theme-button").addEventListener("click", () => {
   const next = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
   document.documentElement.dataset.theme = next;
-  localStorage.setItem(themeKey, next);
+  writeSetting(themeKey, next);
 });
-document.documentElement.dataset.theme = localStorage.getItem(themeKey)
+document.querySelector("#track-select")?.addEventListener("change", (event) => {
+  search.value = "";
+  location.hash = event.target.value === "coach" ? "#/coach" : "#/";
+});
+document.documentElement.dataset.theme = readSetting(themeKey)
   || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
 
 const speakSelectionButton = document.querySelector("#speak-selection");
@@ -513,11 +604,11 @@ if ("speechSynthesis" in window) {
     renderVoiceOptions();
   });
   voiceSelect?.addEventListener("change", () => {
-    localStorage.setItem(voiceKey, voiceSelect.value);
+    writeSetting(voiceKey, voiceSelect.value);
     speakFrench("Bonjour, je parle français.");
   });
   speedRange?.addEventListener("input", () => {
-    localStorage.setItem(rateKey, speedRange.value);
+    writeSetting(rateKey, speedRange.value);
     renderSpeed();
   });
   // Sampling on every input event would stutter, so speak once per release.

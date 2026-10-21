@@ -1,0 +1,133 @@
+{
+  "id": "checkpoint-5",
+  "title": "Checkpoint 5 — Comprehension and argumentation",
+  "kind": "checkpoint",
+  "phase": 5,
+  "intro": "A cumulative check for Chapters 17–20. The listening and reading items include viewpoints, implied meaning, and qualifications; not every answer is copied word for word. In your own response, state a position, support it, and acknowledge a reasonable limitation.",
+  "sections": [
+    {
+      "id": "listening",
+      "skill": "listening",
+      "title": "Listening: purpose, evidence, and viewpoint",
+      "seconds": 300,
+      "items": [
+        {
+          "id": "checkpoint5-listening-01",
+          "skill": "listening",
+          "type": "choice",
+          "title": "Infer the speaker's position",
+          "prompt": "What does the speaker support?",
+          "script": "L'application de vélos partagés a réduit les déplacements en voiture dans le centre. Pourtant, plusieurs stations restent vides aux heures de pointe. Avant d'acheter davantage de vélos, la ville devrait étudier où la demande est la plus forte.",
+          "options": ["Expand the service based on evidence about demand.", "End the service because no one uses it.", "Build more stations without studying usage.", "Replace bicycles with private cars."],
+          "answer": 0,
+          "explanation": "The speaker notes a positive effect but wants the city to study demand before deciding where to add capacity.",
+          "seconds": 75
+        },
+        {
+          "id": "checkpoint5-listening-02",
+          "skill": "listening",
+          "type": "choice",
+          "title": "Understand an interview conclusion",
+          "prompt": "What conclusion does the researcher draw about neighborhood gardens?",
+          "script": "Les jardins partagés fournissent peu de légumes à l'échelle d'une ville, mais leur rôle ne se limite pas à la production. Les participants apprennent à cultiver, se rencontrent et utilisent un terrain qui était auparavant inutilisé. Leur valeur dépend donc aussi des liens qu'ils créent.",
+          "options": ["Their social and educational value matters alongside food production.", "They can supply all the food a city needs.", "Their main effect is to increase the price of land.", "They work only when every participant is a professional gardener."],
+          "answer": 0,
+          "explanation": "The speaker explicitly contrasts modest food output with learning, social connection, and productive use of unused land.",
+          "seconds": 90
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "skill": "reading",
+      "title": "Reading: infer and compare viewpoints",
+      "seconds": 300,
+      "items": [
+        {
+          "id": "checkpoint5-reading-01",
+          "skill": "reading",
+          "type": "choice",
+          "title": "Read an editorial recommendation",
+          "prompt": "What does the author recommend about public charging stations?",
+          "passage": "L'installation de bornes de recharge dans les rues peut encourager l'usage de véhicules électriques. Cependant, les bornes restent parfois inutilisées pendant que des locataires sans stationnement privé ne peuvent pas recharger leur voiture. Les municipalités devraient donc cibler les quartiers où l'accès à domicile est le plus difficile et publier des données sur l'usage réel.",
+          "options": ["Place stations where access is difficult and monitor their use.", "Install the same number of stations in every neighborhood.", "Remove public stations because some are unused.", "Reserve every charging point for homeowners."],
+          "answer": 0,
+          "explanation": "The author connects access inequality with underuse and recommends targeted placement plus published usage data.",
+          "seconds": 90
+        },
+        {
+          "id": "checkpoint5-reading-02",
+          "skill": "reading",
+          "type": "choice",
+          "title": "Compare claims in a report",
+          "prompt": "Which conclusion is best supported by the passage?",
+          "passage": "Une enquête menée auprès de 600 employés montre que ceux qui commencent tôt apprécient le calme du matin. D'autres préfèrent des horaires plus tardifs, notamment pour des raisons familiales. Les équipes qui peuvent décaler leur journée signalent moins de conflits d'horaire, mais l'enquête ne mesure ni la productivité ni les résultats des entreprises.",
+          "options": ["Schedule flexibility may reduce conflicts, but this survey does not establish a productivity effect.", "Every employee works better when starting early.", "Later schedules are responsible for lower company results.", "The survey proves that flexible work raises productivity."],
+          "answer": 0,
+          "explanation": "The passage reports fewer schedule conflicts but explicitly says productivity and business outcomes were not measured.",
+          "seconds": 90
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "skill": "speaking",
+      "title": "Speaking: develop a balanced argument",
+      "seconds": 240,
+      "items": [
+        {
+          "id": "checkpoint5-speaking-01",
+          "skill": "speaking",
+          "type": "production",
+          "title": "Discuss public libraries",
+          "prompt": "Should public libraries offer more activities outside traditional book lending? State your view, give reasons and an example, and address one concern such as cost or noise.",
+          "seconds": 90,
+          "model": "Oui, les bibliothèques peuvent proposer des activités supplémentaires, par exemple des ateliers numériques ou des rencontres de lecture. Elles offrent un lieu gratuit où les personnes de différents âges peuvent apprendre ensemble. Certaines activités demandent du personnel et peuvent déranger ceux qui recherchent le calme. Il faudrait donc prévoir des espaces distincts et consulter les usagers avant d'ajouter un programme. À mon avis, cette évolution est utile si elle reste accessible et respecte les besoins de chacun.",
+          "rubric": ["I answered the question with a clear position.", "I developed reasons and a relevant example.", "I acknowledged a concern and responded to it.", "My ideas followed a clear order."]
+        },
+        {
+          "id": "checkpoint5-speaking-02",
+          "skill": "speaking",
+          "type": "production",
+          "title": "React to a counterargument",
+          "prompt": "Some people say that learning online is more efficient than attending in-person classes. Give your view, respond to that claim, and identify a situation where the other approach may be better.",
+          "seconds": 90,
+          "model": "Les cours en ligne peuvent être efficaces parce qu'on évite les déplacements et qu'on peut revoir certains contenus. Cela ne signifie pas qu'ils conviennent à tout le monde : une personne qui a besoin d'échanges spontanés peut progresser davantage en classe. Je choisirais la formule selon l'objectif. Pour réviser la grammaire, le format en ligne est pratique; pour pratiquer une conversation, un petit groupe en personne peut être préférable.",
+          "rubric": ["I expressed a position rather than repeating the prompt.", "I responded to the other view fairly.", "I gave a situation or example supporting my distinction."]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "skill": "writing",
+      "title": "Writing: make a case for change",
+      "seconds": 300,
+      "items": [
+        {
+          "id": "checkpoint5-writing-01",
+          "skill": "writing",
+          "type": "production",
+          "title": "Write a community opinion",
+          "prompt": "Your neighborhood is considering a car-free street on one Sunday each month. Write a short opinion for the local newsletter, explaining your position, giving an example, and responding to one practical concern.",
+          "seconds": 180,
+          "minWords": 90,
+          "maxWords": 145,
+          "model": "Je soutiens l'idée de fermer une rue aux voitures un dimanche par mois, à condition de préparer une bonne solution de transport. Les enfants pourraient jouer dehors et les commerces auraient l'occasion d'accueillir de nouveaux visiteurs. Dans mon ancien quartier, une journée similaire a permis d'organiser un marché local qui a attiré des familles. Certains habitants craignent toutefois de ne pas pouvoir accéder à leur logement ou de manquer une place de stationnement. La ville pourrait prévenir les résidents à l'avance, maintenir un accès pour les urgences et choisir une rue bien desservie. Un essai de trois mois permettrait d'évaluer les effets avant de décider si l'événement doit continuer.",
+          "rubric": ["I stated a clear position and addressed the proposed change.", "I developed a reason or example.", "I considered a practical counterargument.", "I concluded with a relevant next step."]
+        },
+        {
+          "id": "checkpoint5-writing-02",
+          "skill": "writing",
+          "type": "production",
+          "title": "Compare two ways to reduce waste",
+          "prompt": "A local group is choosing between a repair workshop and a monthly clothing swap. Compare the likely advantages of both, explain which you would prioritize, and give a reason.",
+          "seconds": 120,
+          "minWords": 80,
+          "maxWords": 130,
+          "model": "Un atelier de réparation peut prolonger la durée de vie des appareils et aider les participants à apprendre une compétence utile. Un échange de vêtements est plus simple à organiser et permet de renouveler sa garde-robe sans acheter de nouveaux articles. Je commencerais par l'atelier, car les petits appareils cassés sont souvent jetés alors qu'une réparation suffit. Cependant, les deux activités répondent à des besoins différents. Si le groupe dispose de peu de bénévoles, un échange de vêtements pourrait être une première étape plus facile.",
+          "rubric": ["I compared both options rather than discussing only one.", "I made a choice and gave a reason.", "I acknowledged a condition that could change the choice."]
+        }
+      ]
+    }
+  ]
+}

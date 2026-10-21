@@ -1,0 +1,133 @@
+{
+  "id": "checkpoint-3",
+  "title": "Checkpoint 3 — Past narration",
+  "kind": "checkpoint",
+  "phase": 3,
+  "intro": "A cumulative check for Chapters 9–12. Listen and read for the order of events, background conditions, and what changed. In your own production, focus on making the timeline clear; several wordings can be correct. This is an informal learning check, not a calibrated language score.",
+  "sections": [
+    {
+      "id": "listening",
+      "skill": "listening",
+      "title": "Listening: reconstruct an event",
+      "seconds": 300,
+      "items": [
+        {
+          "id": "checkpoint3-listening-01",
+          "skill": "listening",
+          "type": "choice",
+          "title": "Separate background from event",
+          "prompt": "Why did Nadia miss the beginning of the concert?",
+          "script": "Je suis arrivée en retard au concert hier. Le métro s'est arrêté entre deux stations alors qu'il y avait déjà beaucoup de monde. Quand nous sommes enfin sortis, il pleuvait et les rues étaient presque bloquées.",
+          "options": ["The metro stopped between stations.", "She forgot which station to use.", "The concert began later than expected.", "She waited for the rain to stop."],
+          "answer": 0,
+          "explanation": "The metro's unexpected stop is the event that caused the delay. The crowd, rain, and traffic provide background circumstances.",
+          "seconds": 75
+        },
+        {
+          "id": "checkpoint3-listening-02",
+          "skill": "listening",
+          "type": "choice",
+          "title": "Track an earlier action",
+          "prompt": "Why did Karim already know that the office was closed?",
+          "script": "Quand Karim est arrivé au bureau, les lumières étaient éteintes. Sa collègue lui avait envoyé un message le matin : la réparation du chauffage avait obligé l'équipe à travailler chez elle. Il est donc retourné à la maison.",
+          "options": ["A colleague had told him the team was working from home.", "He had repaired the heating before work.", "The lights were on when he arrived.", "He had agreed to meet his colleague at home."],
+          "answer": 0,
+          "explanation": "The message was sent earlier that morning and explains why the office was empty; the arrival happened afterward.",
+          "seconds": 75
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "skill": "reading",
+      "title": "Reading: sequence and cause",
+      "seconds": 300,
+      "items": [
+        {
+          "id": "checkpoint3-reading-01",
+          "skill": "reading",
+          "type": "choice",
+          "title": "Follow a travel account",
+          "prompt": "What happened before Malik changed trains?",
+          "passage": "Le train de Malik a pris du retard à cause d'un problème technique. Il avait prévu une correspondance de vingt minutes, mais il n'est arrivé qu'après le départ du train suivant. Un agent lui a alors proposé un billet pour le trajet de 17 h 40.",
+          "options": ["The first train arrived after the connection had left.", "An agent sold him a ticket before the delay.", "He decided to cancel the entire trip.", "The 17 h 40 train caused the technical problem."],
+          "answer": 0,
+          "explanation": "The original connection departed before Malik's delayed arrival, after which an agent offered a later ticket.",
+          "seconds": 75
+        },
+        {
+          "id": "checkpoint3-reading-02",
+          "skill": "reading",
+          "type": "choice",
+          "title": "Identify a writer's mixed reaction",
+          "prompt": "Why did the writer eventually appreciate the unexpected stop?",
+          "passage": "Notre randonnée a commencé sous un ciel gris. Nous avions déjà marché une heure quand le sentier est devenu trop boueux; nous avons attendu sous un abri. Au début, j'étais frustrée, car je voulais atteindre le lac avant midi. Puis un guide nous a montré des oiseaux que nous n'aurions pas vus en passant rapidement.",
+          "options": ["The pause led to an unexpected chance to observe wildlife.", "The group reached the lake earlier than planned.", "The guide shortened the walk to avoid the rain.", "The writer had planned to study birds all morning."],
+          "answer": 0,
+          "explanation": "The writer's initial frustration changes when the delay allows the group to see birds; the lake goal was not achieved early.",
+          "seconds": 75
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "skill": "speaking",
+      "title": "Speaking: narrate and explain",
+      "seconds": 240,
+      "items": [
+        {
+          "id": "checkpoint3-speaking-01",
+          "skill": "speaking",
+          "type": "production",
+          "title": "Tell a short travel story",
+          "prompt": "Describe a trip or outing that did not go exactly as planned. Say what you had intended to do, what happened, and how it ended. Speak for about 75 seconds.",
+          "seconds": 75,
+          "model": "Le mois dernier, nous voulions visiter un village près du lac. Nous avions réservé un autobus, mais il est tombé en panne sur la route. Pendant que nous attendions, une habitante nous a conseillé un sentier moins connu. Nous avons donc changé notre programme. La promenade était plus courte que prévu, mais la vue était magnifique et nous avons découvert un petit marché. J'étais déçu au début; finalement, cette journée improvisée m'a beaucoup plu.",
+          "rubric": ["I established the plan or background.", "I explained the event and its consequence in a clear order.", "I used time links or past forms to distinguish events.", "I added a reaction or reflection."]
+        },
+        {
+          "id": "checkpoint3-speaking-02",
+          "skill": "speaking",
+          "type": "production",
+          "title": "Explain a past decision",
+          "prompt": "Describe a time you changed your mind about a purchase or activity. Explain your first idea, what new information you learned, and why you chose differently.",
+          "seconds": 75,
+          "model": "Je voulais acheter un téléphone neuf parce que mon ancien appareil était lent. Avant de payer, j'ai comparé les modèles et j'ai découvert que la batterie pouvait être remplacée. Comme le reste fonctionnait encore bien, j'ai choisi la réparation. J'ai économisé de l'argent et j'ai évité de jeter un appareil utile.",
+          "rubric": ["I described the initial intention.", "I explained the information that changed my decision.", "I gave a reason for the final choice."]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "skill": "writing",
+      "title": "Writing: narrate a meaningful event",
+      "seconds": 300,
+      "items": [
+        {
+          "id": "checkpoint3-writing-01",
+          "skill": "writing",
+          "type": "production",
+          "title": "Write about a delayed journey",
+          "prompt": "Write to a friend about a recent trip delayed by bad weather. Explain what you had planned, what happened, what you did while waiting, and how you felt afterward.",
+          "seconds": 180,
+          "minWords": 75,
+          "maxWords": 125,
+          "model": "Salut Ana, notre voyage à Québec a pris beaucoup plus de temps que prévu. Nous avions réservé le train du matin pour arriver avant le déjeuner, mais la neige a ralenti le trajet. Pendant l'attente, nous avons trouvé un café près de la gare et nous avons appelé l'hôtel pour prévenir de notre retard. Le personnel a déplacé notre réservation sans frais. J'étais un peu stressée au début, car nous avions prévu de visiter le musée dès l'arrivée. Finalement, nous avons marché dans le vieux quartier le lendemain et le séjour s'est très bien passé. À bientôt !",
+          "rubric": ["I included the original plan and the disruption.", "I described a response and the eventual outcome.", "The timeline is easy to follow.", "The message fits a friend."]
+        },
+        {
+          "id": "checkpoint3-writing-02",
+          "skill": "writing",
+          "type": "production",
+          "title": "Describe a useful lesson",
+          "prompt": "Write a short paragraph about a mistake that taught you something practical. Explain the situation, what you did, and what you would do differently next time.",
+          "seconds": 120,
+          "minWords": 60,
+          "maxWords": 105,
+          "model": "L'année dernière, j'ai accepté d'organiser une petite fête sans vérifier le nombre d'invités. J'avais acheté assez de boissons, mais pas assez de nourriture. Pendant que mes amis arrivaient, je suis allé rapidement au marché voisin et j'ai préparé une salade supplémentaire. Tout le monde a pu manger, mais j'étais pressé et j'ai oublié quelques détails. Depuis, je demande toujours une confirmation avant de faire les courses. Cette expérience m'a appris qu'un plan simple évite beaucoup de stress.",
+          "rubric": ["I explained what happened and what I did.", "I stated a lesson or future change.", "The paragraph has a clear beginning and conclusion."]
+        }
+      ]
+    }
+  ]
+}

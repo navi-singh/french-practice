@@ -30,6 +30,13 @@
 
       <aside id="sidebar" class="sidebar" aria-label="Course navigation">
         <div class="search-wrap">
+          <label for="track-select">Learning track</label>
+          <select id="track-select">
+            <option value="legacy">Original French course</option>
+            <option value="coach">French coach plan</option>
+          </select>
+        </div>
+        <div class="search-wrap">
           <label for="search">Search the course</label>
           <input id="search" type="search" placeholder="e.g. adjective, passé composé">
         </div>
@@ -54,6 +61,7 @@
         <noscript>This site requires JavaScript for course navigation.</noscript>
       </main>
     </div>
+    <p id="storage-warning" class="storage-warning" role="alert" hidden></p>
 
     <div class="speak-bar">
       <button id="speak-slow" class="speak-button speak-button-secondary" type="button" title="Pronounce the selection at half speed">
@@ -67,6 +75,8 @@
     <div id="backdrop" class="backdrop"></div>
 
     <script src="content.js"></script>
+    <script src="coach-content.js"></script>
+    <script src="coach.js"></script>
     <script src="app.js"></script>
   </body>
 </html>

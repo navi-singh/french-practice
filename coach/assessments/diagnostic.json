@@ -1,0 +1,202 @@
+{
+  "id": "diagnostic",
+  "title": "Four-skill starting diagnostic",
+  "kind": "diagnostic",
+  "intro": "Use this short, unofficial diagnostic to choose a useful starting point, not to estimate an official score or NCLC level. Try the first items even if you are new to French; skip nothing because of unfamiliar vocabulary. The later prompts are deliberately more demanding. Objective answers are explained after each attempt. Speaking and writing are self-assessed only. If you are starting from zero, begin with Phase 1 regardless of this result.",
+  "sections": [
+    {
+      "id": "listening",
+      "skill": "listening",
+      "title": "Listening: from familiar words to connected ideas",
+      "seconds": 360,
+      "items": [
+        {
+          "id": "diagnostic-listening-01",
+          "skill": "listening",
+          "type": "choice",
+          "title": "Recognize a greeting",
+          "prompt": "Listen without reading the script. What does the speaker say?",
+          "script": "Bonjour, je m'appelle Nadia.",
+          "options": ["Hello, my name is Nadia.", "Good evening, Nadia is here.", "Goodbye, I am Nadia.", "Please call Nadia tomorrow."],
+          "answer": 0,
+          "explanation": "« Bonjour » is hello/good day, and « je m'appelle » means “my name is.”",
+          "seconds": 45
+        },
+        {
+          "id": "diagnostic-listening-02",
+          "skill": "listening",
+          "type": "choice",
+          "title": "Catch a practical detail",
+          "prompt": "When does the appointment take place?",
+          "script": "Votre rendez-vous est jeudi à neuf heures et demie, au deuxième étage.",
+          "options": ["Thursday at 9:30 on the second floor.", "Tuesday at 9:00 on the third floor.", "Thursday at 10:30 on the first floor.", "Friday at 9:30 on the second floor."],
+          "answer": 0,
+          "explanation": "The speaker gives three details: « jeudi » (Thursday), « neuf heures et demie » (9:30), and « au deuxième étage » (on the second floor).",
+          "seconds": 60
+        },
+        {
+          "id": "diagnostic-listening-03",
+          "skill": "listening",
+          "type": "choice",
+          "title": "Infer the changed plan",
+          "prompt": "Why will the group meet online instead?",
+          "script": "On devait se retrouver au parc, mais il pleut depuis ce matin. La réunion aura donc lieu en visioconférence, à la même heure.",
+          "options": ["The weather has made the outdoor meeting impractical.", "The group has changed the meeting time.", "The park is closed for a special event.", "The speaker cannot use a computer."],
+          "answer": 0,
+          "explanation": "« Mais il pleut » signals the reason for changing the location; « à la même heure » confirms the time is unchanged.",
+          "seconds": 75
+        },
+        {
+          "id": "diagnostic-listening-04",
+          "skill": "listening",
+          "type": "choice",
+          "title": "Understand a speaker's reservation",
+          "prompt": "What is the speaker's main concern about the proposal?",
+          "script": "L'idée de partager les voitures est intéressante, surtout pour réduire les frais. Pourtant, si les horaires changent chaque semaine, il sera difficile d'organiser les trajets. Il faudrait d'abord consulter les personnes concernées.",
+          "options": ["Unpredictable schedules could make coordination difficult.", "The proposal would increase fuel prices.", "Nobody wants to share a car with colleagues.", "The speaker thinks consultation is unnecessary."],
+          "answer": 0,
+          "explanation": "The speaker likes the cost-saving idea but identifies changing schedules as a practical obstacle; consultation is proposed as a next step.",
+          "seconds": 90
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "skill": "reading",
+      "title": "Reading: from short notices to viewpoint",
+      "seconds": 360,
+      "items": [
+        {
+          "id": "diagnostic-reading-01",
+          "skill": "reading",
+          "type": "choice",
+          "title": "Read a simple notice",
+          "prompt": "What does the sign ask visitors to do?",
+          "passage": "Entrée gratuite. Merci de fermer la porte.",
+          "options": ["Close the door.", "Pay at the entrance.", "Wait outside.", "Open the window."],
+          "answer": 0,
+          "explanation": "« Merci de fermer la porte » is a polite request to close the door.",
+          "seconds": 45
+        },
+        {
+          "id": "diagnostic-reading-02",
+          "skill": "reading",
+          "type": "choice",
+          "title": "Find a schedule detail",
+          "prompt": "On which day is the library closed?",
+          "passage": "La médiathèque ouvre du mardi au samedi, de 10 h à 18 h. Elle ferme le dimanche et le lundi.",
+          "options": ["Sunday and Monday.", "Monday and Tuesday.", "Saturday and Sunday.", "Only Monday afternoon."],
+          "answer": 0,
+          "explanation": "The last sentence explicitly says the library closes on Sunday and Monday.",
+          "seconds": 60
+        },
+        {
+          "id": "diagnostic-reading-03",
+          "skill": "reading",
+          "type": "choice",
+          "title": "Follow a short message",
+          "prompt": "What should Luc do before collecting the key?",
+          "passage": "Salut Luc, le plombier a terminé. La clé est chez la voisine du 4B. Appelle-moi quand tu arrives, car elle ne sait pas à quelle heure tu passeras. Merci !",
+          "options": ["Call the sender when he arrives.", "Ask the plumber to return tomorrow.", "Leave the key with the neighbor.", "Visit apartment 4B before noon."],
+          "answer": 0,
+          "explanation": "The sender asks Luc to call on arrival so the neighbor can be ready; no time of day is specified.",
+          "seconds": 75
+        },
+        {
+          "id": "diagnostic-reading-04",
+          "skill": "reading",
+          "type": "choice",
+          "title": "Identify an author's qualification",
+          "prompt": "Which statement best represents the author's view of remote work?",
+          "passage": "Le travail à distance permet à plusieurs employés d'éviter un long trajet et de mieux organiser leur journée. Cependant, les échanges informels deviennent moins fréquents. Pour moi, il ne faut ni imposer le bureau tous les jours ni travailler chacun de son côté : une équipe devrait choisir des moments communs et garder une certaine souplesse.",
+          "options": ["It can help, but teams should balance flexibility with shared contact.", "It should replace office work in every organization.", "It has no effect on how colleagues communicate.", "It is useful only for people who live near work."],
+          "answer": 0,
+          "explanation": "The author presents benefits and a drawback, then recommends a flexible balance rather than an all-or-nothing policy.",
+          "seconds": 90
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "skill": "speaking",
+      "title": "Speaking: try a first response, then extend it",
+      "seconds": 300,
+      "items": [
+        {
+          "id": "diagnostic-speaking-01",
+          "skill": "speaking",
+          "type": "production",
+          "title": "Introduce yourself",
+          "prompt": "In French, say your name and one place or activity you like. If you are a beginner, use any words you know, then try the model aloud.",
+          "seconds": 45,
+          "model": "Bonjour, je m'appelle Alex. J'habite à Calgary et j'aime marcher dans les parcs.",
+          "rubric": ["I produced at least one understandable French sentence.", "I included a personal detail.", "I tried a French sound or phrase without requiring a perfect accent."]
+        },
+        {
+          "id": "diagnostic-speaking-02",
+          "skill": "speaking",
+          "type": "production",
+          "title": "Ask for information",
+          "prompt": "You are at a community center. Ask an employee what time the French conversation group begins and where it meets. Speak for about 20–30 seconds, including a polite greeting.",
+          "seconds": 60,
+          "model": "Bonjour, je voudrais participer au groupe de conversation en français. À quelle heure commence-t-il et dans quelle salle se réunit-il ? Merci beaucoup.",
+          "rubric": ["I greeted the person politely.", "I asked both the start time and the location.", "My request was organized and understandable."]
+        },
+        {
+          "id": "diagnostic-speaking-03",
+          "skill": "speaking",
+          "type": "production",
+          "title": "Give a reasoned preference",
+          "prompt": "Would you rather commute by public transport or by bicycle? State your preference, give two reasons, and mention one limitation or alternative. Speak for about 60 seconds.",
+          "seconds": 90,
+          "model": "Je préfère prendre les transports en commun, surtout en hiver. Je peux lire pendant le trajet et je n'ai pas besoin de chercher une place pour me garer. En revanche, les retards sont parfois gênants. Si la météo est agréable et que la distance reste raisonnable, le vélo est une bonne solution.",
+          "rubric": ["I stated a clear position.", "I supported it with reasons and at least one relevant example or qualification.", "I connected ideas rather than listing isolated words.", "I continued speaking even when I had to reformulate."]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "skill": "writing",
+      "title": "Writing: write a message, then develop an opinion",
+      "seconds": 360,
+      "items": [
+        {
+          "id": "diagnostic-writing-01",
+          "skill": "writing",
+          "type": "production",
+          "title": "Write a short personal message",
+          "prompt": "Write two or three French sentences to a new classmate. Introduce yourself and suggest one simple activity together. A beginner may write any French words they know and then compare with the model.",
+          "seconds": 60,
+          "minWords": 10,
+          "maxWords": 45,
+          "model": "Bonjour, je m'appelle Sam et j'apprends le français depuis peu. J'aime les promenades. Est-ce que tu voudrais prendre un café après le cours vendredi ?",
+          "rubric": ["I wrote a greeting and introduced myself.", "I made a clear invitation.", "The reader can understand the basic message."]
+        },
+        {
+          "id": "diagnostic-writing-02",
+          "skill": "writing",
+          "type": "production",
+          "title": "Explain a small problem",
+          "prompt": "Write a brief note to a building manager: the elevator has stopped working, you live on the fifth floor, and you would like to know when it will be repaired. Use a polite tone.",
+          "seconds": 90,
+          "minWords": 25,
+          "maxWords": 70,
+          "model": "Bonjour, l'ascenseur de l'immeuble ne fonctionne plus depuis ce matin. J'habite au cinquième étage et cette situation est difficile pour moi. Pourriez-vous m'indiquer quand la réparation est prévue ? Merci d'avance pour votre aide.",
+          "rubric": ["I described the problem and included the relevant detail.", "I asked for the information I need.", "I used a courteous opening or closing."]
+        },
+        {
+          "id": "diagnostic-writing-03",
+          "skill": "writing",
+          "type": "production",
+          "title": "Support a viewpoint",
+          "prompt": "Some people prefer to learn a skill in a group; others prefer to learn alone. State your view, give two reasons, and include an example. Write a connected paragraph.",
+          "seconds": 150,
+          "minWords": 60,
+          "maxWords": 110,
+          "model": "Je préfère apprendre en petit groupe. D'abord, les autres participants peuvent poser des questions auxquelles je n'aurais pas pensé. Ensuite, on peut comparer différentes façons de résoudre un problème. Par exemple, dans un cours de cuisine, chacun peut expliquer une technique familiale. Il faut toutefois du temps pour pratiquer seul, car on n'avance pas toujours au même rythme. À mon avis, le meilleur choix dépend donc de la matière, mais le groupe rend souvent l'apprentissage plus vivant.",
+          "rubric": ["I stated a position that answers the prompt.", "I explained reasons with a concrete example.", "I organized related ideas with clear links.", "I checked that the message is readable and on topic."]
+        }
+      ]
+    }
+  ]
+}

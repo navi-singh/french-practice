@@ -1,10 +1,12 @@
-const CACHE = "french-practice-v8";
+const CACHE = "french-practice-v9";
 const ASSETS = [
   "./",
   "index.html",
   "styles.css",
   "app.js",
   "content.js",
+  "coach-content.js",
+  "coach.js",
   "manifest.webmanifest"
 ];
 
@@ -16,7 +18,8 @@ self.addEventListener("install", (event) => {
 self.addEventListener("activate", (event) => {
   event.waitUntil(
     caches.keys().then((keys) =>
-      Promise.all(keys.filter((key) => key !== CACHE).map((key) => caches.delete(key)))
+      Promise.all(keys.filter((key) => key.startsWith("french-practice-") && key !== CACHE)
+        .map((key) => caches.delete(key)))
     )
   );
   self.clients.claim();

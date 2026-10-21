@@ -4,6 +4,7 @@ import json
 import re
 from pathlib import Path
 
+from build_coach import write_coach
 
 ROOT = Path(__file__).parent
 OUTPUT = ROOT / "docs"
@@ -280,6 +281,7 @@ def main():
         f"Generated {len(chapters)} chapters and "
         f"{sum(len(chapter['documents']) for chapter in chapters)} documents."
     )
+    write_coach(ROOT, OUTPUT, markdown_to_html)
 
 
 if __name__ == "__main__":

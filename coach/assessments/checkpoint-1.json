@@ -1,0 +1,133 @@
+{
+  "id": "checkpoint-1",
+  "title": "Checkpoint 1 — Foundations",
+  "kind": "checkpoint",
+  "phase": 1,
+  "intro": "An unofficial cumulative check for Chapters 1–4. Start with what you can do now; French spelling, accents, and gender are not a reason to abandon a message you understand. Objective items explain their answers. Use the speaking and writing rubrics for self-review, not as an official level.",
+  "sections": [
+    {
+      "id": "listening",
+      "skill": "listening",
+      "title": "Listening: identity and routine",
+      "seconds": 300,
+      "items": [
+        {
+          "id": "checkpoint1-listening-01",
+          "skill": "listening",
+          "type": "choice",
+          "title": "Understand a brief introduction",
+          "prompt": "Which activity does Amine do on Saturday?",
+          "script": "Bonjour, je m'appelle Amine. Je travaille dans un hôtel et j'habite près du centre. Le samedi, je fais du vélo avec ma sœur; le dimanche, je prépare les repas de la semaine.",
+          "options": ["He cycles with his sister.", "He works at a hotel.", "He cooks with his sister.", "He walks to the city center."],
+          "answer": 0,
+          "explanation": "The weekend contrast is explicit: « Le samedi, je fais du vélo avec ma sœur »; meal preparation happens on Sunday.",
+          "seconds": 75
+        },
+        {
+          "id": "checkpoint1-listening-02",
+          "skill": "listening",
+          "type": "choice",
+          "title": "Notice a correction",
+          "prompt": "Where will the two people meet?",
+          "script": "Tu veux me retrouver devant le cinéma ? Non, il est fermé aujourd'hui. Attendons plutôt près de la boulangerie, à côté de l'arrêt de bus.",
+          "options": ["By the bakery beside the bus stop.", "In front of the cinema.", "Inside the bus station.", "At the bakery across from the cinema."],
+          "answer": 0,
+          "explanation": "The speaker rejects the cinema and proposes the bakery next to the bus stop; the final location replaces the first suggestion.",
+          "seconds": 75
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "skill": "reading",
+      "title": "Reading: short practical messages",
+      "seconds": 300,
+      "items": [
+        {
+          "id": "checkpoint1-reading-01",
+          "skill": "reading",
+          "type": "choice",
+          "title": "Read a class announcement",
+          "prompt": "What should learners bring?",
+          "passage": "Cours de français — mardi, 18 h. La salle change cette semaine : rendez-vous dans la salle 204. Apportez votre cahier, mais les dictionnaires seront fournis.",
+          "options": ["A notebook.", "A dictionary.", "A library card.", "A printed ticket."],
+          "answer": 0,
+          "explanation": "Learners are asked to bring a notebook; dictionaries will be provided.",
+          "seconds": 60
+        },
+        {
+          "id": "checkpoint1-reading-02",
+          "skill": "reading",
+          "type": "choice",
+          "title": "Follow an invitation",
+          "prompt": "Why does Élodie ask Marc to arrive early?",
+          "passage": "Salut Marc, le film commence à 19 h 30. Si tu peux arriver vers 19 h, on aura le temps d'acheter les billets et de choisir nos places. Je t'attends devant l'entrée principale.",
+          "options": ["So they can buy tickets and choose seats.", "Because the film ends at 19 h.", "So Marc can meet the director.", "Because the entrance closes at 19 h."],
+          "answer": 0,
+          "explanation": "The message gives two reasons to arrive around 19 h: buy tickets and choose seats before the 19 h 30 film.",
+          "seconds": 75
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "skill": "speaking",
+      "title": "Speaking: simple personal exchange",
+      "seconds": 240,
+      "items": [
+        {
+          "id": "checkpoint1-speaking-01",
+          "skill": "speaking",
+          "type": "production",
+          "title": "Describe a typical weekday",
+          "prompt": "Speak for 30–45 seconds about one weekday. Say when you start your day, one thing you do, and something you enjoy. Use short phrases if needed.",
+          "seconds": 45,
+          "model": "En semaine, je me lève vers sept heures. Je prends le bus pour aller au travail et je déjeune avec mes collègues. Le soir, j'aime cuisiner quelque chose de simple.",
+          "rubric": ["I used at least two understandable present-tense actions.", "I included a time or sequence word.", "I added a personal preference."]
+        },
+        {
+          "id": "checkpoint1-speaking-02",
+          "skill": "speaking",
+          "type": "production",
+          "title": "Ask a polite question",
+          "prompt": "At a local library, ask whether you can borrow a book and when it must be returned. Speak politely and add a short thank-you.",
+          "seconds": 60,
+          "model": "Bonjour, est-ce que je peux emprunter ce livre ? Pourriez-vous me dire à quelle date je dois le rapporter ? Merci beaucoup.",
+          "rubric": ["I made a clear request.", "I asked about the return date.", "My tone was courteous and understandable."]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "skill": "writing",
+      "title": "Writing: an everyday note",
+      "seconds": 300,
+      "items": [
+        {
+          "id": "checkpoint1-writing-01",
+          "skill": "writing",
+          "type": "production",
+          "title": "Introduce yourself to a class",
+          "prompt": "Write a short post for a new language-class message board. Give your first name, say where you live, and mention one reason for learning French.",
+          "seconds": 150,
+          "minWords": 25,
+          "maxWords": 60,
+          "model": "Bonjour à tous ! Je m'appelle Lina et j'habite à Ottawa. J'apprends le français parce que j'aime découvrir de nouvelles cultures et je voudrais parler avec plus de personnes dans ma ville. Je suis contente de rejoindre ce cours.",
+          "rubric": ["I included the requested personal details.", "I gave a clear reason for learning.", "My sentences form a friendly, readable message."]
+        },
+        {
+          "id": "checkpoint1-writing-02",
+          "skill": "writing",
+          "type": "production",
+          "title": "Confirm a plan",
+          "prompt": "Write to a friend to confirm that you will meet at 16:00 at the entrance of the central library. Add one question about what to bring.",
+          "seconds": 120,
+          "minWords": 20,
+          "maxWords": 55,
+          "model": "Salut Maya, je confirme notre rendez-vous à 16 h devant l'entrée de la bibliothèque centrale. Est-ce que tu veux que j'apporte les documents du cours ? À tout à l'heure !",
+          "rubric": ["I confirmed the correct time and place.", "I asked what to bring.", "The tone suits a message to a friend."]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "id": "checkpoint-6",
+  "title": "Checkpoint 6 — TCF production focus",
+  "kind": "checkpoint",
+  "phase": 6,
+  "intro": "A cumulative four-skill review for Chapters 21–24 and earlier phases. This is a bridge to the three original mocks, not a readiness certificate. Use a fresh response, follow the task instructions, and identify one next practice step for each skill. All results remain unofficial and uncalibrated.",
+  "sections": [
+    {
+      "id": "listening",
+      "skill": "listening",
+      "title": "Listening: follow a short public discussion",
+      "seconds": 300,
+      "items": [
+        {
+          "id": "checkpoint6-listening-01",
+          "skill": "listening",
+          "type": "choice",
+          "title": "Understand a public announcement",
+          "prompt": "What is the final instruction for visitors?",
+          "script": "Le musée ferme exceptionnellement à dix-sept heures aujourd'hui. Les personnes qui ont réservé une visite guidée à seize heures doivent se présenter à l'accueil dix minutes à l'avance. L'exposition temporaire reste ouverte, mais l'aile nord sera inaccessible.",
+          "options": ["Arrive at reception at 15:50 for the 16:00 tour.", "Visit the north wing before 17:00.", "Arrive at 16:10 for the tour.", "Assume the temporary exhibition is closed."],
+          "answer": 0,
+          "explanation": "A 16:00 guided-tour reservation requires arrival ten minutes earlier, at 15:50. The north wing, not the temporary exhibition, is inaccessible.",
+          "seconds": 75
+        },
+        {
+          "id": "checkpoint6-listening-02",
+          "skill": "listening",
+          "type": "choice",
+          "title": "Summarize a qualified opinion",
+          "prompt": "What approach does the speaker favor for public gardens?",
+          "script": "On présente souvent les jardins collectifs comme une réponse au manque d'espaces verts. Ils ne peuvent pas remplacer un grand parc, et leur entretien exige du temps. Mais, lorsqu'ils sont conçus avec les habitants, ils créent des lieux de rencontre et donnent aux enfants l'occasion d'observer la nature. Il faut donc les considérer comme un complément, pas comme une solution unique.",
+          "options": ["Develop them as a useful complement to larger green spaces.", "Use them instead of every city park.", "Avoid them because they have no social value.", "Create them without consulting residents."],
+          "answer": 0,
+          "explanation": "The speaker recognizes limits but values locally designed gardens as a complement to—not a replacement for—larger parks.",
+          "seconds": 90
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "skill": "reading",
+      "title": "Reading: identify evidence and limits",
+      "seconds": 300,
+      "items": [
+        {
+          "id": "checkpoint6-reading-01",
+          "skill": "reading",
+          "type": "choice",
+          "title": "Read a project report",
+          "prompt": "What is the report's main conclusion?",
+          "passage": "Après six mois, le service de prêt d'outils compte 180 membres. Les demandes sont surtout nombreuses pour les perceuses et le matériel de jardinage. Le rapport précise toutefois que les données portent uniquement sur les personnes inscrites; elles ne disent pas combien de résidents ignorent encore l'existence du service. L'équipe propose de prolonger l'essai et d'améliorer la communication dans les quartiers voisins.",
+          "options": ["The service is being used, but its reach beyond members is still unknown.", "Every resident has borrowed an item.", "The service should end because garden tools are unpopular.", "The report proves that publicity is unnecessary."],
+          "answer": 0,
+          "explanation": "The data describe registered users only; the report cannot tell how many other residents know about the service, so it proposes continued testing and outreach.",
+          "seconds": 90
+        },
+        {
+          "id": "checkpoint6-reading-02",
+          "skill": "reading",
+          "type": "choice",
+          "title": "Compare two viewpoints",
+          "prompt": "What do both writers agree on?",
+          "passage": "Mina estime que les cours du soir facilitent l'accès à la formation pour les personnes qui travaillent. Elle reconnaît que le retour tardif peut être fatigant. Paul préfère les cours à distance, qui évitent les déplacements, mais il regrette le manque d'échanges spontanés. Tous deux pensent que le format devrait tenir compte des contraintes personnelles plutôt que d'être imposé uniformément.",
+          "options": ["Learners' circumstances should influence the format.", "Evening classes are never tiring.", "Online courses provide more spontaneous discussion.", "Every learner should use the same format."],
+          "answer": 0,
+          "explanation": "Although Mina and Paul favor different formats and note different drawbacks, both reject a one-size-fits-all requirement.",
+          "seconds": 90
+        }
+      ]
+    },
+    {
+      "id": "speaking",
+      "skill": "speaking",
+      "title": "Speaking: interaction and sustained response",
+      "seconds": 720,
+      "items": [
+        {
+          "id": "checkpoint6-speaking-01",
+          "skill": "speaking",
+          "type": "production",
+          "title": "Personal introduction",
+          "prompt": "Give a brief introduction about your daily life, interests, and one reason you are learning French. Aim for about two minutes without reading the model. This practice window is not a live examiner interaction.",
+          "seconds": 120,
+          "model": "Bonjour, je m'appelle Camille et j'habite à Edmonton. Je travaille dans le domaine des services et j'aime passer du temps dehors, surtout faire de la randonnée quand il fait beau. J'apprends le français parce que je voudrais communiquer avec plus de personnes et découvrir la culture francophone au Canada. En semaine, j'étudie un peu chaque jour : j'écoute un dialogue pendant mon trajet et j'écris quelques phrases le soir. Ce qui me paraît le plus difficile, c'est de comprendre les mots quand les gens parlent rapidement. J'essaie donc de repérer l'idée générale avant de chercher chaque détail. À long terme, j'aimerais pouvoir voyager et participer plus facilement à des activités en français.",
+          "rubric": ["I answered with relevant personal information rather than a memorized list alone.", "I organized several points with transitions.", "I elaborated with examples or reasons.", "I kept going or reformulated when a word was difficult."]
+        },
+        {
+          "id": "checkpoint6-speaking-02",
+          "skill": "speaking",
+          "type": "production",
+          "title": "Sustain an opinion",
+          "prompt": "Should local governments make public transit free on weekends? Give a position, develop reasons and an example, acknowledge a drawback, and conclude. Speak for about three minutes. Use the full timer if helpful; this is a solo simulation.",
+          "seconds": 180,
+          "model": "À mon avis, rendre les transports en commun gratuits le week-end peut être utile, surtout pour les familles et les personnes qui travaillent à temps partiel. Une telle mesure pourrait encourager les habitants à visiter différents quartiers sans prendre leur voiture. Par exemple, un marché ou un musée devient plus accessible quand le prix du billet ne s'ajoute pas au coût de la sortie. Cependant, la gratuité a un coût pour la collectivité et pourrait entraîner davantage de demandes à certaines heures. Avant de la mettre en place partout, la ville pourrait faire un essai pendant quelques mois sur des lignes fréquentées, puis mesurer la fréquentation et la qualité du service. Je soutiens donc un projet limité et évalué, plutôt qu'une promesse générale sans financement clair.",
+          "rubric": ["I stated and maintained a position.", "I supported it with reasons and a relevant example.", "I acknowledged a limitation and responded to it.", "My conclusion follows from the argument."]
+        },
+        {
+          "id": "checkpoint6-speaking-03",
+          "skill": "speaking",
+          "type": "production",
+          "title": "Ask follow-up questions in a role-play",
+          "prompt": "A community center is offering a weekend cooking workshop. Ask the organizer about the date, cost, ingredients, and whether a beginner can join. Respond with a brief follow-up to the imagined answer. Aim for a natural exchange.",
+          "seconds": 120,
+          "prepSeconds": 30,
+          "model": "Bonjour, je voudrais me renseigner sur l'atelier de cuisine du week-end. À quelle date aura-t-il lieu et combien coûte l'inscription ? Est-ce que les ingrédients sont compris dans le prix ? Je débute en cuisine; est-ce que l'atelier convient quand même aux personnes qui n'ont pas beaucoup d'expérience ? Ah, il faut apporter un tablier ? Très bien, merci, je vais vérifier mon agenda et je vous rappellerai.",
+          "rubric": ["I asked for the key information in a clear sequence.", "I adapted with at least one plausible follow-up.", "I used courteous language and a suitable closing."]
+        }
+      ]
+    },
+    {
+      "id": "writing",
+      "skill": "writing",
+      "title": "Writing: task fulfilment and synthesis",
+      "seconds": 3600,
+      "items": [
+        {
+          "id": "checkpoint6-writing-01",
+          "skill": "writing",
+          "type": "production",
+          "title": "Write a practical account",
+          "prompt": "Write to a friend about helping at a local event for the first time. Explain what you did, one difficulty, what you learned, and whether you would do it again. This is a cumulative practice task, not an official score simulation.",
+          "seconds": 900,
+          "minWords": 80,
+          "maxWords": 125,
+          "model": "Salut Rania, samedi dernier, j'ai aidé à organiser une collecte de livres dans le quartier. Je devais accueillir les visiteurs et trier les dons par catégorie. Au début, c'était difficile parce que plusieurs personnes arrivaient en même temps et les boîtes n'étaient pas étiquetées. Une bénévole m'a montré une méthode simple, puis nous avons installé des panneaux pour guider tout le monde. À la fin, nous avions rempli une grande partie de la salle. J'ai compris qu'une bonne organisation facilite le travail de toute l'équipe. Je participerais volontiers à une autre activité, surtout si je peux aider à préparer les affiches. Tu devrais venir la prochaine fois !",
+          "rubric": ["I fulfilled each requested point.", "The sequence of events is clear.", "I used details to explain the difficulty and lesson.", "The message suits its reader."]
+        },
+        {
+          "id": "checkpoint6-writing-02",
+          "skill": "writing",
+          "type": "production",
+          "title": "Present two views and take a position",
+          "prompt": "A local newsletter is discussing whether cities should create more shared workspaces. Write 120–180 words. First summarize these views in 40–60 words: one resident says shared spaces reduce isolation and help people exchange ideas; another says they can be noisy and cost public money. Then give your own position in 80–120 words, with reasons and an example.",
+          "seconds": 1500,
+          "minWords": 120,
+          "maxWords": 180,
+          "model": "Deux habitants ont des avis différents sur les espaces de travail partagés. Le premier pense qu'ils réduisent l'isolement et favorisent les échanges. Le second craint le bruit et estime que leur financement représente une dépense publique importante.\n\nÀ mon avis, ces espaces peuvent être utiles s'ils répondent à un besoin réel. Une personne qui travaille seule à la maison peut y rencontrer des collègues et accéder à une connexion fiable. Par exemple, une salle municipale peu utilisée pourrait accueillir quelques tables et un espace silencieux à coût limité. Il faut toutefois consulter les résidents et mesurer la fréquentation avant d'investir davantage. Si le lieu reste vide ou perturbe les activités voisines, la ville devra le modifier. Je préfère donc un projet pilote bien évalué à une ouverture immédiate dans chaque quartier.",
+          "rubric": ["The first part accurately presents both supplied views in the requested range.", "The second part states a distinct personal position.", "Reasons, an example, and a qualification support the position.", "The two parts are clearly separated and within the total range."]
+        },
+        {
+          "id": "checkpoint6-writing-03",
+          "skill": "writing",
+          "type": "production",
+          "title": "Make a reasoned recommendation",
+          "prompt": "Your workplace is considering either a shared quiet room or a weekly social lunch. Recommend one first step, explain why it fits the team's needs, address a possible objection, and suggest how to evaluate the result.",
+          "seconds": 1200,
+          "minWords": 90,
+          "maxWords": 145,
+          "model": "Je commencerais par aménager une petite salle calme, car plusieurs collègues ont indiqué qu'ils manquaient d'un endroit pour se concentrer. Un déjeuner hebdomadaire pourrait renforcer les relations, mais il ne conviendrait pas à ceux qui ont des horaires différents. La salle serait accessible à tous, à condition d'établir des règles simples pour éviter les appels bruyants. Nous pourrions la tester pendant six semaines et demander ensuite si elle est utilisée et si elle améliore le confort au travail. Si peu de personnes en profitent, l'équipe pourra essayer un autre projet. Cette démarche permet de répondre à un besoin concret sans exclure l'idée d'activités sociales plus tard.",
+          "rubric": ["I made a clear recommendation and explained why it suits the team.", "I addressed one reasonable objection.", "I proposed a way to evaluate the result.", "The message is organized, relevant, and appropriately toned."]
+        }
+      ]
+    }
+  ]
+}

@@ -103,6 +103,38 @@ Record chapter status in [`progress-tracker.csv`](progress-tracker.csv).
 
 ## Mobile website
 
+### French coach plan
+
+The website offers two separate **Learning track** options: the original course
+below and **French coach plan**, a beginner-to-TCF Canada route targeting NCLC 7
+in all four skills. The coach track does not replace or renumber the original
+chapters, and its local progress is stored separately.
+
+Open **French coach plan -> Start here** for the adjustable daily study plan.
+The track includes 24 chapters in six phases, 2,432 distinct sentence-bank
+items, a diagnostic, six checkpoints, and three original unofficial full-format
+practice sets. Each chapter has **Learn & review**, a **100/102-sentence bank**,
+and **Four-skill practice** tabs. Bank modes include English-to-French recall,
+listening before reading, comprehension, and oral responses.
+
+Listening uses synthetic device speech, not recordings of real TCF speakers.
+Exam mode fixes playback at normal speed and limits successful plays; learning
+mode permits replay, slower audio, and transcript disclosure. Timed practice,
+writing word counts, models, and self-check rubrics support solo study but do
+not predict an official NCLC score. Only an official examination establishes
+your results.
+
+Optional microphone recording begins only after you request it. Recordings stay
+in browser memory for the current activity/attempt and can be played, downloaded,
+or deleted; navigation clears them. Progress, attempts, and the error log are
+stored on this device, not synchronized or uploaded. Use **Progress & error log**
+to export your records or explicitly reset only the coach track.
+
+Author coach lessons and banks in `coach/chapters/*.json`, assessments in
+`coach/assessments/*.json`, and the study plan in `coach/orientation.md`.
+`python3 build_site.py` validates both tracks and regenerates `docs/content.js`
+and `docs/coach-content.js`; do not edit those generated files by hand.
+
 The generated website is in [`docs/`](docs/) and is ready for GitHub Pages. It includes:
 
 - responsive chapter and document navigation;
