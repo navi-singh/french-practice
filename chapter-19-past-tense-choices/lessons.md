@@ -4,55 +4,55 @@
 
 Take the present nous form, remove -ons, and add -ais, -ais, -ait, -ions, -iez, -aient. This works even with many irregular present verbs: nous prenons gives pren-, nous faisons gives fais-, nous buvons gives buv-. Être is exceptional: use ét-.
 
-| Verb | Full imparfait model |
-| --- | --- |
-| parler | `je parlais, tu parlais, elle parlait, nous parlions, vous parliez, ils parlaient` |
-| finir | `je finissais, tu finissais, il finissait, nous finissions, vous finissiez, elles finissaient` |
-| être | `j'étais, tu étais, elle était, nous étions, vous étiez, ils étaient` |
+| Verb | je | tu | il/elle | nous | vous | ils/elles |
+| --- | --- | --- | --- | --- | --- | --- |
+| parler | `je parlais` (I was speaking / used to speak) | `tu parlais` (you were speaking / used to speak) | `elle parlait` (she was speaking / used to speak) | `nous parlions` (we were speaking / used to speak) | `vous parliez` (you were speaking / used to speak) | `ils parlaient` (they were speaking / used to speak) |
+| finir | `je finissais` (I was finishing / used to finish) | `tu finissais` (you were finishing / used to finish) | `il finissait` (he was finishing / used to finish) | `nous finissions` (we were finishing / used to finish) | `vous finissiez` (you were finishing / used to finish) | `elles finissaient` (they were finishing / used to finish) |
+| être | `j'étais` (I was) | `tu étais` (you were) | `elle était` (she was) | `nous étions` (we were) | `vous étiez` (you were) | `ils étaient` (they were) |
 
-Preserve soft g/c before a: `je mangeais`, `je commençais`; but `nous mangions`, `nous commencions` need no extra e or ç. Keep both i letters when the stem already ends in i: `nous étudiions`, `vous étudiiez`. Do not use the ils stem: finir requires finiss-, but prendre uses pren-, not prenn-.
+Preserve soft g/c before a: `je mangeais` (I was eating / used to eat), `je commençais` (I was starting / used to start); but `nous mangions` (we were eating / used to eat), `nous commencions` (we were starting / used to start) need no extra e or ç. Keep both i letters when the stem already ends in i: `nous étudiions` (we were studying / used to study), `vous étudiiez` (you were studying / used to study). Do not use the ils stem: finir requires finiss-, but prendre uses pren-, not prenn-.
 
 ### Formation checkpoint
 
 Give the imparfait: je + faire; nous + étudier; elle + commencer; vous + être.
 
 :::answer
-`Je faisais.` uses the nous faisons stem. `Nous étudiions.` keeps stem i plus ending -ions. `Elle commençait.` preserves soft c. `Vous étiez.` uses exceptional ét-.
+`Je faisais.` (I was doing.) uses the nous faisons stem. `Nous étudiions.` (We were studying.) keeps stem i plus ending -ions. `Elle commençait.` (She was starting.) preserves soft c. `Vous étiez.` (You were.) uses exceptional ét-.
 :::
 
 ## Unit 2: Background, habit, and viewpoint
 
-Use imparfait for a past scene, age, weather, state, repeated custom, or action viewed from inside with no boundary asserted: `Il faisait froid.` `Nous allions à l'école à pied.` `Je lisais quand elle est entrée.` The reading is the ongoing frame; the entrance is a completed event.
+Use imparfait for a past scene, age, weather, state, repeated custom, or action viewed from inside with no boundary asserted: `Il faisait froid.` (It was cold.) `Nous allions à l'école à pied.` (We used to walk to school.) `Je lisais quand elle est entrée.` (I was reading when she came in.) The reading is the ongoing frame; the entrance is a completed event.
 
-Passé composé uses present avoir/être + participle: `j'ai parlé`, `elle est venue`. It presents a bounded event, a change, a countable repetition, or a whole completed duration. `J'ai habité à Lyon pendant cinq ans.` is correct: the five-year period is viewed as finished. Compare `J'habitais à Lyon quand je l'ai rencontré.` The residence now supplies background, with no endpoint in view.
+Passé composé uses present avoir/être + participle: `j'ai parlé` (I spoke), `elle est venue` (she came). It presents a bounded event, a change, a countable repetition, or a whole completed duration. `J'ai habité à Lyon pendant cinq ans.` (I lived in Lyon for five years.) is correct: the five-year period is viewed as finished. Compare `J'habitais à Lyon quand je l'ai rencontré.` (I was living in Lyon when I met him.) The residence now supplies background, with no endpoint in view.
 
-“Always” and “often” are clues, not automatic rules. `Il téléphonait souvent.` describes a habit. `Il a téléphoné trois fois.` counts completed calls. Even a short event can be background, and a long activity can be bounded. Ask what the narrator foregrounds, not how many minutes it lasted.
+“Always” and “often” are clues, not automatic rules. `Il téléphonait souvent.` (He used to call often.) describes a habit. `Il a téléphoné trois fois.` (He called three times.) counts completed calls. Even a short event can be background, and a long activity can be bounded. Ask what the narrator foregrounds, not how many minutes it lasted.
 
-Some verbs change interpretation with viewpoint: `Je savais la réponse.` describes knowledge; `J'ai su la réponse hier.` presents finding out. `Je pouvais partir.` describes an available possibility; `J'ai pu partir.` generally presents a realized opportunity, “I managed to leave.”
+Some verbs change interpretation with viewpoint: `Je savais la réponse.` (I knew the answer.) describes knowledge; `J'ai su la réponse hier.` (I found out the answer yesterday.) presents finding out. `Je pouvais partir.` (I could leave.) describes an available possibility; `J'ai pu partir.` generally presents a realized opportunity, “I managed to leave.”
 
 ### Viewpoint checkpoint
 
 Choose the past forms: (1) It was raining when the bus arrived; (2) we waited for an hour and then left; (3) every summer, she stayed with her aunt.
 
 :::answer
-1. `Il pleuvait quand le bus est arrivé.` — weather background, arrival event.
-2. `Nous avons attendu pendant une heure, puis nous sommes partis.` — bounded wait and departure, despite duration; mixed group.
-3. `Chaque été, elle restait chez sa tante.` — recurring past custom.
+1. `Il pleuvait quand le bus est arrivé.` (It was raining when the bus arrived.) — weather background, arrival event.
+2. `Nous avons attendu pendant une heure, puis nous sommes partis.` (We waited for an hour, then we left.) — bounded wait and departure, despite duration; mixed group.
+3. `Chaque été, elle restait chez sa tante.` (Every summer, she used to stay at her aunt's.) — recurring past custom.
 :::
 
 ## Unit 3: An event before another past event
 
 The plus-que-parfait looks back from a past reference point. Form it with imparfait avoir or être + the same past participle used in passé composé.
 
-- Avoir: `j'avais fini, tu avais fini, il avait fini, nous avions fini, vous aviez fini, elles avaient fini`.
-- Être: `j'étais parti, tu étais parti, il était parti, nous étions partis, vous étiez partis, ils étaient partis` (masculine models).
-- Pronominal: `Elle s'était levée.` The pronoun stays before the auxiliary.
+- Avoir: `j'avais fini, tu avais fini, il avait fini, nous avions fini, vous aviez fini, elles avaient fini` (I had finished, you had finished, he had finished, we had finished, you had finished, they had finished).
+- Être: `j'étais parti, tu étais parti, il était parti, nous étions partis, vous étiez partis, ils étaient partis` (I had left, you had left, he had left, we had left, you had left, they had left) (masculine models).
+- Pronominal: `Elle s'était levée.` (She had got up.) The pronoun stays before the auxiliary.
 
-Auxiliary choice and agreement do not change: `Elles étaient arrivées.`; `Les lettres que j'avais écrites.`; `Elle s'était lavé les mains.` With avoir, no agreement with the subject; agreement normally follows a preceding direct object. With pronominal verbs, determine whether se is direct or indirect.
+Auxiliary choice and agreement do not change: `Elles étaient arrivées.` (They had arrived.); `Les lettres que j'avais écrites.` (The letters that I had written.); `Elle s'était lavé les mains.` (She had washed her hands.) With avoir, no agreement with the subject; agreement normally follows a preceding direct object. With pronominal verbs, determine whether se is direct or indirect.
 
-`Quand je suis arrivé, le train était déjà parti.` The train's departure happened before my arrival. “Already,” “before that,” and a later past consequence often make the ordering explicit. Do not use plus-que-parfait for every old event: `J'ai fermé la porte, puis je suis parti.` simply advances the story in order.
+`Quand je suis arrivé, le train était déjà parti.` (When I arrived, the train had already left.) The train's departure happened before my arrival. “Already,” “before that,” and a later past consequence often make the ordering explicit. Do not use plus-que-parfait for every old event: `J'ai fermé la porte, puis je suis parti.` (I closed the door, then I left.) simply advances the story in order.
 
-Negation encloses the auxiliary: `Je n'avais pas compris.` Questions: `Est-ce qu'elle était partie ?` Plus-que-parfait can occur beside an imparfait reference too: `J'étais inquiet parce qu'il n'avait pas appelé.`
+Negation encloses the auxiliary: `Je n'avais pas compris.` (I had not understood.) Questions: `Est-ce qu'elle était partie ?` (Had she left?) Plus-que-parfait can occur beside an imparfait reference too: `J'étais inquiet parce qu'il n'avait pas appelé.` (I was worried because he had not called.)
 
 ### Sequencing checkpoint
 
@@ -61,14 +61,14 @@ Negation encloses the auxiliary: `Je n'avais pas compris.` Questions: `Est-ce qu
 3. Make “They (female) had got up” negative.
 
 :::answer
-1. `Quand elle est arrivée, nous avions déjà mangé.` — eating preceded the arrival.
-2. `J'ai ouvert la fenêtre, puis je me suis assis.` — male narrator; the sequence moves forward, so passé composé is enough.
-3. `Elles ne s'étaient pas levées.` — ne…pas surrounds the imparfait auxiliary, and levées agrees with the reflexive direct object.
+1. `Quand elle est arrivée, nous avions déjà mangé.` (When she arrived, we had already eaten.) — eating preceded the arrival.
+2. `J'ai ouvert la fenêtre, puis je me suis assis.` (I opened the window, then I sat down.) — male narrator; the sequence moves forward, so passé composé is enough.
+3. `Elles ne s'étaient pas levées.` (They had not got up.) — ne…pas surrounds the imparfait auxiliary, and levées agrees with the reflexive direct object.
 :::
 
 ## Unit 4: Read the paragraph as a timeline
 
-First identify the reference event. Add its scene with imparfait. Use plus-que-parfait only for a backward step. `La rue était calme. J'ai frappé à la porte. Paul était déjà sorti.` Calm describes the scene; knocking advances the narrative; Paul's departure precedes the knock. These choices express relationships, not a simple English-to-French substitution.
+First identify the reference event. Add its scene with imparfait. Use plus-que-parfait only for a backward step. `La rue était calme. J'ai frappé à la porte. Paul était déjà sorti.` (The street was quiet. I knocked on the door. Paul had already gone out.) Calm describes the scene; knocking advances the narrative; Paul's departure precedes the knock. These choices express relationships, not a simple English-to-French substitution.
 
 ## English-to-French Translation Practice (100 Sentences)
 

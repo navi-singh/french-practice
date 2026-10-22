@@ -4,18 +4,14 @@
 
 The passé composé presents an event as a completed whole, or a bounded series of events. It can translate “I did,” “I have done,” or a past event in a story. A word like yesterday helps locate an event, but the speaker's viewpoint matters: yesterday can also contain background in the imparfait.
 
-Use the present of avoir or être + a past participle. Avoir: `j'ai, tu as, il a, nous avons, vous avez, elles ont`. Être: `je suis, tu es, elle est, nous sommes, vous êtes, ils sont`.
+Use the present of avoir or être + a past participle. Avoir: `j'ai, tu as, il a, nous avons, vous avez, elles ont` (I have, you have, he has, we have, you have, they have). Être: `je suis, tu es, elle est, nous sommes, vous êtes, ils sont` (I am, you are, she is, we are, you are, they are).
 
-Regular participles: -er becomes -é (`parler → parlé`), regular -ir becomes -i (`finir → fini`), and many regular -re verbs become -u (`vendre → vendu`). The participle does not change with the grammatical person.
+Regular participles: -er becomes -é (`parler → parlé` (to speak → spoken)), regular -ir becomes -i (`finir → fini` (to finish → finished)), and many regular -re verbs become -u (`vendre → vendu` (to sell → sold)). The participle does not change with the grammatical person.
 
-| Person | Avoir model | Être model, masculine subjects |
-| --- | --- | --- |
-| je | `j'ai parlé` | `je suis parti` |
-| tu | `tu as parlé` | `tu es parti` |
-| il | `il a parlé` | `il est parti` |
-| nous | `nous avons parlé` | `nous sommes partis` |
-| vous | `vous avez parlé` | `vous êtes partis` |
-| ils | `ils ont parlé` | `ils sont partis` |
+| Model | je | tu | il/elle | nous | vous | ils/elles |
+| --- | --- | --- | --- | --- | --- | --- |
+| avoir: parler | `j'ai parlé` (I spoke) | `tu as parlé` (you spoke) | `il a parlé` (he spoke) | `nous avons parlé` (we spoke) | `vous avez parlé` (you spoke) | `ils ont parlé` (they spoke) |
+| être: partir (masculine subjects) | `je suis parti` (I left) | `tu es parti` (you left) | `il est parti` (he left) | `nous sommes partis` (we left) | `vous êtes partis` (you left) | `ils sont partis` (they left) |
 
 For feminine subjects, parti becomes partie, and partis becomes parties. Formal singular vous takes singular agreement appropriate to the person.
 
@@ -24,53 +20,53 @@ For feminine subjects, parti becomes partie, and partis becomes parties. Formal 
 Form the completed past: (1) nous + finir; (2) elle + vendre; (3) elles + partir.
 
 :::answer
-1. `Nous avons fini.` — avoir + regular participle in -i.
-2. `Elle a vendu.` — avoir; no agreement merely because the subject is feminine.
-3. `Elles sont parties.` — être, with feminine plural agreement.
+1. `Nous avons fini.` (We finished.) — avoir + regular participle in -i.
+2. `Elle a vendu.` (She sold.) — avoir; no agreement merely because the subject is feminine.
+3. `Elles sont parties.` (They left.) — être, with feminine plural agreement.
 :::
 
 ## Unit 2: Auxiliary choice and irregular participles
 
-Most verbs take avoir, including many movement verbs: `J'ai marché.` and `J'ai couru.` Movement alone does not mean être.
+Most verbs take avoir, including many movement verbs: `J'ai marché.` (I walked.) and `J'ai couru.` (I ran.) Movement alone does not mean être.
 
-A limited group uses être in its intransitive change-of-place or change-of-state use: aller, venir, arriver, partir, entrer, sortir, monter, descendre, retourner, rentrer, tomber, rester, naître, mourir, devenir, revenir. Learn these with examples: `Elle est revenue.` Some take avoir when they have a direct object: `Elle est sortie.` but `Elle a sorti les poubelles.` Likewise `Il est monté.` but `Il a monté la valise.` Passage and return verbs depend on construction; do not apply a single “movement” rule.
+A limited group uses être in its intransitive change-of-place or change-of-state use: aller, venir, arriver, partir, entrer, sortir, monter, descendre, retourner, rentrer, tomber, rester, naître, mourir, devenir, revenir. Learn these with examples: `Elle est revenue.` (She came back.) Some take avoir when they have a direct object: `Elle est sortie.` (She went out.) but `Elle a sorti les poubelles.` (She took out the rubbish.) Likewise `Il est monté.` (He went upstairs.) but `Il a monté la valise.` (He carried the suitcase upstairs.) Passage and return verbs depend on construction; do not apply a single “movement” rule.
 
-`Passer` also changes auxiliary with its construction: `Je suis passé devant la mairie.` (I went past the town hall; intransitive movement), but `J'ai passé un examen.` (I took an exam; direct object). The past participle agrees with the subject in the first example, not the second.
+`Passer` (to pass) also changes auxiliary with its construction: `Je suis passé devant la mairie.` (I went past the town hall; intransitive movement), but `J'ai passé un examen.` (I took an exam; direct object). The past participle agrees with the subject in the first example, not the second.
 
 | Infinitive | Participle | Infinitive | Participle |
 | --- | --- | --- | --- |
-| avoir | `eu` | être | `été` |
-| faire | `fait` | prendre | `pris` |
-| mettre | `mis` | dire | `dit` |
-| écrire | `écrit` | lire | `lu` |
-| voir | `vu` | boire | `bu` |
-| pouvoir | `pu` | vouloir | `voulu` |
-| devoir | `dû` | savoir | `su` |
-| ouvrir | `ouvert` | recevoir | `reçu` |
-| venir | `venu` | naître | `né` |
-| mourir | `mort` | courir | `couru` |
+| avoir | `eu` (had) | être | `été` (been) |
+| faire | `fait` (done/made) | prendre | `pris` (taken) |
+| mettre | `mis` (put) | dire | `dit` (said) |
+| écrire | `écrit` (written) | lire | `lu` (read) |
+| voir | `vu` (seen) | boire | `bu` (drunk) |
+| pouvoir | `pu` (been able to) | vouloir | `voulu` (wanted) |
+| devoir | `dû` (had to) | savoir | `su` (known) |
+| ouvrir | `ouvert` (opened) | recevoir | `reçu` (received) |
+| venir | `venu` (come) | naître | `né` (born) |
+| mourir | `mort` (died) | courir | `couru` (run) |
 
-With avoir, a following direct object causes no agreement: `J'ai écrit les lettres.` A preceding direct object normally causes agreement: `Les lettres que j'ai écrites.` An indirect object does not: `Je leur ai écrit.` Ask “what?” versus “to whom?” rather than agreeing with every nearby noun.
+With avoir, a following direct object causes no agreement: `J'ai écrit les lettres.` (I wrote the letters.) A preceding direct object normally causes agreement: `Les lettres que j'ai écrites.` (The letters that I wrote.) An indirect object does not: `Je leur ai écrit.` (I wrote to them.) Ask “what?” versus “to whom?” rather than agreeing with every nearby noun.
 
 ## Unit 3: Pronominal verbs and sentence structure
 
-Pronominal verbs use être: `Je me suis levé.` (male speaker), `Elle s'est levée.` The reflexive pronoun precedes the auxiliary. For ordinary reflexive actions, agreement follows the direct object relationship: `Elle s'est lavée.` (herself, direct object), but `Elle s'est lavé les mains.` (les mains follows as direct object, se is indirect). Similarly, `Elles se sont parlé.` has no agreement because parler à quelqu'un has an indirect object. Essentially pronominal verbs such as se souvenir normally agree with the subject: `Elles se sont souvenues de lui.`
+Pronominal verbs use être: `Je me suis levé.` (I got up.) (male speaker), `Elle s'est levée.` (She got up.) The reflexive pronoun precedes the auxiliary. For ordinary reflexive actions, agreement follows the direct object relationship: `Elle s'est lavée.` (She washed herself.) (herself, direct object), but `Elle s'est lavé les mains.` (She washed her hands.) (les mains follows as direct object, se is indirect). Similarly, `Elles se sont parlé.` (They spoke to each other.) has no agreement because parler à quelqu'un has an indirect object. Essentially pronominal verbs such as se souvenir normally agree with the subject: `Elles se sont souvenues de lui.` (They remembered him.)
 
-Negation surrounds the auxiliary, not the participle: `Elle n'a pas répondu.` With a reflexive pronoun: `Elle ne s'est pas levée.` Questions: `Est-ce que tu as compris ?` or `As-tu compris ?` Pronouns still precede the auxiliary: `Tu l'as vue ?` (a woman).
+Negation surrounds the auxiliary, not the participle: `Elle n'a pas répondu.` (She did not answer.) With a reflexive pronoun: `Elle ne s'est pas levée.` (She did not get up.) Questions: `Est-ce que tu as compris ?` (Did you understand?) or `As-tu compris ?` (Did you understand?) Pronouns still precede the auxiliary: `Tu l'as vue ?` (Did you see her?) (a woman).
 
 ### Agreement checkpoint
 
 Choose the participle in each complete sentence: (1) Marie s'est (laver) ; (2) Marie s'est (laver) les cheveux ; (3) les photos que j'ai (prendre).
 
 :::answer
-1. `Marie s'est lavée.` — se is a preceding direct object, feminine singular.
-2. `Marie s'est lavé les cheveux.` — direct object les cheveux follows; se is indirect.
-3. `Les photos que j'ai prises.` — que represents a preceding feminine plural direct object.
+1. `Marie s'est lavée.` (Marie washed herself.) — se is a preceding direct object, feminine singular.
+2. `Marie s'est lavé les cheveux.` (Marie washed her hair.) — direct object les cheveux follows; se is indirect.
+3. `Les photos que j'ai prises.` (The photos that I took.) — que represents a preceding feminine plural direct object.
 :::
 
 ## Unit 4: An event is not background
 
-Compare `Je lis.` (I am reading now), `J'ai lu le livre.` (I read the book as a completed whole), and `Je lisais quand tu as appelé.` (reading was in progress; the call occurred). The imparfait endings are -ais, -ais, -ait, -ions, -iez, -aient, normally on the present nous stem minus -ons. Chapter 19 develops that contrast fully. Do not choose passé composé merely because English uses a past form, or imparfait merely because an activity lasted a long time: `J'ai travaillé pendant huit heures.` views the bounded duration as a whole.
+Compare `Je lis.` (I am reading now), `J'ai lu le livre.` (I read the book as a completed whole), and `Je lisais quand tu as appelé.` (I was reading when you called.) (reading was in progress; the call occurred). The imparfait endings are -ais, -ais, -ait, -ions, -iez, -aient, normally on the present nous stem minus -ons. Chapter 19 develops that contrast fully. Do not choose passé composé merely because English uses a past form, or imparfait merely because an activity lasted a long time: `J'ai travaillé pendant huit heures.` (I worked for eight hours.) views the bounded duration as a whole.
 
 ### Choice checkpoint
 

@@ -6,95 +6,95 @@ First locate the reference point: now, a past event, or a future deadline. Then 
 
 | Meaning | Form | Example |
 | --- | --- | --- |
-| now, habit, continuing situation | present indicative | `Je travaille ici depuis mars.` |
-| event viewed as a whole | passé composé | `J'ai travaillé trois heures.` |
-| past scene or habit | imparfait | `Je travaillais quand il est arrivé.` |
-| before a past reference | plus-que-parfait | `J'avais déjà fini quand il est arrivé.` |
-| current intention or impending event | futur proche | `Je vais travailler.` |
-| future fact, prediction, promise | futur simple | `Je travaillerai demain.` |
-| complete before a future point | futur antérieur | `À midi, j'aurai fini.` |
-| imagined result, polite request, advice | present conditional | `Je voudrais partir.` |
-| unreal past outcome or regret | past conditional | `J'aurais dû partir.` |
-| dependent will, necessity, emotion, doubt | present subjunctive | `Il faut que je parte.` |
-| completed action under that trigger | passé du subjonctif | `Je suis content qu'elle soit venue.` |
-| direct instruction | imperative | `Pars maintenant.` |
+| now, habit, continuing situation | present indicative | `Je travaille ici depuis mars.` (I have been working here since March.) |
+| event viewed as a whole | passé composé | `J'ai travaillé trois heures.` (I worked for three hours.) |
+| past scene or habit | imparfait | `Je travaillais quand il est arrivé.` (I was working when he arrived.) |
+| before a past reference | plus-que-parfait | `J'avais déjà fini quand il est arrivé.` (I had already finished when he arrived.) |
+| current intention or impending event | futur proche | `Je vais travailler.` (I am going to work.) |
+| future fact, prediction, promise | futur simple | `Je travaillerai demain.` (I will work tomorrow.) |
+| complete before a future point | futur antérieur | `À midi, j'aurai fini.` (By noon, I will have finished.) |
+| imagined result, polite request, advice | present conditional | `Je voudrais partir.` (I would like to leave.) |
+| unreal past outcome or regret | past conditional | `J'aurais dû partir.` (I should have left.) |
+| dependent will, necessity, emotion, doubt | present subjunctive | `Il faut que je parte.` (I have to leave.) |
+| completed action under that trigger | passé du subjonctif | `Je suis content qu'elle soit venue.` (I am glad she came.) |
+| direct instruction | imperative | `Pars maintenant.` (Leave now.) |
 
 ## Unit 2: Rebuild the forms without notes
 
-Present regular endings in je/tu/il/nous/vous/ils order: -er → -e/-es/-e/-ons/-ez/-ent; regular -ir → -is/-is/-it/-issons/-issez/-issent; regular -re → -s/-s/no added ending/-ons/-ez/-ent. Remember spelling (`nous mangeons`, `nous commençons`) and stems (`j'achète`, `nous achetons`). Frequent irregulars: `je suis, nous sommes, vous êtes`; `j'ai, nous avons, ils ont`; `je vais, nous allons, ils vont`; `je fais, vous faites, ils font`.
+Present regular endings in je/tu/il/nous/vous/ils order: -er → -e/-es/-e/-ons/-ez/-ent; regular -ir → -is/-is/-it/-issons/-issez/-issent; regular -re → -s/-s/no added ending/-ons/-ez/-ent. Remember spelling (`nous mangeons` (we eat), `nous commençons` (we begin)) and stems (`j'achète` (I buy), `nous achetons` (we buy)). Frequent irregulars: `je suis, nous sommes, vous êtes` (I am, we are, you are [plural/formal]); `j'ai, nous avons, ils ont` (I have, we have, they have); `je vais, nous allons, ils vont` (I go, we go, they go); `je fais, vous faites, ils font` (I do/make, you do/make [plural/formal], they do/make).
 
-Imparfait: present nous minus -ons + -ais/-ais/-ait/-ions/-iez/-aient; être uses ét-. Futur simple: infinitive (drop final e for -re) + -ai/-as/-a/-ons/-ez/-ont. Conditional: that future stem + imparfait endings. Irregular future/conditional stems include ser-, aur-, ir-, fer-, viendr-, verr-, pourr-, voudr-, devr-, saur-, enverr-, recevr-. Thus `nous serons` is future, `nous serions` conditional, `nous étions` imparfait.
+Imparfait: present nous minus -ons + -ais/-ais/-ait/-ions/-iez/-aient; être uses ét-. Futur simple: infinitive (drop final e for -re) + -ai/-as/-a/-ons/-ez/-ont. Conditional: that future stem + imparfait endings. Irregular future/conditional stems include ser-, aur-, ir-, fer-, viendr-, verr-, pourr-, voudr-, devr-, saur-, enverr-, recevr-. Thus `nous serons` (we will be) is future, `nous serions` (we would be) conditional, `nous étions` (we were/used to be) imparfait.
 
 Compound forms differ in the auxiliary, not the lexical participle:
 
 | Auxiliary form | Result | Avoir model | Être model |
 | --- | --- | --- | --- |
-| present indicative | passé composé | `elle a fini` | `elle est partie` |
-| imparfait | plus-que-parfait | `elle avait fini` | `elle était partie` |
-| future | futur antérieur | `elle aura fini` | `elle sera partie` |
-| present conditional | past conditional | `elle aurait fini` | `elle serait partie` |
-| present subjunctive | passé du subjonctif | `qu'elle ait fini` | `qu'elle soit partie` |
+| present indicative | passé composé | `elle a fini` (she finished) | `elle est partie` (she left) |
+| imparfait | plus-que-parfait | `elle avait fini` (she had finished) | `elle était partie` (she had left) |
+| future | futur antérieur | `elle aura fini` (she will have finished) | `elle sera partie` (she will have left) |
+| present conditional | past conditional | `elle aurait fini` (she would have finished) | `elle serait partie` (she would have left) |
+| present subjunctive | passé du subjonctif | `qu'elle ait fini` (that she has finished) | `qu'elle soit partie` (that she has left) |
 
-Regular participles are -é/-i/-u; common irregulars include fait, pris, mis, dit, écrit, lu, vu, bu, eu, été, pu, voulu, dû, su, venu, né, mort. Most verbs take avoir; intransitive aller/venir/partir/arriver and related change verbs take être; pronominals use être. Movement is not sufficient: `J'ai marché.` Transitive sortir takes avoir: `Elle a sorti la chaise.`
+Regular participles are -é/-i/-u; common irregulars include fait, pris, mis, dit, écrit, lu, vu, bu, eu, été, pu, voulu, dû, su, venu, né, mort. Most verbs take avoir; intransitive aller/venir/partir/arriver and related change verbs take être; pronominals use être. Movement is not sufficient: `J'ai marché.` (I walked.) Transitive sortir takes avoir: `Elle a sorti la chaise.` (She took the chair out.)
 
-Être movement verbs agree with the subject. Avoir normally agrees only with a preceding direct object: `Les lettres qu'elle a écrites.` Pronominal agreement depends on direct versus indirect object: `Elle s'est lavée.` but `Elle s'est lavé les mains.` and `Elles se sont parlé.` These rules persist across compound forms.
+Être movement verbs agree with the subject. Avoir normally agrees only with a preceding direct object: `Les lettres qu'elle a écrites.` (The letters she wrote.) Pronominal agreement depends on direct versus indirect object: `Elle s'est lavée.` (She washed herself.) but `Elle s'est lavé les mains.` (She washed her hands.) and `Elles se sont parlé.` (They spoke to each other.) These rules persist across compound forms.
 
 ### Form checkpoint
 
 Identify and translate: `nous avions pris`, `nous aurons pris`, `nous aurions pris`, `que nous ayons pris`. Give the present and imparfait of nous + commencer.
 
 :::answer
-“We had taken”: plus-que-parfait. “We will have taken”: futur antérieur. “We would have taken”: past conditional. “That we have taken”: passé du subjonctif under a trigger. `Nous commençons.` and `Nous commencions.` preserve soft c differently before o and i.
+“We had taken”: plus-que-parfait. “We will have taken”: futur antérieur. “We would have taken”: past conditional. “That we have taken”: passé du subjonctif under a trigger. `Nous commençons.` (We begin.) and `Nous commencions.` (We were beginning/used to begin.) preserve soft c differently before o and i.
 :::
 
 ## Unit 3: Clause structure narrows the choice
 
-Present subjunctive uses present ils stem for singular/ils forms and present nous stem for nous/vous, with -e/-es/-e/-ions/-iez/-ent. Two-stem examples: `qu'elle vienne`, `que nous venions`. Irregular paradigms: être → sois/sois/soit/soyons/soyez/soient; avoir → aie/aies/ait/ayons/ayez/aient. Others: `qu'elle fasse, qu'il puisse, qu'elle sache, qu'il veuille, qu'elle aille`.
+Present subjunctive uses present ils stem for singular/ils forms and present nous stem for nous/vous, with -e/-es/-e/-ions/-iez/-ent. Two-stem examples: `qu'elle vienne` (that she come), `que nous venions` (that we come). Irregular paradigms: être → sois/sois/soit/soyons/soyez/soient; avoir → aie/aies/ait/ayons/ayez/aient. Others: `qu'elle fasse, qu'il puisse, qu'elle sache, qu'il veuille, qu'elle aille` (that she do/make, that he can, that she know, that he want, that she go).
 
-Will, emotion, necessity, and doubt commonly select subjunctive. Savoir, positive penser/croire, certainty, and positive espérer take indicative: `J'espère qu'elle viendra.` Same-subject vouloir normally takes an infinitive: `Je veux venir.` Different subject: `Je veux qu'elle vienne.` Emotion about a completed visit gives `Je suis contente qu'elle soit venue.`
+Will, emotion, necessity, and doubt commonly select subjunctive. Savoir, positive penser/croire, certainty, and positive espérer take indicative: `J'espère qu'elle viendra.` (I hope she will come.) Same-subject vouloir normally takes an infinitive: `Je veux venir.` (I want to come.) Different subject: `Je veux qu'elle vienne.` (I want her to come.) Emotion about a completed visit gives `Je suis contente qu'elle soit venue.` (I am glad she came.)
 
-The three practical conditional patterns are present → future/present/imperative; imparfait → present conditional; plus-que-parfait → past conditional. `Si tu viens, je serai là.` `Si tu venais, je serais là.` `Si tu étais venu, j'aurais été là.` Never put conditional directly after conditional si. A future time conjunction is different: `Quand tu arriveras, je partirai.` Completion first: `Quand tu seras arrivé, je partirai.`
+The three practical conditional patterns are present → future/present/imperative; imparfait → present conditional; plus-que-parfait → past conditional. `Si tu viens, je serai là.` (If you come, I will be there.) `Si tu venais, je serais là.` (If you came, I would be there.) `Si tu étais venu, j'aurais été là.` (If you had come, I would have been there.) Never put conditional directly after conditional si. A future time conjunction is different: `Quand tu arriveras, je partirai.` (When you arrive, I will leave.) Completion first: `Quand tu seras arrivé, je partirai.` (When you have arrived, I will leave.)
 
-Imperative has tu/nous/vous forms without the subject. -er tu loses -s except before attached en/y: `Parle.` `Parles-en.` Irregulars include sois/soyons/soyez, aie/ayons/ayez, sache/sachons/sachez. Affirmative pronouns follow: `Donne-le-moi.` Negative pronouns precede: `Ne me le donne pas.`
+Imperative has tu/nous/vous forms without the subject. -er tu loses -s except before attached en/y: `Parle.` (Speak.) `Parles-en.` (Talk about it.) Irregulars include sois/soyons/soyez, aie/ayons/ayez, sache/sachons/sachez. Affirmative pronouns follow: `Donne-le-moi.` (Give it to me.) Negative pronouns precede: `Ne me le donne pas.` (Don’t give it to me.)
 
-Infinitives after modals stay unconjugated (`je peux partir`); other verbs govern à/de (`apprendre à`, `essayer de`). Avant de + infinitive and après avoir/être + participle mark sequence. Present participle is nous stem + -ant, with étant/ayant/sachant as exceptions. En + participle is a gérondif with the same understood subject as the main verb. Neither form supplies a person-conjugated tense.
+Infinitives after modals stay unconjugated (`je peux partir` (I can leave)); other verbs govern à/de (`apprendre à` (to learn to), `essayer de` (to try to)). Avant de + infinitive and après avoir/être + participle mark sequence. Present participle is nous stem + -ant, with étant/ayant/sachant as exceptions. En + participle is a gérondif with the same understood subject as the main verb. Neither form supplies a person-conjugated tense.
 
 ### Clause checkpoint
 
 Translate: (1) I hope he will come; (2) I want him to come; (3) if he had come, we would have eaten together; (4) do not give it to me (it = the book).
 
 :::answer
-1. `J'espère qu'il viendra.` — positive espérer, indicative future.
-2. `Je veux qu'il vienne.` — desire with a different subject, subjunctive.
-3. `S'il était venu, nous aurions mangé ensemble.` — unreal past si pairing.
-4. `Ne me le donne pas.` — negative imperative uses ordinary preverbal pronoun order.
+1. `J'espère qu'il viendra.` (I hope he will come.) — positive espérer, indicative future.
+2. `Je veux qu'il vienne.` (I want him to come.) — desire with a different subject, subjunctive.
+3. `S'il était venu, nous aurions mangé ensemble.` (If he had come, we would have eaten together.) — unreal past si pairing.
+4. `Ne me le donne pas.` (Don’t give it to me.) — negative imperative uses ordinary preverbal pronoun order.
 :::
 
 ## Unit 4: Cues are evidence, not automatic switches
 
-Depuis with an ongoing situation usually selects present even if English says “have been.” Yesterday can accompany imparfait background or passé composé events. A long duration can be bounded: `J'ai travaillé toute la nuit.` “Would” can describe a past habit, so use imparfait when that is the intended meaning. Present can describe a future schedule with an explicit time phrase. A subjunctive can refer to a future event without becoming futur simple.
+Depuis with an ongoing situation usually selects present even if English says “have been.” Yesterday can accompany imparfait background or passé composé events. A long duration can be bounded: `J'ai travaillé toute la nuit.` (I worked all night.) “Would” can describe a past habit, so use imparfait when that is the intended meaning. Present can describe a future schedule with an explicit time phrase. A subjunctive can refer to a future event without becoming futur simple.
 
-Sometimes two choices are grammatical but tell different stories: `Quand elle est arrivée, je préparais le repas.` says preparation was in progress; `Quand elle est arrivée, j'ai préparé le repas.` normally places preparation at or after arrival. Preserve the prompt's intended order rather than insisting that one verb always belongs to one tense.
+Sometimes two choices are grammatical but tell different stories: `Quand elle est arrivée, je préparais le repas.` (When she arrived, I was preparing the meal.) says preparation was in progress; `Quand elle est arrivée, j'ai préparé le repas.` (When she arrived, I prepared the meal.) normally places preparation at or after arrival. Preserve the prompt's intended order rather than insisting that one verb always belongs to one tense.
 
 ### Timeline checkpoint
 
 Translate both: (1) When she arrived, I was closing the shop; (2) when she arrived, I had already closed the shop. Explain the difference.
 
 :::answer
-1. `Quand elle est arrivée, je fermais le magasin.` — closing was in progress at arrival.
-2. `Quand elle est arrivée, j'avais déjà fermé le magasin.` — closing was completed before arrival.
+1. `Quand elle est arrivée, je fermais le magasin.` (When she arrived, I was closing the shop.) — closing was in progress at arrival.
+2. `Quand elle est arrivée, j'avais déjà fermé le magasin.` (When she arrived, I had already closed the shop.) — closing was completed before arrival.
 :::
 
 ## Unit 5: Literary forms remain recognition-only
 
-Recognize passé simple -er endings -ai/-as/-a/-âmes/-âtes/-èrent and i-series -is/-is/-it/-îmes/-îtes/-irent. Frequent anchors: `il fut, il eut, il vint, il fit, il prit, il vit, il put`. Passé antérieur combines passé simple avoir/être with a participle: `il eut fini`, `elle fut arrivée`. It often marks completion just before a literary narrative event. These forms are read and interpreted separately; all English-to-French work below stays contemporary.
+Recognize passé simple -er endings -ai/-as/-a/-âmes/-âtes/-èrent and i-series -is/-is/-it/-îmes/-îtes/-irent. Frequent anchors: `il fut, il eut, il vint, il fit, il prit, il vit, il put` (he was, he had, he came, he did/made, he took, he saw, he could). Passé antérieur combines passé simple avoir/être with a participle: `il eut fini` (he had finished), `elle fut arrivée` (she had arrived). It often marks completion just before a literary narrative event. These forms are read and interpreted separately; all English-to-French work below stays contemporary.
 
 ### Literary recognition checkpoint
 
 Interpret `Dès qu'elle eut compris, elle sourit.` Identify both literary forms and retell in ordinary contemporary French.
 
 :::answer
-“As soon as she had understood, she smiled.” Eut compris is passé antérieur; sourit is passé simple in this narrative context (its spelling can also be present in another context). `Après avoir compris, elle a souri.` preserves the order without literary production.
+“As soon as she had understood, she smiled.” Eut compris is passé antérieur; sourit is passé simple in this narrative context (its spelling can also be present in another context). `Après avoir compris, elle a souri.` (After understanding, she smiled.) preserves the order without literary production.
 :::
 
 ## English-to-French Translation Practice (100 Sentences)

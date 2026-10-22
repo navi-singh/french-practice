@@ -4,47 +4,47 @@
 
 Use the future stem plus imparfait endings: -ais, -ais, -ait, -ions, -iez, -aient. Regular -er/-ir use the infinitive; regular -re drops final e. The name “present conditional” does not mean an ordinary present fact: it often marks a hypothetical result or a softened request.
 
-| Model | Six forms |
-| --- | --- |
-| parler | `je parlerais, tu parlerais, elle parlerait, nous parlerions, vous parleriez, ils parleraient` |
-| finir | `je finirais, tu finirais, il finirait, nous finirions, vous finiriez, elles finiraient` |
-| vendre | `je vendrais, tu vendrais, elle vendrait, nous vendrions, vous vendriez, ils vendraient` |
+| Model | je | tu | il/elle | nous | vous | ils/elles |
+| --- | --- | --- | --- | --- | --- | --- |
+| parler | `je parlerais` (I would speak) | `tu parlerais` (you would speak) | `elle parlerait` (she would speak) | `nous parlerions` (we would speak) | `vous parleriez` (you would speak) | `ils parleraient` (they would speak) |
+| finir | `je finirais` (I would finish) | `tu finirais` (you would finish) | `il finirait` (he would finish) | `nous finirions` (we would finish) | `vous finiriez` (you would finish) | `elles finiraient` (they would finish) |
+| vendre | `je vendrais` (I would sell) | `tu vendrais` (you would sell) | `elle vendrait` (she would sell) | `nous vendrions` (we would sell) | `vous vendriez` (you would sell) | `ils vendraient` (they would sell) |
 
-Reuse the irregular future stems: ser- (être), aur- (avoir), ir- (aller), fer- (faire), viendr- (venir), verr- (voir), pourr- (pouvoir), voudr- (vouloir), devr- (devoir), saur- (savoir), recevr- (recevoir), enverr- (envoyer), faudr- (falloir). Thus `je serais`, `nous aurions`, `vous pourriez`, `il faudrait`. Compare future `je parlerai` with conditional `je parlerais`: spelling matters even where pronunciation is close.
+Reuse the irregular future stems: ser- (être), aur- (avoir), ir- (aller), fer- (faire), viendr- (venir), verr- (voir), pourr- (pouvoir), voudr- (vouloir), devr- (devoir), saur- (savoir), recevr- (recevoir), enverr- (envoyer), faudr- (falloir). Thus `je serais` (I would be), `nous aurions` (we would have), `vous pourriez` (you could), `il faudrait` (it would be necessary). Compare future `je parlerai` (I will speak) with conditional `je parlerais` (I would speak): spelling matters even where pronunciation is close.
 
 ## Unit 2: Politeness and advice
 
-`Je voudrais un café.` softens a wish. `Pourriez-vous m'aider ?` softens a request. `Tu devrais te reposer.` gives advice. `À ta place, je prendrais le train.` means “If I were you, I would take the train.” A si clause is not required every time: the hypothetical setting may be understood.
+`Je voudrais un café.` (I would like a coffee.) softens a wish. `Pourriez-vous m'aider ?` (Could you help me?) softens a request. `Tu devrais te reposer.` (You should rest.) gives advice. `À ta place, je prendrais le train.` (If I were you, I would take the train.) means “If I were you, I would take the train.” A si clause is not required every time: the hypothetical setting may be understood.
 
-Do not translate every English “would” with conditional. “When I was little, I would play outside every day” is a past habit: `Quand j'étais petit, je jouais dehors tous les jours.` Conditional imagines an outcome; imparfait can describe a real past routine.
+Do not translate every English “would” with conditional. “When I was little, I would play outside every day” is a past habit: `Quand j'étais petit, je jouais dehors tous les jours.` (When I was little, I used to play outside every day.) Conditional imagines an outcome; imparfait can describe a real past routine.
 
 ### Present-conditional checkpoint
 
 Form: nous + aller; vous + pouvoir; je + acheter. Then give polite French for “I would like some water.”
 
 :::answer
-`Nous irions.` `Vous pourriez.` `J'achèterais.` — future stems plus imparfait endings. `Je voudrais de l'eau.` — a softened wish, not a prediction.
+`Nous irions.` (We would go.) `Vous pourriez.` (You could.) `J'achèterais.` (I would buy.) — future stems plus imparfait endings. `Je voudrais de l'eau.` (I would like some water.) — a softened wish, not a prediction.
 :::
 
 ## Unit 3: Past conditional and regret
 
 Use present conditional avoir or être + past participle:
 
-- `j'aurais fini, tu aurais fini, elle aurait fini, nous aurions fini, vous auriez fini, ils auraient fini`;
-- `je serais parti, tu serais parti, il serait parti, nous serions partis, vous seriez partis, ils seraient partis` (masculine subjects).
+- `j'aurais fini, tu aurais fini, elle aurait fini, nous aurions fini, vous auriez fini, ils auraient fini` (I would have finished, you would have finished, she would have finished, we would have finished, you would have finished, they would have finished);
+- `je serais parti, tu serais parti, il serait parti, nous serions partis, vous seriez partis, ils seraient partis` (I would have left, you would have left, he would have left, we would have left, you would have left, they would have left) (masculine subjects).
 
-Auxiliary selection and agreement follow compound-past rules. Most verbs take avoir; intransitive partir/venir/aller take être; pronominals take être. `Elles seraient venues.` agrees; `Elle se serait lavé les mains.` does not agree lavé with the subject because les mains is the following direct object. With avoir, a preceding direct object can cause agreement: `Les lettres que j'aurais écrites.`
+Auxiliary selection and agreement follow compound-past rules. Most verbs take avoir; intransitive partir/venir/aller take être; pronominals take être. `Elles seraient venues.` (They would have come.) agrees; `Elle se serait lavé les mains.` (She would have washed her hands.) does not agree lavé with the subject because les mains is the following direct object. With avoir, a preceding direct object can cause agreement: `Les lettres que j'aurais écrites.` (The letters that I would have written.)
 
-`J'aurais aimé venir.` expresses an unrealized wish. `Tu aurais dû appeler.` expresses criticism or regret: “You should have called.” Negation encloses the auxiliary: `Je n'aurais pas accepté.` Distinguish `j'avais fini` (had finished, plus-que-parfait, earlier real past) from `j'aurais fini` (would have finished, past conditional, hypothetical past outcome).
+`J'aurais aimé venir.` (I would have liked to come.) expresses an unrealized wish. `Tu aurais dû appeler.` (You should have called.) expresses criticism or regret: “You should have called.” Negation encloses the auxiliary: `Je n'aurais pas accepté.` (I would not have accepted.) Distinguish `j'avais fini` (had finished, plus-que-parfait, earlier real past) from `j'aurais fini` (would have finished, past conditional, hypothetical past outcome).
 
 ### Past-conditional checkpoint
 
 Translate: (1) She would have come; (2) we should have waited; (3) I would not have said that.
 
 :::answer
-1. `Elle serait venue.` — conditional être, feminine agreement.
-2. `Nous aurions dû attendre.` — conditional avoir plus dû, followed by infinitive.
-3. `Je n'aurais pas dit cela.` — negation around the conditional auxiliary.
+1. `Elle serait venue.` (She would have come.) — conditional être, feminine agreement.
+2. `Nous aurions dû attendre.` (We should have waited.) — conditional avoir plus dû, followed by infinitive.
+3. `Je n'aurais pas dit cela.` (I would not have said that.) — negation around the conditional auxiliary.
 :::
 
 ## Unit 4: Three practical si patterns
@@ -53,22 +53,22 @@ Here si means “if” and introduces a condition. Learn both clauses together; 
 
 | Meaning | Si clause | Result | Example |
 | --- | --- | --- | --- |
-| open, realistic possibility | present | future, present, or imperative | `Si tu viens, nous mangerons ensemble.` |
-| imagined present/future situation | imparfait | present conditional | `Si tu venais, nous mangerions ensemble.` |
-| unreal past situation | plus-que-parfait | past conditional | `Si tu étais venu, nous aurions mangé ensemble.` |
+| open, realistic possibility | present | future, present, or imperative | `Si tu viens, nous mangerons ensemble.` (If you come, we will eat together.) |
+| imagined present/future situation | imparfait | present conditional | `Si tu venais, nous mangerions ensemble.` (If you came, we would eat together.) |
+| unreal past situation | plus-que-parfait | past conditional | `Si tu étais venu, nous aurions mangé ensemble.` (If you had come, we would have eaten together.) |
 
-The second pattern's imparfait does not necessarily locate the condition in the past; it marks distance from reality. In the third, both condition and outcome are already past and unreal. The clauses may switch order: `Nous sortirions si la pluie s'arrêtait.` Elide si before il/ils: `s'il`, `s'ils`, but keep `si elle`.
+The second pattern's imparfait does not necessarily locate the condition in the past; it marks distance from reality. In the third, both condition and outcome are already past and unreal. The clauses may switch order: `Nous sortirions si la pluie s'arrêtait.` (We would go out if the rain stopped.) Elide si before il/ils: `s'il` (if he/it), `s'ils` (if they), but keep `si elle` (if she).
 
-For an open condition, present results can describe a general consequence (`Si je cours, je me fatigue.`), and an imperative can give an instruction (`Si tu as faim, mange.`). Future belongs in the result, not after conditional si. Avoid forms like si + would or si + will. Future-in-the-past is another conditional use: `Il a dit qu'il viendrait.` reports a later action from a past viewpoint, without a si clause.
+For an open condition, present results can describe a general consequence (`Si je cours, je me fatigue.` (If I run, I get tired.)), and an imperative can give an instruction (`Si tu as faim, mange.` (If you are hungry, eat.)). Future belongs in the result, not after conditional si. Avoid forms like si + would or si + will. Future-in-the-past is another conditional use: `Il a dit qu'il viendrait.` (He said that he would come.) reports a later action from a past viewpoint, without a si clause.
 
 ### Pairing checkpoint
 
 Complete all three: Si j'ai le temps, je (venir). Si j'avais le temps, je (venir). Si j'avais eu le temps, je (venir). Use a male speaker.
 
 :::answer
-`Si j'ai le temps, je viendrai.` — open condition, future result.
-`Si j'avais le temps, je viendrais.` — imagined situation, present conditional.
-`Si j'avais eu le temps, je serais venu.` — unreal past, past conditional with être.
+`Si j'ai le temps, je viendrai.` (If I have time, I will come.) — open condition, future result.
+`Si j'avais le temps, je viendrais.` (If I had time, I would come.) — imagined situation, present conditional.
+`Si j'avais eu le temps, je serais venu.` (If I had had time, I would have come.) — unreal past, past conditional with être.
 :::
 
 ## English-to-French Translation Practice (100 Sentences)

@@ -2,7 +2,7 @@
 
 ## Unit 1: Read literary forms; produce contemporary forms
 
-Passé simple is common in written narration, history, and stories. It advances completed events, often where everyday French uses passé composé. It is not “a more distant past”: the distinction concerns narrative register and viewpoint. `La porte s'ouvrit. Un homme entra.` means “The door opened. A man entered.” An everyday retelling is `La porte s'est ouverte. Un homme est entré.` Background still uses imparfait: `Il faisait froid quand l'homme entra.`
+Passé simple is common in written narration, history, and stories. It advances completed events, often where everyday French uses passé composé. It is not “a more distant past”: the distinction concerns narrative register and viewpoint. `La porte s'ouvrit. Un homme entra.` (The door opened. A man entered.) means “The door opened. A man entered.” An everyday retelling is `La porte s'est ouverte. Un homme est entré.` (The door opened. A man came in.) Background still uses imparfait: `Il faisait froid quand l'homme entra.` (It was cold when the man entered.)
 
 Your target is recognition and interpretation, not composing literary conjugations. The translation table below contains only contemporary productive forms. Separate French-to-English exercises teach recognition.
 
@@ -10,33 +10,36 @@ Your target is recognition and interpretation, not composing literary conjugatio
 
 For regular -er verbs, remove -er and recognize -ai, -as, -a, -âmes, -âtes, -èrent. For regular -ir and many -re verbs, recognize an i-series: -is, -is, -it, -îmes, -îtes, -irent. The singular forms may look identical to another tense; context and the whole paradigm help.
 
-| Model | Six forms to recognize |
-| --- | --- |
-| parler | `je parlai, tu parlas, elle parla, nous parlâmes, vous parlâtes, ils parlèrent` |
-| finir | `je finis, tu finis, il finit, nous finîmes, vous finîtes, elles finirent` |
-| vendre | `je vendis, tu vendis, elle vendit, nous vendîmes, vous vendîtes, ils vendirent` |
+| Model | je | tu | il/elle | nous | vous | ils/elles |
+| --- | --- | --- | --- | --- | --- | --- |
+| parler | `je parlai` (I spoke) | `tu parlas` (you spoke) | `elle parla` (she spoke) | `nous parlâmes` (we spoke) | `vous parlâtes` (you spoke) | `ils parlèrent` (they spoke) |
+| finir | `je finis` (I finished) | `tu finis` (you finished) | `il finit` (he finished) | `nous finîmes` (we finished) | `vous finîtes` (you finished) | `elles finirent` (they finished) |
+| vendre | `je vendis` (I sold) | `tu vendis` (you sold) | `elle vendit` (she sold) | `nous vendîmes` (we sold) | `vous vendîtes` (you sold) | `ils vendirent` (they sold) |
 
-The circumflex often marks literary nous/vous forms. Do not confuse `je parlai` (passé simple) with `je parlais` (imparfait). `Il finit` can be present or passé simple; a narrative frame is needed. Do not insist that one isolated spelling always identifies one tense.
+The circumflex often marks literary nous/vous forms. Do not confuse `je parlai` (I spoke) (passé simple) with `je parlais` (I was speaking/used to speak) (imparfait). `Il finit` (he finishes/finished) can be present or passé simple; a narrative frame is needed. Do not insist that one isolated spelling always identifies one tense.
 
 Common irregulars fall into recognizable families:
 
-| Family | Complete models or third-person recognition anchors |
-| --- | --- |
-| avoir | `j'eus, tu eus, il eut, nous eûmes, vous eûtes, elles eurent` |
-| être | `je fus, tu fus, elle fut, nous fûmes, vous fûtes, ils furent` |
-| venir | `je vins, tu vins, il vint, nous vînmes, vous vîntes, elles vinrent` |
-| tenir, same -in- family | `il tint, elles tinrent` |
-| faire, prendre, mettre | `elle fit, il prit, elle mit` |
-| dire, écrire, voir | `il dit, elle écrivit, il vit` |
-| savoir, pouvoir, vouloir | `elle sut, il put, elle voulut` |
-| devoir, boire, lire | `il dut, elle but, il lut` |
-| recevoir, mourir, naître | `elle reçut, il mourut, elle naquit` |
+| Family | je | tu | il/elle | nous | vous | ils/elles |
+| --- | --- | --- | --- | --- | --- | --- |
+| avoir | `j'eus` (I had) | `tu eus` (you had) | `il eut` (he had) | `nous eûmes` (we had) | `vous eûtes` (you had) | `elles eurent` (they had) |
+| être | `je fus` (I was) | `tu fus` (you were) | `elle fut` (she was) | `nous fûmes` (we were) | `vous fûtes` (you were) | `ils furent` (they were) |
+| venir | `je vins` (I came) | `tu vins` (you came) | `il vint` (he came) | `nous vînmes` (we came) | `vous vîntes` (you came) | `elles vinrent` (they came) |
 
-Many irregular u-series forms use -us, -us, -ut, -ûmes, -ûtes, -urent (as in avoir and être). Irregular i-series use the regular i endings but a changed stem (prendre → pris/prit/prirent). Aller follows the -er pattern in this tense: `il alla`. Venir/tenir use -ins, -ins, -int, -înmes, -întes, -inrent.
+| Family | Recognition anchors |
+| --- | --- |
+| tenir, same -in- family | `il tint, elles tinrent` (he held, they held) |
+| faire, prendre, mettre | `elle fit, il prit, elle mit` (she did/made, he took, she put) |
+| dire, écrire, voir | `il dit, elle écrivit, il vit` (he said, she wrote, he saw) |
+| savoir, pouvoir, vouloir | `elle sut, il put, elle voulut` (she knew, he could, she wanted) |
+| devoir, boire, lire | `il dut, elle but, il lut` (he had to, she drank, he read) |
+| recevoir, mourir, naître | `elle reçut, il mourut, elle naquit` (she received, he died, she was born) |
+
+Many irregular u-series forms use -us, -us, -ut, -ûmes, -ûtes, -urent (as in avoir and être). Irregular i-series use the regular i endings but a changed stem (prendre → pris/prit/prirent). Aller follows the -er pattern in this tense: `il alla` (he went). Venir/tenir use -ins, -ins, -int, -înmes, -întes, -inrent.
 
 ### Recognition checkpoint
 
-Translate and identify: (1) `Elle entra.` (2) `Ils prirent le train.` (3) `Nous vînmes.` (4) `Il finit son travail.`
+Translate and identify: (1) `Elle entra.` (2.) `Ils prirent le train.` (3.) `Nous vînmes.` (4.) `Il finit son travail.`
 
 :::answer
 1. “She entered.” — passé simple, -er third-person singular.
@@ -47,39 +50,39 @@ Translate and identify: (1) `Elle entra.` (2) `Ils prirent le train.` (3) `Nous 
 
 ## Unit 3: Passé antérieur marks earlier completion
 
-Recognize passé simple avoir or être + past participle: `il eut fini`, `elle fut partie`. The auxiliary is the only finite verb. This literary compound tense commonly follows quand, lorsque, dès que, or après que and signals completion immediately before a following narrative event.
+Recognize passé simple avoir or être + past participle: `il eut fini` (he had finished), `elle fut partie` (she had left). The auxiliary is the only finite verb. This literary compound tense commonly follows quand, lorsque, dès que, or après que and signals completion immediately before a following narrative event.
 
-| Auxiliary | Six-form recognition model |
-| --- | --- |
-| avoir | `j'eus fini, tu eus fini, il eut fini, nous eûmes fini, vous eûtes fini, elles eurent fini` |
-| être, masculine model | `je fus parti, tu fus parti, il fut parti, nous fûmes partis, vous fûtes partis, ils furent partis` |
+| Auxiliary | je | tu | il/elle | nous | vous | ils/elles |
+| --- | --- | --- | --- | --- | --- | --- |
+| avoir | `j'eus fini` (I had finished) | `tu eus fini` (you had finished) | `il eut fini` (he had finished) | `nous eûmes fini` (we had finished) | `vous eûtes fini` (you had finished) | `elles eurent fini` (they had finished) |
+| être, masculine model | `je fus parti` (I had left) | `tu fus parti` (you had left) | `il fut parti` (he had left) | `nous fûmes partis` (we had left) | `vous fûtes partis` (you had left) | `ils furent partis` (they had left) |
 
-`Dès qu'elle eut fermé la porte, elle partit.` means “As soon as she had closed the door, she left.” Everyday retelling can use `Après avoir fermé la porte, elle est partie.` A contemporary narrative can also make the earlier relationship explicit with plus-que-parfait: `Elle avait fermé la porte avant de partir.`
+`Dès qu'elle eut fermé la porte, elle partit.` means “As soon as she had closed the door, she left.” Everyday retelling can use `Après avoir fermé la porte, elle est partie.` (After closing the door, she left.) A contemporary narrative can also make the earlier relationship explicit with plus-que-parfait: `Elle avait fermé la porte avant de partir.` (She had closed the door before leaving.)
 
-Agreement follows the same rules as other compound tenses: `Quand elles furent arrivées…` agrees with a feminine plural subject; `Quand elle se fut lavé les mains…` has a following direct object, so lavé does not agree. Negation surrounds the auxiliary: `Il n'eut pas fini.` Recognize these, but do not practice producing passé antérieur from English.
+Agreement follows the same rules as other compound tenses: `Quand elles furent arrivées…` (when they had arrived…) agrees with a feminine plural subject; `Quand elle se fut lavé les mains…` (when she had washed her hands…) has a following direct object, so lavé does not agree. Negation surrounds the auxiliary: `Il n'eut pas fini.` (He had not finished.) Recognize these, but do not practice producing passé antérieur from English.
 
-Compare `il avait fini` (plus-que-parfait: earlier past in any ordinary narrative), `il eut fini` (passé antérieur: literary sequence), and `il aurait fini` (past conditional: hypothetical result). Similar participles do not make these interchangeable.
+Compare `il avait fini` (he had finished) (plus-que-parfait: earlier past in any ordinary narrative), `il eut fini` (he had finished) (passé antérieur: literary sequence), and `il aurait fini` (he would have finished) (past conditional: hypothetical result). Similar participles do not make these interchangeable.
 
 ### Earlier-event checkpoint
 
 Translate `Lorsqu'ils eurent mangé, ils sortirent.` Name the two tenses and put the events in order.
 
 :::answer
-“When they had eaten, they went out.” Eurent mangé is passé antérieur; sortirent is passé simple. Eating finishes first; going out follows. A contemporary retelling is `Après avoir mangé, ils sont sortis.`
+“When they had eaten, they went out.” Eurent mangé is passé antérieur; sortirent is passé simple. Eating finishes first; going out follows. A contemporary retelling is `Après avoir mangé, ils sont sortis.` (After eating, they went out.)
 :::
 
 ## Unit 4: Contemporary retelling toolkit
 
 For production, use present for current action or a clearly framed historical present; passé composé (present auxiliary + participle) for completed events; imparfait (nous stem + -ais/-ais/-ait/-ions/-iez/-aient, être → ét-) for scenes; plus-que-parfait (imparfait auxiliary + participle) for earlier events.
 
-Future stem + -ai/-as/-a/-ons/-ez/-ont gives futur simple; present aller + infinitive gives an intention; future auxiliary + participle gives futur antérieur. Conditional uses the future stem + imparfait endings; conditional auxiliary + participle gives an unreal past outcome. Present subjunctive uses the present ils/nous stems with -e/-es/-e/-ions/-iez/-ent, with irregular être/avoir (`soit`, `ait`); subjunctive auxiliary + participle gives completed action under a trigger. Infinitives and en + -ant do not themselves establish tense.
+Future stem + -ai/-as/-a/-ons/-ez/-ont gives futur simple; present aller + infinitive gives an intention; future auxiliary + participle gives futur antérieur. Conditional uses the future stem + imparfait endings; conditional auxiliary + participle gives an unreal past outcome. Present subjunctive uses the present ils/nous stems with -e/-es/-e/-ions/-iez/-ent, with irregular être/avoir (`soit` (be), `ait` (have)); subjunctive auxiliary + participle gives completed action under a trigger. Infinitives and en + -ant do not themselves establish tense.
 
 ### Contemporary-retelling checkpoint
 
 Retell `Il ouvrit la lettre. Il était inquiet. Dès qu'il eut lu le message, il sourit.` using ordinary contemporary forms, not new literary forms.
 
 :::answer
-`Il a ouvert la lettre. Il était inquiet. Après avoir lu le message, il a souri.` — passé composé advances events; imparfait retains the emotional background; the past infinitive preserves completed reading before the smile.
+`Il a ouvert la lettre. Il était inquiet. Après avoir lu le message, il a souri.` (He opened the letter. He was worried. After reading the message, he smiled.) — passé composé advances events; imparfait retains the emotional background; the past infinitive preserves completed reading before the smile.
 :::
 
 ## English-to-French Translation Practice (100 Sentences)

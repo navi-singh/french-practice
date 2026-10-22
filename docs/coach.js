@@ -199,9 +199,8 @@
 
   function bankView(chapter, host) {
     let revealAnswers = [];
-    host.innerHTML = `<p>All ${chapter.bank.length} sentences are on this page. Try each prompt, then click its answer to reveal it.
-      A model is not the only natural answer.
-      Pronunciation uses your French device voice; it is not pronunciation grading.</p>
+    host.innerHTML = `<p>All ${chapter.bank.length} sentences · click to reveal an answer, then tap French to hear it.
+      Models are examples, not the only valid answers.</p>
       <div class="coach-fields">${field("bank-mode", "Practice mode", [
         ["purpose", "Use each item's practice purpose"], ["translation", "English to French recall"],
         ["listening", "Listen before reading"], ["comprehension", "Read, then recall the meaning"],
@@ -214,38 +213,30 @@
       revealAnswers = [];
       const selected = host.querySelector("#bank-mode").value;
       const lateChapter = chapter.number >= 17;
-      const purposePrompt = {
-        translation: "Recall a natural French version of the English meaning.",
-        retrieval: "Express this meaning in French without reading the model.",
-        listening: "Listen first. Explain the meaning and any condition or important detail before revealing.",
-        comprehension: "Read the French. Explain its meaning, including restrictions and uncertainty, before revealing.",
-        "oral-response": "Give a natural reply aloud using this meaning; vary details without reading the French model.",
-        transformation: "Transform the input into a different natural French formulation. Use the target meaning as a guide.",
-      };
       const list = host.querySelector("#bank-list");
-      list.innerHTML = chapter.bank.map((item, index) => {
+      const headers = selected === "translation" ? ["English", "French"]
+        : selected === "comprehension" ? ["French", "Meaning"]
+          : selected === "listening" ? ["Listen", "Transcript & meaning"] : ["Prompt", "Answer"];
+      list.innerHTML = `<table class="translation-table coach-bank-table">
+        <caption>${chapter.bank.length} practice sentences</caption>
+        <thead><tr><th scope="col">${headers[0]}</th><th scope="col">${headers[1]}</th></tr></thead>
+        <tbody>${chapter.bank.map((item, index) => {
         const mode = selected === "purpose" ? item.purpose : selected;
-        const prompt = selected === "purpose" ? (lateChapter ? purposePrompt[mode] : item.prompt) : {
-          translation: "Recall a natural French version of this meaning.",
-          listening: "Listen without reading French. Explain the meaning or a key detail.",
-          comprehension: "Read French, then recall its meaning before revealing it.",
-          "oral-response": "Use this meaning in a reply aloud. Vary the details without reading the French model.",
-        }[mode];
-        const revealLabel = mode === "comprehension" ? "Reveal meaning & cue"
-          : mode === "listening" ? "Reveal transcript, meaning & cue"
-            : mode === "transformation" ? "Reveal model transformation & cue" : "Reveal French answer & cue";
-        return `<section class="coach-bank-row" aria-labelledby="bank-heading-${index}">
-        <div class="coach-bank-prompt"><h2 id="bank-heading-${index}">${index + 1}. <span>${esc(mode)}</span></h2>
-        <p lang="en">${esc(prompt)}</p>
-        ${["translation", "retrieval", "oral-response"].includes(mode) ? `<p><strong>Meaning/goal cue:</strong> ${esc(item.en)}</p>` : ""}
+        const revealLabel = mode === "comprehension" ? "Reveal meaning"
+          : mode === "listening" ? "Reveal transcript" : "Reveal French";
+        return `<tr class="coach-bank-row">
+        <td class="coach-bank-prompt"><span class="bank-number">${index + 1}.</span>
+        ${selected === "purpose" ? `<small class="bank-purpose">${esc(mode)}</small>` : ""}
+        ${selected === "purpose" && !lateChapter && mode !== "translation" ? `<p class="hint">${esc(item.prompt)}</p>` : ""}
+        ${["translation", "retrieval", "oral-response"].includes(mode) ? `<span lang="en">${esc(item.en)}</span>` : ""}
         ${mode === "listening" ? `<button type="button" class="bank-listen" aria-label="Listen to sentence ${index + 1} in French">Listen in French</button>
           <p class="bank-audio-status" role="status"></p>` : ""}
-        ${mode === "comprehension" ? `<p><code class="speakable" lang="fr">${esc(item.fr)}</code></p>` : ""}
-        ${mode === "transformation" ? `<p>Transform this input:</p><p><code class="speakable" lang="fr">${esc(item.source)}</code></p>
-          <p><strong>Target meaning:</strong> ${esc(item.en)}</p>` : ""}
-        </div><details class="bank-reveal"><summary aria-label="${revealLabel} for sentence ${index + 1}">${revealLabel}</summary>
-          <div class="bank-answer"></div></details></section>`;
-      }).join("");
+        ${mode === "comprehension" ? `<code class="speakable" lang="fr">${esc(item.fr)}</code>` : ""}
+        ${mode === "transformation" ? `<code class="speakable" lang="fr">${esc(item.source)}</code>
+          <p class="hint">Target: ${esc(item.en)}</p>` : ""}
+        </td><td><details class="bank-reveal"><summary aria-label="${revealLabel} for sentence ${index + 1}">${revealLabel}</summary>
+          <div class="bank-answer"></div></details></td></tr>`;
+      }).join("")}</tbody></table>`;
       list.querySelectorAll(".coach-bank-row").forEach((card, index) => {
         const item = chapter.bank[index];
         const mode = selected === "purpose" ? item.purpose : selected;
@@ -259,23 +250,10 @@
         const populate = () => {
           if (answer.childElementCount) return false;
           answer.innerHTML = `${mode !== "comprehension" ? `<p><code class="speakable" lang="fr">${esc(item.fr)}</code></p>` : ""}
-          <p lang="en">${esc(item.en)}</p>
-          ${lateChapter ? `<p class="hint" lang="en">Check the model against your attempt: preserve who acts, time, conditions and scope.
-            Use the English lesson to review the language point.</p>
-            <details><summary>Original French question & language cue</summary>
-              <p lang="fr">${esc(item.prompt)}</p><p class="hint" lang="fr">${esc(item.cue)}</p></details>`
-            : `<p class="hint">${esc(item.cue)}</p>`}
-          <p class="hint">Self-report, not objective marking:</p>
-          <div class="coach-toolbar"><button type="button" data-rating="retrieved independently">Retrieved independently</button>
-            <button type="button" data-rating="needs review">Needs review</button></div>
-          <p class="bank-rating" role="status"></p>`;
-          const rating = answer.querySelector(".bank-rating");
-          const previous = state.reflections[item.id];
-          if (previous) rating.textContent = `Last report: ${previous.rating} (${previous.skill}).`;
-          answer.querySelectorAll("[data-rating]").forEach((control) => control.addEventListener("click", () => {
-            state.reflections[item.id] = { skill: mode, rating: control.dataset.rating, date: new Date().toISOString() };
-            rating.textContent = save() ? `Saved: ${control.dataset.rating}.` : "Not saved to this device; export current progress before leaving.";
-          }));
+          ${["listening", "comprehension", "transformation"].includes(mode) ? `<p lang="en">${esc(item.en)}</p>` : ""}
+          <details class="bank-cue"><summary>Language cue</summary>
+            ${lateChapter ? `<p lang="fr">${esc(item.prompt)}</p>` : ""}
+            <p class="hint" lang="${lateChapter ? "fr" : "en"}">${esc(item.cue)}</p></details>`;
           return true;
         };
         disclosure.addEventListener("toggle", () => {

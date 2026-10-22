@@ -63,7 +63,7 @@ Writing is valuable because it forces you to retrieve spelling, agreement, conju
 
 ## Phase 4: Master French tenses and moods
 
-Chapters 17-25 reteach and extend the tense system, including forms introduced earlier. Work through each form, compare its meaning with related forms, then use Chapter 25 for integrated practice. Literary past forms are included for recognition rather than required production.
+Chapters 17-25 reteach and extend the tense system, including forms introduced earlier. Work through each form, compare its meaning with related forms, then use Chapter 25 for integrated practice. Literary past forms are included for recognition rather than required production. Conjugation tables give each pronoun (je, tu, il/elle, nous, vous, ils/elles) its own column, and lesson examples show their English meaning in brackets, e.g. `je suis` (I am). Checkpoint questions and the 100-sentence translation practice leave meanings out so they do not reveal answers.
 
 | Chapter | Focus | Folder |
 |---:|---|---|
@@ -117,12 +117,14 @@ practice sets. Each chapter has **Learn & review**, a **100/102-sentence bank**,
 and **Four-skill practice** tabs. Bank modes include English-to-French recall,
 listening before reading, comprehension, and oral responses.
 
-Every sentence bank shows all 100/102 items on one scrollable page. Each item
-has a click-to-reveal answer, with **Reveal all answers / Hide all answers**
+Every sentence bank shows all 100/102 items in one compact two-column table,
+like the original course's translation practice. Each row has a
+click-to-reveal answer, with **Reveal all answers / Hide all answers**
 controls. Listening starts with audio, comprehension shows French before its
 English meaning, and transformations show the source and target meaning.
-Desktop places prompts beside answers; mobile stacks them. French remains
-tappable for pronunciation, and optional recall ratings are saved per item.
+Language cues sit behind an optional **Language cue** toggle. French remains
+tappable for pronunciation. Earlier recall ratings stay in saved progress, but
+the bank no longer asks for them.
 
 The **NCLC 8 route** explains the official thresholds (503 listening,
 499 reading, and 12/20 speaking/writing) and a progressive transfer plan.

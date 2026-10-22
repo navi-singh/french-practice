@@ -2,81 +2,81 @@
 
 ## Unit 1: Mood is not a date
 
-The indicative presents content as an assertion, fact, or positive belief. The subjunctive places it under a trigger such as will, necessity, emotion, or doubt. A subjunctive can refer to a real event: `Je suis heureuse qu'il soit ici.` expresses happiness about his actual presence. Therefore “subjunctive means unreal” is not a reliable rule.
+The indicative presents content as an assertion, fact, or positive belief. The subjunctive places it under a trigger such as will, necessity, emotion, or doubt. A subjunctive can refer to a real event: `Je suis heureuse qu'il soit ici.` (I am happy that he is here.) expresses happiness about his actual presence. Therefore “subjunctive means unreal” is not a reliable rule.
 
-This chapter extends [Chapter 16's introduction](../chapter-16-subjunctive/lessons.md), but reteaches the forms here. A dependent clause normally begins with que and has its own subject: `Il faut que tu viennes.` Que alone does not determine mood: `Je sais que tu viens.` takes indicative.
+This chapter extends [Chapter 16's introduction](../chapter-16-subjunctive/lessons.md), but reteaches the forms here. A dependent clause normally begins with que and has its own subject: `Il faut que tu viennes.` (You have to come.) Que alone does not determine mood: `Je sais que tu viens.` (I know you are coming.) takes indicative.
 
 ## Unit 2: Present subjunctive formation
 
 For je, tu, il/elle/on, and ils/elles, start from present ils, remove -ent, and add -e, -es, -e, -ent. For nous/vous, many verbs use the present nous stem minus -ons, then -ions/-iez. With single-stem verbs, the two routes agree; two-stem verbs need both.
 
-| Model | Six forms after que |
-| --- | --- |
-| parler | `je parle, tu parles, elle parle, nous parlions, vous parliez, ils parlent` |
-| finir | `je finisse, tu finisses, il finisse, nous finissions, vous finissiez, elles finissent` |
-| prendre | `je prenne, tu prennes, elle prenne, nous prenions, vous preniez, ils prennent` |
-| venir | `je vienne, tu viennes, il vienne, nous venions, vous veniez, elles viennent` |
-| boire | `je boive, tu boives, elle boive, nous buvions, vous buviez, ils boivent` |
+| Model | je | tu | il/elle | nous | vous | ils/elles |
+| --- | --- | --- | --- | --- | --- | --- |
+| parler | `je parle` (that I speak) | `tu parles` (that you speak) | `elle parle` (that she speaks) | `nous parlions` (that we speak) | `vous parliez` (that you speak) | `ils parlent` (that they speak) |
+| finir | `je finisse` (that I finish) | `tu finisses` (that you finish) | `il finisse` (that he finish) | `nous finissions` (that we finish) | `vous finissiez` (that you finish) | `elles finissent` (that they finish) |
+| prendre | `je prenne` (that I take) | `tu prennes` (that you take) | `elle prenne` (that she take) | `nous prenions` (that we take) | `vous preniez` (that you take) | `ils prennent` (that they take) |
+| venir | `je vienne` (that I come) | `tu viennes` (that you come) | `il vienne` (that he come) | `nous venions` (that we come) | `vous veniez` (that you come) | `elles viennent` (that they come) |
+| boire | `je boive` (that I drink) | `tu boives` (that you drink) | `elle boive` (that she drink) | `nous buvions` (that we drink) | `vous buviez` (that you drink) | `ils boivent` (that they drink) |
 
 Learn the principal exceptions as full paradigms:
 
-| Verb | je, tu, il/elle, nous, vous, ils/elles |
-| --- | --- |
-| être | `je sois, tu sois, elle soit, nous soyons, vous soyez, ils soient` |
-| avoir | `j'aie, tu aies, il ait, nous ayons, vous ayez, elles aient` |
-| aller | `j'aille, tu ailles, elle aille, nous allions, vous alliez, ils aillent` |
-| faire | `je fasse, tu fasses, il fasse, nous fassions, vous fassiez, elles fassent` |
-| pouvoir | `je puisse, tu puisses, elle puisse, nous puissions, vous puissiez, ils puissent` |
-| savoir | `je sache, tu saches, il sache, nous sachions, vous sachiez, elles sachent` |
-| vouloir | `je veuille, tu veuilles, elle veuille, nous voulions, vous vouliez, ils veuillent` |
+| Verb | je | tu | il/elle | nous | vous | ils/elles |
+| --- | --- | --- | --- | --- | --- | --- |
+| être | `je sois` (that I am) | `tu sois` (that you are) | `elle soit` (that she is) | `nous soyons` (that we are) | `vous soyez` (that you are) | `ils soient` (that they are) |
+| avoir | `j'aie` (that I have) | `tu aies` (that you have) | `il ait` (that he have) | `nous ayons` (that we have) | `vous ayez` (that you have) | `elles aient` (that they have) |
+| aller | `j'aille` (that I go) | `tu ailles` (that you go) | `elle aille` (that she go) | `nous allions` (that we go) | `vous alliez` (that you go) | `ils aillent` (that they go) |
+| faire | `je fasse` (that I do/make) | `tu fasses` (that you do/make) | `il fasse` (that he do/make) | `nous fassions` (that we do/make) | `vous fassiez` (that you do/make) | `elles fassent` (that they do/make) |
+| pouvoir | `je puisse` (that I can) | `tu puisses` (that you can) | `elle puisse` (that she can) | `nous puissions` (that we can) | `vous puissiez` (that you can) | `ils puissent` (that they can) |
+| savoir | `je sache` (that I know) | `tu saches` (that you know) | `il sache` (that he know) | `nous sachions` (that we know) | `vous sachiez` (that you know) | `elles sachent` (that they know) |
+| vouloir | `je veuille` (that I want) | `tu veuilles` (that you want) | `elle veuille` (that she want) | `nous voulions` (that we want) | `vous vouliez` (that you want) | `ils veuillent` (that they want) |
 
-Impersonal falloir and pleuvoir give `qu'il faille` and `qu'il pleuve`. Present subjunctive often covers future reference: `Je veux que tu viennes demain.` Do not insert a future ending after a subjunctive trigger.
+Impersonal falloir and pleuvoir give `qu'il faille` (that it be necessary) and `qu'il pleuve` (that it rain). Present subjunctive often covers future reference: `Je veux que tu viennes demain.` (I want you to come tomorrow.) Do not insert a future ending after a subjunctive trigger.
 
 ### Formation checkpoint
 
 Give clauses after “Il faut que…”: nous + venir; elles + prendre; tu + être; vous + avoir.
 
 :::answer
-`Il faut que nous venions.` uses ven-, not vienn-. `Il faut qu'elles prennent.` uses prenn-. `Il faut que tu sois.` and `Il faut que vous ayez.` are irregular.
+`Il faut que nous venions.` (We have to come.) uses ven-, not vienn-. `Il faut qu'elles prennent.` (They have to take.) uses prenn-. `Il faut que tu sois.` (You have to be.) and `Il faut que vous ayez.` (You have to have.) are irregular.
 :::
 
 ## Unit 3: Choose a construction, not just a verb ending
 
-Subjunctive triggers include il faut que, il est important que, vouloir que, préférer que, être content que, regretter que, avoir peur que, douter que, and il est possible que. Positive certainty and belief normally take indicative: savoir que, être sûr que, penser que, croire que, il est certain que. `J'espère qu'il viendra.` uses indicative future after positive espérer, not subjunctive.
+Subjunctive triggers include il faut que, il est important que, vouloir que, préférer que, être content que, regretter que, avoir peur que, douter que, and il est possible que. Positive certainty and belief normally take indicative: savoir que, être sûr que, penser que, croire que, il est certain que. `J'espère qu'il viendra.` (I hope he will come.) uses indicative future after positive espérer, not subjunctive.
 
-Negative belief usually selects subjunctive when it withholds belief: `Je ne pense pas qu'il vienne.` In questions, mood depends on whether belief is asserted or doubted; do not make “every question means subjunctive” a rule. `Est-ce que tu sais qu'il est ici ?` retains indicative.
+Negative belief usually selects subjunctive when it withholds belief: `Je ne pense pas qu'il vienne.` (I do not think he is coming.) In questions, mood depends on whether belief is asserted or doubted; do not make “every question means subjunctive” a rule. `Est-ce que tu sais qu'il est ici ?` (Do you know that he is here?) retains indicative.
 
-With vouloir, prefer an infinitive for the same subject: `Je veux réussir.` versus `Je veux que tu réussisses.` Likewise `Je suis contente de partir.` versus `Je suis contente que tu partes.` Impersonal necessity can use `Il faut partir.` without a named subject or `Il faut que nous partions.` with one. Do not generalize the infinitive shortcut to every verb: `Je sais que je peux venir.` is normal.
+With vouloir, prefer an infinitive for the same subject: `Je veux réussir.` (I want to succeed.) versus `Je veux que tu réussisses.` (I want you to succeed.) Likewise `Je suis contente de partir.` (I am happy to leave.) versus `Je suis contente que tu partes.` (I am happy that you are leaving.) Impersonal necessity can use `Il faut partir.` (We have to leave.) without a named subject or `Il faut que nous partions.` (We have to leave.) with one. Do not generalize the infinitive shortcut to every verb: `Je sais que je peux venir.` (I know that I can come.) is normal.
 
-For time conjunctions, `avant que` takes subjunctive; same-subject `avant de` takes an infinitive. `Après que` takes indicative in careful standard French because it presents completion as established.
+For time conjunctions, `avant que` (before) takes subjunctive; same-subject `avant de` (before) takes an infinitive. `Après que` (after) takes indicative in careful standard French because it presents completion as established.
 
 ### Mood checkpoint
 
 Translate: (1) I know she is here; (2) I doubt she is here; (3) I want to leave; (4) I want her to leave.
 
 :::answer
-1. `Je sais qu'elle est ici.` — certainty, indicative.
-2. `Je doute qu'elle soit ici.` — doubt, subjunctive.
-3. `Je veux partir.` — same subject, infinitive.
-4. `Je veux qu'elle parte.` — different subject under a will trigger.
+1. `Je sais qu'elle est ici.` (I know that she is here.) — certainty, indicative.
+2. `Je doute qu'elle soit ici.` (I doubt that she is here.) — doubt, subjunctive.
+3. `Je veux partir.` (I want to leave.) — same subject, infinitive.
+4. `Je veux qu'elle parte.` (I want her to leave.) — different subject under a will trigger.
 :::
 
 ## Unit 4: Passé du subjonctif
 
-For an action completed before the time relevant to the trigger, use present subjunctive avoir or être + past participle: `que j'aie fini, que tu aies fini, qu'il ait fini, que nous ayons fini, que vous ayez fini, qu'elles aient fini`. With être, masculine models are `que je sois parti, que tu sois parti, qu'il soit parti, que nous soyons partis, que vous soyez partis, qu'ils soient partis`.
+For an action completed before the time relevant to the trigger, use present subjunctive avoir or être + past participle: `que j'aie fini, que tu aies fini, qu'il ait fini, que nous ayons fini, que vous ayez fini, qu'elles aient fini` (that I have finished, that you have finished, that he has finished, that we have finished, that you have finished, that they have finished). With être, masculine models are `que je sois parti, que tu sois parti, qu'il soit parti, que nous soyons partis, que vous soyez partis, qu'ils soient partis` (that I have left, that you have left, that he has left, that we have left, that you have left, that they have left).
 
-Auxiliary choice and agreement follow passé composé rules. `Je suis contente qu'elle soit arrivée.` agrees with a feminine subject. `Je regrette qu'elle se soit lavé les mains ici.` has a following direct object, so lavé does not agree. `Je doute qu'ils se soient parlé.` has indirect se. With avoir, a preceding direct object can cause agreement: `Je suis contente des lettres qu'elle a écrites.` (indicative relative clause here).
+Auxiliary choice and agreement follow passé composé rules. `Je suis contente qu'elle soit arrivée.` (I am happy that she has arrived.) agrees with a feminine subject. `Je regrette qu'elle se soit lavé les mains ici.` (I regret that she washed her hands here.) has a following direct object, so lavé does not agree. `Je doute qu'ils se soient parlé.` (I doubt that they spoke to each other.) has indirect se. With avoir, a preceding direct object can cause agreement: `Je suis contente des lettres qu'elle a écrites.` (I am happy about the letters she wrote.) (indicative relative clause here).
 
-Compare `Je suis content qu'il vienne.` (his coming, current/future) and `Je suis content qu'il soit venu.` (his visit already completed). Negative: `Je regrette qu'elle n'ait pas répondu.` Modern French normally keeps present or past subjunctive even after a past main verb: `Je voulais qu'il vienne.` Literary imperfect subjunctive is not required.
+Compare `Je suis content qu'il vienne.` (I am happy that he is coming.) (his coming, current/future) and `Je suis content qu'il soit venu.` (I am happy that he came.) (his visit already completed). Negative: `Je regrette qu'elle n'ait pas répondu.` (I regret that she did not reply.) Modern French normally keeps present or past subjunctive even after a past main verb: `Je voulais qu'il vienne.` (I wanted him to come.) Literary imperfect subjunctive is not required.
 
 ### Completion checkpoint
 
 Translate: (1) I am happy that you have finished; (2) I doubt she has left; (3) I hope she has arrived.
 
 :::answer
-1. `Je suis content que tu aies fini.` — emotion + completed action: passé du subjonctif.
-2. `Je doute qu'elle soit partie.` — doubt + completed departure, être and agreement.
-3. `J'espère qu'elle est arrivée.` — positive espérer takes indicative passé composé, despite the English word “hope.”
+1. `Je suis content que tu aies fini.` (I am happy that you have finished.) — emotion + completed action: passé du subjonctif.
+2. `Je doute qu'elle soit partie.` (I doubt that she has left.) — doubt + completed departure, être and agreement.
+3. `J'espère qu'elle est arrivée.` (I hope she has arrived.) — positive espérer takes indicative passé composé, despite the English word “hope.”
 :::
 
 ## English-to-French Translation Practice (100 Sentences)

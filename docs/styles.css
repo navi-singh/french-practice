@@ -94,21 +94,16 @@ body {
   margin: 20px 0;
   overflow-wrap: anywhere;
 }
-.coach-bank-row {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
-  gap: 24px;
-  padding: 20px 0;
-  border-top: 1px solid var(--border);
-  overflow-wrap: anywhere;
-}
-.coach-bank-row h2 { margin: 0 0 8px; font-size: 1rem; }
-.coach-bank-row h2 span { color: var(--muted); font-weight: 500; }
-.coach-bank-row p { margin: 8px 0; }
-.coach-bank-row details { margin: 0; min-width: 0; }
-.coach-bank-row summary { padding: 8px 0; min-height: 44px; }
-.coach-bank-row .bank-answer details { margin: 12px 0; }
-.coach-bank-row .coach-toolbar { margin: 12px 0; gap: 8px; }
+.coach-bank-table caption { text-align: left; margin-bottom: 8px; color: var(--muted); }
+.coach-bank-table td { vertical-align: top; }
+.coach-bank-row p { margin: 4px 0; }
+.coach-bank-row .bank-number { font-weight: 650; margin-right: 4px; }
+.coach-bank-row .bank-purpose { display: block; color: var(--muted); }
+.coach .coach-bank-row details { margin: 0; min-width: 0; }
+.coach .coach-bank-row summary { padding: 4px 0; min-height: 44px; }
+.coach .coach-bank-row .bank-cue { margin-top: 4px; }
+.coach-bank-row .bank-cue summary { color: var(--muted); font-size: .9em; }
+.coach-bank-row .bank-audio-status:empty { display: none; }
 .coach-activity-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; margin: 24px 0; }
 .coach-activity-grid button { text-align: left; }
 .coach-activity-grid small, .coach-activity-grid strong { display: block; }
@@ -138,7 +133,6 @@ body {
 }
 #track-select { width: 100%; }
 @media (max-width: 600px) {
-  .coach-bank-row { grid-template-columns: minmax(0, 1fr); gap: 8px; }
   .coach-toolbar { gap: 10px 16px; }
   .coach-feedback, .coach-attempt { padding: 14px; }
   .coach-activity-grid { grid-template-columns: minmax(0, 1fr); }
@@ -438,6 +432,11 @@ th { background: var(--surface-2); }
   z-index: 1;
 }
 .translation-table tbody tr:nth-child(even) { background: var(--surface-2); }
+.conjugation-table th, .conjugation-table td { padding: 8px 10px; }
+.conjugation-table td { font-size: .9rem; color: var(--muted); }
+.conjugation-table td:first-child { color: inherit; }
+.conjugation-table td code { display: block; width: fit-content; margin-bottom: 2px; }
+.conjugation-table tbody tr:nth-child(even) { background: var(--surface-2); }
 .translation-wrap.masked tbody tr:not(.revealed) td:last-child { color: transparent; }
 .translation-wrap.masked tbody tr:not(.revealed) td:last-child code.speakable {
   display: inline-block;

@@ -2,70 +2,70 @@
 
 ## Unit 1: An intention linked to now
 
-Futur proche is present aller + infinitive: `je vais partir, tu vas partir, elle va partir, nous allons partir, vous allez partir, ils vont partir`. Only aller is conjugated. `Je vais aller au marché.` is grammatical: the first aller is the future auxiliary, the second means “go.”
+Futur proche is present aller + infinitive: `je vais partir, tu vas partir, elle va partir, nous allons partir, vous allez partir, ils vont partir` (I am going to leave, you are going to leave, she is going to leave, we are going to leave, you are going to leave, they are going to leave). Only aller is conjugated. `Je vais aller au marché.` (I am going to go to the market.) is grammatical: the first aller is the future auxiliary, the second means “go.”
 
-Use it for a present intention, an impending event, or a prediction based on visible evidence: `Regarde ces nuages : il va pleuvoir.` “Proche” does not impose a strict distance in time: `Nous allons déménager l'année prochaine.` can express a settled plan. Place negation around aller: `Je ne vais pas sortir.` A reflexive pronoun belongs with its infinitive: `Elle va se coucher.`
+Use it for a present intention, an impending event, or a prediction based on visible evidence: `Regarde ces nuages : il va pleuvoir.` (Look at those clouds: it is going to rain.) “Proche” does not impose a strict distance in time: `Nous allons déménager l'année prochaine.` (We are going to move next year.) can express a settled plan. Place negation around aller: `Je ne vais pas sortir.` (I am not going to go out.) A reflexive pronoun belongs with its infinitive: `Elle va se coucher.` (She is going to go to bed.)
 
 ### Intention checkpoint
 
 Translate: (1) We are going to eat; (2) she is not going to get up yet; (3) Are you going to come?
 
 :::answer
-1. `Nous allons manger.` — present aller plus infinitive.
-2. `Elle ne va pas encore se lever.` — negative auxiliary; reflexive pronoun with the infinitive.
-3. `Est-ce que tu vas venir ?` — venir stays infinitive.
+1. `Nous allons manger.` (We are going to eat.) — present aller plus infinitive.
+2. `Elle ne va pas encore se lever.` (She is not going to get up yet.) — negative auxiliary; reflexive pronoun with the infinitive.
+3. `Est-ce que tu vas venir ?` (Are you going to come?) — venir stays infinitive.
 :::
 
 ## Unit 2: Prediction, promise, and neutral future
 
 Futur simple adds -ai, -as, -a, -ons, -ez, -ont to a future stem. For regular -er/-ir verbs, the stem is the infinitive. For regular -re verbs, remove final e.
 
-| Model | Six forms |
-| --- | --- |
-| parler | `je parlerai, tu parleras, il parlera, nous parlerons, vous parlerez, elles parleront` |
-| finir | `je finirai, tu finiras, elle finira, nous finirons, vous finirez, ils finiront` |
-| vendre | `je vendrai, tu vendras, il vendra, nous vendrons, vous vendrez, elles vendront` |
+| Model | je | tu | il/elle | nous | vous | ils/elles |
+| --- | --- | --- | --- | --- | --- | --- |
+| parler | `je parlerai` (I will speak) | `tu parleras` (you will speak) | `il parlera` (he will speak) | `nous parlerons` (we will speak) | `vous parlerez` (you will speak) | `elles parleront` (they will speak) |
+| finir | `je finirai` (I will finish) | `tu finiras` (you will finish) | `elle finira` (she will finish) | `nous finirons` (we will finish) | `vous finirez` (you will finish) | `ils finiront` (they will finish) |
+| vendre | `je vendrai` (I will sell) | `tu vendras` (you will sell) | `il vendra` (he will sell) | `nous vendrons` (we will sell) | `vous vendrez` (you will sell) | `elles vendront` (they will sell) |
 
 Irregular stems take those same endings:
 
 | Verb | Stem | Example |
 | --- | --- | --- |
-| être | ser- | `je serai` |
-| avoir | aur- | `tu auras` |
-| aller | ir- | `elle ira` |
-| faire | fer- | `nous ferons` |
-| venir | viendr- | `vous viendrez` |
-| voir | verr- | `ils verront` |
-| pouvoir | pourr- | `je pourrai` |
-| vouloir | voudr- | `tu voudras` |
-| devoir | devr- | `elle devra` |
-| savoir | saur- | `nous saurons` |
-| recevoir | recevr- | `vous recevrez` |
-| envoyer | enverr- | `j'enverrai` |
-| falloir / pleuvoir | faudr- / pleuvr- | `il faudra, il pleuvra` |
+| être | ser- | `je serai` (I will be) |
+| avoir | aur- | `tu auras` (you will have) |
+| aller | ir- | `elle ira` (she will go) |
+| faire | fer- | `nous ferons` (we will do/make) |
+| venir | viendr- | `vous viendrez` (you will come) |
+| voir | verr- | `ils verront` (they will see) |
+| pouvoir | pourr- | `je pourrai` (I will be able to) |
+| vouloir | voudr- | `tu voudras` (you will want) |
+| devoir | devr- | `elle devra` (she will have to) |
+| savoir | saur- | `nous saurons` (we will know) |
+| recevoir | recevr- | `vous recevrez` (you will receive) |
+| envoyer | enverr- | `j'enverrai` (I will send) |
+| falloir / pleuvoir | faudr- / pleuvr- | `il faudra, il pleuvra` (it will be necessary, it will rain) |
 
-Keep stem changes where required: `j'achèterai`, `j'appellerai`. Futur simple suits forecasts, promises, and future facts: `Je t'aiderai.` Both futures can be possible; futur proche links the plan to the present, whereas futur simple presents it more neutrally. Do not claim simple means “far away” and proche means “within minutes.”
+Keep stem changes where required: `j'achèterai` (I will buy), `j'appellerai` (I will call). Futur simple suits forecasts, promises, and future facts: `Je t'aiderai.` (I will help you.) Both futures can be possible; futur proche links the plan to the present, whereas futur simple presents it more neutrally. Do not claim simple means “far away” and proche means “within minutes.”
 
-After future time conjunctions, French uses future where English often uses present: `Quand tu arriveras, je préparerai le café.` `Dès qu'elle appellera, je te préviendrai.` But a real-condition si clause normally takes present: `Si tu viens, je préparerai le café.` Do not confuse a time clause with a condition.
+After future time conjunctions, French uses future where English often uses present: `Quand tu arriveras, je préparerai le café.` (When you arrive, I will make the coffee.) `Dès qu'elle appellera, je te préviendrai.` (As soon as she calls, I will let you know.) But a real-condition si clause normally takes present: `Si tu viens, je préparerai le café.` (If you come, I will make the coffee.) Do not confuse a time clause with a condition.
 
 ### Future-stem checkpoint
 
 Supply the future: nous + faire; tu + pouvoir; elle + vendre. Then translate “When you arrive, we will leave.”
 
 :::answer
-`Nous ferons.` `Tu pourras.` `Elle vendra.` — irregular fer-/pourr-, regular vendr-. `Quand tu arriveras, nous partirons.` — future time clause, not si condition.
+`Nous ferons.` (We will do/make.) `Tu pourras.` (You will be able to.) `Elle vendra.` (She will sell.) — irregular fer-/pourr-, regular vendr-. `Quand tu arriveras, nous partirons.` (When you arrive, we will leave.) — future time clause, not si condition.
 :::
 
 ## Unit 3: Completion before a future reference point
 
-Futur antérieur uses future avoir or être + past participle. It views an action as already complete at a later point: `À midi, j'aurai fini.` The relevant contrast is “will do” versus “will have done,” not simply distant versus near.
+Futur antérieur uses future avoir or être + past participle. It views an action as already complete at a later point: `À midi, j'aurai fini.` (By noon, I will have finished.) The relevant contrast is “will do” versus “will have done,” not simply distant versus near.
 
-- Avoir model: `j'aurai fini, tu auras fini, il aura fini, nous aurons fini, vous aurez fini, elles auront fini`.
-- Être model, feminine subjects: `je serai partie, tu seras partie, elle sera partie, nous serons parties, vous serez parties, elles seront parties`.
+- Avoir model: `j'aurai fini, tu auras fini, il aura fini, nous aurons fini, vous aurez fini, elles auront fini` (I will have finished, you will have finished, he will have finished, we will have finished, you will have finished, they will have finished).
+- Être model, feminine subjects: `je serai partie, tu seras partie, elle sera partie, nous serons parties, vous serez parties, elles seront parties` (I will have left, you will have left, she will have left, we will have left, you will have left, they will have left).
 
-Use the same auxiliary and agreement rules as passé composé: intransitive aller uses être, most verbs use avoir, pronominals use être with direct/indirect-object distinctions. `Elle se sera lavé les mains.` has no agreement on lavé because the direct object follows; `Elles seront arrivées.` agrees. With avoir: `Les pages que j'aurai lues.` A negative surrounds the future auxiliary: `Je n'aurai pas terminé.`
+Use the same auxiliary and agreement rules as passé composé: intransitive aller uses être, most verbs use avoir, pronominals use être with direct/indirect-object distinctions. `Elle se sera lavé les mains.` (She will have washed her hands.) has no agreement on lavé because the direct object follows; `Elles seront arrivées.` (They will have arrived.) agrees. With avoir: `Les pages que j'aurai lues.` (The pages that I will have read.) A negative surrounds the future auxiliary: `Je n'aurai pas terminé.` (I will not have finished.)
 
-`Quand tu auras terminé, nous sortirons.` makes finishing a prerequisite for the outing. `Quand tu termineras, je fermerai le bureau.` merely places events at a future time. Futur antérieur also has an inferential use about a past event (`Il aura oublié.`); recognize it, but this chapter's production focuses on completion before a future deadline.
+`Quand tu auras terminé, nous sortirons.` (When you have finished, we will go out.) makes finishing a prerequisite for the outing. `Quand tu termineras, je fermerai le bureau.` (When you finish, I will close the office.) merely places events at a future time. Futur antérieur also has an inferential use about a past event (`Il aura oublié.` (He will have forgotten.)); recognize it, but this chapter's production focuses on completion before a future deadline.
 
 ### Completion checkpoint
 
@@ -74,8 +74,8 @@ Use the same auxiliary and agreement rules as passé composé: intransitive alle
 3. Explain the difference between `Je lirai le rapport.` and `J'aurai lu le rapport avant la réunion.`
 
 :::answer
-1. `D'ici vendredi, elle sera revenue.` — future être plus feminine participle.
-2. `Quand nous aurons mangé, nous partirons.` — completed meal before departure.
+1. `D'ici vendredi, elle sera revenue.` (By Friday, she will have returned.) — future être plus feminine participle.
+2. `Quand nous aurons mangé, nous partirons.` (Once we have eaten, we will leave.) — completed meal before departure.
 3. The first promises a future reading; the second says it will already be complete before the meeting.
 :::
 

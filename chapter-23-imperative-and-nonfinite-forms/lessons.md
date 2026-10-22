@@ -2,81 +2,81 @@
 
 ## Unit 1: The imperative is a mood
 
-An imperative addresses tu, nous, or vous without an expressed subject: `Écoute.` `Écoutons.` `Écoutez.` These mean “Listen,” “Let's listen,” and “Listen” (formal or plural). Most forms match the present indicative, but regular -er and verbs like ouvrir lose the tu -s: `Parle.` `Ouvre.` Aller gives `Va.` Regular finir gives `Finis, finissons, finissez`; attendre gives `Attends, attendons, attendez`.
+An imperative addresses tu, nous, or vous without an expressed subject: `Écoute.` `Écoutons.` `Écoutez.` These mean “Listen,” “Let's listen,” and “Listen” (formal or plural). Most forms match the present indicative, but regular -er and verbs like ouvrir lose the tu -s: `Parle.` (Speak.) `Ouvre.` (Open.) Aller gives `Va.` (Go.) Regular finir gives `Finis, finissons, finissez` (finish, let’s finish, finish [plural/formal]); attendre gives `Attends, attendons, attendez` (wait, let’s wait, wait [plural/formal]).
 
 Learn irregular sets:
 
 | Verb | tu | nous | vous |
 | --- | --- | --- | --- |
-| être | `sois` | `soyons` | `soyez` |
-| avoir | `aie` | `ayons` | `ayez` |
-| savoir | `sache` | `sachons` | `sachez` |
+| être | `sois` (be) | `soyons` (let’s be) | `soyez` (be, plural/formal) |
+| avoir | `aie` (have) | `ayons` (let’s have) | `ayez` (have, plural/formal) |
+| savoir | `sache` (know) | `sachons` (let’s find out) | `sachez` (know, plural/formal) |
 
-Vouloir commonly supplies polite `Veuillez patienter.` (Please wait). Faire gives `fais, faisons, faites`, dire `dis, disons, dites`. Add -s to otherwise s-less forms before directly attached y/en: `Vas-y.` `Manges-en.` This is a linking spelling, not a new person ending.
+Vouloir commonly supplies polite `Veuillez patienter.` (Please wait.). Faire gives `fais, faisons, faites` (do/make, let’s do/make, do/make (plural/formal)), dire `dis, disons, dites` (say/tell, let’s say/tell, say/tell (plural/formal)). Add -s to otherwise s-less forms before directly attached y/en: `Vas-y.` (Go there.) `Manges-en.` (Eat some.) This is a linking spelling, not a new person ending.
 
-Negation encloses the verb: `Ne parle pas.` `N'ayez pas peur.` Never add tu/vous as the ordinary subject of the imperative.
+Negation encloses the verb: `Ne parle pas.` (Don’t speak.) `N'ayez pas peur.` (Don’t be afraid.) Never add tu/vous as the ordinary subject of the imperative.
 
 ### Form checkpoint
 
 Give informal commands: speak; finish; be patient (male addressee); go there.
 
 :::answer
-`Parle.` loses -s. `Finis.` keeps the -ir -s. `Sois patient.` uses irregular être. `Vas-y.` restores -s before attached y.
+`Parle.` (Speak.) loses -s. `Finis.` (Finish.) keeps the -ir -s. `Sois patient.` (Be patient.) uses irregular être. `Vas-y.` (Go there.) restores -s before attached y.
 :::
 
 ## Unit 2: Pronouns change position with polarity
 
-With affirmative imperatives, pronouns follow the verb with hyphens. The order is verb → le/la/les → moi/toi/lui/nous/vous/leur → y → en. Examples: `Donne-le-moi.` `Montrez-la-lui.` Reflexive me/te become moi/toi: `Lève-toi.` `Dépêchons-nous.` Before en/y, contracted m'/t' occurs: `Donne-m'en.` `Va-t'en.`
+With affirmative imperatives, pronouns follow the verb with hyphens. The order is verb → le/la/les → moi/toi/lui/nous/vous/leur → y → en. Examples: `Donne-le-moi.` (Give it to me.) `Montrez-la-lui.` (Show it to him/her.) Reflexive me/te become moi/toi: `Lève-toi.` (Get up.) `Dépêchons-nous.` (Let’s hurry.) Before en/y, contracted m'/t' occurs: `Donne-m'en.` (Give me some.) `Va-t'en.` (Go away.)
 
-With negative imperatives, pronouns return before the verb in ordinary order: me/te/se/nous/vous → le/la/les → lui/leur → y → en. `Ne me le donne pas.` `Ne la lui montrez pas.` `Ne te lève pas.` `Ne t'en va pas.` Use me/te again, not moi/toi. Do not attach negative-command pronouns after the verb.
+With negative imperatives, pronouns return before the verb in ordinary order: me/te/se/nous/vous → le/la/les → lui/leur → y → en. `Ne me le donne pas.` (Don’t give it to me.) `Ne la lui montrez pas.` (Don’t show it to him/her.) `Ne te lève pas.` (Don’t get up.) `Ne t'en va pas.` (Don’t go away.) Use me/te again, not moi/toi. Do not attach negative-command pronouns after the verb.
 
-If a pronoun is the object of an infinitive rather than the command verb, it belongs with that infinitive: `Va le chercher.` (Go and get it). This differs from `Vas-y.` because y is directly attached to va in the latter.
+If a pronoun is the object of an infinitive rather than the command verb, it belongs with that infinitive: `Va le chercher.` (Go and get it.). This differs from `Vas-y.` (Go there.) because y is directly attached to va in the latter.
 
 ### Pronoun checkpoint
 
 Make these instructions negative: `Donne-le-moi.` `Levez-vous.` `Parles-en.`
 
 :::answer
-`Ne me le donne pas.` — ordinary preverbal order.
-`Ne vous levez pas.` — reflexive pronoun before the verb.
-`N'en parle pas.` — en precedes the verb; the special affirmative linking -s disappears.
+`Ne me le donne pas.` (Don’t give it to me.) — ordinary preverbal order.
+`Ne vous levez pas.` (Don’t get up.) — reflexive pronoun before the verb.
+`N'en parle pas.` (Don’t talk about it.) — en precedes the verb; the special affirmative linking -s disappears.
 :::
 
 ## Unit 3: Present participle and gérondif are non-finite
 
 A non-finite form does not itself conjugate for person or establish the sentence's tense. Make the present participle from the present nous stem minus -ons + -ant: parler → parlant; finir → finissant; prendre → prenant. Exceptions: être → étant, avoir → ayant, savoir → sachant.
 
-As a verbal participle, it stays invariable: `Les personnes attendant le bus lisent.` It can retain objects and negation: `Ne sachant pas la réponse, elle se tait.` It often sounds more written than a relative clause: `Les personnes qui attendent le bus…` is a natural spoken alternative.
+As a verbal participle, it stays invariable: `Les personnes attendant le bus lisent.` (The people waiting for the bus are reading.) It can retain objects and negation: `Ne sachant pas la réponse, elle se tait.` (Not knowing the answer, she stays silent.) It often sounds more written than a relative clause: `Les personnes qui attendent le bus…` (the people who are waiting for the bus…) is a natural spoken alternative.
 
-The gérondif is en + present participle: `Il chante en travaillant.` It expresses simultaneous activity, manner, or means. Its understood subject normally matches the main clause subject: `J'apprends en lisant.` I both learn and read. Do not use a dangling gérondif to claim that one person walks while somebody else's phone rings.
+The gérondif is en + present participle: `Il chante en travaillant.` (He sings while working.) It expresses simultaneous activity, manner, or means. Its understood subject normally matches the main clause subject: `J'apprends en lisant.` I both learn and read. Do not use a dangling gérondif to claim that one person walks while somebody else's phone rings.
 
-Tout en can emphasize simultaneity or contrast: `Elle sourit tout en étant inquiète.` A verbal participle is not an adjective: compare invariable `des enfants fatiguant leurs parents` (children tiring their parents) with agreeing adjective `des enfants fatigants` (tiresome children). An English -ing noun often needs a French infinitive instead: `Lire est utile.` means “Reading is useful,” not a bare present participle as subject.
+Tout en can emphasize simultaneity or contrast: `Elle sourit tout en étant inquiète.` (She smiles while being worried.) A verbal participle is not an adjective: compare invariable `des enfants fatiguant leurs parents` (children tiring their parents) with agreeing adjective `des enfants fatigants` (tiresome children). An English -ing noun often needs a French infinitive instead: `Lire est utile.` means “Reading is useful,” not a bare present participle as subject.
 
 ### Non-finite checkpoint
 
 Form the gérondifs of faire, finir, avoir, and savoir. Then translate “I learn by writing.”
 
 :::answer
-`en faisant, en finissant, en ayant, en sachant` — nous stems except irregular ayant/sachant. `J'apprends en écrivant.` — the same person learns and writes; the finite verb apprends supplies the present tense.
+`en faisant, en finissant, en ayant, en sachant` (while/by doing, finishing, having, knowing) — nous stems except irregular ayant/sachant. `J'apprends en écrivant.` (I learn by writing.) — the same person learns and writes; the finite verb apprends supplies the present tense.
 :::
 
 ## Unit 4: Common infinitive constructions
 
-The infinitive names the action without a person ending. After pouvoir, devoir, vouloir, and aller used for futur proche, use no extra preposition: `Je peux venir.` `Elle doit partir.` `Nous allons manger.` After aimer/préférer, also use an infinitive directly: `J'aime lire.`
+The infinitive names the action without a person ending. After pouvoir, devoir, vouloir, and aller used for futur proche, use no extra preposition: `Je peux venir.` (I can come.) `Elle doit partir.` (She has to leave.) `Nous allons manger.` (We are going to eat.) After aimer/préférer, also use an infinitive directly: `J'aime lire.` (I like reading.)
 
-Learn other governing constructions as chunks: commencer à, apprendre à, réussir à; essayer de, décider de, oublier de, finir de, avoir besoin de. Thus `J'apprends à conduire.` but `J'essaie de comprendre.` Do not guess the preposition from English.
+Learn other governing constructions as chunks: commencer à, apprendre à, réussir à; essayer de, décider de, oublier de, finir de, avoir besoin de. Thus `J'apprends à conduire.` (I am learning to drive.) but `J'essaie de comprendre.` (I am trying to understand.) Do not guess the preposition from English.
 
-Après avoir/être + past participle makes a past infinitive: `Après avoir mangé, je pars.` `Après être arrivée, elle a téléphoné.` Agreement follows the compound-tense rules. Before an action, use avant de + infinitive for the same subject: `Je vérifie avant de signer.` Pour + infinitive gives purpose: `Je viens pour apprendre.` Negating an infinitive places both words before it: `Il essaie de ne pas rire.` These forms are constructions, not additional person-conjugated tenses.
+Après avoir/être + past participle makes a past infinitive: `Après avoir mangé, je pars.` (After eating, I leave.) `Après être arrivée, elle a téléphoné.` (After arriving, she called.) Agreement follows the compound-tense rules. Before an action, use avant de + infinitive for the same subject: `Je vérifie avant de signer.` (I check before signing.) Pour + infinitive gives purpose: `Je viens pour apprendre.` (I am coming to learn.) Negating an infinitive places both words before it: `Il essaie de ne pas rire.` (He is trying not to laugh.) These forms are constructions, not additional person-conjugated tenses.
 
 ### Construction checkpoint
 
 Translate: (1) She is learning to swim; (2) we decided to wait; (3) after arriving, Léa called; (4) try not to shout.
 
 :::answer
-1. `Elle apprend à nager.` — apprendre à.
-2. `Nous avons décidé d'attendre.` — décider de, elided before a vowel.
-3. `Après être arrivée, Léa a téléphoné.` — past infinitive with être and feminine agreement.
-4. `Essaie de ne pas crier.` — imperative followed by essayer de + negated infinitive.
+1. `Elle apprend à nager.` (She is learning to swim.) — apprendre à.
+2. `Nous avons décidé d'attendre.` (We decided to wait.) — décider de, elided before a vowel.
+3. `Après être arrivée, Léa a téléphoné.` (After arriving, Léa called.) — past infinitive with être and feminine agreement.
+4. `Essaie de ne pas crier.` (Try not to shout.) — imperative followed by essayer de + negated infinitive.
 :::
 
 ## English-to-French Translation Practice (100 Sentences)

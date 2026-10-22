@@ -4,44 +4,44 @@
 
 The French present is a finite indicative tense: its ending agrees with the subject. It describes habits, general truths, states, and actions happening now. `Je prépare le dîner.` can mean “I prepare dinner,” “I am preparing dinner,” or, in an emphatic context, “I do prepare dinner.” Do not add être before a conjugated verb to imitate English “am working.”
 
-An explicit future context can give the present future reference: `Le train part demain à six heures.` The time phrase and schedule make the meaning clear. For a personal intention, `Je vais partir.` is often clearer; Chapter 20 reteaches that future construction. To emphasize an action in progress, use être en train de + infinitive: `Je suis en train de cuisiner.` This is emphasis, not a compulsory progressive tense.
+An explicit future context can give the present future reference: `Le train part demain à six heures.` (The train leaves tomorrow at six.) The time phrase and schedule make the meaning clear. For a personal intention, `Je vais partir.` (I am going to leave.) is often clearer; Chapter 20 reteaches that future construction. To emphasize an action in progress, use être en train de + infinitive: `Je suis en train de cuisiner.` (I am cooking.) This is emphasis, not a compulsory progressive tense.
 
 ## Unit 2: Three regular families
 
 Remove the infinitive ending, then add the person ending. Learn forms in the order je, tu, il/elle/on, nous, vous, ils/elles.
 
-| Family | Full present model |
-| --- | --- |
-| -er: parler | `je parle, tu parles, elle parle, nous parlons, vous parlez, ils parlent` |
-| regular -ir: finir | `je finis, tu finis, il finit, nous finissons, vous finissez, elles finissent` |
-| -re: vendre | `je vends, tu vends, elle vend, nous vendons, vous vendez, ils vendent` |
+| Family | je | tu | il/elle | nous | vous | ils/elles |
+| --- | --- | --- | --- | --- | --- | --- |
+| -er: parler | `je parle` (I speak) | `tu parles` (you speak) | `elle parle` (she speaks) | `nous parlons` (we speak) | `vous parlez` (you speak) | `ils parlent` (they speak) |
+| regular -ir: finir | `je finis` (I finish) | `tu finis` (you finish) | `il finit` (he finishes) | `nous finissons` (we finish) | `vous finissez` (you finish) | `elles finissent` (they finish) |
+| -re: vendre | `je vends` (I sell) | `tu vends` (you sell) | `elle vend` (she sells) | `nous vendons` (we sell) | `vous vendez` (you sell) | `ils vendent` (they sell) |
 
-The endings are -e/-es/-e/-ons/-ez/-ent; -is/-is/-it/-issons/-issez/-issent; and -s/-s/no added ending/-ons/-ez/-ent respectively. The regular -ir family has -iss- in the plural; partir and venir do not belong to it. The -ent ending is silent. `On` takes third-person singular even when it means “we.” Before a vowel sound, je becomes j': `j'attends`.
+The endings are -e/-es/-e/-ons/-ez/-ent; -is/-is/-it/-issons/-issez/-issent; and -s/-s/no added ending/-ons/-ez/-ent respectively. The regular -ir family has -iss- in the plural; partir and venir do not belong to it. The -ent ending is silent. `On` takes third-person singular even when it means “we.” Before a vowel sound, je becomes j': `j'attends` (I wait).
 
 ### Formation checkpoint
 
 1. Give the nous forms of parler, finir, vendre.
 2. Put “She is waiting” into ordinary French.
-3. Explain why `On finit.` has a singular ending.
+3. Explain why `On finit.` (We finish.) has a singular ending.
 
 :::answer
-1. `nous parlons, nous finissons, nous vendons` — match each stem to its family.
-2. `Elle attend.` — the simple present already conveys an action in progress.
+1. `nous parlons, nous finissons, nous vendons` (we speak, we finish, we sell) — match each stem to its family.
+2. `Elle attend.` (She is waiting.) — the simple present already conveys an action in progress.
 3. On is grammatically singular, even when it refers to several people.
 :::
 
 ## Unit 3: Preserve spelling and hear the stem
 
-For -ger verbs, keep e before the nous ending: `nous mangeons`. For -cer, use ç: `nous commençons`. These preserve the soft consonant sound. They are spelling changes, not new tenses.
+For -ger verbs, keep e before the nous ending: `nous mangeons` (we eat). For -cer, use ç: `nous commençons` (we begin). These preserve the soft consonant sound. They are spelling changes, not new tenses.
 
 Some verbs change their stem in je, tu, il/elle/on, and ils/elles but retain another stem with nous/vous:
 
-- `j'achète, nous achetons, ils achètent`;
-- `je préfère, nous préférons, elles préfèrent`;
-- `j'appelle, nous appelons, ils appellent`;
-- `je jette, nous jetons, elles jettent`;
-- `j'essaie, nous essayons, ils essaient` (essaye/essayent are also accepted);
-- `je nettoie, nous nettoyons, elles nettoient`.
+- `j'achète, nous achetons, ils achètent` (I buy, we buy, they buy);
+- `je préfère, nous préférons, elles préfèrent` (I prefer, we prefer, they prefer);
+- `j'appelle, nous appelons, ils appellent` (I call, we call, they call);
+- `je jette, nous jetons, elles jettent` (I throw, we throw, they throw);
+- `j'essaie, nous essayons, ils essaient` (I try, we try, they try) (essaye/essayent are also accepted);
+- `je nettoie, nous nettoyons, elles nettoient` (I clean, we clean, they clean).
 
 Do not transfer the singular accent or doubled consonant blindly to nous/vous.
 
@@ -50,38 +50,38 @@ Do not transfer the singular accent or doubled consonant blindly to nous/vous.
 Supply the present: nous + commencer; je + acheter; vous + appeler.
 
 :::answer
-`Nous commençons.` preserves the soft c. `J'achète.` changes the stem vowel. `Vous appelez.` keeps one l; the unstressed stem differs from `j'appelle`.
+`Nous commençons.` (We begin.) preserves the soft c. `J'achète.` (I buy.) changes the stem vowel. `Vous appelez.` (You call.) keeps one l; the unstressed stem differs from `j'appelle` (I call).
 :::
 
 ## Unit 4: High-frequency irregulars
 
 These complete paradigms are worth retrieving aloud, not just recognizing.
 
-| Verb | je, tu, il/elle, nous, vous, ils/elles |
-| --- | --- |
-| être | `je suis, tu es, elle est, nous sommes, vous êtes, ils sont` |
-| avoir | `j'ai, tu as, il a, nous avons, vous avez, elles ont` |
-| aller | `je vais, tu vas, elle va, nous allons, vous allez, ils vont` |
-| faire | `je fais, tu fais, il fait, nous faisons, vous faites, elles font` |
-| venir | `je viens, tu viens, elle vient, nous venons, vous venez, ils viennent` |
-| prendre | `je prends, tu prends, il prend, nous prenons, vous prenez, elles prennent` |
-| pouvoir | `je peux, tu peux, elle peut, nous pouvons, vous pouvez, ils peuvent` |
-| vouloir | `je veux, tu veux, il veut, nous voulons, vous voulez, elles veulent` |
-| devoir | `je dois, tu dois, elle doit, nous devons, vous devez, ils doivent` |
-| savoir | `je sais, tu sais, il sait, nous savons, vous savez, elles savent` |
-| dire | `je dis, tu dis, elle dit, nous disons, vous dites, ils disent` |
-| partir | `je pars, tu pars, il part, nous partons, vous partez, elles partent` |
+| Verb | je | tu | il/elle | nous | vous | ils/elles |
+| --- | --- | --- | --- | --- | --- | --- |
+| être | `je suis` (I am) | `tu es` (you are) | `elle est` (she is) | `nous sommes` (we are) | `vous êtes` (you are) | `ils sont` (they are) |
+| avoir | `j'ai` (I have) | `tu as` (you have) | `il a` (he has) | `nous avons` (we have) | `vous avez` (you have) | `elles ont` (they have) |
+| aller | `je vais` (I go) | `tu vas` (you go) | `elle va` (she goes) | `nous allons` (we go) | `vous allez` (you go) | `ils vont` (they go) |
+| faire | `je fais` (I do) | `tu fais` (you do) | `il fait` (he does) | `nous faisons` (we do) | `vous faites` (you do) | `elles font` (they do) |
+| venir | `je viens` (I come) | `tu viens` (you come) | `elle vient` (she comes) | `nous venons` (we come) | `vous venez` (you come) | `ils viennent` (they come) |
+| prendre | `je prends` (I take) | `tu prends` (you take) | `il prend` (he takes) | `nous prenons` (we take) | `vous prenez` (you take) | `elles prennent` (they take) |
+| pouvoir | `je peux` (I can) | `tu peux` (you can) | `elle peut` (she can) | `nous pouvons` (we can) | `vous pouvez` (you can) | `ils peuvent` (they can) |
+| vouloir | `je veux` (I want) | `tu veux` (you want) | `il veut` (he wants) | `nous voulons` (we want) | `vous voulez` (you want) | `elles veulent` (they want) |
+| devoir | `je dois` (I must) | `tu dois` (you must) | `elle doit` (she must) | `nous devons` (we must) | `vous devez` (you must) | `ils doivent` (they must) |
+| savoir | `je sais` (I know) | `tu sais` (you know) | `il sait` (he knows) | `nous savons` (we know) | `vous savez` (you know) | `elles savent` (they know) |
+| dire | `je dis` (I say) | `tu dis` (you say) | `elle dit` (she says) | `nous disons` (we say) | `vous dites` (you say) | `ils disent` (they say) |
+| partir | `je pars` (I leave) | `tu pars` (you leave) | `il part` (he leaves) | `nous partons` (we leave) | `vous partez` (you leave) | `elles partent` (they leave) |
 
-Negation surrounds the finite verb: `Je ne comprends pas.` Questions can use est-ce que: `Est-ce que vous venez ?` After a modal verb, the next verb stays infinitive: `Je peux venir.` With depuis and an ongoing situation, French uses the present: `J'habite ici depuis deux ans.` English often uses a perfect form instead.
+Negation surrounds the finite verb: `Je ne comprends pas.` (I do not understand.) Questions can use est-ce que: `Est-ce que vous venez ?` (Are you coming?) After a modal verb, the next verb stays infinitive: `Je peux venir.` (I can come.) With depuis and an ongoing situation, French uses the present: `J'habite ici depuis deux ans.` (I have lived here for two years.) English often uses a perfect form instead.
 
 ### Meaning checkpoint
 
 Choose a form: (1) every Saturday, we do the shopping; (2) I have been living here for a month; (3) the bus leaves tomorrow at eight.
 
 :::answer
-1. `Nous faisons les courses tous les samedis.` — present habit; faites belongs to vous, not nous.
-2. `J'habite ici depuis un mois.` — the situation is still continuing.
-3. `Le bus part demain à huit heures.` — present with a scheduled future context.
+1. `Nous faisons les courses tous les samedis.` (We do the shopping every Saturday.) — present habit; faites belongs to vous, not nous.
+2. `J'habite ici depuis un mois.` (I have lived here for a month.) — the situation is still continuing.
+3. `Le bus part demain à huit heures.` (The bus leaves tomorrow at eight.) — present with a scheduled future context.
 :::
 
 ## English-to-French Translation Practice (100 Sentences)

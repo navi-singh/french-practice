@@ -168,6 +168,78 @@ class TranslationTableTests(unittest.TestCase):
         self.assertNotIn("translation-table", html)
 
 
+class ConjugationTableTests(unittest.TestCase):
+    """Six-person paradigms get one column per pronoun so the learner can
+    compare the same person across verbs."""
+
+    TABLE = (
+        "| Verb | je | tu | il/elle | nous | vous | ils/elles |\n"
+        "| --- | --- | --- | --- | --- | --- | --- |\n"
+        "| être | `je suis` (I am) | `tu es` (you are) | `elle est` (she is) "
+        "| `nous sommes` (we are) | `vous êtes` (you are) | `ils sont` (they are) |\n"
+    )
+    PRONOUNS = ["je", "tu", "il/elle", "nous", "vous", "ils/elles"]
+    CHAPTERS = (17, 18, 19, 20, 21, 22, 24)
+
+    def test_pronoun_header_is_marked_as_conjugation_table(self):
+        html = build_site.markdown_to_html(self.TABLE)
+        self.assertIn('<table class="conjugation-table">', html)
+        self.assertNotIn("translation-table", html)
+
+    def test_cells_keep_french_speakable_and_meaning_outside(self):
+        html = build_site.markdown_to_html(self.TABLE)
+        self.assertIn('<td><code class="speakable" lang="fr">ils sont</code> (they are)</td>', html)
+
+    def test_other_tables_are_not_conjugation_tables(self):
+        html = build_site.markdown_to_html("| Verb | Stem |\n|---|---|\n| être | ser- |\n")
+        self.assertNotIn("conjugation-table", html)
+
+    def test_no_paradigm_is_left_in_one_comma_separated_cell(self):
+        for number in self.CHAPTERS:
+            path = next(build_site.ROOT.glob(f"chapter-{number}-*/lessons.md"))
+            source = path.read_text(encoding="utf-8")
+            with self.subTest(chapter=number):
+                self.assertNotIn("| je, tu, il/elle, nous, vous, ils/elles |", source)
+                headers = [
+                    [cell.strip() for cell in line.strip("|").split("|")]
+                    for line in source.splitlines()
+                    if line.startswith("| ") and "| je | tu |" in line
+                ]
+                self.assertTrue(headers)
+                for header in headers:
+                    self.assertEqual(header[1:], self.PRONOUNS)
+
+
+class LessonMeaningTests(unittest.TestCase):
+    """Chapters 17-25 give English meanings in brackets after French examples;
+    English must never sit inside a speakable span."""
+
+    def lesson_teaching(self, number):
+        path = next(build_site.ROOT.glob(f"chapter-{number}-*/lessons.md"))
+        return path.read_text(encoding="utf-8").split("| English | French |")[0]
+
+    def test_conjugation_cells_carry_meanings(self):
+        for number in (17, 19, 20, 21, 22, 24):
+            source = self.lesson_teaching(number)
+            rows = [
+                line for line in source.splitlines()
+                if line.startswith("| ") and line.count("|") == 8 and "`" in line
+            ]
+            with self.subTest(chapter=number):
+                self.assertTrue(rows)
+                for row in rows:
+                    for cell in row.strip("|").split("|")[1:]:
+                        self.assertRegex(cell.strip(), r"^`[^`]+` \([^()]+\)$", row)
+
+    def test_meanings_stay_outside_backticks(self):
+        for number in range(17, 26):
+            source = self.lesson_teaching(number)
+            with self.subTest(chapter=number):
+                self.assertGreater(len(re.findall(r"`[^`]+` \([^()`]+\)", source)), 40)
+                for span in re.findall(r"`([^`]+)`", source):
+                    self.assertNotRegex(span, r"\((?:I|you|he|she|we|they|it) ")
+
+
 class OutlineTests(unittest.TestCase):
     def test_outline_lists_second_level_headings_in_order(self):
         sections = build_site.outline("# Title\n\n## First\n\ntext\n\n## Second\n")

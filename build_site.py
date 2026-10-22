@@ -127,11 +127,16 @@ def markdown_to_html(source):
                 # The English/French drill tables get their own markup so the
                 # site can lay them out as two equal columns and mask answers.
                 drill = [cell.lower() for cell in headers] == ["english", "french"]
+                conjugation = [cell.lower() for cell in headers[1:]] == [
+                    "je", "tu", "il/elle", "nous", "vous", "ils/elles"
+                ]
                 if drill:
                     output.append(
                         '<div class="table-wrap translation-wrap">'
                         '<table class="translation-table"><thead><tr>'
                     )
+                elif conjugation:
+                    output.append('<div class="table-wrap"><table class="conjugation-table"><thead><tr>')
                 else:
                     output.append('<div class="table-wrap"><table><thead><tr>')
                 output.extend(f"<th>{inline(cell)}</th>" for cell in headers)
