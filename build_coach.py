@@ -29,6 +29,11 @@ def build_coach(root, render):
     def activity(item):
         register(item.get("id"))
         require(item.get("skill") in SKILLS, f"Invalid skill: {item['id']}")
+        if "support" in item:
+            require(isinstance(item["support"], dict), f"Invalid English support: {item['id']}")
+            text(item["support"].get("prompt"), f"English task guidance: {item['id']}")
+            if item.get("type") == "choice":
+                text(item["support"].get("explanation"), f"English feedback: {item['id']}")
         for key in ("title", "prompt"):
             text(item.get(key), f"{key}: {item['id']}")
         if item.get("type") == "choice":
@@ -93,14 +98,44 @@ def build_coach(root, render):
                 f"Mixed practice purposes required: {path}")
         require({a.get("skill") for a in chapter.get("activities", [])} == SKILLS,
                 f"All four skills required: {path}")
+        if chapter["number"] >= 17:
+            number = chapter["number"]
+            extension = json.loads((source / "stretch" / f"{number:02d}.json").read_text(encoding="utf-8"))
+            text(extension.get("title"), f"English chapter title: {path}")
+            support = extension.get("support")
+            require(isinstance(support, dict)
+                    and set(support) == {a["id"] for a in chapter["activities"]},
+                    f"English support must cover every original activity: {path}")
+            for item in chapter["activities"]:
+                item["support"] = support[item["id"]]
+                item["lang"] = "fr"
+                item["rubricLang"] = "fr"
+            extra = extension.get("activities", [])
+            require(len(extra) == 4 and {a.get("skill") for a in extra} == SKILLS,
+                    f"Need one stretch task per skill: {path}")
+            for item in extra:
+                require(item.get("id", "").startswith(f"c{number}-stretch-"),
+                        f"Stretch task must have a new chapter-specific ID: {path}")
+                require("support" in item, f"Missing stretch English support: {path}")
+                item.update(stretch=True, lang="fr", rubricLang="en")
+            chapter["activities"].extend(extra)
+            chapter["frenchTitle"] = chapter["title"]
+            chapter["title"] = extension["title"]
+            chapter["frenchHtml"] = render(chapter.pop("lessons"))
+            lesson = (source / "lessons" / f"{number:02d}.md").read_text(encoding="utf-8")
+            text(lesson, f"English lesson: {path}")
+            chapter["html"] = render(lesson)
+        else:
+            chapter["html"] = render(chapter.pop("lessons"))
         for item in chapter["activities"]:
             activity(item)
-        chapter["html"] = render(chapter.pop("lessons"))
         chapters.append(chapter)
     require([c["number"] for c in chapters] == list(range(1, 25)),
             "French coach plan requires teaching chapters 1–24")
     require(len(all_french) >= 2400, "Need at least 2,400 distinct coach bank sentences")
 
+    assessment_french = json.loads((source / "assessment-fr.json").read_text(encoding="utf-8"))
+    translated_ids = set()
     assessments = []
     for path in sorted((source / "assessments").glob("*.json")):
         assessment = json.loads(path.read_text(encoding="utf-8"))
@@ -119,6 +154,20 @@ def build_coach(root, render):
             require(section.get("items"), f"Empty section: {path}")
             for item in section["items"]:
                 require(item.get("skill") == section["skill"], f"Wrong section skill: {item.get('id')}")
+                if assessment["kind"] != "mock":
+                    translated = assessment_french.get(item["id"])
+                    require(isinstance(translated, dict), f"Missing French task: {item['id']}")
+                    text(translated.get("prompt"), f"French prompt: {item['id']}")
+                    item["support"] = {"prompt": item["prompt"]}
+                    if item["type"] == "choice":
+                        item["support"]["explanation"] = item["explanation"]
+                        require(len(translated.get("options", [])) == 4,
+                                f"Missing French answer options: {item['id']}")
+                        item["options"] = translated["options"]
+                    item["prompt"] = translated["prompt"]
+                    item["rubricLang"] = "en"
+                    translated_ids.add(item["id"])
+                item["lang"] = "fr"
                 activity(item)
         if assessment["kind"] == "mock":
             expected = {"listening": (39, 2100), "reading": (39, 3600),
@@ -136,14 +185,17 @@ def build_coach(root, render):
                             f"Incorrect writing word ranges: {path}")
         assessment["html"] = render(assessment.pop("intro"))
         assessments.append(assessment)
+    require(translated_ids == set(assessment_french), "Unexpected French assessment translation IDs")
     require(sorted(a["id"] for a in assessments) == sorted(
         ["diagnostic"] + [f"checkpoint-{n}" for n in range(1, 7)]
         + [f"mock-{n}" for n in range(1, 4)]
     ), "Need a diagnostic, six checkpoints, and three mocks")
     orientation = (source / "orientation.md").read_text(encoding="utf-8")
     text(orientation, "orientation")
+    target = (source / "nclc8.md").read_text(encoding="utf-8")
+    text(target, "NCLC 8 study route")
     return {"id": "coach", "title": "French coach plan", "chapters": chapters,
-            "assessments": assessments, "orientation": render(orientation)}
+            "assessments": assessments, "orientation": render(orientation), "target": render(target)}
 
 
 def write_coach(root, output, render):

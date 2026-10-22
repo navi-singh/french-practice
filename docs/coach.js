@@ -13,8 +13,6 @@
   const recordingURLs = new Set();
   let viewToken = 0;
   let recordingToken = 0;
-  let bankIndex = 0;
-  let bankChapter = "";
 
   const esc = (value) => escapeHtml(value);
   const link = (path, title) => `<a href="#/coach/${path}">${esc(title)}</a>`;
@@ -22,6 +20,12 @@
   const field = (id, title, options) => `<label for="${id}">${esc(title)}</label>
     <select id="${id}">${options.map(([v, t]) => `<option value="${esc(v)}">${esc(t)}</option>`).join("")}</select>`;
   const skills = ["listening", "reading", "speaking", "writing"];
+  const reviewCriteria = {
+    listening: ["Identify the final decision, speaker and purpose.", "Preserve conditions, exceptions and uncertainty.", "Explain the evidence and why a tempting alternative is wrong."],
+    reading: ["Identify who claims what and the intended reader/action.", "Track scope, deadlines, references and implied meaning.", "Do not turn an example, proposal or correlation into a proven general fact."],
+    speaking: ["Answer the exact question with relevant development and examples.", "Respond to follow-ups, qualify a claim and repair missing language.", "Review intelligibility, fluency, organization and grammatical control separately."],
+    writing: ["Fulfil every instruction and use a consistent reader/register.", "Develop reasons and preserve source meanings without copying or distortion.", "Check paragraph logic, references, tense, agreement and every required word range."],
+  };
   const skillChapters = {
     listening: "1, 5, 7, 18", reading: "3, 9, 16, 17",
     speaking: "2, 3, 19, 20, 21, 22", writing: "4, 10, 16, 23, 24",
@@ -79,9 +83,10 @@
   function frame(title, eyebrow = "French coach plan") {
     main.innerHTML = `<article class="content-card coach">
       <header class="document-header"><div class="eyebrow">${esc(eyebrow)}</div>
-      <h1>${esc(title)}</h1><p>Beginner to TCF Canada · NCLC 7 is a goal, not a course certificate.</p></header>
+      <h1>${esc(title)}</h1><p>Beginner to TCF Canada · NCLC 8 is a goal, not a course certificate.</p></header>
       <nav class="coach-toolbar" aria-label="Coach tools">
         ${link("", "Plan")}${link("orientation", "Start here")}${link("assessment/diagnostic", "Diagnostic")}
+        ${link("target", "NCLC 8 route")}
         ${link("progress", "Progress & error log")}${link("assessments", "Checkpoints & practice sets")}
       </nav><div id="coach-body"></div></article>`;
     return main.querySelector("#coach-body");
@@ -91,6 +96,9 @@
     const body = frame("A steady route to four-skill French");
     body.innerHTML = `<p>Start at zero, or use the diagnostic to find gaps. Work across listening, reading,
       speaking and writing from the beginning. Keep the original course available through the track selector.</p>
+      <p class="coach-notice"><strong>Target: NCLC 8 in all four abilities.</strong> English teaching stays available throughout.
+      Chapters 17–24 add 32 fresh stretch activities for inference, responsive interaction, argument and accurate synthesis.
+      ${link("target", "Follow the NCLC 8 route")} · Practice is unofficial and does not predict your score.</p>
       <div class="coach-notice"><strong>Daily core: 4 hours, 6 days a week</strong>
       <p>45 min retrieval/pronunciation + 45 listening + 40 reading + 45 speaking + 45 writing
       + 20 correction and spaced review. Take breaks; split blocks across the day.
@@ -164,93 +172,133 @@
       bankView(chapter, panel);
     } else if (tab === "practice") {
       panel.innerHTML = `<p>Try before revealing. Objective checks and self-assessments are different records.
-        Speaking models are examples, not a responsive examiner or the only correct response.</p>
-        <div class="coach-activity-grid">${chapter.activities.map((a, i) =>
-        `<button type="button" data-activity="${i}"><small>${esc(a.skill)}</small><strong>${esc(a.title)}</strong></button>`).join("")}</div>
+        Speaking models are examples, not a responsive examiner or the only correct response.
+        ${chapter.number >= 17 ? "Choose supported learning or a French-only run before starting." : "Use English instructions to build the foundations before French-only tasks in Chapters 17–24."}</p>
+        ${[false, true].map((stretch) => {
+          const items = chapter.activities.map((a, i) => ({ a, i })).filter(({ a }) => !!a.stretch === stretch);
+          return items.length ? `<h2>${stretch ? "NCLC 8 stretch · fresh transfer tasks" : "Core practice"}</h2>
+            ${stretch ? "<p>These new prompts target greater independence, not a calibrated NCLC level. Prior study completion does not mark them mastered.</p>" : ""}
+            <div class="coach-activity-grid">${items.map(({ a, i }) =>
+              `<button type="button" data-activity="${i}"><small>${esc(a.skill)}</small><strong>${esc(a.title)}</strong></button>`).join("")}</div>` : "";
+        }).join("")}
         <div id="activity-host"></div>`;
       panel.querySelectorAll("[data-activity]").forEach((b) => b.addEventListener("click", () => {
         cleanup();
         const item = chapter.activities[Number(b.dataset.activity)];
-        begin(chapter.id, { id: item.id, skill: item.skill, seconds: item.seconds || 600, items: [item] },
+        begin(`${chapter.id}${item.stretch ? "-stretch" : ""}`, { id: item.id, skill: item.skill, seconds: item.seconds || 600, items: [item] },
           false, panel.querySelector("#activity-host"));
       }));
     } else {
-      panel.innerHTML = `<section class="lesson-body" lang="${chapter.number >= 17 ? "fr" : "en"}">${chapter.html}</section>`;
+      panel.innerHTML = `<section class="lesson-body" lang="en">${chapter.html}</section>
+        ${chapter.frenchHtml ? `<details><summary>Optional French reading: ${esc(chapter.frenchTitle)}</summary>
+          <section class="lesson-body" lang="fr">${chapter.frenchHtml}</section></details>` : ""}`;
       bindSpeakableExamples();
     }
     completion(`${chapter.id}/${["bank", "practice"].includes(tab) ? tab : "lesson"}`, panel);
   }
 
   function bankView(chapter, host) {
-    if (bankChapter !== chapter.id) {
-      bankIndex = 0;
-      bankChapter = chapter.id;
-    }
-    bankIndex = Math.min(bankIndex, chapter.bank.length - 1);
-    host.innerHTML = `<p>Do 10–20 items per block, then revisit after a delay. A model is not the only natural answer.
+    let revealAnswers = [];
+    host.innerHTML = `<p>All ${chapter.bank.length} sentences are on this page. Try each prompt, then click its answer to reveal it.
+      A model is not the only natural answer.
       Pronunciation uses your French device voice; it is not pronunciation grading.</p>
       <div class="coach-fields">${field("bank-mode", "Practice mode", [
         ["purpose", "Use each item's practice purpose"], ["translation", "English to French recall"],
         ["listening", "Listen before reading"], ["comprehension", "Read, then recall the meaning"],
         ["oral-response", "Respond aloud"],
-      ])}<label for="bank-item">Sentence</label><input id="bank-item" type="number" min="1" max="${chapter.bank.length}" value="${bankIndex + 1}"></div>
-      <div id="bank-card"></div><div class="coach-toolbar">${button("bank-prev", "Previous")}${button("bank-next", "Next")}</div>`;
+      ])}</div>
+      <div class="coach-toolbar">${button("bank-show-all", "Reveal all answers")}${button("bank-hide-all", "Hide all answers")}</div>
+      <div id="bank-list" class="coach-bank-list"></div>`;
     function display() {
       audioCancel?.();
-      const item = chapter.bank[bankIndex];
+      revealAnswers = [];
       const selected = host.querySelector("#bank-mode").value;
-      const mode = selected === "purpose" ? item.purpose : selected;
-      const card = host.querySelector("#bank-card");
-      const prompt = selected === "purpose" ? item.prompt : {
-        translation: "Recall a natural French version of this meaning.",
-        listening: "Listen without reading French. Explain the meaning or a key detail.",
-        comprehension: "Read French, then recall its meaning before revealing it.",
-        "oral-response": "Use this meaning in a reply aloud. Vary the details without reading the French model.",
-      }[mode];
-      card.innerHTML = `<h2>Sentence ${bankIndex + 1} / ${chapter.bank.length}</h2><p class="eyebrow">${esc(mode)}</p>
-        <p lang="${selected === "purpose" && chapter.number >= 17 ? "fr" : "en"}">${esc(prompt)}</p>
+      const lateChapter = chapter.number >= 17;
+      const purposePrompt = {
+        translation: "Recall a natural French version of the English meaning.",
+        retrieval: "Express this meaning in French without reading the model.",
+        listening: "Listen first. Explain the meaning and any condition or important detail before revealing.",
+        comprehension: "Read the French. Explain its meaning, including restrictions and uncertainty, before revealing.",
+        "oral-response": "Give a natural reply aloud using this meaning; vary details without reading the French model.",
+        transformation: "Transform the input into a different natural French formulation. Use the target meaning as a guide.",
+      };
+      const list = host.querySelector("#bank-list");
+      list.innerHTML = chapter.bank.map((item, index) => {
+        const mode = selected === "purpose" ? item.purpose : selected;
+        const prompt = selected === "purpose" ? (lateChapter ? purposePrompt[mode] : item.prompt) : {
+          translation: "Recall a natural French version of this meaning.",
+          listening: "Listen without reading French. Explain the meaning or a key detail.",
+          comprehension: "Read French, then recall its meaning before revealing it.",
+          "oral-response": "Use this meaning in a reply aloud. Vary the details without reading the French model.",
+        }[mode];
+        const revealLabel = mode === "comprehension" ? "Reveal meaning & cue"
+          : mode === "listening" ? "Reveal transcript, meaning & cue"
+            : mode === "transformation" ? "Reveal model transformation & cue" : "Reveal French answer & cue";
+        return `<section class="coach-bank-row" aria-labelledby="bank-heading-${index}">
+        <div class="coach-bank-prompt"><h2 id="bank-heading-${index}">${index + 1}. <span>${esc(mode)}</span></h2>
+        <p lang="en">${esc(prompt)}</p>
         ${["translation", "retrieval", "oral-response"].includes(mode) ? `<p><strong>Meaning/goal cue:</strong> ${esc(item.en)}</p>` : ""}
-        ${mode === "listening" ? `${button("bank-listen", "Listen in French")}<p id="bank-audio-status" role="status"></p>` : ""}
+        ${mode === "listening" ? `<button type="button" class="bank-listen" aria-label="Listen to sentence ${index + 1} in French">Listen in French</button>
+          <p class="bank-audio-status" role="status"></p>` : ""}
         ${mode === "comprehension" ? `<p><code class="speakable" lang="fr">${esc(item.fr)}</code></p>` : ""}
-        ${mode === "transformation" ? `<p>Transform this input:</p><p><code class="speakable" lang="fr">${esc(item.source)}</code></p>` : ""}
-        ${button("bank-reveal", "Reveal French, meaning & cue")}<div id="bank-answer"></div>`;
-      card.querySelector("#bank-listen")?.addEventListener("click", () =>
-        play(item.fr, false, card.querySelector("#bank-listen"), (ok, message) => {
-          const status = card.querySelector("#bank-audio-status");
-          if (status) status.textContent = message;
-        }));
-      card.querySelector("#bank-reveal").addEventListener("click", (event) => {
-        event.currentTarget.disabled = true;
-        card.querySelector("#bank-answer").innerHTML = `<p><code class="speakable" lang="fr">${esc(item.fr)}</code></p>
-          <p>${esc(item.en)}</p><p class="hint">${esc(item.cue)}</p>
-          <p>Could you retrieve/use it without help? This is self-report, not objective marking.</p>
-          ${button("bank-recall", "Save: retrieved independently")}${button("bank-again", "Save: needs another review")}`;
-        bindSpeakableExamples();
-        for (const [id, reflection] of [["bank-recall", "retrieved independently"], ["bank-again", "needs review"]]) {
-          card.querySelector(`#${id}`).addEventListener("click", () => {
-            state.reflections[item.id] = { skill: mode, rating: reflection, date: new Date().toISOString() };
-            if (save()) showToast("Self-report saved on this device; revisit after a delay.");
-          });
-        }
+        ${mode === "transformation" ? `<p>Transform this input:</p><p><code class="speakable" lang="fr">${esc(item.source)}</code></p>
+          <p><strong>Target meaning:</strong> ${esc(item.en)}</p>` : ""}
+        </div><details class="bank-reveal"><summary aria-label="${revealLabel} for sentence ${index + 1}">${revealLabel}</summary>
+          <div class="bank-answer"></div></details></section>`;
+      }).join("");
+      list.querySelectorAll(".coach-bank-row").forEach((card, index) => {
+        const item = chapter.bank[index];
+        const mode = selected === "purpose" ? item.purpose : selected;
+        card.querySelector(".bank-listen")?.addEventListener("click", (event) =>
+          play(item.fr, false, event.currentTarget, (ok, message) => {
+            const status = card.querySelector(".bank-audio-status");
+            if (status) status.textContent = message;
+          }));
+        const disclosure = card.querySelector(".bank-reveal");
+        const answer = card.querySelector(".bank-answer");
+        const populate = () => {
+          if (answer.childElementCount) return false;
+          answer.innerHTML = `${mode !== "comprehension" ? `<p><code class="speakable" lang="fr">${esc(item.fr)}</code></p>` : ""}
+          <p lang="en">${esc(item.en)}</p>
+          ${lateChapter ? `<p class="hint" lang="en">Check the model against your attempt: preserve who acts, time, conditions and scope.
+            Use the English lesson to review the language point.</p>
+            <details><summary>Original French question & language cue</summary>
+              <p lang="fr">${esc(item.prompt)}</p><p class="hint" lang="fr">${esc(item.cue)}</p></details>`
+            : `<p class="hint">${esc(item.cue)}</p>`}
+          <p class="hint">Self-report, not objective marking:</p>
+          <div class="coach-toolbar"><button type="button" data-rating="retrieved independently">Retrieved independently</button>
+            <button type="button" data-rating="needs review">Needs review</button></div>
+          <p class="bank-rating" role="status"></p>`;
+          const rating = answer.querySelector(".bank-rating");
+          const previous = state.reflections[item.id];
+          if (previous) rating.textContent = `Last report: ${previous.rating} (${previous.skill}).`;
+          answer.querySelectorAll("[data-rating]").forEach((control) => control.addEventListener("click", () => {
+            state.reflections[item.id] = { skill: mode, rating: control.dataset.rating, date: new Date().toISOString() };
+            rating.textContent = save() ? `Saved: ${control.dataset.rating}.` : "Not saved to this device; export current progress before leaving.";
+          }));
+          return true;
+        };
+        disclosure.addEventListener("toggle", () => {
+          if (disclosure.open && populate()) bindSpeakableExamples();
+        });
+        disclosure.querySelector("summary").addEventListener("click", () => {
+          if (!disclosure.open && populate()) bindSpeakableExamples();
+        });
+        revealAnswers.push(populate);
       });
-      host.querySelector("#bank-item").value = String(bankIndex + 1);
-      host.querySelector("#bank-prev").disabled = bankIndex === 0;
-      host.querySelector("#bank-next").disabled = bankIndex === chapter.bank.length - 1;
       bindSpeakableExamples();
     }
     host.querySelector("#bank-mode").addEventListener("change", display);
-    host.querySelector("#bank-item").addEventListener("change", (event) => {
-      const value = Number(event.target.value);
-      if (!Number.isInteger(value) || value < 1 || value > chapter.bank.length) {
-        showToast("Choose a sentence number within this chapter.");
-        event.target.value = String(bankIndex + 1);
-        return;
-      }
-      bankIndex = value - 1;
-      display();
-    });
-    for (const [id, delta] of [["bank-prev", -1], ["bank-next", 1]]) {
-      host.querySelector(`#${id}`).addEventListener("click", () => { bankIndex += delta; display(); });
+    for (const [id, open] of [["bank-show-all", true], ["bank-hide-all", false]]) {
+      host.querySelector(`#${id}`).addEventListener("click", () => {
+        if (open) {
+          revealAnswers.forEach((populate) => populate());
+          bindSpeakableExamples();
+        }
+        host.querySelectorAll(".coach-bank-row").forEach((card) => {
+          card.querySelector(".bank-reveal").open = open;
+        });
+      });
     }
     display();
   }
@@ -268,7 +316,8 @@
     body.innerHTML = `<section class="lesson-body">${assessment.html}</section>
       <p class="coach-notice">Original, unofficial practice. Synthetic audio cannot establish readiness for authentic
       exam listening. Objective raw counts are not TCF/NCLC scores. Complete all four sections for full-format practice;
-      section breaks and manual solo role play are practice conveniences, not official exam conditions.</p>
+      section breaks and manual solo role play are practice conveniences, not official exam conditions.
+      ${assessment.kind !== "mock" ? "Task instructions/options now use French; earlier English-supported records are retained but are not directly comparable." : ""}</p>
       <div class="coach-activity-grid">${assessment.sections.map((section, i) => {
         const count = state.exposures.filter((a) => a.owner === assessment.id && a.skill === section.skill).length;
         return `<button type="button" data-section="${i}"><strong>${esc(section.title)}</strong>
@@ -283,25 +332,31 @@
 
   function begin(owner, section, exam, host) {
     const repeats = state.exposures.filter((a) => a.owner === owner && a.skill === section.skill).length;
+    const offersFrenchOnly = !exam && section.items.every((item) => item.lang === "fr");
     host.innerHTML = `<h2>${esc(section.title || section.items[0].title)}</h2>
       <p>${exam ? "Exam-style: normal-speed, one successful audio play per item; no transcript or marking until you finish."
-        : "Learning mode: replay and slow speech are available; attempt before feedback."}</p>
+        : `Learning mode permits replay and slower speech. Attempt first, then request English guidance if available; its use is recorded.
+          ${offersFrenchOnly ? "French-only practice withholds assistance until review." : "This foundation activity uses English instructions; French-only tasks begin in Chapters 17–24."}`}</p>
+      ${offersFrenchOnly ? `<div class="coach-fields">${field("attempt-mode", "Practice conditions", [
+        ["learning", "Supported learning"], ["independent", "French-only practice · no help until review"],
+      ])}</div>` : ""}
       <p>${repeats ? `Repeat attempt ${repeats + 1}. Previous starts, including unfinished attempts, can inflate performance.` : "First recorded start on this device."}</p>
       ${section.skill === "speaking" && !owner.startsWith("mock-") ? "<p>The section clock is an overall maximum. Individual task timers are suggested practice windows; you control when to move between tasks.</p>" : ""}
       <p>Starting another section or navigating away discards this unfinished attempt and unsaved recordings.
       Download any recording before continuing.</p>${button("start-attempt", "Start timed attempt")}`;
     host.querySelector("#start-attempt").addEventListener("click", () => {
+      const frenchOnly = exam || (offersFrenchOnly && host.querySelector("#attempt-mode").value === "independent");
       const exposure = { owner, skill: section.skill, date: new Date().toISOString(), finished: false };
       state.exposures.push(exposure);
       save();
-      session = { owner, section, exam, host, index: 0, responses: {}, played: new Set(),
+      session = { owner, section, exam: frenchOnly, host, index: 0, responses: {}, played: new Set(), supportUsed: new Set(),
         timedSpeaking: exam && owner.startsWith("mock-") && section.skill === "speaking",
         recordings: [], deadline: Date.now() + section.seconds * 1000, repeats,
         started: exposure.date, exposure, finished: false };
       lastSelectedText = "";
       getSelection()?.removeAllRanges();
       if ("speechSynthesis" in window) speechSynthesis.cancel();
-      document.querySelector(".speak-bar").hidden = exam;
+      document.querySelector(".speak-bar").hidden = frenchOnly;
       timer = setInterval(() => {
         if (!session || session.finished) return;
         updateClock();
@@ -321,13 +376,17 @@
   function renderAttempt() {
     const current = session;
     const item = current.section.items[current.index];
-    const contentLang = current.owner.startsWith("mock-")
-      || (current.owner.startsWith("chapter-") && Number(current.owner.slice(8)) >= 17) ? "fr" : "en";
+    const contentLang = item.lang || (current.owner.startsWith("mock-")
+      || (current.owner.startsWith("chapter-") && Number(current.owner.slice(8)) >= 17) ? "fr" : "en");
     const response = current.responses[item.id] || {};
     const host = current.host;
     host.innerHTML = `<section class="coach-attempt"><p id="attempt-clock" role="timer" aria-live="off"></p>
       <p>${esc(current.section.skill)} · ${current.index + 1}/${current.section.items.length}</p>
-      <h2>${esc(item.title)}</h2><p lang="${contentLang}">${esc(item.prompt)}</p>
+      <h2>${current.exam ? `${item.type === "choice" ? "Question" : "Tâche"} ${current.index + 1}` : esc(item.title)}</h2>
+      <p lang="${contentLang}">${esc(item.prompt)}</p>
+      ${!current.exam && item.support ? `<p class="hint">Choose an answer or mark your production attempted before requesting English guidance.</p>
+        ${button("english-guidance", "I've tried — show English task guidance")}
+        <div id="english-guidance-text"></div>` : ""}
       ${item.passage ? `<blockquote lang="fr">${esc(item.passage)}</blockquote>` : ""}
       ${item.script ? `<p>Synthetic French voice · ${current.exam ? "normal speed, one delivered play" : "your selected learning speed"}</p>
         ${button("listen-task", current.played.has(item.id) && current.exam ? "Audio already delivered" : "Play listening audio")}
@@ -350,6 +409,22 @@
       ${button("attempt-finish", "Finish attempt & review")}</div>
       <p class="hint">Unanswered tasks are recorded as unattempted, not as mastery. Leaving loses unfinished work.</p></section>`;
     updateClock();
+    const guidance = host.querySelector("#english-guidance");
+    const attempted = () => {
+      const saved = current.responses[item.id] || {};
+      return saved.choice !== undefined || !!saved.done;
+    };
+    if (guidance) {
+      const reveal = () => {
+        current.supportUsed.add(item.id);
+        host.querySelector("#english-guidance-text").innerHTML =
+          `<p lang="en">${esc(item.support.prompt)}</p><p class="hint">English support used: this is supported learning, not independent evidence.</p>`;
+        guidance.disabled = true;
+      };
+      guidance.disabled = !attempted();
+      guidance.addEventListener("click", reveal);
+      if (current.supportUsed.has(item.id)) reveal();
+    }
     if (item.script) {
       const listen = host.querySelector("#listen-task");
       listen.disabled = current.exam && current.played.has(item.id);
@@ -371,6 +446,7 @@
     }
     host.querySelectorAll('input[name="coach-answer"]').forEach((input) => input.addEventListener("change", () => {
       current.responses[item.id] = { choice: Number(input.value) };
+      if (guidance && !current.supportUsed.has(item.id)) guidance.disabled = false;
     }));
     const text = host.querySelector("#production-response");
     if (text) {
@@ -378,6 +454,7 @@
         const words = text.value.trim() ? text.value.trim().split(/\s+/u).length : 0;
         host.querySelector("#word-count").textContent = `${words} words${item.minWords && words < item.minWords ? " — below range" : ""}${item.maxWords && words > item.maxWords ? " — above range" : ""}`;
         current.responses[item.id] = { text: text.value, done: host.querySelector("#production-done").checked };
+        if (guidance && !current.supportUsed.has(item.id)) guidance.disabled = !attempted();
       };
       text.addEventListener("input", update);
       host.querySelector("#production-done").addEventListener("change", update);
@@ -534,10 +611,10 @@
       const delivered = !item.script || current.played.has(item.id);
       return { id: item.id, type: item.type, attempted: item.type === "choice" ? response.choice !== undefined : !!response.done,
         validAudio: delivered, correct: item.type === "choice" && delivered && response.choice === item.answer,
-        choice: response.choice, text: response.text || "", self: null };
+        choice: response.choice, text: response.text || "", self: null, supportUsed: current.supportUsed.has(item.id) };
     });
     const result = { owner: current.owner, skill: current.section.skill, date: new Date().toISOString(),
-      started: current.started, repeat: current.repeats > 0, expired, items: rows };
+      started: current.started, repeat: current.repeats > 0, expired, mode: current.exam ? "french-only" : "learning", items: rows };
     state.attempts.push(result);
     save();
     document.querySelector(".speak-bar").hidden = false;
@@ -549,8 +626,16 @@
       ${rows.filter((r) => !r.validAudio).length} item(s) without delivered audio are invalid for listening evidence.
       No NCLC/TCF score is calculated.</p>
       <p>${current.repeats ? "Repeat: useful retrieval practice, not fresh readiness evidence." : "First recorded exposure on this device only."}</p>
+      <p>${current.exam ? "French-only practice conditions." : "Learning conditions: replay/transcript access was available."}
+        ${rows.filter((r) => r.supportUsed).length} task(s) used English guidance. These are not independent NCLC evidence.</p>
+      <details><summary>English self-review: work toward NCLC 8</summary><ul>
+        ${reviewCriteria[current.section.skill].map((criterion) => `<li>${esc(criterion)}</li>`).join("")}</ul>
+        <p>Check each criterion separately on a fresh prompt. This checklist is not an examiner rubric or a score conversion.
+        ${link("target", "Review the complete NCLC 8 route")}</p></details>
       <p>${esc(remediation(current.section.skill, current.owner))}</p>
       ${current.owner === "diagnostic" ? `<div class="coach-notice"><strong>Suggested study route (not a level score)</strong>
+        <p>This diagnostic now uses French task instructions/options. Earlier records from English-supported versions are not directly comparable.
+        Difficulty decoding instructions is a reason to use the beginner route, not a predicted NCLC result.</p>
         <p>${rows.some((r) => r.type === "choice" && (!r.correct || !r.validAudio))
           ? "There are comprehension gaps in this skill. Start with Chapters 1–4 and the specific missed details; use the first checkpoint before deciding to move faster."
           : rows.some((r) => r.type === "choice")
@@ -562,12 +647,17 @@
         const row = rows[i];
         return `<section class="coach-feedback"><h3>${i + 1}. ${esc(item.title)}</h3>
           <p>${row.attempted ? "Attempted" : "Unattempted"}${!row.validAudio ? " · audio not delivered: invalid listening evidence" : ""}</p>
+          ${item.support ? `<details><summary>English task guidance${row.supportUsed ? " · used during learning" : " · review only"}</summary>
+            <p lang="en">${esc(item.support.prompt)}</p></details>` : ""}
           ${item.script ? `<details><summary>French listening transcript</summary><p lang="fr">${esc(item.script)}</p></details>` : ""}
           ${item.type === "choice" ? `<p>Your answer: ${row.choice === undefined ? "none" : esc(item.options[row.choice])}</p>
-            <p><strong>${row.correct ? "Correct" : "Review"}:</strong> ${esc(item.options[item.answer])}</p><p>${esc(item.explanation)}</p>`
+            <p><strong>${row.correct ? "Correct" : "Review"}:</strong> ${esc(item.options[item.answer])}</p>
+            ${item.support?.explanation ? `<p lang="en">${esc(item.support.explanation)}</p>
+              ${item.explanation !== item.support.explanation ? `<details><summary>French explanation</summary><p lang="fr">${esc(item.explanation)}</p></details>` : ""}`
+              : `<p>${esc(item.explanation)}</p>`}`
             : `<p>Your saved response/notes:</p><blockquote>${esc(row.text || "(Spoken or no text recorded)")}</blockquote>
             <details><summary>Illustrative model & self-check rubric</summary><p lang="fr">${esc(item.model)}</p>
-            <ul>${item.rubric.map((r) => `<li>${esc(r)}</li>`).join("")}</ul></details>
+            <ul lang="${item.rubricLang || (current.owner.startsWith("mock-") ? "fr" : "en")}">${item.rubric.map((r) => `<li>${esc(r)}</li>`).join("")}</ul></details>
             <label for="self-${i}">Self-assessment (not examiner grading)</label>
             <select id="self-${i}" data-self="${i}"><option value="">Choose after comparing</option>
             <option>Needs guided practice</option><option>Partly independent</option><option>Independent on this task</option></select>`}</section>`;
@@ -593,7 +683,7 @@
 
   function remediation(skill, owner = "") {
     const phase = /^checkpoint-([1-6])$/.exec(owner);
-    const chapter = /^chapter-(\d+)$/.exec(owner);
+    const chapter = /^chapter-(\d+)(?:-stretch)?$/.exec(owner);
     const focus = phase ? `First revisit Chapters ${Number(phase[1]) * 4 - 3}–${Number(phase[1]) * 4}, especially the ${skill} tasks. `
       : chapter ? `First revisit Chapter ${Number(chapter[1])}'s ${skill} task and explanations. ` : "";
     return `${focus}For broader ${skill} support, use Chapters ${skillChapters[skill]}. Identify a missed detail or task criterion, correct it,
@@ -767,9 +857,11 @@
         .map((b) => `<li>${link(`${c.id}/bank`, `Chapter ${c.number}, sentence ${c.bank.indexOf(b) + 1}`)} · needs review</li>`))
         .slice(0, 30).join("") || "<li>No items marked for another review.</li>"}</ul>
       <h2>Attempt history</h2><details><summary>Inspect recorded tasks and self-assessment</summary>
-      ${state.attempts.map((a) => `<section><h3>${esc(a.owner)} · ${esc(a.skill)}</h3><p>${esc(a.date)} · ${a.repeat ? "repeat" : "first recorded attempt"}</p>
+      ${state.attempts.map((a) => `<section><h3>${esc(a.owner)} · ${esc(a.skill)}</h3><p>${esc(a.date)} · ${a.repeat ? "repeat" : "first recorded attempt"}
+        · ${a.mode ? esc(a.mode) : "conditions not recorded in earlier version"}</p>
         <ul>${a.items.map((i) => `<li>${esc(i.id)}: ${i.attempted ? "attempted" : "unattempted"} ·
-          ${i.type === "choice" ? `${i.correct ? "correct" : "incorrect/unanswered"}${i.validAudio === false ? " (audio invalid)" : ""}` : esc(i.self || "not self-assessed")}</li>`).join("")}</ul></section>`).join("") || "<p>No attempts recorded.</p>"}</details>
+          ${i.type === "choice" ? `${i.correct ? "correct" : "incorrect/unanswered"}${i.validAudio === false ? " (audio invalid)" : ""}` : esc(i.self || "not self-assessed")}
+          ${i.supportUsed ? " · English support used" : ""}</li>`).join("")}</ul></section>`).join("") || "<p>No attempts recorded.</p>"}</details>
       <h2>Error log</h2><form id="error-form">${field("error-skill", "Skill", skills.map((s) => [s, s]))}
       <label for="error-note">What went wrong, your correction, and when to revisit</label>
       <textarea id="error-note" required maxlength="3000" rows="4" placeholder="Example: confused depuis / pendant; correct phrase and fresh example; revisit in 3 days."></textarea>
@@ -856,6 +948,10 @@
     load();
     const [id, sub] = parts;
     if (!id) home();
+    else if (id === "target") {
+      frame("Your route toward NCLC 8").innerHTML = `<section class="lesson-body" lang="en">${data.target}</section>`;
+      bindSpeakableExamples();
+    }
     else if (id === "orientation") {
       frame("Start here: your study plan").innerHTML = `<section class="lesson-body">${data.orientation}</section>
         <h2>Reference sources</h2><p>References, not required off-site homework:
@@ -864,7 +960,7 @@
         <a href="https://www.france-education-international.fr/document/tcf-tp-qc-ca-exemple-epreuve-ee" target="_blank" rel="noopener noreferrer">FEI writing task instructions</a> ·
         <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/language-test.html" target="_blank" rel="noopener noreferrer">IRCC: language scores</a> ·
         <a href="https://www.psychologicalscience.org/publications/journals/pspi/learning-techniques.html" target="_blank" rel="noopener noreferrer">Retrieval and distributed-practice evidence</a>.
-        Retrieval/spacing evidence does not prove this exact chapter order or a fixed time to NCLC 7.</p>`;
+        Retrieval/spacing evidence does not prove this exact chapter order or a fixed time to NCLC 8.</p>`;
       bindSpeakableExamples();
     } else if (id === "progress") progress();
     else if (id === "assessments") assessments();

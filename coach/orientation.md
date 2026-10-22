@@ -12,14 +12,20 @@ Strong English or a previous French course cannot establish your current French 
 
 TCF Canada has four mandatory abilities. France Éducation international's TCF Canada page lists 39 listening questions in 35 minutes, 39 reading questions in 60 minutes, three writing tasks in 60 minutes, and three speaking tasks in 12 minutes including two minutes of preparation. Those are the official section-level formats, not a promise that these original practice tasks reproduce an official administration.
 
-For the stated Express Entry NCLC 7 goal, the minimums to track separately are:
+For the upgraded Express Entry **NCLC 8** goal, track each ability separately:
 
 | Ability | Minimum target |
 | --- | ---: |
-| Listening | 458 |
-| Reading | 453 |
-| Speaking | 10/20 |
-| Writing | 10/20 |
+| Listening | 503 |
+| Reading | 499 |
+| Speaking | 12/20 |
+| Writing | 12/20 |
+
+NCLC 7 corresponds to listening 458–502, reading 453–498 and speaking/writing 10–11/20. NCLC 8 corresponds to listening 503–522, reading 499–523 and speaking/writing 12–13/20. Higher levels also meet a minimum-NCLC-8 target. The exam format does not change with your target.
+
+Use **NCLC 8 route** in the coach navigation for the phased transfer plan and self-review criteria. Chapters 17–24 now offer English teaching explanations and four new stretch activities each. Their original French explanations remain optional reading. The banks retain at least 100 items per chapter.
+
+English supports learning, not exam performance: first attempt the French task, then explicitly request English guidance in learning mode. This use is recorded as assistance, not independent evidence. French-only chapter runs, checkpoints and mocks withhold help until review. Models and explanations remain unavailable until an attempt is finished.
 
 These figures are score thresholds, not practice percentages. The assessments here have not been psychometrically calibrated to TCF scores; **never convert a number or percentage of correct practice answers into an NCLC level**. Practice completion, objective responses, and speaking/writing self-assessment are different kinds of evidence. Only an accepted official examination establishes an official result. Check current IRCC requirements and the official FEI pages before registering, since rules and materials can change.
 

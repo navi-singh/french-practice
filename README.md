@@ -106,7 +106,7 @@ Record chapter status in [`progress-tracker.csv`](progress-tracker.csv).
 ### French coach plan
 
 The website offers two separate **Learning track** options: the original course
-below and **French coach plan**, a beginner-to-TCF Canada route targeting NCLC 7
+below and **French coach plan**, a beginner-to-TCF Canada route targeting NCLC 8
 in all four skills. The coach track does not replace or renumber the original
 chapters, and its local progress is stored separately.
 
@@ -117,9 +117,28 @@ practice sets. Each chapter has **Learn & review**, a **100/102-sentence bank**,
 and **Four-skill practice** tabs. Bank modes include English-to-French recall,
 listening before reading, comprehension, and oral responses.
 
+Every sentence bank shows all 100/102 items on one scrollable page. Each item
+has a click-to-reveal answer, with **Reveal all answers / Hide all answers**
+controls. Listening starts with audio, comprehension shows French before its
+English meaning, and transformations show the source and target meaning.
+Desktop places prompts beside answers; mobile stacks them. French remains
+tappable for pronunciation, and optional recall ratings are saved per item.
+
+The **NCLC 8 route** explains the official thresholds (503 listening,
+499 reading, and 12/20 speaking/writing) and a progressive transfer plan.
+English teaching explanations continue through Chapters 17–24, with their
+original French explanations available as optional reading. Those chapters add
+32 original stretch activities, bringing the track to 179 activities.
+These are practice aims, not calibrated NCLC levels or a guarantee of success.
+
 Listening uses synthetic device speech, not recordings of real TCF speakers.
 Exam mode fixes playback at normal speed and limits successful plays; learning
-mode permits replay, slower audio, and transcript disclosure. Timed practice,
+mode permits replay, slower audio, and transcript disclosure. In Chapters
+17–24, English task guidance is available after selecting an answer or marking
+a production attempt; explicit use is recorded. **French-only practice**
+withholds that guidance, replay and transcripts until review. Checkpoints and
+the diagnostic now use French task prompts/options; earlier English-supported
+records are retained but are not directly comparable. Timed practice,
 writing word counts, models, and self-check rubrics support solo study but do
 not predict an official NCLC score. Only an official examination establishes
 your results.
@@ -132,6 +151,10 @@ to export your records or explicitly reset only the coach track.
 
 Author coach lessons and banks in `coach/chapters/*.json`, assessments in
 `coach/assessments/*.json`, and the study plan in `coach/orientation.md`.
+The advanced English lessons are in `coach/lessons/*.md`; their English task
+support and new activities are in `coach/stretch/*.json`. French translations
+of diagnostic/checkpoint task material are in `coach/assessment-fr.json`, while
+`coach/nclc8.md` supplies the target-specific study route.
 `python3 build_site.py` validates both tracks and regenerates `docs/content.js`
 and `docs/coach-content.js`; do not edit those generated files by hand.
 

@@ -73,13 +73,88 @@ class CoachBuildTests(unittest.TestCase):
                 (build_site.ROOT / "coach" / "assessments"
                  / f"{assessment['id']}.json").read_text(encoding="utf-8")
             )
+            french = json.loads(
+                (build_site.ROOT / "coach/assessment-fr.json").read_text(encoding="utf-8")
+            )
             for before, after in zip(original["sections"], assessment["sections"]):
                 for source, built in zip(before["items"], after["items"]):
                     if built["type"] == "choice":
+                        options = french[source["id"]]["options"] if source["id"] in french else source["options"]
                         self.assertEqual(
-                            source["options"][source["answer"]],
+                            options[source["answer"]],
                             built["options"][built["answer"]],
                         )
+
+    def test_advanced_chapters_have_english_lessons_and_four_fresh_tasks(self):
+        self.assertIn("503", self.course["target"])
+        self.assertIn("499", self.course["target"])
+        for chapter in self.course["chapters"][16:]:
+            with self.subTest(chapter=chapter["id"]):
+                self.assertIn("Goal", chapter["html"])
+                self.assertIn('class="speakable" lang="fr"', chapter["html"])
+                self.assertTrue(chapter["frenchHtml"])
+                original = json.loads(
+                    (build_site.ROOT / f"coach/chapters/{chapter['number']:02d}.json")
+                    .read_text(encoding="utf-8")
+                )
+                self.assertEqual(chapter["bank"], original["bank"])
+                core = [a for a in chapter["activities"] if not a.get("stretch")]
+                self.assertEqual(
+                    [a["id"] for a in core],
+                    [a["id"] for a in original["activities"]],
+                )
+                stretch = [a for a in chapter["activities"] if a.get("stretch")]
+                self.assertEqual(len(stretch), 4)
+                self.assertEqual({a["skill"] for a in stretch}, build_coach.SKILLS)
+                for item in chapter["activities"]:
+                    self.assertEqual(item["lang"], "fr")
+                    self.assertTrue(item["support"]["prompt"])
+                    if item["type"] == "choice":
+                        self.assertTrue(item["support"]["explanation"])
+                for item in stretch:
+                    self.assertTrue(item["id"].startswith(
+                        f"c{chapter['number']}-stretch-"
+                    ))
+                    self.assertEqual(item["rubricLang"], "en")
+
+    def test_assessments_use_french_tasks_and_retain_english_review_support(self):
+        for assessment in self.course["assessments"]:
+            original = json.loads(
+                (build_site.ROOT / f"coach/assessments/{assessment['id']}.json")
+                .read_text(encoding="utf-8")
+            )
+            for before, after in zip(original["sections"], assessment["sections"]):
+                self.assertEqual(before["seconds"], after["seconds"])
+                for source, built in zip(before["items"], after["items"]):
+                    with self.subTest(item=built["id"]):
+                        self.assertEqual(built["id"], source["id"])
+                        self.assertEqual(built["lang"], "fr")
+                        if assessment["kind"] != "mock":
+                            self.assertEqual(built["support"]["prompt"], source["prompt"])
+                            self.assertNotEqual(built["prompt"], source["prompt"])
+
+    def test_stretch_writing_models_meet_ranges_and_task_three_subranges(self):
+        for chapter in self.course["chapters"][16:]:
+            item = next(a for a in chapter["activities"]
+                        if a.get("stretch") and a["skill"] == "writing")
+            with self.subTest(item=item["id"]):
+                self.assertLessEqual(item["minWords"], len(item["model"].split()))
+                self.assertLessEqual(len(item["model"].split()), item["maxWords"])
+                if chapter["number"] == 24:
+                    summary, opinion = item["model"].split("\n\n")
+                    self.assertTrue(40 <= len(summary.split()) <= 60)
+                    self.assertTrue(80 <= len(opinion.split()) <= 120)
+
+    def test_missing_english_support_is_rejected(self):
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            shutil.copytree(build_site.ROOT / "coach", root / "coach")
+            path = root / "coach/stretch/17.json"
+            extension = json.loads(path.read_text(encoding="utf-8"))
+            extension["support"].pop("c17-reading-1")
+            path.write_text(json.dumps(extension), encoding="utf-8")
+            with self.assertRaisesRegex(ValueError, "cover every original activity"):
+                build_coach.build_coach(root, build_site.markdown_to_html)
 
     def test_invalid_speaking_windows_and_writing_models_are_rejected(self):
         original = json.loads(

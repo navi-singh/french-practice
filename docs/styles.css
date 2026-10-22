@@ -87,15 +87,28 @@ body {
 .coach textarea { display: block; width: 100%; resize: vertical; }
 .coach label { display: block; margin: 8px 0; }
 .coach input[type="checkbox"], .coach input[type="radio"] { accent-color: var(--primary); }
-.coach #bank-item { width: 100px; }
-.coach #bank-answer, .coach-feedback, .coach-attempt {
+.coach-feedback, .coach-attempt {
   border: 1px solid var(--border);
   border-radius: 12px;
   padding: 20px;
   margin: 20px 0;
   overflow-wrap: anywhere;
 }
-.coach #bank-answer:empty { display: none; }
+.coach-bank-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 24px;
+  padding: 20px 0;
+  border-top: 1px solid var(--border);
+  overflow-wrap: anywhere;
+}
+.coach-bank-row h2 { margin: 0 0 8px; font-size: 1rem; }
+.coach-bank-row h2 span { color: var(--muted); font-weight: 500; }
+.coach-bank-row p { margin: 8px 0; }
+.coach-bank-row details { margin: 0; min-width: 0; }
+.coach-bank-row summary { padding: 8px 0; min-height: 44px; }
+.coach-bank-row .bank-answer details { margin: 12px 0; }
+.coach-bank-row .coach-toolbar { margin: 12px 0; gap: 8px; }
 .coach-activity-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; margin: 24px 0; }
 .coach-activity-grid button { text-align: left; }
 .coach-activity-grid small, .coach-activity-grid strong { display: block; }
@@ -125,6 +138,7 @@ body {
 }
 #track-select { width: 100%; }
 @media (max-width: 600px) {
+  .coach-bank-row { grid-template-columns: minmax(0, 1fr); gap: 8px; }
   .coach-toolbar { gap: 10px 16px; }
   .coach-feedback, .coach-attempt { padding: 14px; }
   .coach-activity-grid { grid-template-columns: minmax(0, 1fr); }
