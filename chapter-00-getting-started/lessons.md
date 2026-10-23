@@ -910,103 +910,103 @@ Cover the French column, translate each English sentence aloud, then uncover to 
 
 | English | French |
 | --- | --- |
-| 1. How is that spelled? | `Comment ça s’écrit ?` |
-| 2. It is spelled A-N-A. | `Ça s’écrit A-N-A.` |
-| 3. Spell Paris, please. | `Épelez Paris, s’il vous plaît.` |
-| 4. The letter G is difficult. | `La lettre G est difficile.` |
-| 5. Where is the accent? | `Où est l’accent ?` |
-| 6. It is a French celebration. | `C’est une fête française.` |
-| 7. I live in Paris. | `J’habite à Paris.` |
-| 8. Where is the café? | `Où est le café ?` |
-| 9. It is written with a cedilla. | `Ça s’écrit avec une cédille.` |
-| 10. My name has two accents. | `Mon nom a deux accents.` |
-| 11. Hi, how is it going? | `Salut, ça va ?` |
-| 12. Hello, sir. | `Bonjour monsieur.` |
-| 13. Good evening, madam. | `Bonsoir madame.` |
-| 14. Goodbye and have a good day. | `Au revoir, bonne journée !` |
-| 15. See you soon. | `À bientôt.` |
-| 16. Thank you very much. | `Merci beaucoup.` |
-| 17. You are welcome. | `De rien.` |
-| 18. Sorry. | `Pardon.` |
-| 19. Excuse me, please. | `Excusez-moi, s’il vous plaît.` |
-| 20. A coffee, please. | `Un café, s’il vous plaît.` |
-| 21. A croissant, please. | `Un croissant, s’il vous plaît.` |
-| 22. A tea, please. | `Un thé, s’il vous plaît.` |
-| 23. Some water, please. | `De l’eau, s’il vous plaît.` |
-| 24. More slowly, please. | `Plus lentement, s’il vous plaît.` |
-| 25. Can you repeat, please? | `Pouvez-vous répéter, s’il vous plaît ?` |
-| 26. I do not understand. | `Je ne comprends pas.` |
-| 27. How do you say café in French? | `Comment dit-on « café » en français ?` |
-| 28. Is that all? | `C’est tout ?` |
-| 29. Yes, that is all. | `Oui, c’est tout.` |
-| 30. How much is it? | `Ça fait combien ?` |
-| 31. Six euros, please. | `Six euros, s’il vous plaît.` |
-| 32. Two coffees, please. | `Deux cafés, s’il vous plaît.` |
-| 33. Three croissants, please. | `Trois croissants, s’il vous plaît.` |
-| 34. Nine euros. | `Neuf euros.` |
-| 35. Twenty euros. | `Vingt euros.` |
-| 36. I am sorry. | `Je suis désolé.` |
-| 37. Hello, how are you? | `Bonjour, comment allez-vous ?` |
-| 38. How are you doing? | `Comment ça va ?` |
-| 39. I am well, thank you. | `Ça va bien, merci.` |
-| 40. I am fine, and you? | `Ça va, et vous ?` |
-| 41. Hi, and you? | `Salut, et toi ?` |
-| 42. Good evening, how are you? | `Bonsoir, comment allez-vous ?` |
-| 43. Please, formal. | `S’il vous plaît.` |
-| 44. Please, informal. | `S’il te plaît.` |
-| 45. Hello madam, how is it going? | `Bonjour madame, ça va ?` |
-| 46. Hi my friend, how is it going? | `Salut mon ami, ça va ?` |
-| 47. My name is Marie. | `Je m’appelle Marie.` |
-| 48. What is your name, formal? | `Comment vous appelez-vous ?` |
-| 49. What is your name, informal? | `Comment tu t’appelles ?` |
-| 50. Nice to meet you, said by a man. | `Enchanté.` |
-| 51. Nice to meet you, said by a woman. | `Enchantée.` |
-| 52. I am twenty years old. | `J’ai vingt ans.` |
-| 53. I am nineteen years old. | `J’ai dix-neuf ans.` |
-| 54. I am American, said by a man. | `Je suis américain.` |
-| 55. I am American, said by a woman. | `Je suis américaine.` |
-| 56. I am Canadian, said by a man. | `Je suis canadien.` |
-| 57. I am Canadian, said by a woman. | `Je suis canadienne.` |
-| 58. I live in Montreal. | `J’habite à Montréal.` |
-| 59. I speak a little French. | `Je parle un peu français.` |
-| 60. I am a beginner. | `Je suis débutant.` |
-| 61. I am a female beginner. | `Je suis débutante.` |
-| 62. I am in Paris. | `Je suis à Paris.` |
-| 63. The hotel is open. | `L’hôtel est ouvert.` |
-| 64. The café is here. | `Le café est ici.` |
-| 65. The station is there. | `La gare est là.` |
-| 66. Where is the station? | `Où est la gare ?` |
-| 67. Where is the hotel? | `Où est l’hôtel ?` |
-| 68. Who is it? | `Qui est-ce ?` |
-| 69. Me, I live in a small street. | `Moi, j’habite dans une petite rue.` |
-| 70. The French family arrives today. | `La famille française arrive aujourd’hui.` |
-| 71. Hello, you formal are doing well? | `Bonjour, vous allez bien ?` |
-| 72. You informal have two brothers? | `Tu as deux frères ?` |
-| 73. I would like some water, please. | `Je voudrais de l’eau, s’il vous plaît.` |
-| 74. I would like a tea, please. | `Je voudrais un thé, s’il vous plaît.` |
-| 75. I would like a coffee, please. | `Je voudrais un café, s’il vous plaît.` |
-| 76. A large loaf of bread, please. | `Un grand pain, s’il vous plaît.` |
-| 77. How much time? | `Combien de temps ?` |
-| 78. It is a good Italian restaurant. | `C’est un bon restaurant italien.` |
-| 79. Thank you very much! | `Merci beaucoup !` |
-| 80. The boy is eating fish. | `Le garçon mange du poisson.` |
-| 81. The kitchen of the house is large. | `La cuisine de la maison est grande.` |
-| 82. I like children. | `J’aime les enfants.` |
-| 83. You formal have a large apartment. | `Vous avez un grand appartement.` |
-| 84. We are going to school. | `Nous allons à l’école.` |
-| 85. It is not a problem. | `Ce n’est pas un problème.` |
-| 86. A man and a woman are arriving. | `Un homme et une femme arrivent.` |
-| 87. Good morning, madam, how are you? | `Bonjour madame, comment allez-vous ?` |
-| 88. Hi, are you doing okay? | `Salut ! Ça va ?` |
-| 89. Excuse me, where is the station? | `Excusez-moi, où est la gare ?` |
-| 90. Goodbye, see you soon! | `Au revoir, à bientôt !` |
-| 91. Hello. One coffee and one croissant, please. | `Bonjour. Un café et un croissant, s’il vous plaît.` |
-| 92. Sorry, I do not understand. | `Pardon, je ne comprends pas.` |
-| 93. Ah, thank you very much! | `Ah, merci beaucoup !` |
-| 94. My name is Ana. | `Je m’appelle Ana.` |
-| 95. I am nineteen years old and I am Canadian. | `J’ai dix-neuf ans et je suis canadienne.` |
-| 96. I live in Montreal, near the university. | `J’habite à Montréal, près de l’université.` |
-| 97. I do not always understand. | `Je ne comprends pas toujours.` |
-| 98. Good evening, I speak a little French. | `Bonsoir, je parle un peu français.` |
-| 99. Please repeat more slowly. | `Répétez plus lentement, s’il vous plaît.` |
-| 100. Hello, my name is Sam, and I live in Toronto. | `Bonjour, je m’appelle Sam, et j’habite à Toronto.` |
+| 1. How is that spelled? | `Comment ça s’écrit ?` Word by word: `Comment` (how) `ça` (it) `s’` (itself) `écrit` (is written) |
+| 2. It is spelled A-N-A. | `Ça s’écrit A-N-A.` Word by word: `Ça` (it) `s’` (itself) `écrit` (is written) `A-N-A` (A-N-A, spelled letters) |
+| 3. Spell Paris, please. | `Épelez Paris, s’il vous plaît.` Word by word: `Épelez` (spell) `Paris` (Paris) `s’il vous plaît` (please) |
+| 4. The letter G is difficult. | `La lettre G est difficile.` Word by word: `La` (the) `lettre` (letter) `G` (G, the letter) `est` (is) `difficile` (difficult) |
+| 5. Where is the accent? | `Où est l’accent ?` Word by word: `Où` (where) `est` (is) `l’` (the) `accent` (accent) |
+| 6. It is a French celebration. | `C’est une fête française.` Word by word: `C’` (it) `est` (is) `une` (a) `fête` (celebration) `française` (French) |
+| 7. I live in Paris. | `J’habite à Paris.` Word by word: `J’` (I) `habite` (live) `à` (in) `Paris` (Paris) |
+| 8. Where is the café? | `Où est le café ?` Word by word: `Où` (where) `est` (is) `le` (the) `café` (café) |
+| 9. It is written with a cedilla. | `Ça s’écrit avec une cédille.` Word by word: `Ça` (it) `s’` (itself) `écrit` (is written) `avec` (with) `une` (a) `cédille` (cedilla) |
+| 10. My name has two accents. | `Mon nom a deux accents.` Word by word: `Mon` (my) `nom` (name) `a` (has) `deux` (two) `accents` (accents) |
+| 11. Hi, how is it going? | `Salut, ça va ?` Word by word: `Salut` (hi) `ça` (it) `va` (goes) |
+| 12. Hello, sir. | `Bonjour monsieur.` Word by word: `Bonjour` (hello) `monsieur` (sir) |
+| 13. Good evening, madam. | `Bonsoir madame.` Word by word: `Bonsoir` (good evening) `madame` (madam) |
+| 14. Goodbye and have a good day. | `Au revoir, bonne journée !` Word by word: `Au revoir` (goodbye) `bonne` (good) `journée` (day) |
+| 15. See you soon. | `À bientôt.` Word by word: `À bientôt` (see you soon) |
+| 16. Thank you very much. | `Merci beaucoup.` Word by word: `Merci` (thank you) `beaucoup` (a lot) |
+| 17. You are welcome. | `De rien.` Word by word: `De rien` (you are welcome) |
+| 18. Sorry. | `Pardon.` Word by word: `Pardon` (sorry) |
+| 19. Excuse me, please. | `Excusez-moi, s’il vous plaît.` Word by word: `Excusez-moi` (excuse me) `s’il vous plaît` (please) |
+| 20. A coffee, please. | `Un café, s’il vous plaît.` Word by word: `Un` (a) `café` (café) `s’il vous plaît` (please) |
+| 21. A croissant, please. | `Un croissant, s’il vous plaît.` Word by word: `Un` (a) `croissant` (croissant) `s’il vous plaît` (please) |
+| 22. A tea, please. | `Un thé, s’il vous plaît.` Word by word: `Un` (a) `thé` (tea) `s’il vous plaît` (please) |
+| 23. Some water, please. | `De l’eau, s’il vous plaît.` Word by word: `De` (some) `l’` (the — part of some) `eau` (water) `s’il vous plaît` (please) |
+| 24. More slowly, please. | `Plus lentement, s’il vous plaît.` Word by word: `Plus` (more) `lentement` (slowly) `s’il vous plaît` (please) |
+| 25. Can you repeat, please? | `Pouvez-vous répéter, s’il vous plaît ?` Word by word: `Pouvez-vous` (can you) `répéter` (repeat) `s’il vous plaît` (please) |
+| 26. I do not understand. | `Je ne comprends pas.` Word by word: `Je` (I) `ne` (not, with pas) `comprends` (understand) `pas` (not) |
+| 27. How do you say café in French? | `Comment dit-on « café » en français ?` Word by word: `Comment` (how) `dit-on` (does one say) `café` (café) `en` (in) `français` (French) |
+| 28. Is that all? | `C’est tout ?` Word by word: `C’` (it) `est` (is) `tout` (all) |
+| 29. Yes, that is all. | `Oui, c’est tout.` Word by word: `Oui` (yes) `c’` (it) `est` (is) `tout` (all) |
+| 30. How much is it? | `Ça fait combien ?` Word by word: `Ça` (it) `fait` (costs) `combien` (how much) |
+| 31. Six euros, please. | `Six euros, s’il vous plaît.` Word by word: `Six` (six) `euros` (euros) `s’il vous plaît` (please) |
+| 32. Two coffees, please. | `Deux cafés, s’il vous plaît.` Word by word: `Deux` (two) `cafés` (cafés) `s’il vous plaît` (please) |
+| 33. Three croissants, please. | `Trois croissants, s’il vous plaît.` Word by word: `Trois` (three) `croissants` (croissants) `s’il vous plaît` (please) |
+| 34. Nine euros. | `Neuf euros.` Word by word: `Neuf` (nine) `euros` (euros) |
+| 35. Twenty euros. | `Vingt euros.` Word by word: `Vingt` (twenty) `euros` (euros) |
+| 36. I am sorry. | `Je suis désolé.` Word by word: `Je` (I) `suis` (am) `désolé` (sorry) |
+| 37. Hello, how are you? | `Bonjour, comment allez-vous ?` Word by word: `Bonjour` (hello) `comment` (how) `allez-vous` (are you) |
+| 38. How are you doing? | `Comment ça va ?` Word by word: `Comment` (how) `ça` (it) `va` (goes) |
+| 39. I am well, thank you. | `Ça va bien, merci.` Word by word: `Ça` (it) `va` (goes) `bien` (well) `merci` (thank you) |
+| 40. I am fine, and you? | `Ça va, et vous ?` Word by word: `Ça` (it) `va` (goes) `et` (and) `vous` (you) |
+| 41. Hi, and you? | `Salut, et toi ?` Word by word: `Salut` (hi) `et` (and) `toi` (you) |
+| 42. Good evening, how are you? | `Bonsoir, comment allez-vous ?` Word by word: `Bonsoir` (good evening) `comment` (how) `allez-vous` (are you) |
+| 43. Please, formal. | `S’il vous plaît.` Word by word: `S’il vous plaît` (please) |
+| 44. Please, informal. | `S’il te plaît.` Word by word: `S’` (if) `il` (it) `te` (you) `plaît` (pleases) |
+| 45. Hello madam, how is it going? | `Bonjour madame, ça va ?` Word by word: `Bonjour` (hello) `madame` (madam) `ça` (it) `va` (goes) |
+| 46. Hi my friend, how is it going? | `Salut mon ami, ça va ?` Word by word: `Salut` (hi) `mon` (my) `ami` (friend) `ça` (it) `va` (goes) |
+| 47. My name is Marie. | `Je m’appelle Marie.` Word by word: `Je` (I) `m’` (myself) `appelle` (am called) `Marie` (Marie) |
+| 48. What is your name, formal? | `Comment vous appelez-vous ?` Word by word: `Comment` (how) `vous` (you) `appelez-vous` (are you called) |
+| 49. What is your name, informal? | `Comment tu t’appelles ?` Word by word: `Comment` (how) `tu` (you, informal) `t’` (yourself) `appelles` (are called) |
+| 50. Nice to meet you, said by a man. | `Enchanté.` Word by word: `Enchanté` (nice to meet you) |
+| 51. Nice to meet you, said by a woman. | `Enchantée.` Word by word: `Enchantée` (nice to meet you) |
+| 52. I am twenty years old. | `J’ai vingt ans.` Word by word: `J’` (I) `ai` (have) `vingt` (twenty) `ans` (years old) |
+| 53. I am nineteen years old. | `J’ai dix-neuf ans.` Word by word: `J’` (I) `ai` (have) `dix-neuf` (nineteen) `ans` (years old) |
+| 54. I am American, said by a man. | `Je suis américain.` Word by word: `Je` (I) `suis` (am) `américain` (American) |
+| 55. I am American, said by a woman. | `Je suis américaine.` Word by word: `Je` (I) `suis` (am) `américaine` (American) |
+| 56. I am Canadian, said by a man. | `Je suis canadien.` Word by word: `Je` (I) `suis` (am) `canadien` (Canadian) |
+| 57. I am Canadian, said by a woman. | `Je suis canadienne.` Word by word: `Je` (I) `suis` (am) `canadienne` (Canadian) |
+| 58. I live in Montreal. | `J’habite à Montréal.` Word by word: `J’` (I) `habite` (live) `à` (in) `Montréal` (Montreal) |
+| 59. I speak a little French. | `Je parle un peu français.` Word by word: `Je` (I) `parle` (speak) `un` (a) `peu` (little) `français` (French) |
+| 60. I am a beginner. | `Je suis débutant.` Word by word: `Je` (I) `suis` (am) `débutant` (beginner) |
+| 61. I am a female beginner. | `Je suis débutante.` Word by word: `Je` (I) `suis` (am) `débutante` (beginner) |
+| 62. I am in Paris. | `Je suis à Paris.` Word by word: `Je` (I) `suis` (am) `à` (in) `Paris` (Paris) |
+| 63. The hotel is open. | `L’hôtel est ouvert.` Word by word: `L’` (the) `hôtel` (hotel) `est` (is) `ouvert` (open) |
+| 64. The café is here. | `Le café est ici.` Word by word: `Le` (the) `café` (café) `est` (is) `ici` (here) |
+| 65. The station is there. | `La gare est là.` Word by word: `La` (the) `gare` (station) `est` (is) `là` (there) |
+| 66. Where is the station? | `Où est la gare ?` Word by word: `Où` (where) `est` (is) `la` (the) `gare` (station) |
+| 67. Where is the hotel? | `Où est l’hôtel ?` Word by word: `Où` (where) `est` (is) `l’` (the) `hôtel` (hotel) |
+| 68. Who is it? | `Qui est-ce ?` Word by word: `Qui` (who) `est-ce` (is it, question marker) |
+| 69. Me, I live in a small street. | `Moi, j’habite dans une petite rue.` Word by word: `Moi` (me) `j’` (I) `habite` (live) `dans` (in) `une` (a) `petite` (small) `rue` (street) |
+| 70. The French family arrives today. | `La famille française arrive aujourd’hui.` Word by word: `La` (the) `famille` (family) `française` (French) `arrive` (arrives) `aujourd’hui` (today) |
+| 71. Hello, you formal are doing well? | `Bonjour, vous allez bien ?` Word by word: `Bonjour` (hello) `vous` (you) `allez` (are) `bien` (well) |
+| 72. You informal have two brothers? | `Tu as deux frères ?` Word by word: `Tu` (you, informal) `as` (have) `deux` (two) `frères` (brothers) |
+| 73. I would like some water, please. | `Je voudrais de l’eau, s’il vous plaît.` Word by word: `Je` (I) `voudrais` (would like) `de` (some) `l’` (the — part of some) `eau` (water) `s’il vous plaît` (please) |
+| 74. I would like a tea, please. | `Je voudrais un thé, s’il vous plaît.` Word by word: `Je` (I) `voudrais` (would like) `un` (a) `thé` (tea) `s’il vous plaît` (please) |
+| 75. I would like a coffee, please. | `Je voudrais un café, s’il vous plaît.` Word by word: `Je` (I) `voudrais` (would like) `un` (a) `café` (café) `s’il vous plaît` (please) |
+| 76. A large loaf of bread, please. | `Un grand pain, s’il vous plaît.` Word by word: `Un` (a) `grand` (large) `pain` (bread) `s’il vous plaît` (please) |
+| 77. How much time? | `Combien de temps ?` Word by word: `Combien` (how much) `de` (of) `temps` (time) |
+| 78. It is a good Italian restaurant. | `C’est un bon restaurant italien.` Word by word: `C’` (it) `est` (is) `un` (a) `bon` (good) `restaurant` (restaurant) `italien` (Italian) |
+| 79. Thank you very much! | `Merci beaucoup !` Word by word: `Merci` (thank you) `beaucoup` (a lot) |
+| 80. The boy is eating fish. | `Le garçon mange du poisson.` Word by word: `Le` (the) `garçon` (boy) `mange` (eats) `du` (some) `poisson` (fish) |
+| 81. The kitchen of the house is large. | `La cuisine de la maison est grande.` Word by word: `La` (the) `cuisine` (kitchen) `de` (of) `la` (the) `maison` (house) `est` (is) `grande` (large) |
+| 82. I like children. | `J’aime les enfants.` Word by word: `J’` (I) `aime` (like) `les` (the) `enfants` (children) |
+| 83. You formal have a large apartment. | `Vous avez un grand appartement.` Word by word: `Vous` (you) `avez` (have) `un` (a) `grand` (large) `appartement` (apartment) |
+| 84. We are going to school. | `Nous allons à l’école.` Word by word: `Nous` (we) `allons` (go) `à` (to) `l’` (the) `école` (school) |
+| 85. It is not a problem. | `Ce n’est pas un problème.` Word by word: `Ce` (it) `n’` (not, with pas) `est` (is) `pas` (not) `un` (a) `problème` (problem) |
+| 86. A man and a woman are arriving. | `Un homme et une femme arrivent.` Word by word: `Un` (a) `homme` (man) `et` (and) `une` (a) `femme` (woman) `arrivent` (are arriving) |
+| 87. Good morning, madam, how are you? | `Bonjour madame, comment allez-vous ?` Word by word: `Bonjour` (hello) `madame` (madam) `comment` (how) `allez-vous` (are you) |
+| 88. Hi, are you doing okay? | `Salut ! Ça va ?` Word by word: `Salut` (hi) `Ça` (it) `va` (goes) |
+| 89. Excuse me, where is the station? | `Excusez-moi, où est la gare ?` Word by word: `Excusez-moi` (excuse me) `où` (where) `est` (is) `la` (the) `gare` (station) |
+| 90. Goodbye, see you soon! | `Au revoir, à bientôt !` Word by word: `Au revoir` (goodbye) `à bientôt` (see you soon) |
+| 91. Hello. One coffee and one croissant, please. | `Bonjour. Un café et un croissant, s’il vous plaît.` Word by word: `Bonjour` (hello) `Un` (a) `café` (café) `et` (and) `un` (a) `croissant` (croissant) `s’il vous plaît` (please) |
+| 92. Sorry, I do not understand. | `Pardon, je ne comprends pas.` Word by word: `Pardon` (sorry) `je` (I) `ne` (not, with pas) `comprends` (understand) `pas` (not) |
+| 93. Ah, thank you very much! | `Ah, merci beaucoup !` Word by word: `Ah` (ah) `merci` (thank you) `beaucoup` (a lot) |
+| 94. My name is Ana. | `Je m’appelle Ana.` Word by word: `Je` (I) `m’` (myself) `appelle` (am called) `Ana` (Ana) |
+| 95. I am nineteen years old and I am Canadian. | `J’ai dix-neuf ans et je suis canadienne.` Word by word: `J’` (I) `ai` (have) `dix-neuf` (nineteen) `ans` (years old) `et` (and) `je` (I) `suis` (am) `canadienne` (Canadian) |
+| 96. I live in Montreal, near the university. | `J’habite à Montréal, près de l’université.` Word by word: `J’` (I) `habite` (live) `à` (in) `Montréal` (Montreal) `près` (near) `de` (of) `l’` (the) `université` (university) |
+| 97. I do not always understand. | `Je ne comprends pas toujours.` Word by word: `Je` (I) `ne` (not, with pas) `comprends` (understand) `pas` (not) `toujours` (always) |
+| 98. Good evening, I speak a little French. | `Bonsoir, je parle un peu français.` Word by word: `Bonsoir` (good evening) `je` (I) `parle` (speak) `un` (a) `peu` (little) `français` (French) |
+| 99. Please repeat more slowly. | `Répétez plus lentement, s’il vous plaît.` Word by word: `Répétez` (repeat) `plus` (more) `lentement` (slowly) `s’il vous plaît` (please) |
+| 100. Hello, my name is Sam, and I live in Toronto. | `Bonjour, je m’appelle Sam, et j’habite à Toronto.` Word by word: `Bonjour` (hello) `je` (I) `m’` (myself) `appelle` (am called) `Sam` (Sam) `et` (and) `j’` (I) `habite` (live) `à` (in) `Toronto` (Toronto) |

@@ -618,103 +618,103 @@ Cover the French column, translate each English sentence aloud, then uncover to 
 
 | English | French |
 | --- | --- |
-| 1. It is Monday. | `Nous sommes lundi.` |
-| 2. Tomorrow is Wednesday. | `Demain, c’est mercredi.` |
-| 3. My birthday is in May. | `Mon anniversaire est en mai.` |
-| 4. I like fall. | `J’aime l’automne.` |
-| 5. In winter, the street is calm. | `En hiver, la rue est calme.` |
-| 6. This morning, the café is open. | `Ce matin, le café est ouvert.` |
-| 7. Tonight, my family is at home. | `Ce soir, ma famille est à la maison.` |
-| 8. At night, the city is quiet. | `La nuit, la ville est calme.` |
-| 9. In July, we visit Paris. | `En juillet, nous visitons Paris.` |
-| 10. In spring, the park is pretty. | `Au printemps, le parc est joli.` |
-| 11. On Tuesdays, I work at the office. | `Le mardi, je travaille au bureau.` |
-| 12. On Fridays, we study at the library. | `Le vendredi, nous étudions à la bibliothèque.` |
-| 13. This afternoon, you are looking for a book. | `Cet après-midi, tu cherches un livre.` |
-| 14. Tomorrow morning, she arrives early. | `Demain matin, elle arrive tôt.` |
-| 15. On Sunday evenings, they watch a film. | `Le dimanche soir, ils regardent un film.` |
-| 16. In September, the students speak French. | `En septembre, les étudiants parlent français.` |
-| 17. In summer, my neighbors dance outside. | `En été, mes voisins dansent dehors.` |
-| 18. The store is closed this evening. | `Le magasin est fermé ce soir.` |
-| 19. There is a concert on Saturday. | `Il y a un concert samedi.` |
-| 20. There is no class tomorrow morning. | `Il n’y a pas de cours demain matin.` |
-| 21. My sister works on Mondays and Thursdays. | `Ma sœur travaille le lundi et le jeudi.` |
-| 22. The children like summer because the park is big. | `Les enfants aiment l’été parce que le parc est grand.` |
-| 23. We are at the café this afternoon. | `Nous sommes au café cet après-midi.` |
-| 24. You have a meeting in October. | `Vous avez une réunion en octobre.` |
-| 25. The morning is difficult in winter. | `Le matin est difficile en hiver.` |
-| 26. I speak French with my neighbor. | `Je parle français avec ma voisine.` |
-| 27. You work too much. | `Tu travailles trop.` |
-| 28. She lives near the station. | `Elle habite près de la gare.` |
-| 29. We like classical music. | `Nous aimons la musique classique.` |
-| 30. You study with a new teacher. | `Vous étudiez avec un nouveau professeur.` |
-| 31. They look for an apartment in Lyon. | `Ils cherchent un appartement à Lyon.` |
-| 32. I do not watch television in the morning. | `Je ne regarde pas la télévision le matin.` |
-| 33. He does not speak English at work. | `Il ne parle pas anglais au travail.` |
-| 34. We do not work on Sundays. | `Nous ne travaillons pas le dimanche.` |
-| 35. Do you like this neighborhood? | `Tu aimes ce quartier ?` |
-| 36. I listen to French radio in the evening. | `J’écoute la radio française le soir.` |
-| 37. They visit the museum in April. | `Elles visitent le musée en avril.` |
-| 38. We telephone our parents on Saturday. | `Nous téléphonons à nos parents le samedi.` |
-| 39. She revises her notes after lunch. | `Elle révise ses notes après le déjeuner.` |
-| 40. You arrive before dinner. | `Vous arrivez avant le dîner.` |
-| 41. My friends dance at the party. | `Mes amis dansent à la fête.` |
-| 42. The professor speaks with the students. | `Le professeur parle avec les étudiants.` |
-| 43. I am looking for my notebook now. | `Je cherche mon cahier maintenant.` |
-| 44. We love this small café. | `Nous aimons ce petit café.` |
-| 45. They do not study at night. | `Ils n’étudient pas la nuit.` |
-| 46. I work at home on Mondays. | `Je travaille à la maison le lundi.` |
-| 47. She is looking at the map now. | `Elle regarde la carte maintenant.` |
-| 48. The train arrives tomorrow evening. | `Le train arrive demain soir.` |
-| 49. Students speak with the teacher. | `Les étudiants parlent avec le professeur.` |
-| 50. On Saturdays, the store closes early. | `Le samedi, le magasin ferme tôt.` |
-| 51. My brother is arriving this afternoon. | `Mon frère arrive cet après-midi.` |
-| 52. We are studying French right now. | `Nous étudions le français maintenant.` |
-| 53. In winter, I listen to music at home. | `En hiver, j’écoute de la musique à la maison.` |
-| 54. The office opens in September. | `Le bureau ouvre en septembre.` |
-| 55. The children are watching the snow. | `Les enfants regardent la neige.` |
-| 56. On Fridays, you finish early. | `Le vendredi, vous terminez tôt.` |
-| 57. This evening, we are visiting a small museum. | `Ce soir, nous visitons un petit musée.` |
-| 58. Her teacher arrives tomorrow morning. | `Son professeur arrive demain matin.` |
-| 59. My family eats at home in the evening. | `Ma famille dîne à la maison le soir.` |
-| 60. The street is pretty in spring. | `La rue est jolie au printemps.` |
-| 61. Are you working tomorrow? | `Tu travailles demain ?` |
-| 62. Do you like Paris? | `Est-ce que vous aimez Paris ?` |
-| 63. Do you speak French? | `Parlez-vous français ?` |
-| 64. Are we studying this evening? | `Est-ce qu’on étudie ce soir ?` |
-| 65. Does she like music? | `Aime-t-elle la musique ?` |
-| 66. Do they arrive in March? | `Arrivent-ils en mars ?` |
-| 67. Are you watching a French film? | `Vous regardez un film français ?` |
-| 68. Do you live in Montreal? | `Habites-tu à Montréal ?` |
-| 69. Is there a café near the station? | `Est-ce qu’il y a un café près de la gare ?` |
-| 70. Do we have class on Thursday? | `Nous avons cours jeudi ?` |
-| 71. Are they looking for a new office? | `Est-ce qu’ils cherchent un nouveau bureau ?` |
-| 72. Do you work at the library on Mondays? | `Travaillez-vous à la bibliothèque le lundi ?` |
-| 73. Does your sister visit the market in summer? | `Ta sœur visite le marché en été ?` |
-| 74. Do you study in the morning or in the evening? | `Est-ce que tu étudies le matin ou le soir ?` |
-| 75. Is the film tonight? | `Le film est ce soir ?` |
-| 76. Do the children dance at school? | `Les enfants dansent à l’école ?` |
-| 77. Do you have a red notebook? | `As-tu un cahier rouge ?` |
-| 78. Is your professor ready? | `Votre professeur est-il prêt ?` |
-| 79. Where do you live? | `Où habitez-vous ?` |
-| 80. When is she arriving? | `Quand est-ce qu’elle arrive ?` |
-| 81. Why are they studying tonight? | `Pourquoi est-ce qu’ils étudient ce soir ?` |
-| 82. How do you work at home? | `Comment travailles-tu à la maison ?` |
-| 83. How many films do you watch in July? | `Combien de films regardez-vous en juillet ?` |
-| 84. Who is speaking with the teacher? | `Qui parle avec le professeur ?` |
-| 85. What are you looking at? | `Qu’est-ce que tu regardes ?` |
-| 86. Which season do you like? | `Quelle saison aimez-vous ?` |
-| 87. What day is it? | `Quel jour sommes-nous ?` |
-| 88. Where is the small hotel? | `Où est le petit hôtel ?` |
-| 89. When do you telephone your mother? | `Quand est-ce que tu téléphones à ta mère ?` |
-| 90. Why is the store closed on Sunday? | `Pourquoi le magasin est-il fermé le dimanche ?` |
-| 91. How many students are there in the class? | `Combien d’étudiants y a-t-il dans la classe ?` |
-| 92. What music do they like? | `Quelle musique aiment-ils ?` |
-| 93. Where are we studying this afternoon? | `Où est-ce que nous étudions cet après-midi ?` |
-| 94. When does your train arrive tomorrow? | `Quand arrive ton train demain ?` |
-| 95. What are they studying at school? | `Qu’est-ce qu’ils étudient à l’école ?` |
-| 96. Which month do you like? | `Quel mois aimez-vous ?` |
-| 97. Why do you work on Saturday morning? | `Pourquoi travailles-tu le samedi matin ?` |
-| 98. Which films do you watch in winter? | `Quels films regardez-vous en hiver ?` |
-| 99. Who has the new notebook? | `Qui a le nouveau cahier ?` |
-| 100. How is your family today? | `Comment est ta famille aujourd’hui ?` |
+| 1. It is Monday. | `Nous sommes lundi.` Word by word: `Nous` (we) `sommes` (are) `lundi` (Monday) |
+| 2. Tomorrow is Wednesday. | `Demain, c’est mercredi.` Word by word: `Demain` (tomorrow) `c’` (it) `est` (is) `mercredi` (Wednesday) |
+| 3. My birthday is in May. | `Mon anniversaire est en mai.` Word by word: `Mon` (my) `anniversaire` (birthday) `est` (is) `en` (in) `mai` (May) |
+| 4. I like fall. | `J’aime l’automne.` Word by word: `J’` (I) `aime` (like) `l’` (the) `automne` (fall) |
+| 5. In winter, the street is calm. | `En hiver, la rue est calme.` Word by word: `En` (in) `hiver` (winter) `la` (the) `rue` (street) `est` (is) `calme` (calm) |
+| 6. This morning, the café is open. | `Ce matin, le café est ouvert.` Word by word: `Ce` (this) `matin` (morning) `le` (the) `café` (café) `est` (is) `ouvert` (open) |
+| 7. Tonight, my family is at home. | `Ce soir, ma famille est à la maison.` Word by word: `Ce` (this) `soir` (evening) `ma` (my) `famille` (family) `est` (is) `à` (at) `la` (the) `maison` (home) |
+| 8. At night, the city is quiet. | `La nuit, la ville est calme.` Word by word: `La` (the) `nuit` (night) `la` (the) `ville` (city) `est` (is) `calme` (calm) |
+| 9. In July, we visit Paris. | `En juillet, nous visitons Paris.` Word by word: `En` (in) `juillet` (July) `nous` (we) `visitons` (visit) `Paris` (Paris) |
+| 10. In spring, the park is pretty. | `Au printemps, le parc est joli.` Word by word: `Au` (in the) `printemps` (spring) `le` (the) `parc` (park) `est` (is) `joli` (pretty) |
+| 11. On Tuesdays, I work at the office. | `Le mardi, je travaille au bureau.` Word by word: `Le` (the) `mardi` (Tuesday) `je` (I) `travaille` (work) `au` (at the) `bureau` (office) |
+| 12. On Fridays, we study at the library. | `Le vendredi, nous étudions à la bibliothèque.` Word by word: `Le` (the) `vendredi` (Friday) `nous` (we) `étudions` (study) `à` (at) `la` (the) `bibliothèque` (library) |
+| 13. This afternoon, you are looking for a book. | `Cet après-midi, tu cherches un livre.` Word by word: `Cet` (this) `après-midi` (afternoon) `tu` (you) `cherches` (look for) `un` (a) `livre` (book) |
+| 14. Tomorrow morning, she arrives early. | `Demain matin, elle arrive tôt.` Word by word: `Demain` (tomorrow) `matin` (morning) `elle` (she) `arrive` (arrives) `tôt` (early) |
+| 15. On Sunday evenings, they watch a film. | `Le dimanche soir, ils regardent un film.` Word by word: `Le` (the) `dimanche` (Sunday) `soir` (evening) `ils` (they) `regardent` (watch) `un` (a) `film` (film) |
+| 16. In September, the students speak French. | `En septembre, les étudiants parlent français.` Word by word: `En` (in) `septembre` (September) `les` (the) `étudiants` (students) `parlent` (speak) `français` (French) |
+| 17. In summer, my neighbors dance outside. | `En été, mes voisins dansent dehors.` Word by word: `En` (in) `été` (summer) `mes` (my) `voisins` (neighbors) `dansent` (dance) `dehors` (outside) |
+| 18. The store is closed this evening. | `Le magasin est fermé ce soir.` Word by word: `Le` (the) `magasin` (store) `est` (is) `fermé` (closed) `ce` (this) `soir` (evening) |
+| 19. There is a concert on Saturday. | `Il y a un concert samedi.` Word by word: `Il y a` (there is) `un` (a) `concert` (concert) `samedi` (Saturday) |
+| 20. There is no class tomorrow morning. | `Il n’y a pas de cours demain matin.` Word by word: `Il n’y a pas` (there is no) `de` (any) `cours` (class) `demain` (tomorrow) `matin` (morning) |
+| 21. My sister works on Mondays and Thursdays. | `Ma sœur travaille le lundi et le jeudi.` Word by word: `Ma` (my) `sœur` (sister) `travaille` (works) `le` (the) `lundi` (Monday) `et` (and) `le` (the) `jeudi` (Thursday) |
+| 22. The children like summer because the park is big. | `Les enfants aiment l’été parce que le parc est grand.` Word by word: `Les` (the) `enfants` (children) `aiment` (like) `l’` (the) `été` (summer) `parce` (because) `que` (that) `le` (the) `parc` (park) `est` (is) `grand` (big) |
+| 23. We are at the café this afternoon. | `Nous sommes au café cet après-midi.` Word by word: `Nous` (we) `sommes` (are) `au` (at the) `café` (café) `cet` (this) `après-midi` (afternoon) |
+| 24. You have a meeting in October. | `Vous avez une réunion en octobre.` Word by word: `Vous` (you) `avez` (have) `une` (a) `réunion` (meeting) `en` (in) `octobre` (October) |
+| 25. The morning is difficult in winter. | `Le matin est difficile en hiver.` Word by word: `Le` (the) `matin` (morning) `est` (is) `difficile` (difficult) `en` (in) `hiver` (winter) |
+| 26. I speak French with my neighbor. | `Je parle français avec ma voisine.` Word by word: `Je` (I) `parle` (speak) `français` (French) `avec` (with) `ma` (my) `voisine` (neighbor) |
+| 27. You work too much. | `Tu travailles trop.` Word by word: `Tu` (you) `travailles` (work) `trop` (too) |
+| 28. She lives near the station. | `Elle habite près de la gare.` Word by word: `Elle` (she) `habite` (live) `près` (near) `de` (—) `la` (the) `gare` (station) |
+| 29. We like classical music. | `Nous aimons la musique classique.` Word by word: `Nous` (we) `aimons` (like) `la` (the) `musique` (music) `classique` (classical) |
+| 30. You study with a new teacher. | `Vous étudiez avec un nouveau professeur.` Word by word: `Vous` (you) `étudiez` (study) `avec` (with) `un` (a) `nouveau` (new) `professeur` (teacher) |
+| 31. They look for an apartment in Lyon. | `Ils cherchent un appartement à Lyon.` Word by word: `Ils` (they) `cherchent` (look for) `un` (a) `appartement` (apartment) `à` (in) `Lyon` (Lyon) |
+| 32. I do not watch television in the morning. | `Je ne regarde pas la télévision le matin.` Word by word: `Je` (I) `ne` (not — with pas) `regarde` (watch) `pas` (not) `la` (the) `télévision` (television) `le` (the) `matin` (morning) |
+| 33. He does not speak English at work. | `Il ne parle pas anglais au travail.` Word by word: `Il` (he) `ne` (not — with pas) `parle` (speak) `pas` (not) `anglais` (English) `au` (at the) `travail` (work) |
+| 34. We do not work on Sundays. | `Nous ne travaillons pas le dimanche.` Word by word: `Nous` (we) `ne` (not — with pas) `travaillons` (work) `pas` (not) `le` (the) `dimanche` (Sunday) |
+| 35. Do you like this neighborhood? | `Tu aimes ce quartier ?` Word by word: `Tu` (you) `aimes` (like) `ce` (this) `quartier` (neighborhood) |
+| 36. I listen to French radio in the evening. | `J’écoute la radio française le soir.` Word by word: `J’` (I) `écoute` (listen to) `la` (the) `radio` (radio) `française` (French) `le` (the) `soir` (evening) |
+| 37. They visit the museum in April. | `Elles visitent le musée en avril.` Word by word: `Elles` (they) `visitent` (visit) `le` (the) `musée` (museum) `en` (in) `avril` (April) |
+| 38. We telephone our parents on Saturday. | `Nous téléphonons à nos parents le samedi.` Word by word: `Nous` (we) `téléphonons` (telephone) `à` (to) `nos` (our) `parents` (parents) `le` (the) `samedi` (Saturday) |
+| 39. She revises her notes after lunch. | `Elle révise ses notes après le déjeuner.` Word by word: `Elle` (she) `révise` (reviews) `ses` (her) `notes` (notes) `après` (after) `le` (the) `déjeuner` (lunch) |
+| 40. You arrive before dinner. | `Vous arrivez avant le dîner.` Word by word: `Vous` (you) `arrivez` (arrive) `avant` (before) `le` (the) `dîner` (dinner) |
+| 41. My friends dance at the party. | `Mes amis dansent à la fête.` Word by word: `Mes` (my) `amis` (friends) `dansent` (dance) `à` (at) `la` (the) `fête` (party) |
+| 42. The professor speaks with the students. | `Le professeur parle avec les étudiants.` Word by word: `Le` (the) `professeur` (teacher) `parle` (speaks) `avec` (with) `les` (the) `étudiants` (students) |
+| 43. I am looking for my notebook now. | `Je cherche mon cahier maintenant.` Word by word: `Je` (I) `cherche` (look for) `mon` (my) `cahier` (notebook) `maintenant` (now) |
+| 44. We love this small café. | `Nous aimons ce petit café.` Word by word: `Nous` (we) `aimons` (like) `ce` (this) `petit` (small) `café` (café) |
+| 45. They do not study at night. | `Ils n’étudient pas la nuit.` Word by word: `Ils` (they) `n’` (not — with pas) `étudient` (study) `pas` (not) `la` (the) `nuit` (night) |
+| 46. I work at home on Mondays. | `Je travaille à la maison le lundi.` Word by word: `Je` (I) `travaille` (work) `à` (at) `la` (the) `maison` (home) `le` (the) `lundi` (Monday) |
+| 47. She is looking at the map now. | `Elle regarde la carte maintenant.` Word by word: `Elle` (she) `regarde` (looks at) `la` (the) `carte` (map) `maintenant` (now) |
+| 48. The train arrives tomorrow evening. | `Le train arrive demain soir.` Word by word: `Le` (the) `train` (train) `arrive` (arrives) `demain` (tomorrow) `soir` (evening) |
+| 49. Students speak with the teacher. | `Les étudiants parlent avec le professeur.` Word by word: `Les` (the) `étudiants` (students) `parlent` (speak) `avec` (with) `le` (the) `professeur` (teacher) |
+| 50. On Saturdays, the store closes early. | `Le samedi, le magasin ferme tôt.` Word by word: `Le` (the) `samedi` (Saturday) `le` (the) `magasin` (store) `ferme` (closes) `tôt` (early) |
+| 51. My brother is arriving this afternoon. | `Mon frère arrive cet après-midi.` Word by word: `Mon` (my) `frère` (brother) `arrive` (arrives) `cet` (this) `après-midi` (afternoon) |
+| 52. We are studying French right now. | `Nous étudions le français maintenant.` Word by word: `Nous` (we) `étudions` (study) `le` (the) `français` (French) `maintenant` (now) |
+| 53. In winter, I listen to music at home. | `En hiver, j’écoute de la musique à la maison.` Word by word: `En` (in) `hiver` (winter) `j’` (I) `écoute` (listen to) `de` (some) `la` (the) `musique` (music) `à` (at) `la` (the) `maison` (home) |
+| 54. The office opens in September. | `Le bureau ouvre en septembre.` Word by word: `Le` (the) `bureau` (office) `ouvre` (opens) `en` (in) `septembre` (September) |
+| 55. The children are watching the snow. | `Les enfants regardent la neige.` Word by word: `Les` (the) `enfants` (children) `regardent` (watch) `la` (the) `neige` (snow) |
+| 56. On Fridays, you finish early. | `Le vendredi, vous terminez tôt.` Word by word: `Le` (the) `vendredi` (Friday) `vous` (you) `terminez` (finish) `tôt` (early) |
+| 57. This evening, we are visiting a small museum. | `Ce soir, nous visitons un petit musée.` Word by word: `Ce` (this) `soir` (evening) `nous` (we) `visitons` (visit) `un` (a) `petit` (small) `musée` (museum) |
+| 58. Her teacher arrives tomorrow morning. | `Son professeur arrive demain matin.` Word by word: `Son` (her) `professeur` (teacher) `arrive` (arrives) `demain` (tomorrow) `matin` (morning) |
+| 59. My family eats at home in the evening. | `Ma famille dîne à la maison le soir.` Word by word: `Ma` (my) `famille` (family) `dîne` (dines) `à` (at) `la` (the) `maison` (home) `le` (the) `soir` (evening) |
+| 60. The street is pretty in spring. | `La rue est jolie au printemps.` Word by word: `La` (the) `rue` (street) `est` (is) `jolie` (pretty) `au` (in the) `printemps` (spring) |
+| 61. Are you working tomorrow? | `Tu travailles demain ?` Word by word: `Tu` (you) `travailles` (work) `demain` (tomorrow) |
+| 62. Do you like Paris? | `Est-ce que vous aimez Paris ?` Word by word: `Est-ce` (question marker) `que` (that) `vous` (you) `aimez` (like) `Paris` (Paris) |
+| 63. Do you speak French? | `Parlez-vous français ?` Word by word: `Parlez-vous` (do you speak) `français` (French) |
+| 64. Are we studying this evening? | `Est-ce qu’on étudie ce soir ?` Word by word: `Est-ce` (question marker) `qu’` (that) `on` (we) `étudie` (study) `ce` (this) `soir` (evening) |
+| 65. Does she like music? | `Aime-t-elle la musique ?` Word by word: `Aime-t-elle` (does she like) `la` (the) `musique` (music) |
+| 66. Do they arrive in March? | `Arrivent-ils en mars ?` Word by word: `Arrivent-ils` (do they arrive) `en` (in) `mars` (March) |
+| 67. Are you watching a French film? | `Vous regardez un film français ?` Word by word: `Vous` (you) `regardez` (watch) `un` (a) `film` (film) `français` (French) |
+| 68. Do you live in Montreal? | `Habites-tu à Montréal ?` Word by word: `Habites-tu` (do you live) `à` (in) `Montréal` (Montreal) |
+| 69. Is there a café near the station? | `Est-ce qu’il y a un café près de la gare ?` Word by word: `Est-ce qu’il y a` (is there) `un` (a) `café` (café) `près` (near) `de` (—) `la` (the) `gare` (station) |
+| 70. Do we have class on Thursday? | `Nous avons cours jeudi ?` Word by word: `Nous` (we) `avons` (have) `cours` (class) `jeudi` (Thursday) |
+| 71. Are they looking for a new office? | `Est-ce qu’ils cherchent un nouveau bureau ?` Word by word: `Est-ce` (question marker) `qu’` (that) `ils` (they) `cherchent` (look for) `un` (a) `nouveau` (new) `bureau` (office) |
+| 72. Do you work at the library on Mondays? | `Travaillez-vous à la bibliothèque le lundi ?` Word by word: `Travaillez-vous` (do you work) `à` (at) `la` (the) `bibliothèque` (library) `le` (the) `lundi` (Monday) |
+| 73. Does your sister visit the market in summer? | `Ta sœur visite le marché en été ?` Word by word: `Ta` (your) `sœur` (sister) `visite` (visits) `le` (the) `marché` (market) `en` (in) `été` (summer) |
+| 74. Do you study in the morning or in the evening? | `Est-ce que tu étudies le matin ou le soir ?` Word by word: `Est-ce` (question marker) `que` (that) `tu` (you) `étudies` (study) `le` (the) `matin` (morning) `ou` (or) `le` (the) `soir` (evening) |
+| 75. Is the film tonight? | `Le film est ce soir ?` Word by word: `Le` (the) `film` (film) `est` (is) `ce` (this) `soir` (evening) |
+| 76. Do the children dance at school? | `Les enfants dansent à l’école ?` Word by word: `Les` (the) `enfants` (children) `dansent` (dance) `à` (at) `l’` (the) `école` (school) |
+| 77. Do you have a red notebook? | `As-tu un cahier rouge ?` Word by word: `As-tu` (do you have) `un` (a) `cahier` (notebook) `rouge` (red) |
+| 78. Is your professor ready? | `Votre professeur est-il prêt ?` Word by word: `Votre` (your) `professeur` (teacher) `est-il` (is he) `prêt` (ready) |
+| 79. Where do you live? | `Où habitez-vous ?` Word by word: `Où` (where) `habitez-vous` (do you live) |
+| 80. When is she arriving? | `Quand est-ce qu’elle arrive ?` Word by word: `Quand` (when) `est-ce` (question marker) `qu’` (that) `elle` (she) `arrive` (arrives) |
+| 81. Why are they studying tonight? | `Pourquoi est-ce qu’ils étudient ce soir ?` Word by word: `Pourquoi` (why) `est-ce` (question marker) `qu’` (that) `ils` (they) `étudient` (study) `ce` (this) `soir` (evening) |
+| 82. How do you work at home? | `Comment travailles-tu à la maison ?` Word by word: `Comment` (how) `travailles-tu` (do you work) `à` (at) `la` (the) `maison` (home) |
+| 83. How many films do you watch in July? | `Combien de films regardez-vous en juillet ?` Word by word: `Combien` (how many) `de` (of) `films` (films) `regardez-vous` (do you watch) `en` (in) `juillet` (July) |
+| 84. Who is speaking with the teacher? | `Qui parle avec le professeur ?` Word by word: `Qui` (who) `parle` (speaks) `avec` (with) `le` (the) `professeur` (teacher) |
+| 85. What are you looking at? | `Qu’est-ce que tu regardes ?` Word by word: `Qu’` (that) `est-ce` (question marker) `que` (that) `tu` (you) `regardes` (watch) |
+| 86. Which season do you like? | `Quelle saison aimez-vous ?` Word by word: `Quelle` (which) `saison` (season) `aimez-vous` (do you like) |
+| 87. What day is it? | `Quel jour sommes-nous ?` Word by word: `Quel` (what) `jour` (day) `sommes-nous` (are we) |
+| 88. Where is the small hotel? | `Où est le petit hôtel ?` Word by word: `Où` (where) `est` (is) `le` (the) `petit` (small) `hôtel` (hotel) |
+| 89. When do you telephone your mother? | `Quand est-ce que tu téléphones à ta mère ?` Word by word: `Quand` (when) `est-ce` (question marker) `que` (that) `tu` (you) `téléphones` (telephone) `à` (to) `ta` (your) `mère` (mother) |
+| 90. Why is the store closed on Sunday? | `Pourquoi le magasin est-il fermé le dimanche ?` Word by word: `Pourquoi` (why) `le` (the) `magasin` (store) `est-il` (is it) `fermé` (closed) `le` (the) `dimanche` (Sunday) |
+| 91. How many students are there in the class? | `Combien d’étudiants y a-t-il dans la classe ?` Word by word: `Combien` (how many) `d’` (of) `étudiants` (students) `y` (there) `a-t-il` (are there) `dans` (in) `la` (the) `classe` (class) |
+| 92. What music do they like? | `Quelle musique aiment-ils ?` Word by word: `Quelle` (what) `musique` (music) `aiment-ils` (do they like) |
+| 93. Where are we studying this afternoon? | `Où est-ce que nous étudions cet après-midi ?` Word by word: `Où` (where) `est-ce` (question marker) `que` (that) `nous` (we) `étudions` (study) `cet` (this) `après-midi` (afternoon) |
+| 94. When does your train arrive tomorrow? | `Quand arrive ton train demain ?` Word by word: `Quand` (when) `arrive` (arrives) `ton` (your) `train` (train) `demain` (tomorrow) |
+| 95. What are they studying at school? | `Qu’est-ce qu’ils étudient à l’école ?` Word by word: `Qu’` (that) `est-ce` (question marker) `qu’` (that) `ils` (they) `étudient` (study) `à` (at) `l’` (the) `école` (school) |
+| 96. Which month do you like? | `Quel mois aimez-vous ?` Word by word: `Quel` (which) `mois` (month) `aimez-vous` (do you like) |
+| 97. Why do you work on Saturday morning? | `Pourquoi travailles-tu le samedi matin ?` Word by word: `Pourquoi` (why) `travailles-tu` (do you work) `le` (the) `samedi` (Saturday) `matin` (morning) |
+| 98. Which films do you watch in winter? | `Quels films regardez-vous en hiver ?` Word by word: `Quels` (which) `films` (films) `regardez-vous` (do you watch) `en` (in) `hiver` (winter) |
+| 99. Who has the new notebook? | `Qui a le nouveau cahier ?` Word by word: `Qui` (who) `a` (has) `le` (the) `nouveau` (new) `cahier` (notebook) |
+| 100. How is your family today? | `Comment est ta famille aujourd’hui ?` Word by word: `Comment` (how) `est` (is) `ta` (your) `famille` (family) `aujourd’hui` (today) |

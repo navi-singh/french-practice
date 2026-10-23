@@ -301,7 +301,8 @@ class TranslationPracticeContentTests(unittest.TestCase):
                 for row in self.drill_rows(path):
                     self.assertRegex(
                         row,
-                        r"^\| \d+\. [^`|]+ \| `[^`|]+`(?: — [^`|]+)? \|$",
+                        r"^\| \d+\. [^`|]+ \| `[^`|]+`(?: — [^`|]+?)?"
+                        r"(?: Word by word: (?:`[^`|]+` \([^()|`]+\) ?)+)? ?\|$",
                     )
 
     def test_rows_are_not_mechanical_repeats(self):
@@ -315,6 +316,51 @@ class TranslationPracticeContentTests(unittest.TestCase):
                 self.assertEqual(len(set(english)), 100)
                 self.assertEqual(len(set(french)), 100)
 
+
+
+class WordGlossTests(unittest.TestCase):
+    """Drill answers end with a word-by-word breakdown that must cover the
+    French sentence exactly and render as speakable French over English."""
+
+    PAIR = re.compile(r"`([^`]+)` \(([^()]+)\)")
+
+    @staticmethod
+    def words(text):
+        text = text.replace("\u2019", "'").lower()
+        text = re.sub(r"(\b\w+')", r"\1 ", text)
+        return re.sub(r"[.,!?;:\u00ab\u00bb\"\u2026\u2014\u2013]", " ", text).split()
+
+    def test_drill_row_renders_gloss_pairs(self):
+        html = build_site.markdown_to_html(
+            "| English | French |\n| --- | --- |\n"
+            "| 1. We know. | `Nous savons.` Word by word: `Nous` (we) `savons` (know) |"
+        )
+        self.assertIn('<span class="word-gloss"', html)
+        self.assertIn('<code class="speakable" lang="fr">Nous</code>'
+                      '<span class="gloss-en" lang="en">we</span>', html)
+        self.assertNotIn("Word by word:", html)
+
+    def test_every_drill_row_has_a_complete_gloss(self):
+        heading = TranslationPracticeContentTests.HEADING
+        for path in sorted(build_site.ROOT.glob("chapter-*/lessons.md")):
+            with self.subTest(chapter=path.parent.name):
+                section = path.read_text(encoding="utf-8").split(heading)[1]
+                rows = [l for l in section.splitlines() if re.match(r"^\| \d+\. ", l)]
+                self.assertEqual(len(rows), 100)
+                for row in rows:
+                    answer, gloss = row.split(" Word by word: ")
+                    pairs = self.PAIR.findall(gloss)
+                    covered = [w for fr, _ in pairs for w in self.words(fr)]
+                    self.assertEqual(covered, self.words(answer.split("`")[1]), row)
+                    for _, english in pairs:
+                        self.assertNotIn("/", english, row)
+
+    def test_gloss_is_hidden_while_french_is_masked(self):
+        css = (build_site.ROOT / "docs" / "styles.css").read_text(encoding="utf-8")
+        self.assertIn(
+            ".translation-wrap.masked tbody tr:not(.revealed) .word-gloss { display: none; }",
+            css,
+        )
 
 
 class AnswerBlockTests(unittest.TestCase):

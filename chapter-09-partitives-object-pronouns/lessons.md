@@ -456,103 +456,103 @@ Cover the French column, translate each English sentence aloud, then uncover to 
 
 | English | French |
 | --- | --- |
-| 1. I take the subway every morning. | `Je prends le métro chaque matin.` |
-| 2. We take notes during the class. | `Nous prenons des notes pendant le cours.` |
-| 3. Do you understand this rule ? | `Tu comprends cette règle ?` |
-| 4. She is learning French with her neighbor. | `Elle apprend le français avec sa voisine.` |
-| 5. They drink tea after lunch. | `Ils boivent du thé après le déjeuner.` |
-| 6. I do not understand the question. | `Je ne comprends pas la question.` |
-| 7. You are taking a seat near the window. | `Vous prenez une place près de la fenêtre.` |
-| 8. He learns quickly at school. | `Il apprend vite à l’école.` |
-| 9. Do we take the train at eight o’clock ? | `Nous prenons le train à huit heures ?` |
-| 10. My sister drinks water, not soda. | `Ma sœur boit de l’eau, pas de soda.` |
-| 11. The children understand the story. | `Les enfants comprennent l’histoire.` |
-| 12. I am learning a useful expression. | `J’apprends une expression utile.` |
-| 13. What are you taking for dinner ? | `Qu’est-ce que tu prends pour le dîner ?` |
-| 14. We drink coffee in the kitchen. | `Nous buvons du café dans la cuisine.` |
-| 15. They do not take the bus today. | `Ils ne prennent pas le bus aujourd’hui.` |
-| 16. Do you understand why she is staying ? | `Tu comprends pourquoi elle reste ?` |
-| 17. I take a small notebook to work. | `Je prends un petit carnet au travail.` |
-| 18. Our teacher speaks, and we understand. | `Notre professeur parle, et nous comprenons.` |
-| 19. She does not drink milk in the morning. | `Elle ne boit pas de lait le matin.` |
-| 20. You learn this word today. | `Vous apprenez ce mot aujourd’hui.` |
-| 21. I am eating some bread with cheese. | `Je mange du pain avec du fromage.` |
-| 22. She is making some soup for dinner. | `Elle prépare de la soupe pour le dîner.` |
-| 23. We are buying some vegetables at the market. | `Nous achetons des légumes au marché.` |
-| 24. Do you want some water or some juice ? | `Tu veux de l’eau ou du jus ?` |
-| 25. He does not eat meat. | `Il ne mange pas de viande.` |
-| 26. I take the cheese that is on the table. | `Je prends le fromage qui est sur la table.` |
-| 27. We are ordering a sandwich and a coffee. | `Nous commandons un sandwich et un café.` |
-| 28. They have a lot of homework tonight. | `Ils ont beaucoup de devoirs ce soir.` |
-| 29. She wants two kilos of apples. | `Elle veut deux kilos de pommes.` |
-| 30. I like tea in general. | `J’aime le thé en général.` |
-| 31. Do you drink the coffee in the cup ? | `Tu bois le café dans la tasse ?` |
-| 32. We do not buy sugar anymore. | `Nous n’achetons plus de sucre.` |
-| 33. He takes some rice, but not any salad. | `Il prend du riz, mais pas de salade.` |
-| 34. I am bringing some flowers to my mother. | `J’apporte des fleurs à ma mère.` |
-| 35. There is still some water in the bottle. | `Il y a encore de l’eau dans la bouteille.` |
-| 36. She is not making soup today. | `Elle ne prépare pas de soupe aujourd’hui.` |
-| 37. We need a little butter. | `Nous avons besoin d’un peu de beurre.` |
-| 38. Do you prefer the apples or the pears ? | `Tu préfères les pommes ou les poires ?` |
-| 39. I am eating an orange after class. | `Je mange une orange après le cours.` |
-| 40. They drink too much soda. | `Ils boivent trop de soda.` |
-| 41. I take the book and I open it. | `Je prends le livre et je l’ouvre.` |
-| 42. Do you see Marie ? | `Tu vois Marie ?` |
-| 43. Yes, I see her near the door. | `Oui, je la vois près de la porte.` |
-| 44. We understand the instructions. | `Nous comprenons les consignes.` |
-| 45. We do not understand them yet. | `Nous ne les comprenons pas encore.` |
-| 46. She invites us this evening. | `Elle nous invite ce soir.` |
-| 47. I know this song, and I sing it often. | `Je connais cette chanson, et je la chante souvent.` |
-| 48. Do they hear you well ? | `Ils vous entendent bien ?` |
-| 49. He does not take it because it is too big. | `Il ne le prend pas parce qu’il est trop grand.` |
-| 50. I want to read this article. | `Je veux lire cet article.` |
-| 51. I want to read it tonight. | `Je veux le lire ce soir.` |
-| 52. She is going to buy the tickets. | `Elle va acheter les billets.` |
-| 53. She is going to buy them tomorrow. | `Elle va les acheter demain.` |
-| 54. Do you want to try the soup ? | `Tu veux goûter la soupe ?` |
-| 55. Do you want to try it ? | `Tu veux la goûter ?` |
-| 56. I cannot find my keys. | `Je ne peux pas trouver mes clés.` |
-| 57. I cannot find them. | `Je ne peux pas les trouver.` |
-| 58. They are learning the new words. | `Ils apprennent les nouveaux mots.` |
-| 59. They learn them after dinner. | `Ils les apprennent après le dîner.` |
-| 60. Please, do you understand me ? | `S’il vous plaît, vous me comprenez ?` |
-| 61. I am speaking to my father. | `Je parle à mon père.` |
-| 62. I am speaking to him after work. | `Je lui parle après le travail.` |
-| 63. We write to our friends on Monday. | `Nous écrivons à nos amis lundi.` |
-| 64. We write to them every week. | `Nous leur écrivons chaque semaine.` |
-| 65. She gives a glass of water to the child. | `Elle donne un verre d’eau à l’enfant.` |
-| 66. She gives him a glass of water. | `Elle lui donne un verre d’eau.` |
-| 67. Do you answer the teacher ? | `Tu réponds au professeur ?` |
-| 68. Do you answer him clearly ? | `Tu lui réponds clairement ?` |
-| 69. They are not calling us tonight. | `Ils ne nous téléphonent pas ce soir.` |
-| 70. I tell my sister a short story. | `Je raconte une petite histoire à ma sœur.` |
-| 71. I tell her a short story. | `Je lui raconte une petite histoire.` |
-| 72. You are offering your parents some coffee. | `Vous offrez du café à vos parents.` |
-| 73. You are offering them some coffee. | `Vous leur offrez du café.` |
-| 74. She wants to speak to the neighbors. | `Elle veut parler aux voisins.` |
-| 75. She wants to speak to them. | `Elle veut leur parler.` |
-| 76. We go to the market on Saturday. | `Nous allons au marché le samedi.` |
-| 77. We go there on Saturday. | `Nous y allons le samedi.` |
-| 78. I am thinking about this problem. | `Je pense à ce problème.` |
-| 79. I think about it often. | `J’y pense souvent.` |
-| 80. She does not stay at home today. | `Elle ne reste pas à la maison aujourd’hui.` |
-| 81. She does not stay there today. | `Elle n’y reste pas aujourd’hui.` |
-| 82. We are talking about this film. | `Nous parlons de ce film.` |
-| 83. We talk about it after class. | `Nous en parlons après le cours.` |
-| 84. I take some bread. | `Je prends du pain.` |
-| 85. I take some of it for the trip. | `J’en prends pour le voyage.` |
-| 86. Do you want three apples ? | `Tu veux trois pommes ?` |
-| 87. Yes, I want three of them. | `Oui, j’en veux trois.` |
-| 88. They buy a lot of fruit. | `Ils achètent beaucoup de fruits.` |
-| 89. They buy a lot of it here. | `Ils en achètent beaucoup ici.` |
-| 90. I am not drinking any today. | `Je n’en bois pas aujourd’hui.` |
-| 91. We are going to talk about it tomorrow. | `Nous allons en parler demain.` |
-| 92. Are you going to answer it ? | `Tu vas y répondre ?` |
-| 93. She wants to go there with us. | `Elle veut y aller avec nous.` |
-| 94. He can take two of them. | `Il peut en prendre deux.` |
-| 95. I am not thinking about it now. | `Je n’y pense pas maintenant.` |
-| 96. I do not want to think about it. | `Je ne veux pas y penser.` |
-| 97. We have enough salad. | `Nous avons assez de salade.` |
-| 98. We have enough of it for everyone. | `Nous en avons assez pour tout le monde.` |
-| 99. She comes from the library. | `Elle vient de la bibliothèque.` |
-| 100. She comes from there at noon. | `Elle en vient à midi.` |
+| 1. I take the subway every morning. | `Je prends le métro chaque matin.` Word by word: `Je` (I) `prends` (take) `le` (the) `métro` (subway) `chaque` (every) `matin` (morning) |
+| 2. We take notes during the class. | `Nous prenons des notes pendant le cours.` Word by word: `Nous` (we) `prenons` (take) `des` (some) `notes` (notes) `pendant` (during) `le` (the) `cours` (class) |
+| 3. Do you understand this rule ? | `Tu comprends cette règle ?` Word by word: `Tu` (you) `comprends` (understand) `cette` (this) `règle` (rule) |
+| 4. She is learning French with her neighbor. | `Elle apprend le français avec sa voisine.` Word by word: `Elle` (she) `apprend` (learns) `le` (the) `français` (French) `avec` (with) `sa` (her) `voisine` (neighbor) |
+| 5. They drink tea after lunch. | `Ils boivent du thé après le déjeuner.` Word by word: `Ils` (they) `boivent` (drink) `du` (some) `thé` (tea) `après` (after) `le` (the) `déjeuner` (lunch) |
+| 6. I do not understand the question. | `Je ne comprends pas la question.` Word by word: `Je` (I) `ne` (not) `comprends` (understand) `pas` (not) `la` (the) `question` (question) |
+| 7. You are taking a seat near the window. | `Vous prenez une place près de la fenêtre.` Word by word: `Vous` (you) `prenez` (take) `une` (a) `place` (seat) `près` (near) `de` (—) `la` (the) `fenêtre` (window) |
+| 8. He learns quickly at school. | `Il apprend vite à l’école.` Word by word: `Il` (he) `apprend` (learns) `vite` (quickly) `à` (at) `l’` (the) `école` (school) |
+| 9. Do we take the train at eight o’clock ? | `Nous prenons le train à huit heures ?` Word by word: `Nous` (we) `prenons` (take) `le` (the) `train` (train) `à` (at) `huit` (eight) `heures` (o’clock) |
+| 10. My sister drinks water, not soda. | `Ma sœur boit de l’eau, pas de soda.` Word by word: `Ma` (my) `sœur` (sister) `boit` (drinks) `de` (some) `l’` (the) `eau` (water) `pas` (not) `de` (any) `soda` (soda) |
+| 11. The children understand the story. | `Les enfants comprennent l’histoire.` Word by word: `Les` (the) `enfants` (children) `comprennent` (understand) `l’` (the) `histoire` (story) |
+| 12. I am learning a useful expression. | `J’apprends une expression utile.` Word by word: `J’` (I) `apprends` (learn) `une` (a) `expression` (expression) `utile` (useful) |
+| 13. What are you taking for dinner ? | `Qu’est-ce que tu prends pour le dîner ?` Word by word: `Qu’` (what) `est-ce` (is it) `que` (that) `tu` (you) `prends` (take) `pour` (for) `le` (the) `dîner` (dinner) |
+| 14. We drink coffee in the kitchen. | `Nous buvons du café dans la cuisine.` Word by word: `Nous` (we) `buvons` (drink) `du` (some) `café` (coffee) `dans` (in) `la` (the) `cuisine` (kitchen) |
+| 15. They do not take the bus today. | `Ils ne prennent pas le bus aujourd’hui.` Word by word: `Ils` (they) `ne` (not) `prennent` (take) `pas` (not) `le` (the) `bus` (bus) `aujourd’` (today) `hui` (—) |
+| 16. Do you understand why she is staying ? | `Tu comprends pourquoi elle reste ?` Word by word: `Tu` (you) `comprends` (understand) `pourquoi` (why) `elle` (she) `reste` (stays) |
+| 17. I take a small notebook to work. | `Je prends un petit carnet au travail.` Word by word: `Je` (I) `prends` (take) `un` (a) `petit` (small) `carnet` (notebook) `au` (to the) `travail` (work) |
+| 18. Our teacher speaks, and we understand. | `Notre professeur parle, et nous comprenons.` Word by word: `Notre` (our) `professeur` (teacher) `parle` (speaks) `et` (and) `nous` (we) `comprenons` (understand) |
+| 19. She does not drink milk in the morning. | `Elle ne boit pas de lait le matin.` Word by word: `Elle` (she) `ne` (not) `boit` (drinks) `pas` (not) `de` (any) `lait` (milk) `le` (the) `matin` (morning) |
+| 20. You learn this word today. | `Vous apprenez ce mot aujourd’hui.` Word by word: `Vous` (you) `apprenez` (learn) `ce` (this) `mot` (word) `aujourd’` (today) `hui` (—) |
+| 21. I am eating some bread with cheese. | `Je mange du pain avec du fromage.` Word by word: `Je` (I) `mange` (eat) `du` (some) `pain` (bread) `avec` (with) `du` (some) `fromage` (cheese) |
+| 22. She is making some soup for dinner. | `Elle prépare de la soupe pour le dîner.` Word by word: `Elle` (she) `prépare` (makes) `de` (some) `la` (the) `soupe` (soup) `pour` (for) `le` (the) `dîner` (dinner) |
+| 23. We are buying some vegetables at the market. | `Nous achetons des légumes au marché.` Word by word: `Nous` (we) `achetons` (buy) `des` (some) `légumes` (vegetables) `au` (at the) `marché` (market) |
+| 24. Do you want some water or some juice ? | `Tu veux de l’eau ou du jus ?` Word by word: `Tu` (you) `veux` (want) `de` (some) `l’` (the) `eau` (water) `ou` (or) `du` (some) `jus` (juice) |
+| 25. He does not eat meat. | `Il ne mange pas de viande.` Word by word: `Il` (he) `ne` (not) `mange` (eat) `pas` (not) `de` (any) `viande` (meat) |
+| 26. I take the cheese that is on the table. | `Je prends le fromage qui est sur la table.` Word by word: `Je` (I) `prends` (take) `le` (the) `fromage` (cheese) `qui` (that) `est` (is) `sur` (on) `la` (the) `table` (table) |
+| 27. We are ordering a sandwich and a coffee. | `Nous commandons un sandwich et un café.` Word by word: `Nous` (we) `commandons` (order) `un` (a) `sandwich` (sandwich) `et` (and) `un` (a) `café` (coffee) |
+| 28. They have a lot of homework tonight. | `Ils ont beaucoup de devoirs ce soir.` Word by word: `Ils` (they) `ont` (have) `beaucoup` (a lot) `de` (of) `devoirs` (assignments) `ce` (this) `soir` (evening) |
+| 29. She wants two kilos of apples. | `Elle veut deux kilos de pommes.` Word by word: `Elle` (she) `veut` (wants) `deux` (two) `kilos` (kilos) `de` (of) `pommes` (apples) |
+| 30. I like tea in general. | `J’aime le thé en général.` Word by word: `J’` (I) `aime` (like) `le` (the) `thé` (tea) `en` (in) `général` (general) |
+| 31. Do you drink the coffee in the cup ? | `Tu bois le café dans la tasse ?` Word by word: `Tu` (you) `bois` (drink) `le` (the) `café` (coffee) `dans` (in) `la` (the) `tasse` (cup) |
+| 32. We do not buy sugar anymore. | `Nous n’achetons plus de sucre.` Word by word: `Nous` (we) `n’` (—) `achetons` (buy) `plus` (anymore) `de` (any) `sucre` (sugar) |
+| 33. He takes some rice, but not any salad. | `Il prend du riz, mais pas de salade.` Word by word: `Il` (he) `prend` (takes) `du` (some) `riz` (rice) `mais` (but) `pas` (not) `de` (any) `salade` (salad) |
+| 34. I am bringing some flowers to my mother. | `J’apporte des fleurs à ma mère.` Word by word: `J’` (I) `apporte` (bring) `des` (some) `fleurs` (flowers) `à` (to) `ma` (my) `mère` (mother) |
+| 35. There is still some water in the bottle. | `Il y a encore de l’eau dans la bouteille.` Word by word: `Il` (it) `y` (there) `a` (is) `encore` (still) `de` (some) `l’` (the) `eau` (water) `dans` (in) `la` (the) `bouteille` (bottle) |
+| 36. She is not making soup today. | `Elle ne prépare pas de soupe aujourd’hui.` Word by word: `Elle` (she) `ne` (not) `prépare` (make) `pas` (not) `de` (any) `soupe` (soup) `aujourd’` (today) `hui` (—) |
+| 37. We need a little butter. | `Nous avons besoin d’un peu de beurre.` Word by word: `Nous` (we) `avons` (have) `besoin` (need) `d’` (of) `un` (a) `peu` (little) `de` (of) `beurre` (butter) |
+| 38. Do you prefer the apples or the pears ? | `Tu préfères les pommes ou les poires ?` Word by word: `Tu` (you) `préfères` (prefer) `les` (the) `pommes` (apples) `ou` (or) `les` (the) `poires` (pears) |
+| 39. I am eating an orange after class. | `Je mange une orange après le cours.` Word by word: `Je` (I) `mange` (eat) `une` (an) `orange` (orange) `après` (after) `le` (the) `cours` (class) |
+| 40. They drink too much soda. | `Ils boivent trop de soda.` Word by word: `Ils` (they) `boivent` (drink) `trop` (too much) `de` (of) `soda` (soda) |
+| 41. I take the book and I open it. | `Je prends le livre et je l’ouvre.` Word by word: `Je` (I) `prends` (take) `le` (the) `livre` (book) `et` (and) `je` (I) `l’` (it) `ouvre` (open) |
+| 42. Do you see Marie ? | `Tu vois Marie ?` Word by word: `Tu` (you) `vois` (see) `Marie` (Marie) |
+| 43. Yes, I see her near the door. | `Oui, je la vois près de la porte.` Word by word: `Oui` (yes) `je` (I) `la` (her) `vois` (see) `près` (near) `de` (of) `la` (the) `porte` (door) |
+| 44. We understand the instructions. | `Nous comprenons les consignes.` Word by word: `Nous` (we) `comprenons` (understand) `les` (the) `consignes` (instructions) |
+| 45. We do not understand them yet. | `Nous ne les comprenons pas encore.` Word by word: `Nous` (we) `ne` (not) `les` (them) `comprenons` (understand) `pas` (not) `encore` (yet) |
+| 46. She invites us this evening. | `Elle nous invite ce soir.` Word by word: `Elle` (she) `nous` (us) `invite` (invites) `ce` (this) `soir` (evening) |
+| 47. I know this song, and I sing it often. | `Je connais cette chanson, et je la chante souvent.` Word by word: `Je` (I) `connais` (know) `cette` (this) `chanson` (song) `et` (and) `je` (I) `la` (it) `chante` (sing) `souvent` (often) |
+| 48. Do they hear you well ? | `Ils vous entendent bien ?` Word by word: `Ils` (they) `vous` (you) `entendent` (hear) `bien` (well) |
+| 49. He does not take it because it is too big. | `Il ne le prend pas parce qu’il est trop grand.` Word by word: `Il` (he) `ne` (not) `le` (it) `prend` (takes) `pas` (not) `parce` (because) `qu’` (that) `il` (it) `est` (is) `trop` (too) `grand` (big) |
+| 50. I want to read this article. | `Je veux lire cet article.` Word by word: `Je` (I) `veux` (want) `lire` (to read) `cet` (this) `article` (article) |
+| 51. I want to read it tonight. | `Je veux le lire ce soir.` Word by word: `Je` (I) `veux` (want) `le` (it) `lire` (to read) `ce` (this) `soir` (evening) |
+| 52. She is going to buy the tickets. | `Elle va acheter les billets.` Word by word: `Elle` (she) `va` (is going to) `acheter` (buy) `les` (the) `billets` (tickets) |
+| 53. She is going to buy them tomorrow. | `Elle va les acheter demain.` Word by word: `Elle` (she) `va` (is going to) `les` (them) `acheter` (buy) `demain` (tomorrow) |
+| 54. Do you want to try the soup ? | `Tu veux goûter la soupe ?` Word by word: `Tu` (you) `veux` (want) `goûter` (taste) `la` (the) `soupe` (soup) |
+| 55. Do you want to try it ? | `Tu veux la goûter ?` Word by word: `Tu` (you) `veux` (want) `la` (it) `goûter` (taste) |
+| 56. I cannot find my keys. | `Je ne peux pas trouver mes clés.` Word by word: `Je` (I) `ne` (not) `peux` (can) `pas` (not) `trouver` (find) `mes` (my) `clés` (keys) |
+| 57. I cannot find them. | `Je ne peux pas les trouver.` Word by word: `Je` (I) `ne` (not) `peux` (can) `pas` (not) `les` (them) `trouver` (find) |
+| 58. They are learning the new words. | `Ils apprennent les nouveaux mots.` Word by word: `Ils` (they) `apprennent` (learn) `les` (the) `nouveaux` (new) `mots` (words) |
+| 59. They learn them after dinner. | `Ils les apprennent après le dîner.` Word by word: `Ils` (they) `les` (them) `apprennent` (learn) `après` (after) `le` (the) `dîner` (dinner) |
+| 60. Please, do you understand me ? | `S’il vous plaît, vous me comprenez ?` Word by word: `S’` (part of please) `il` (part of please) `vous` (you) `plaît` (pleases) `vous` (you) `me` (me) `comprenez` (understand) |
+| 61. I am speaking to my father. | `Je parle à mon père.` Word by word: `Je` (I) `parle` (speak) `à` (to) `mon` (my) `père` (father) |
+| 62. I am speaking to him after work. | `Je lui parle après le travail.` Word by word: `Je` (I) `lui` (to him) `parle` (speak) `après` (after) `le` (the) `travail` (work) |
+| 63. We write to our friends on Monday. | `Nous écrivons à nos amis lundi.` Word by word: `Nous` (we) `écrivons` (write) `à` (to) `nos` (our) `amis` (friends) `lundi` (Monday) |
+| 64. We write to them every week. | `Nous leur écrivons chaque semaine.` Word by word: `Nous` (we) `leur` (to them) `écrivons` (write) `chaque` (every) `semaine` (week) |
+| 65. She gives a glass of water to the child. | `Elle donne un verre d’eau à l’enfant.` Word by word: `Elle` (she) `donne` (gives) `un` (a) `verre` (glass) `d’` (of) `eau` (water) `à` (to) `l’` (the) `enfant` (child) |
+| 66. She gives him a glass of water. | `Elle lui donne un verre d’eau.` Word by word: `Elle` (she) `lui` (to him) `donne` (gives) `un` (a) `verre` (glass) `d’` (of) `eau` (water) |
+| 67. Do you answer the teacher ? | `Tu réponds au professeur ?` Word by word: `Tu` (you) `réponds` (answer) `au` (to the) `professeur` (teacher) |
+| 68. Do you answer him clearly ? | `Tu lui réponds clairement ?` Word by word: `Tu` (you) `lui` (to him) `réponds` (answer) `clairement` (clearly) |
+| 69. They are not calling us tonight. | `Ils ne nous téléphonent pas ce soir.` Word by word: `Ils` (they) `ne` (not) `nous` (us) `téléphonent` (call) `pas` (not) `ce` (this) `soir` (evening) |
+| 70. I tell my sister a short story. | `Je raconte une petite histoire à ma sœur.` Word by word: `Je` (I) `raconte` (tell) `une` (a) `petite` (short) `histoire` (story) `à` (to) `ma` (my) `sœur` (sister) |
+| 71. I tell her a short story. | `Je lui raconte une petite histoire.` Word by word: `Je` (I) `lui` (to her) `raconte` (tell) `une` (a) `petite` (short) `histoire` (story) |
+| 72. You are offering your parents some coffee. | `Vous offrez du café à vos parents.` Word by word: `Vous` (you) `offrez` (offer) `du` (some) `café` (coffee) `à` (to) `vos` (your) `parents` (parents) |
+| 73. You are offering them some coffee. | `Vous leur offrez du café.` Word by word: `Vous` (you) `leur` (to them) `offrez` (offer) `du` (some) `café` (coffee) |
+| 74. She wants to speak to the neighbors. | `Elle veut parler aux voisins.` Word by word: `Elle` (she) `veut` (wants) `parler` (to speak) `aux` (to the) `voisins` (neighbors) |
+| 75. She wants to speak to them. | `Elle veut leur parler.` Word by word: `Elle` (she) `veut` (wants) `leur` (to them) `parler` (to speak) |
+| 76. We go to the market on Saturday. | `Nous allons au marché le samedi.` Word by word: `Nous` (we) `allons` (go) `au` (to the) `marché` (market) `le` (the) `samedi` (Saturday) |
+| 77. We go there on Saturday. | `Nous y allons le samedi.` Word by word: `Nous` (we) `y` (there) `allons` (go) `le` (the) `samedi` (Saturday) |
+| 78. I am thinking about this problem. | `Je pense à ce problème.` Word by word: `Je` (I) `pense` (think) `à` (about) `ce` (this) `problème` (problem) |
+| 79. I think about it often. | `J’y pense souvent.` Word by word: `J’` (I) `y` (about it) `pense` (think) `souvent` (often) |
+| 80. She does not stay at home today. | `Elle ne reste pas à la maison aujourd’hui.` Word by word: `Elle` (she) `ne` (not) `reste` (stays) `pas` (not) `à` (at) `la` (the) `maison` (home) `aujourd’` (today) `hui` (—) |
+| 81. She does not stay there today. | `Elle n’y reste pas aujourd’hui.` Word by word: `Elle` (she) `n’` (not) `y` (there) `reste` (stays) `pas` (not) `aujourd’` (today) `hui` (—) |
+| 82. We are talking about this film. | `Nous parlons de ce film.` Word by word: `Nous` (we) `parlons` (speak) `de` (about) `ce` (this) `film` (film) |
+| 83. We talk about it after class. | `Nous en parlons après le cours.` Word by word: `Nous` (we) `en` (about it) `parlons` (speak) `après` (after) `le` (the) `cours` (class) |
+| 84. I take some bread. | `Je prends du pain.` Word by word: `Je` (I) `prends` (take) `du` (some) `pain` (bread) |
+| 85. I take some of it for the trip. | `J’en prends pour le voyage.` Word by word: `J’` (I) `en` (some) `prends` (take) `pour` (for) `le` (the) `voyage` (trip) |
+| 86. Do you want three apples ? | `Tu veux trois pommes ?` Word by word: `Tu` (you) `veux` (want) `trois` (three) `pommes` (apples) |
+| 87. Yes, I want three of them. | `Oui, j’en veux trois.` Word by word: `Oui` (yes) `j’` (I) `en` (of them) `veux` (want) `trois` (three) |
+| 88. They buy a lot of fruit. | `Ils achètent beaucoup de fruits.` Word by word: `Ils` (they) `achètent` (buy) `beaucoup` (a lot) `de` (of) `fruits` (fruits) |
+| 89. They buy a lot of it here. | `Ils en achètent beaucoup ici.` Word by word: `Ils` (they) `en` (of it) `achètent` (buy) `beaucoup` (a lot) `ici` (here) |
+| 90. I am not drinking any today. | `Je n’en bois pas aujourd’hui.` Word by word: `Je` (I) `n’` (not) `en` (any) `bois` (drink) `pas` (not) `aujourd’` (today) `hui` (today) |
+| 91. We are going to talk about it tomorrow. | `Nous allons en parler demain.` Word by word: `Nous` (we) `allons` (are going to) `en` (about it) `parler` (speak) `demain` (tomorrow) |
+| 92. Are you going to answer it ? | `Tu vas y répondre ?` Word by word: `Tu` (you) `vas` (are going to) `y` (to it) `répondre` (answer) |
+| 93. She wants to go there with us. | `Elle veut y aller avec nous.` Word by word: `Elle` (she) `veut` (wants) `y` (there) `aller` (to go) `avec` (with) `nous` (us) |
+| 94. He can take two of them. | `Il peut en prendre deux.` Word by word: `Il` (he) `peut` (can) `en` (of them) `prendre` (take) `deux` (two) |
+| 95. I am not thinking about it now. | `Je n’y pense pas maintenant.` Word by word: `Je` (I) `n’` (not) `y` (about it) `pense` (think) `pas` (not) `maintenant` (now) |
+| 96. I do not want to think about it. | `Je ne veux pas y penser.` Word by word: `Je` (I) `ne` (not) `veux` (want) `pas` (not) `y` (about it) `penser` (to think) |
+| 97. We have enough salad. | `Nous avons assez de salade.` Word by word: `Nous` (we) `avons` (have) `assez` (enough) `de` (of) `salade` (salad) |
+| 98. We have enough of it for everyone. | `Nous en avons assez pour tout le monde.` Word by word: `Nous` (we) `en` (of it) `avons` (have) `assez` (enough) `pour` (for) `tout` (all) `le` (the) `monde` (people) |
+| 99. She comes from the library. | `Elle vient de la bibliothèque.` Word by word: `Elle` (she) `vient` (comes) `de` (from) `la` (the) `bibliothèque` (library) |
+| 100. She comes from there at noon. | `Elle en vient à midi.` Word by word: `Elle` (she) `en` (from there) `vient` (comes) `à` (at) `midi` (noon) |

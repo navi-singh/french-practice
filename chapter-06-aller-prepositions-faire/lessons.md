@@ -581,103 +581,103 @@ Cover the French column, translate each English sentence aloud, then uncover to 
 
 | English | French |
 | --- | --- |
-| 1. I am going to the library after class. | `Je vais à la bibliothèque après le cours.` |
-| 2. Are you going to the café this morning? | `Est-ce que tu vas au café ce matin ?` |
-| 3. She is going to her aunt’s house on Friday. | `Elle va chez sa tante vendredi.` |
-| 4. We are not going to the park today. | `Nous n’allons pas au parc aujourd’hui.` |
-| 5. You are going downtown on foot. | `Vous allez en ville à pied.` |
-| 6. The children are going to school together. | `Les enfants vont à l’école ensemble.` |
-| 7. How is your grandmother doing? | `Comment va ta grand-mère ?` |
-| 8. Everything is going well this week. | `Tout va bien cette semaine.` |
-| 9. I am going to the station at noon. | `Je vais à la gare à midi.` |
-| 10. Do we go to the museum before lunch? | `Est-ce que nous allons au musée avant le déjeuner ?` |
-| 11. My brother is going to the office now. | `Mon frère va au bureau maintenant.` |
-| 12. They are going to the shops on Saturday. | `Ils vont aux magasins samedi.` |
-| 13. You are not going to the hotel tonight. | `Tu ne vas pas à l’hôtel ce soir.` |
-| 14. We are going to the doctor’s office at eight. | `Nous allons chez le médecin à huit heures.` |
-| 15. Where are your parents going? | `Où vont tes parents ?` |
-| 16. I am going to study this evening. | `Je vais étudier ce soir.` |
-| 17. She is going to prepare dinner. | `Elle va préparer le dîner.` |
-| 18. We are going to finish the chapter tomorrow. | `Nous allons finir le chapitre demain.` |
-| 19. Are you going to call your cousin? | `Est-ce que tu vas appeler ton cousin ?` |
-| 20. They are not going to wait until nine o’clock. | `Ils ne vont pas attendre jusqu’à neuf heures.` |
-| 21. You are going to choose a good restaurant. | `Vous allez choisir un bon restaurant.` |
-| 22. I am going to buy a ticket at the station. | `Je vais acheter un billet à la gare.` |
-| 23. My sister is going to play tennis after work. | `Ma sœur va jouer au tennis après le travail.` |
-| 24. We are going to talk about the film. | `Nous allons parler du film.` |
-| 25. Are they going to visit the village? | `Est-ce qu’ils vont visiter le village ?` |
-| 26. I am not going to stay at home. | `Je ne vais pas rester à la maison.` |
-| 27. You are going to listen to the lesson again. | `Tu vas écouter la leçon encore une fois.` |
-| 28. The students are going to work in the garden. | `Les étudiants vont travailler dans le jardin.` |
-| 29. We are going to have dinner at our friends’ house. | `Nous allons dîner chez nos amis.` |
-| 30. What are you going to do after breakfast? | `Qu’est-ce que vous allez faire après le petit-déjeuner ?` |
-| 31. The bag is on the teacher’s desk. | `Le sac est sur le bureau du professeur.` |
-| 32. I am talking to the neighbor about the dog. | `Je parle au voisin du chien.` |
-| 33. We arrive from the airport at six. | `Nous arrivons de l’aéroport à six heures.` |
-| 34. She is leaving the classroom at noon. | `Elle sort de la classe à midi.` |
-| 35. This is the children’s room. | `C’est la chambre des enfants.` |
-| 36. Are you going to the bank or to the post office? | `Est-ce que tu vas à la banque ou à la poste ?` |
-| 37. The keys are in the bottom of the bag. | `Les clés sont au fond du sac.` |
-| 38. We are thinking about the exams. | `Nous pensons aux examens.` |
-| 39. I need a glass of water. | `J’ai besoin d’un verre d’eau.` |
-| 40. The entrance to the museum is on the left. | `L’entrée du musée est à gauche.` |
-| 41. She speaks to the students after the class. | `Elle parle aux étudiants après le cours.` |
-| 42. My parents are coming back from the mountains Sunday. | `Mes parents rentrent des montagnes dimanche.` |
-| 43. Do you live near the center of town? | `Est-ce que tu habites près du centre-ville ?` |
-| 44. The door of the hotel is closed. | `La porte de l’hôtel est fermée.` |
-| 45. We are going to the beach in August. | `Nous allons à la plage en août.` |
-| 46. The cat is under the chair. | `Le chat est sous la chaise.` |
-| 47. Your book is behind the computer. | `Ton livre est derrière l’ordinateur.` |
-| 48. We are waiting in front of the school. | `Nous attendons devant l’école.` |
-| 49. The café is across from the station. | `Le café est en face de la gare.` |
-| 50. There is a small table between the beds. | `Il y a une petite table entre les lits.` |
-| 51. I am going to read before sleeping. | `Je vais lire avant de dormir.` |
-| 52. She works during the summer. | `Elle travaille pendant l’été.` |
-| 53. We are staying here until Friday. | `Nous restons ici jusqu’à vendredi.` |
-| 54. They arrive around three o’clock. | `Ils arrivent vers trois heures.` |
-| 55. The school is far from my house. | `L’école est loin de ma maison.` |
-| 56. My shoes are in the closet. | `Mes chaussures sont dans le placard.` |
-| 57. We are going to your brother’s house after dinner. | `Nous allons chez ton frère après le dîner.` |
-| 58. The hotel is near the river. | `L’hôtel est près de la rivière.` |
-| 59. I am going to finish before going out. | `Je vais finir avant de sortir.` |
-| 60. The children play behind the house. | `Les enfants jouent derrière la maison.` |
-| 61. My friend lives in France. | `Mon ami habite en France.` |
-| 62. Are you going to Italy in July? | `Est-ce que tu vas en Italie en juillet ?` |
-| 63. We come from Canada. | `Nous venons du Canada.` |
-| 64. She works in the United States. | `Elle travaille aux États-Unis.` |
-| 65. They arrive from the Netherlands tomorrow. | `Ils arrivent des Pays-Bas demain.` |
-| 66. I live in Lyon, but I study in Belgium. | `J’habite à Lyon, mais j’étudie en Belgique.` |
-| 67. He is going to Japan next month. | `Il va au Japon le mois prochain.` |
-| 68. My sister comes from Iran. | `Ma sœur vient d’Iran.` |
-| 69. We are visiting Quebec in May. | `Nous visitons le Québec en mai.` |
-| 70. To whom are you writing this letter? | `À qui écris-tu cette lettre ?` |
-| 71. What are you thinking about? | `À quoi penses-tu ?` |
-| 72. Who are you having dinner with tonight? | `Avec qui dînes-tu ce soir ?` |
-| 73. What do you need for the trip? | `De quoi avez-vous besoin pour le voyage ?` |
-| 74. Which of these books are you talking about? | `Duquel de ces livres parles-tu ?` |
-| 75. Which chair is the cat under? | `Sous laquelle de ces chaises est le chat ?` |
-| 76. Which roads lead to the village? | `Lesquelles de ces routes mènent au village ?` |
-| 77. Which friends are you writing to? | `Auxquels de ces amis écris-tu ?` |
-| 78. The weather is nice this morning. | `Il fait beau ce matin.` |
-| 79. Is it cold in the house? | `Est-ce qu’il fait froid dans la maison ?` |
-| 80. It is windy near the lake. | `Il fait du vent près du lac.` |
-| 81. We do the shopping on Saturday morning. | `Nous faisons les courses le samedi matin.` |
-| 82. I cook for my family on Sunday. | `Je fais la cuisine pour ma famille dimanche.` |
-| 83. You do your homework before dinner. | `Tu fais tes devoirs avant le dîner.` |
-| 84. My cousins ride bikes in the park. | `Mes cousins font du vélo dans le parc.` |
-| 85. She takes a walk after lunch. | `Elle fait une promenade après le déjeuner.` |
-| 86. Do you exercise during the week? | `Est-ce que vous faites du sport pendant la semaine ?` |
-| 87. They do the dishes after the meal. | `Ils font la vaisselle après le repas.` |
-| 88. Be careful in front of the hotel. | `Faites attention devant l’hôtel.` |
-| 89. What is the weather like in Paris today? | `Quel temps fait-il à Paris aujourd’hui ?` |
-| 90. It is hot, so we are going to stay inside. | `Il fait chaud, alors nous allons rester dedans.` |
-| 91. I am going to do the shopping before going home. | `Je vais faire les courses avant de rentrer.` |
-| 92. We are not going to ride bikes in the rain. | `Nous n’allons pas faire du vélo sous la pluie.` |
-| 93. My brother is going to do his homework at the library. | `Mon frère va faire ses devoirs à la bibliothèque.` |
-| 94. Are you going to take a walk by the river? | `Est-ce que tu vas faire une promenade près de la rivière ?` |
-| 95. The weather is bad in the mountains today. | `Il fait mauvais dans les montagnes aujourd’hui.` |
-| 96. You are going to cook at your grandparents’ house. | `Vous allez faire la cuisine chez vos grands-parents.` |
-| 97. What are the children doing in the garden? | `Qu’est-ce que les enfants font dans le jardin ?` |
-| 98. I make plans before the trip. | `Je fais des projets avant le voyage.` |
-| 99. We are going to do our homework before going out. | `Nous allons faire nos devoirs avant de sortir.` |
-| 100. They are doing the shopping at the market near the station. | `Ils font les courses au marché près de la gare.` |
+| 1. I am going to the library after class. | `Je vais à la bibliothèque après le cours.` Word by word: `Je` (I) `vais` (am going to) `à` (to) `la` (the) `bibliothèque` (library) `après` (after) `le` (the) `cours` (class) |
+| 2. Are you going to the café this morning? | `Est-ce que tu vas au café ce matin ?` Word by word: `Est-ce` (question marker: is it) `que` (that) `tu` (you) `vas` (are going to) `au` (to the) `café` (café) `ce` (this) `matin` (morning) |
+| 3. She is going to her aunt’s house on Friday. | `Elle va chez sa tante vendredi.` Word by word: `Elle` (she) `va` (is going to) `chez` (at the home of) `sa` (her) `tante` (aunt) `vendredi` (Friday) |
+| 4. We are not going to the park today. | `Nous n’allons pas au parc aujourd’hui.` Word by word: `Nous` (we) `n’` (not, with pas) `allons` (are going to) `pas` (not) `au` (to the) `parc` (park) `aujourd’hui` (today) |
+| 5. You are going downtown on foot. | `Vous allez en ville à pied.` Word by word: `Vous` (you) `allez` (are going to) `en` (in) `ville` (town) `à` (on) `pied` (foot) |
+| 6. The children are going to school together. | `Les enfants vont à l’école ensemble.` Word by word: `Les` (the) `enfants` (children) `vont` (are going to) `à` (to) `l’` (the) `école` (school) `ensemble` (together) |
+| 7. How is your grandmother doing? | `Comment va ta grand-mère ?` Word by word: `Comment` (how) `va` (is doing) `ta` (your) `grand-mère` (grandmother) |
+| 8. Everything is going well this week. | `Tout va bien cette semaine.` Word by word: `Tout` (everything) `va` (goes) `bien` (well) `cette` (this) `semaine` (week) |
+| 9. I am going to the station at noon. | `Je vais à la gare à midi.` Word by word: `Je` (I) `vais` (am going to) `à` (to) `la` (the) `gare` (station) `à` (at) `midi` (noon) |
+| 10. Do we go to the museum before lunch? | `Est-ce que nous allons au musée avant le déjeuner ?` Word by word: `Est-ce` (question marker: is it) `que` (that) `nous` (we) `allons` (are going to) `au` (to the) `musée` (museum) `avant` (before) `le` (the) `déjeuner` (lunch) |
+| 11. My brother is going to the office now. | `Mon frère va au bureau maintenant.` Word by word: `Mon` (my) `frère` (brother) `va` (is going to) `au` (to the) `bureau` (office) `maintenant` (now) |
+| 12. They are going to the shops on Saturday. | `Ils vont aux magasins samedi.` Word by word: `Ils` (they) `vont` (are going to) `aux` (to the) `magasins` (shops) `samedi` (Saturday) |
+| 13. You are not going to the hotel tonight. | `Tu ne vas pas à l’hôtel ce soir.` Word by word: `Tu` (you) `ne` (not, with pas) `vas` (are going to) `pas` (not) `à` (to) `l’` (the) `hôtel` (hotel) `ce` (this) `soir` (evening) |
+| 14. We are going to the doctor’s office at eight. | `Nous allons chez le médecin à huit heures.` Word by word: `Nous` (we) `allons` (are going to) `chez` (at the home of) `le` (the) `médecin` (doctor) `à` (at) `huit` (eight) `heures` (hours) |
+| 15. Where are your parents going? | `Où vont tes parents ?` Word by word: `Où` (where) `vont` (are going to) `tes` (your) `parents` (parents) |
+| 16. I am going to study this evening. | `Je vais étudier ce soir.` Word by word: `Je` (I) `vais` (am going to) `étudier` (to study) `ce` (this) `soir` (evening) |
+| 17. She is going to prepare dinner. | `Elle va préparer le dîner.` Word by word: `Elle` (she) `va` (is going to) `préparer` (to prepare) `le` (the) `dîner` (dinner) |
+| 18. We are going to finish the chapter tomorrow. | `Nous allons finir le chapitre demain.` Word by word: `Nous` (we) `allons` (are going to) `finir` (to finish) `le` (the) `chapitre` (chapter) `demain` (tomorrow) |
+| 19. Are you going to call your cousin? | `Est-ce que tu vas appeler ton cousin ?` Word by word: `Est-ce` (question marker: is it) `que` (that) `tu` (you) `vas` (are going to) `appeler` (to call) `ton` (your) `cousin` (cousin) |
+| 20. They are not going to wait until nine o’clock. | `Ils ne vont pas attendre jusqu’à neuf heures.` Word by word: `Ils` (they) `ne` (not, with pas) `vont` (are going to) `pas` (not) `attendre` (to wait) `jusqu’` (until) `à` (to) `neuf` (nine) `heures` (hours) |
+| 21. You are going to choose a good restaurant. | `Vous allez choisir un bon restaurant.` Word by word: `Vous` (you) `allez` (are going to) `choisir` (to choose) `un` (a) `bon` (good) `restaurant` (restaurant) |
+| 22. I am going to buy a ticket at the station. | `Je vais acheter un billet à la gare.` Word by word: `Je` (I) `vais` (am going to) `acheter` (to buy) `un` (a) `billet` (ticket) `à` (at) `la` (the) `gare` (station) |
+| 23. My sister is going to play tennis after work. | `Ma sœur va jouer au tennis après le travail.` Word by word: `Ma` (my) `sœur` (sister) `va` (is going to) `jouer` (to play) `au` (at the) `tennis` (tennis) `après` (after) `le` (the) `travail` (work) |
+| 24. We are going to talk about the film. | `Nous allons parler du film.` Word by word: `Nous` (we) `allons` (are going to) `parler` (to speak) `du` (of the) `film` (film) |
+| 25. Are they going to visit the village? | `Est-ce qu’ils vont visiter le village ?` Word by word: `Est-ce` (question marker: is it) `qu’` (that) `ils` (they) `vont` (are going to) `visiter` (to visit) `le` (the) `village` (village) |
+| 26. I am not going to stay at home. | `Je ne vais pas rester à la maison.` Word by word: `Je` (I) `ne` (not, with pas) `vais` (am going to) `pas` (not) `rester` (to stay) `à` (at) `la` (the) `maison` (home) |
+| 27. You are going to listen to the lesson again. | `Tu vas écouter la leçon encore une fois.` Word by word: `Tu` (you) `vas` (are going to) `écouter` (to listen) `la` (the) `leçon` (lesson) `encore` (again) `une` (a) `fois` (time) |
+| 28. The students are going to work in the garden. | `Les étudiants vont travailler dans le jardin.` Word by word: `Les` (the) `étudiants` (students) `vont` (are going to) `travailler` (to work) `dans` (in) `le` (the) `jardin` (garden) |
+| 29. We are going to have dinner at our friends’ house. | `Nous allons dîner chez nos amis.` Word by word: `Nous` (we) `allons` (are going to) `dîner` (to have dinner) `chez` (at the home of) `nos` (our) `amis` (friends) |
+| 30. What are you going to do after breakfast? | `Qu’est-ce que vous allez faire après le petit-déjeuner ?` Word by word: `Qu’` (what) `est-ce` (question marker: is it) `que` (that) `vous` (you) `allez` (are going to) `faire` (to do) `après` (after) `le` (the) `petit-déjeuner` (breakfast) |
+| 31. The bag is on the teacher’s desk. | `Le sac est sur le bureau du professeur.` Word by word: `Le` (the) `sac` (bag) `est` (is) `sur` (on) `le` (the) `bureau` (desk) `du` (of the) `professeur` (teacher) |
+| 32. I am talking to the neighbor about the dog. | `Je parle au voisin du chien.` Word by word: `Je` (I) `parle` (talks) `au` (to the) `voisin` (neighbor) `du` (of the) `chien` (dog) |
+| 33. We arrive from the airport at six. | `Nous arrivons de l’aéroport à six heures.` Word by word: `Nous` (we) `arrivons` (arrive) `de` (from) `l’` (the) `aéroport` (airport) `à` (at) `six` (six) `heures` (hours) |
+| 34. She is leaving the classroom at noon. | `Elle sort de la classe à midi.` Word by word: `Elle` (she) `sort` (leaves) `de` (from) `la` (the) `classe` (classroom) `à` (at) `midi` (noon) |
+| 35. This is the children’s room. | `C’est la chambre des enfants.` Word by word: `C’` (this) `est` (is) `la` (the) `chambre` (room) `des` (of the) `enfants` (children) |
+| 36. Are you going to the bank or to the post office? | `Est-ce que tu vas à la banque ou à la poste ?` Word by word: `Est-ce` (question marker: is it) `que` (that) `tu` (you) `vas` (are going to) `à` (to) `la` (the) `banque` (bank) `ou` (or) `à` (to) `la` (the) `poste` (post office) |
+| 37. The keys are in the bottom of the bag. | `Les clés sont au fond du sac.` Word by word: `Les` (the) `clés` (keys) `sont` (are) `au` (at the) `fond` (bottom) `du` (of the) `sac` (bag) |
+| 38. We are thinking about the exams. | `Nous pensons aux examens.` Word by word: `Nous` (we) `pensons` (think) `aux` (about the) `examens` (exams) |
+| 39. I need a glass of water. | `J’ai besoin d’un verre d’eau.` Word by word: `J’` (I) `ai` (have) `besoin` (need) `d’` (of) `un` (a) `verre` (glass) `d’` (of) `eau` (water) |
+| 40. The entrance to the museum is on the left. | `L’entrée du musée est à gauche.` Word by word: `L’` (the) `entrée` (entrance) `du` (of the) `musée` (museum) `est` (is) `à` (on) `gauche` (left) |
+| 41. She speaks to the students after the class. | `Elle parle aux étudiants après le cours.` Word by word: `Elle` (she) `parle` (speaks) `aux` (to the) `étudiants` (students) `après` (after) `le` (the) `cours` (class) |
+| 42. My parents are coming back from the mountains Sunday. | `Mes parents rentrent des montagnes dimanche.` Word by word: `Mes` (my) `parents` (parents) `rentrent` (return) `des` (from the) `montagnes` (mountains) `dimanche` (Sunday) |
+| 43. Do you live near the center of town? | `Est-ce que tu habites près du centre-ville ?` Word by word: `Est-ce` (question marker: is it) `que` (that) `tu` (you) `habites` (live) `près` (near) `du` (of the) `centre-ville` (town center) |
+| 44. The door of the hotel is closed. | `La porte de l’hôtel est fermée.` Word by word: `La` (the) `porte` (door) `de` (of) `l’` (the) `hôtel` (hotel) `est` (is) `fermée` (closed) |
+| 45. We are going to the beach in August. | `Nous allons à la plage en août.` Word by word: `Nous` (we) `allons` (are going to) `à` (to) `la` (the) `plage` (beach) `en` (in) `août` (August) |
+| 46. The cat is under the chair. | `Le chat est sous la chaise.` Word by word: `Le` (the) `chat` (cat) `est` (is) `sous` (under) `la` (the) `chaise` (chair) |
+| 47. Your book is behind the computer. | `Ton livre est derrière l’ordinateur.` Word by word: `Ton` (your) `livre` (book) `est` (is) `derrière` (behind) `l’` (the) `ordinateur` (computer) |
+| 48. We are waiting in front of the school. | `Nous attendons devant l’école.` Word by word: `Nous` (we) `attendons` (wait) `devant` (in front of) `l’` (the) `école` (school) |
+| 49. The café is across from the station. | `Le café est en face de la gare.` Word by word: `Le` (the) `café` (café) `est` (is) `en` (in) `face` (front) `de` (of) `la` (the) `gare` (station) |
+| 50. There is a small table between the beds. | `Il y a une petite table entre les lits.` Word by word: `Il` (it) `y` (there) `a` (is) `une` (a) `petite` (small) `table` (table) `entre` (between) `les` (the) `lits` (beds) |
+| 51. I am going to read before sleeping. | `Je vais lire avant de dormir.` Word by word: `Je` (I) `vais` (am going to) `lire` (to read) `avant` (before) `de` (—) `dormir` (to sleep) |
+| 52. She works during the summer. | `Elle travaille pendant l’été.` Word by word: `Elle` (she) `travaille` (work) `pendant` (during) `l’` (the) `été` (summer) |
+| 53. We are staying here until Friday. | `Nous restons ici jusqu’à vendredi.` Word by word: `Nous` (we) `restons` (stay) `ici` (here) `jusqu’` (until) `à` (—) `vendredi` (Friday) |
+| 54. They arrive around three o’clock. | `Ils arrivent vers trois heures.` Word by word: `Ils` (they) `arrivent` (arrive) `vers` (around) `trois` (three) `heures` (o’clock) |
+| 55. The school is far from my house. | `L’école est loin de ma maison.` Word by word: `L’` (the) `école` (school) `est` (is) `loin` (far) `de` (from) `ma` (my) `maison` (house) |
+| 56. My shoes are in the closet. | `Mes chaussures sont dans le placard.` Word by word: `Mes` (my) `chaussures` (shoes) `sont` (are) `dans` (in) `le` (the) `placard` (closet) |
+| 57. We are going to your brother’s house after dinner. | `Nous allons chez ton frère après le dîner.` Word by word: `Nous` (we) `allons` (are going to) `chez` (at the home of) `ton` (your) `frère` (brother) `après` (after) `le` (the) `dîner` (dinner) |
+| 58. The hotel is near the river. | `L’hôtel est près de la rivière.` Word by word: `L’` (the) `hôtel` (hotel) `est` (is) `près` (near) `de` (to) `la` (the) `rivière` (river) |
+| 59. I am going to finish before going out. | `Je vais finir avant de sortir.` Word by word: `Je` (I) `vais` (am going to) `finir` (to finish) `avant` (before) `de` (—) `sortir` (to go out) |
+| 60. The children play behind the house. | `Les enfants jouent derrière la maison.` Word by word: `Les` (the) `enfants` (children) `jouent` (play) `derrière` (behind) `la` (the) `maison` (house) |
+| 61. My friend lives in France. | `Mon ami habite en France.` Word by word: `Mon` (my) `ami` (friend) `habite` (lives) `en` (in) `France` (France) |
+| 62. Are you going to Italy in July? | `Est-ce que tu vas en Italie en juillet ?` Word by word: `Est-ce` (question marker: is it) `que` (that) `tu` (you) `vas` (are going to) `en` (to) `Italie` (Italy) `en` (in) `juillet` (July) |
+| 63. We come from Canada. | `Nous venons du Canada.` Word by word: `Nous` (we) `venons` (come) `du` (from) `Canada` (Canada) |
+| 64. She works in the United States. | `Elle travaille aux États-Unis.` Word by word: `Elle` (she) `travaille` (works) `aux` (in the) `États-Unis` (United States) |
+| 65. They arrive from the Netherlands tomorrow. | `Ils arrivent des Pays-Bas demain.` Word by word: `Ils` (they) `arrivent` (arrive) `des` (from the) `Pays-Bas` (Netherlands) `demain` (tomorrow) |
+| 66. I live in Lyon, but I study in Belgium. | `J’habite à Lyon, mais j’étudie en Belgique.` Word by word: `J’` (I) `habite` (live) `à` (in) `Lyon` (Lyon) `mais` (but) `j’` (I) `étudie` (study) `en` (in) `Belgique` (Belgium) |
+| 67. He is going to Japan next month. | `Il va au Japon le mois prochain.` Word by word: `Il` (he) `va` (is going to) `au` (to the) `Japon` (Japan) `le` (the) `mois` (month) `prochain` (next) |
+| 68. My sister comes from Iran. | `Ma sœur vient d’Iran.` Word by word: `Ma` (my) `sœur` (sister) `vient` (comes) `d’` (from) `Iran` (Iran) |
+| 69. We are visiting Quebec in May. | `Nous visitons le Québec en mai.` Word by word: `Nous` (we) `visitons` (visit) `le` (the) `Québec` (Quebec) `en` (in) `mai` (May) |
+| 70. To whom are you writing this letter? | `À qui écris-tu cette lettre ?` Word by word: `À` (to) `qui` (whom) `écris-tu` (are you writing) `cette` (this) `lettre` (letter) |
+| 71. What are you thinking about? | `À quoi penses-tu ?` Word by word: `À` (about) `quoi` (what) `penses-tu` (are you thinking) |
+| 72. Who are you having dinner with tonight? | `Avec qui dînes-tu ce soir ?` Word by word: `Avec` (with) `qui` (who) `dînes-tu` (are you dining) `ce` (this) `soir` (evening) |
+| 73. What do you need for the trip? | `De quoi avez-vous besoin pour le voyage ?` Word by word: `De` (—) `quoi` (what) `avez-vous` (do you have) `besoin` (need) `pour` (for) `le` (the) `voyage` (trip) |
+| 74. Which of these books are you talking about? | `Duquel de ces livres parles-tu ?` Word by word: `Duquel` (of which) `de` (of) `ces` (these) `livres` (books) `parles-tu` (are you talking) |
+| 75. Which chair is the cat under? | `Sous laquelle de ces chaises est le chat ?` Word by word: `Sous` (under) `laquelle` (which) `de` (of) `ces` (these) `chaises` (chairs) `est` (is) `le` (the) `chat` (cat) |
+| 76. Which roads lead to the village? | `Lesquelles de ces routes mènent au village ?` Word by word: `Lesquelles` (which ones) `de` (of) `ces` (these) `routes` (roads) `mènent` (lead) `au` (to the) `village` (village) |
+| 77. Which friends are you writing to? | `Auxquels de ces amis écris-tu ?` Word by word: `Auxquels` (to which ones) `de` (of) `ces` (these) `amis` (friends) `écris-tu` (are you writing) |
+| 78. The weather is nice this morning. | `Il fait beau ce matin.` Word by word: `Il` (it) `fait` (is) `beau` (nice) `ce` (this) `matin` (morning) |
+| 79. Is it cold in the house? | `Est-ce qu’il fait froid dans la maison ?` Word by word: `Est-ce` (question marker: is it) `qu’` (that) `il` (it) `fait` (is) `froid` (cold) `dans` (in) `la` (the) `maison` (house) |
+| 80. It is windy near the lake. | `Il fait du vent près du lac.` Word by word: `Il` (it) `fait` (is) `du` (some) `vent` (wind) `près` (near) `du` (of the) `lac` (lake) |
+| 81. We do the shopping on Saturday morning. | `Nous faisons les courses le samedi matin.` Word by word: `Nous` (we) `faisons` (do) `les` (the) `courses` (shopping) `le` (the) `samedi` (Saturday) `matin` (morning) |
+| 82. I cook for my family on Sunday. | `Je fais la cuisine pour ma famille dimanche.` Word by word: `Je` (I) `fais` (cook) `la` (the) `cuisine` (cooking) `pour` (for) `ma` (my) `famille` (family) `dimanche` (Sunday) |
+| 83. You do your homework before dinner. | `Tu fais tes devoirs avant le dîner.` Word by word: `Tu` (you) `fais` (do) `tes` (your) `devoirs` (homework) `avant` (before) `le` (the) `dîner` (have dinner) |
+| 84. My cousins ride bikes in the park. | `Mes cousins font du vélo dans le parc.` Word by word: `Mes` (my) `cousins` (cousins) `font` (ride) `du` (some) `vélo` (bicycle) `dans` (in) `le` (the) `parc` (park) |
+| 85. She takes a walk after lunch. | `Elle fait une promenade après le déjeuner.` Word by word: `Elle` (she) `fait` (takes) `une` (a) `promenade` (walk) `après` (after) `le` (the) `déjeuner` (lunch) |
+| 86. Do you exercise during the week? | `Est-ce que vous faites du sport pendant la semaine ?` Word by word: `Est-ce` (question marker: is it) `que` (that) `vous` (you) `faites` (do) `du` (some) `sport` (exercise) `pendant` (during) `la` (the) `semaine` (week) |
+| 87. They do the dishes after the meal. | `Ils font la vaisselle après le repas.` Word by word: `Ils` (they) `font` (do) `la` (the) `vaisselle` (dishes) `après` (after) `le` (the) `repas` (meal) |
+| 88. Be careful in front of the hotel. | `Faites attention devant l’hôtel.` Word by word: `Faites` (pay) `attention` (attention) `devant` (in front of) `l’` (the) `hôtel` (hotel) |
+| 89. What is the weather like in Paris today? | `Quel temps fait-il à Paris aujourd’hui ?` Word by word: `Quel` (what) `temps` (weather) `fait-il` (is it) `à` (in) `Paris` (Paris) `aujourd’hui` (today) |
+| 90. It is hot, so we are going to stay inside. | `Il fait chaud, alors nous allons rester dedans.` Word by word: `Il` (it) `fait` (is) `chaud` (hot) `alors` (so) `nous` (we) `allons` (are going to) `rester` (to stay) `dedans` (inside) |
+| 91. I am going to do the shopping before going home. | `Je vais faire les courses avant de rentrer.` Word by word: `Je` (I) `vais` (am going to) `faire` (do) `les` (the) `courses` (shopping) `avant` (before) `de` (—) `rentrer` (go home) |
+| 92. We are not going to ride bikes in the rain. | `Nous n’allons pas faire du vélo sous la pluie.` Word by word: `Nous` (we) `n’` (not, with pas) `allons` (are going to) `pas` (not) `faire` (ride) `du` (some) `vélo` (bicycle) `sous` (in) `la` (the) `pluie` (rain) |
+| 93. My brother is going to do his homework at the library. | `Mon frère va faire ses devoirs à la bibliothèque.` Word by word: `Mon` (my) `frère` (brother) `va` (is going to) `faire` (to do) `ses` (his) `devoirs` (homework) `à` (at) `la` (the) `bibliothèque` (library) |
+| 94. Are you going to take a walk by the river? | `Est-ce que tu vas faire une promenade près de la rivière ?` Word by word: `Est-ce` (question marker: is it) `que` (that) `tu` (you) `vas` (are going to) `faire` (take) `une` (a) `promenade` (walk) `près` (near) `de` (by) `la` (the) `rivière` (river) |
+| 95. The weather is bad in the mountains today. | `Il fait mauvais dans les montagnes aujourd’hui.` Word by word: `Il` (it) `fait` (is) `mauvais` (bad) `dans` (in) `les` (the) `montagnes` (mountains) `aujourd’hui` (today) |
+| 96. You are going to cook at your grandparents’ house. | `Vous allez faire la cuisine chez vos grands-parents.` Word by word: `Vous` (you) `allez` (are going to) `faire` (cook) `la` (the) `cuisine` (cooking) `chez` (at the home of) `vos` (your) `grands-parents` (grandparents) |
+| 97. What are the children doing in the garden? | `Qu’est-ce que les enfants font dans le jardin ?` Word by word: `Qu’` (what) `est-ce` (question marker: is it) `que` (that) `les` (the) `enfants` (children) `font` (do) `dans` (in) `le` (the) `jardin` (garden) |
+| 98. I make plans before the trip. | `Je fais des projets avant le voyage.` Word by word: `Je` (I) `fais` (make) `des` (some) `projets` (plans) `avant` (before) `le` (the) `voyage` (trip) |
+| 99. We are going to do our homework before going out. | `Nous allons faire nos devoirs avant de sortir.` Word by word: `Nous` (we) `allons` (are going to) `faire` (to do) `nos` (our) `devoirs` (homework) `avant` (before) `de` (—) `sortir` (to go out) |
+| 100. They are doing the shopping at the market near the station. | `Ils font les courses au marché près de la gare.` Word by word: `Ils` (they) `font` (do) `les` (the) `courses` (shopping) `au` (at the) `marché` (market) `près` (near) `de` (to) `la` (the) `gare` (station) |

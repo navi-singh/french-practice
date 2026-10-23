@@ -63,7 +63,7 @@ Writing is valuable because it forces you to retrieve spelling, agreement, conju
 
 ## Phase 4: Master French tenses and moods
 
-Chapters 17-25 reteach and extend the tense system, including forms introduced earlier. Work through each form, compare its meaning with related forms, then use Chapter 25 for integrated practice. Literary past forms are included for recognition rather than required production. Conjugation tables give each pronoun (je, tu, il/elle, nous, vous, ils/elles) its own column, and lesson examples show their English meaning in brackets, e.g. `je suis` (I am). Checkpoint questions and the 100-sentence translation practice leave meanings out so they do not reveal answers.
+Chapters 17-25 reteach and extend the tense system, including forms introduced earlier. Work through each form, compare its meaning with related forms, then use Chapter 25 for integrated practice. Literary past forms are included for recognition rather than required production. Conjugation tables give each pronoun (je, tu, il/elle, nous, vous, ils/elles) its own column, and lesson examples show their English meaning in brackets, e.g. `je suis` (I am). Checkpoint questions leave meanings out so they do not reveal answers.
 
 | Chapter | Focus | Folder |
 |---:|---|---|
@@ -191,7 +191,7 @@ Speech uses the browser's built-in Web Speech API, so the available voices come 
 
 The block renders as a **Show answers** button that stays closed until you open it, and every answer explains the rule behind it. Backticks inside it become tappable French, so only ever wrap genuine French in them.
 
-**Translation practice** closes every lesson file: 100 sentences drawn from that chapter's own units, English on the left and French on the right. Say the French aloud before you check it. The site hides the French column by default and reveals one row at a time when you tap it, so the table stays a recall exercise rather than a reading list; **Hide French / show all** switches the whole column.
+**Translation practice** closes every lesson file: 100 sentences drawn from that chapter's own units, English on the left and French on the right. Say the French aloud before you check it. The site hides the French column by default and reveals one row at a time when you tap it, so the table stays a recall exercise rather than a reading list; **Hide French / show all** switches the whole column. Each revealed answer also shows a word-by-word breakdown: every French word, still tappable for pronunciation, sits above its meaning in that sentence. In `lessons.md` the breakdown follows the answer as ``Word by word: `Nous` (we) `avons` (have, helper) `su` (found out)``.
 
 Any table whose two columns are headed `English` and `French` is rendered as one of these drills, so write them like this:
 

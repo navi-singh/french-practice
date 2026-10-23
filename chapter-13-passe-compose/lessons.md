@@ -151,7 +151,7 @@ For your three extra verbs, answers vary. A good set would be `J'ai lu le messag
 ### Core idea
 The auxiliary is the center of the tense. Negation and short adverbs usually attach to it, not to the past participle.
 ### Negation pattern
-`ne` (`n'` before a vowel sound) goes before the auxiliary, and `pas` goes after it.
+`ne` (not — with pas) goes before the auxiliary, and `pas` goes after it.
 | Affirmative | Negative | English |
 |---|---|---|
 | `J'ai mangé.` | `Je n'ai pas mangé.` | I did not eat. |
@@ -540,103 +540,103 @@ Cover the French column, translate each English sentence aloud, then uncover to 
 
 | English | French |
 | --- | --- |
-| 1. I finished the exercise. | `J’ai fini l’exercice.` |
-| 2. She prepared dinner. | `Elle a préparé le dîner.` |
-| 3. We waited for the bus. | `Nous avons attendu le bus.` |
-| 4. They sold their old car. | `Ils ont vendu leur vieille voiture.` |
-| 5. You chose the blue notebook. | `Tu as choisi le cahier bleu.` |
-| 6. I watched a film last night. | `J’ai regardé un film hier soir.` |
-| 7. The students answered the question. | `Les étudiants ont répondu à la question.` |
-| 8. We visited the museum on Saturday. | `Nous avons visité le musée samedi.` |
-| 9. She spoke to the teacher after class. | `Elle a parlé au professeur après le cours.` |
-| 10. Did you finish the report? | `Est-ce que vous avez fini le rapport ?` |
-| 11. I had a very good idea. | `J’ai eu une très bonne idée.` |
-| 12. He was sick yesterday. | `Il a été malade hier.` |
-| 13. We made a cake for Léa. | `Nous avons fait un gâteau pour Léa.` |
-| 14. They took the last train. | `Ils ont pris le dernier train.` |
-| 15. She put the keys on the table. | `Elle a mis les clés sur la table.` |
-| 16. You said the truth. | `Tu as dit la vérité.` |
-| 17. I wrote a message to my cousin. | `J’ai écrit un message à mon cousin.` |
-| 18. We read the article together. | `Nous avons lu l’article ensemble.` |
-| 19. Did they see the new apartment? | `Ont-ils vu le nouvel appartement ?` |
-| 20. She drank a coffee after lunch. | `Elle a bu un café après le déjeuner.` |
-| 21. I found out the news this morning. | `J’ai su la nouvelle ce matin.` |
-| 22. We were able to come before noon. | `Nous avons pu venir avant midi.` |
-| 23. He wanted to help his brother. | `Il a voulu aider son frère.` |
-| 24. You had to wait outside. | `Vous avez dû attendre dehors.` |
-| 25. She received a letter from her friend. | `Elle a reçu une lettre de son amie.` |
-| 26. I opened the window after lunch. | `J’ai ouvert la fenêtre après le déjeuner.` |
-| 27. They offered flowers to their mother. | `Ils ont offert des fleurs à leur mère.` |
-| 28. We knew this restaurant. | `Nous avons connu ce restaurant.` |
-| 29. He ran to the station. | `Il a couru à la gare.` |
-| 30. Did you believe his story? | `Est-ce que tu as cru son histoire ?` |
-| 31. I did not eat this morning. | `Je n’ai pas mangé ce matin.` |
-| 32. She did not understand the rule. | `Elle n’a pas compris la règle.` |
-| 33. We did not write to the director. | `Nous n’avons pas écrit au directeur.` |
-| 34. Did you already see this film? | `Tu as déjà vu ce film ?` |
-| 35. They worked well yesterday. | `Ils ont bien travaillé hier.` |
-| 36. I often spoke with my neighbor. | `J’ai souvent parlé avec mon voisin.` |
-| 37. Why did she change her plan? | `Pourquoi est-ce qu’elle a changé son projet ?` |
-| 38. Where did you put my bag? | `Où as-tu mis mon sac ?` |
-| 39. We have not answered yet. | `Nous n’avons pas encore répondu.` |
-| 40. He has never visited Paris. | `Il n’a jamais visité Paris.` |
-| 41. Did they take the train or the bus? | `Est-ce qu’ils ont pris le train ou le bus ?` |
-| 42. I read the message too quickly. | `J’ai lu le message trop vite.` |
-| 43. She has already done the shopping. | `Elle a déjà fait les courses.` |
-| 44. You did not say anything. | `Tu n’as rien dit.` |
-| 45. We saw no one in the street. | `Nous n’avons vu personne dans la rue.` |
-| 46. Have you received my email? | `Avez-vous reçu mon courriel ?` |
-| 47. When did you open the store? | `Quand avez-vous ouvert le magasin ?` |
-| 48. I did not want dessert. | `Je n’ai pas voulu de dessert.` |
-| 49. She has always loved this song. | `Elle a toujours aimé cette chanson.` |
-| 50. Did you understand everything? | `As-tu tout compris ?` |
-| 51. I went to the market yesterday. | `Je suis allé au marché hier.` |
-| 52. Marie arrived at eight o’clock. | `Marie est arrivée à huit heures.` |
-| 53. The children came back home early. | `Les enfants sont rentrés tôt à la maison.` |
-| 54. My sisters left after breakfast. | `Mes sœurs sont parties après le petit déjeuner.` |
-| 55. We went out after dinner. | `Nous sommes sortis après le dîner.` |
-| 56. Did you come with your parents? | `Est-ce que vous êtes venus avec vos parents ?` |
-| 57. Paul and Nora stayed at the hotel. | `Paul et Nora sont restés à l’hôtel.` |
-| 58. She went down to the kitchen. | `Elle est descendue à la cuisine.` |
-| 59. The cat went up onto the chair. | `Le chat est monté sur la chaise.` |
-| 60. They returned to Lyon on Friday. | `Ils sont retournés à Lyon vendredi.` |
-| 61. My grandmother was born in Marseille. | `Ma grand-mère est née à Marseille.` |
-| 62. The old tree died during the winter. | `Le vieil arbre est mort pendant l’hiver.` |
-| 63. We passed by the park. | `Nous sommes passés par le parc.` |
-| 64. The student became very calm. | `L’étudiante est devenue très calme.` |
-| 65. Did Clara fall in the street? | `Clara est-elle tombée dans la rue ?` |
-| 66. I did not go to the party. | `Je ne suis pas allé à la fête.` |
-| 67. They did not arrive late. | `Elles ne sont pas arrivées en retard.` |
-| 68. We have already returned home. | `Nous sommes déjà rentrés chez nous.` |
-| 69. Why did you leave so early? | `Pourquoi êtes-vous partis si tôt ?` |
-| 70. She came with me and stayed two hours. | `Elle est venue avec moi et elle est restée deux heures.` |
-| 71. I woke up before everyone. | `Je me suis réveillé avant tout le monde.` |
-| 72. She got up at six. | `Elle s’est levée à six heures.` |
-| 73. We got dressed quickly. | `Nous nous sommes habillés rapidement.` |
-| 74. They went to bed after midnight. | `Ils se sont couchés après minuit.` |
-| 75. Did you hurry this morning? | `Est-ce que tu t’es dépêché ce matin ?` |
-| 76. The girls saw each other at the station. | `Les filles se sont vues à la gare.` |
-| 77. The neighbors spoke to each other after the meeting. | `Les voisins se sont parlé après la réunion.` |
-| 78. We called each other yesterday evening. | `Nous nous sommes téléphoné hier soir.` |
-| 79. She washed her hands before dinner. | `Elle s’est lavé les mains avant le dîner.` |
-| 80. I did not sit near the door. | `Je ne me suis pas assis près de la porte.` |
-| 81. They did not get bored during the trip. | `Ils ne se sont pas ennuyés pendant le voyage.` |
-| 82. Did you remember the appointment? | `Vous vous êtes souvenus du rendez-vous ?` |
-| 83. We realized the problem too late. | `Nous nous sommes rendu compte du problème trop tard.` |
-| 84. She left quietly. | `Elle s’en est allée sans bruit.` |
-| 85. The friends met again in front of the café. | `Les amis se sont retrouvés devant le café.` |
-| 86. The letter? I wrote it yesterday. | `La lettre ? Je l’ai écrite hier.` |
-| 87. The books? We read them during vacation. | `Les livres ? Nous les avons lus pendant les vacances.` |
-| 88. The photos? She took them in the garden. | `Les photos ? Elle les a prises dans le jardin.` |
-| 89. The exercises? Did you do them alone? | `Les exercices ? Tu les as faits tout seul ?` |
-| 90. The song? They heard it on the radio. | `La chanson ? Ils l’ont entendue à la radio.` |
-| 91. The keys? I put them in my coat. | `Les clés ? Je les ai mises dans mon manteau.` |
-| 92. The windows? We opened them before breakfast. | `Les fenêtres ? Nous les avons ouvertes avant le petit déjeuner.` |
-| 93. The invitations? She received them this week. | `Les invitations ? Elle les a reçues cette semaine.` |
-| 94. The tickets? They bought them online. | `Les billets ? Ils les ont achetés en ligne.` |
-| 95. The address? I did not find it. | `L’adresse ? Je ne l’ai pas trouvée.` |
-| 96. These messages? Have you already read them? | `Ces messages ? Est-ce que tu les as déjà lus ?` |
-| 97. My cousins arrived, and we welcomed them. | `Mes cousins sont arrivés, et nous les avons accueillis.` |
-| 98. The scarf? Clara lost it on the bus. | `L’écharpe ? Clara l’a perdue dans le bus.` |
-| 99. The postcards? I sent them to my parents. | `Les cartes postales ? Je les ai envoyées à mes parents.` |
-| 100. The problem? We understood it after the lesson. | `Le problème ? Nous l’avons compris après la leçon.` |
+| 1. I finished the exercise. | `J’ai fini l’exercice.` Word by word: `J’` (I) `ai` (have, helper) `fini` (finished) `l’` (the) `exercice` (exercise) |
+| 2. She prepared dinner. | `Elle a préparé le dîner.` Word by word: `Elle` (she) `a` (has, helper) `préparé` (prepared) `le` (the) `dîner` (dinner) |
+| 3. We waited for the bus. | `Nous avons attendu le bus.` Word by word: `Nous` (we) `avons` (have, helper) `attendu` (waited) `le` (the) `bus` (bus) |
+| 4. They sold their old car. | `Ils ont vendu leur vieille voiture.` Word by word: `Ils` (they) `ont` (have, helper) `vendu` (sold) `leur` (their) `vieille` (old) `voiture` (car) |
+| 5. You chose the blue notebook. | `Tu as choisi le cahier bleu.` Word by word: `Tu` (you) `as` (have, helper) `choisi` (chose) `le` (the) `cahier` (notebook) `bleu` (blue) |
+| 6. I watched a film last night. | `J’ai regardé un film hier soir.` Word by word: `J’` (I) `ai` (have, helper) `regardé` (watched) `un` (a) `film` (film) `hier` (yesterday) `soir` (evening) |
+| 7. The students answered the question. | `Les étudiants ont répondu à la question.` Word by word: `Les` (the) `étudiants` (students) `ont` (have, helper) `répondu` (answered) `à` (to) `la` (the) `question` (question) |
+| 8. We visited the museum on Saturday. | `Nous avons visité le musée samedi.` Word by word: `Nous` (we) `avons` (have, helper) `visité` (visited) `le` (the) `musée` (museum) `samedi` (Saturday) |
+| 9. She spoke to the teacher after class. | `Elle a parlé au professeur après le cours.` Word by word: `Elle` (she) `a` (has, helper) `parlé` (spoke) `au` (to the) `professeur` (teacher) `après` (after) `le` (the) `cours` (class) |
+| 10. Did you finish the report? | `Est-ce que vous avez fini le rapport ?` Word by word: `Est-ce` (is it) `que` (that) `vous` (you) `avez` (have, helper) `fini` (finished) `le` (the) `rapport` (report) |
+| 11. I had a very good idea. | `J’ai eu une très bonne idée.` Word by word: `J’` (I) `ai` (have, helper) `eu` (had) `une` (a) `très` (very) `bonne` (good) `idée` (idea) |
+| 12. He was sick yesterday. | `Il a été malade hier.` Word by word: `Il` (he) `a` (has, helper) `été` (been) `malade` (sick) `hier` (yesterday) |
+| 13. We made a cake for Léa. | `Nous avons fait un gâteau pour Léa.` Word by word: `Nous` (we) `avons` (have, helper) `fait` (made) `un` (a) `gâteau` (cake) `pour` (for) `Léa` (Léa) |
+| 14. They took the last train. | `Ils ont pris le dernier train.` Word by word: `Ils` (they) `ont` (have, helper) `pris` (took) `le` (the) `dernier` (last) `train` (train) |
+| 15. She put the keys on the table. | `Elle a mis les clés sur la table.` Word by word: `Elle` (she) `a` (has, helper) `mis` (put) `les` (the) `clés` (keys) `sur` (on) `la` (the) `table` (table) |
+| 16. You said the truth. | `Tu as dit la vérité.` Word by word: `Tu` (you) `as` (have, helper) `dit` (said) `la` (the) `vérité` (truth) |
+| 17. I wrote a message to my cousin. | `J’ai écrit un message à mon cousin.` Word by word: `J’` (I) `ai` (have, helper) `écrit` (wrote) `un` (a) `message` (message) `à` (to) `mon` (my) `cousin` (cousin) |
+| 18. We read the article together. | `Nous avons lu l’article ensemble.` Word by word: `Nous` (we) `avons` (have, helper) `lu` (read) `l’` (the) `article` (article) `ensemble` (together) |
+| 19. Did they see the new apartment? | `Ont-ils vu le nouvel appartement ?` Word by word: `Ont-ils` (have they) `vu` (seen) `le` (the) `nouvel` (new) `appartement` (apartment) |
+| 20. She drank a coffee after lunch. | `Elle a bu un café après le déjeuner.` Word by word: `Elle` (she) `a` (has, helper) `bu` (drank) `un` (a) `café` (coffee) `après` (after) `le` (the) `déjeuner` (lunch) |
+| 21. I found out the news this morning. | `J’ai su la nouvelle ce matin.` Word by word: `J’` (I) `ai` (have, helper) `su` (found out — from savoir) `la` (the) `nouvelle` (news) `ce` (this) `matin` (morning) |
+| 22. We were able to come before noon. | `Nous avons pu venir avant midi.` Word by word: `Nous` (we) `avons` (have, helper) `pu` (been able) `venir` (come) `avant` (before) `midi` (noon) |
+| 23. He wanted to help his brother. | `Il a voulu aider son frère.` Word by word: `Il` (he) `a` (has, helper) `voulu` (wanted) `aider` (help) `son` (his) `frère` (brother) |
+| 24. You had to wait outside. | `Vous avez dû attendre dehors.` Word by word: `Vous` (you) `avez` (have, helper) `dû` (had to) `attendre` (wait) `dehors` (outside) |
+| 25. She received a letter from her friend. | `Elle a reçu une lettre de son amie.` Word by word: `Elle` (she) `a` (has, helper) `reçu` (received) `une` (a) `lettre` (letter) `de` (from) `son` (her) `amie` (friend) |
+| 26. I opened the window after lunch. | `J’ai ouvert la fenêtre après le déjeuner.` Word by word: `J’` (I) `ai` (have, helper) `ouvert` (opened) `la` (the) `fenêtre` (window) `après` (after) `le` (the) `déjeuner` (lunch) |
+| 27. They offered flowers to their mother. | `Ils ont offert des fleurs à leur mère.` Word by word: `Ils` (they) `ont` (have, helper) `offert` (offered) `des` (some) `fleurs` (flowers) `à` (to) `leur` (their) `mère` (mother) |
+| 28. We knew this restaurant. | `Nous avons connu ce restaurant.` Word by word: `Nous` (we) `avons` (have, helper) `connu` (knew) `ce` (this) `restaurant` (restaurant) |
+| 29. He ran to the station. | `Il a couru à la gare.` Word by word: `Il` (he) `a` (has, helper) `couru` (ran) `à` (to) `la` (the) `gare` (station) |
+| 30. Did you believe his story? | `Est-ce que tu as cru son histoire ?` Word by word: `Est-ce` (is it) `que` (that) `tu` (you) `as` (have, helper) `cru` (believed) `son` (his) `histoire` (story) |
+| 31. I did not eat this morning. | `Je n’ai pas mangé ce matin.` Word by word: `Je` (I) `n’` (not — with pas) `ai` (have, helper) `pas` (not) `mangé` (ate) `ce` (this) `matin` (morning) |
+| 32. She did not understand the rule. | `Elle n’a pas compris la règle.` Word by word: `Elle` (she) `n’` (not — with pas) `a` (has, helper) `pas` (not) `compris` (understood) `la` (the) `règle` (rule) |
+| 33. We did not write to the director. | `Nous n’avons pas écrit au directeur.` Word by word: `Nous` (we) `n’` (not — with pas) `avons` (have, helper) `pas` (not) `écrit` (written) `au` (to the) `directeur` (director) |
+| 34. Did you already see this film? | `Tu as déjà vu ce film ?` Word by word: `Tu` (you) `as` (have, helper) `déjà` (already) `vu` (seen) `ce` (this) `film` (film) |
+| 35. They worked well yesterday. | `Ils ont bien travaillé hier.` Word by word: `Ils` (they) `ont` (have, helper) `bien` (well) `travaillé` (worked) `hier` (yesterday) |
+| 36. I often spoke with my neighbor. | `J’ai souvent parlé avec mon voisin.` Word by word: `J’` (I) `ai` (have, helper) `souvent` (often) `parlé` (spoke) `avec` (with) `mon` (my) `voisin` (neighbor) |
+| 37. Why did she change her plan? | `Pourquoi est-ce qu’elle a changé son projet ?` Word by word: `Pourquoi` (why) `est-ce` (is it) `qu’` (that) `elle` (she) `a` (has, helper) `changé` (changed) `son` (her) `projet` (plan) |
+| 38. Where did you put my bag? | `Où as-tu mis mon sac ?` Word by word: `Où` (where) `as-tu` (have you) `mis` (put) `mon` (my) `sac` (bag) |
+| 39. We have not answered yet. | `Nous n’avons pas encore répondu.` Word by word: `Nous` (we) `n’` (not — with pas) `avons` (have, helper) `pas` (not) `encore` (still) `répondu` (answered) |
+| 40. He has never visited Paris. | `Il n’a jamais visité Paris.` Word by word: `Il` (he) `n’` (not — with pas) `a` (has, helper) `jamais` (never) `visité` (visited) `Paris` (Paris) |
+| 41. Did they take the train or the bus? | `Est-ce qu’ils ont pris le train ou le bus ?` Word by word: `Est-ce` (is it) `qu’` (that) `ils` (they) `ont` (have, helper) `pris` (took) `le` (the) `train` (train) `ou` (or) `le` (the) `bus` (bus) |
+| 42. I read the message too quickly. | `J’ai lu le message trop vite.` Word by word: `J’` (I) `ai` (have, helper) `lu` (read) `le` (the) `message` (message) `trop` (too) `vite` (quickly) |
+| 43. She has already done the shopping. | `Elle a déjà fait les courses.` Word by word: `Elle` (she) `a` (has, helper) `déjà` (already) `fait` (done) `les` (the) `courses` (shopping) |
+| 44. You did not say anything. | `Tu n’as rien dit.` Word by word: `Tu` (you) `n’` (not) `as` (have, helper) `rien` (anything) `dit` (said) |
+| 45. We saw no one in the street. | `Nous n’avons vu personne dans la rue.` Word by word: `Nous` (we) `n’` (not) `avons` (have, helper) `vu` (saw) `personne` (no one) `dans` (in) `la` (the) `rue` (street) |
+| 46. Have you received my email? | `Avez-vous reçu mon courriel ?` Word by word: `Avez-vous` (have you) `reçu` (received) `mon` (my) `courriel` (email) |
+| 47. When did you open the store? | `Quand avez-vous ouvert le magasin ?` Word by word: `Quand` (when) `avez-vous` (have you) `ouvert` (opened) `le` (the) `magasin` (store) |
+| 48. I did not want dessert. | `Je n’ai pas voulu de dessert.` Word by word: `Je` (I) `n’` (not — with pas) `ai` (have, helper) `pas` (not) `voulu` (wanted) `de` (any) `dessert` (dessert) |
+| 49. She has always loved this song. | `Elle a toujours aimé cette chanson.` Word by word: `Elle` (she) `a` (has, helper) `toujours` (always) `aimé` (loved) `cette` (this) `chanson` (song) |
+| 50. Did you understand everything? | `As-tu tout compris ?` Word by word: `As-tu` (have you) `tout` (everything) `compris` (understood) |
+| 51. I went to the market yesterday. | `Je suis allé au marché hier.` Word by word: `Je` (I) `suis` (am, helper) `allé` (went) `au` (to the) `marché` (market) `hier` (yesterday) |
+| 52. Marie arrived at eight o’clock. | `Marie est arrivée à huit heures.` Word by word: `Marie` (Marie) `est` (is, helper) `arrivée` (arrived) `à` (at) `huit` (eight) `heures` (o’clock) |
+| 53. The children came back home early. | `Les enfants sont rentrés tôt à la maison.` Word by word: `Les` (the) `enfants` (children) `sont` (are, helper) `rentrés` (returned) `tôt` (early) `à` (to) `la` (the) `maison` (home) |
+| 54. My sisters left after breakfast. | `Mes sœurs sont parties après le petit déjeuner.` Word by word: `Mes` (my) `sœurs` (sisters) `sont` (are, helper) `parties` (left) `après` (after) `le` (the) `petit` (little) `déjeuner` (breakfast) |
+| 55. We went out after dinner. | `Nous sommes sortis après le dîner.` Word by word: `Nous` (we) `sommes` (are, helper) `sortis` (went out) `après` (after) `le` (the) `dîner` (dinner) |
+| 56. Did you come with your parents? | `Est-ce que vous êtes venus avec vos parents ?` Word by word: `Est-ce` (is it) `que` (that) `vous` (you) `êtes` (are, helper) `venus` (came) `avec` (with) `vos` (your) `parents` (parents) |
+| 57. Paul and Nora stayed at the hotel. | `Paul et Nora sont restés à l’hôtel.` Word by word: `Paul` (Paul) `et` (and) `Nora` (Nora) `sont` (are, helper) `restés` (stayed) `à` (at) `l’` (the) `hôtel` (hotel) |
+| 58. She went down to the kitchen. | `Elle est descendue à la cuisine.` Word by word: `Elle` (she) `est` (is, helper) `descendue` (went down) `à` (to) `la` (the) `cuisine` (kitchen) |
+| 59. The cat went up onto the chair. | `Le chat est monté sur la chaise.` Word by word: `Le` (the) `chat` (cat) `est` (is, helper) `monté` (went up) `sur` (on) `la` (the) `chaise` (chair) |
+| 60. They returned to Lyon on Friday. | `Ils sont retournés à Lyon vendredi.` Word by word: `Ils` (they) `sont` (are, helper) `retournés` (returned) `à` (to) `Lyon` (Lyon) `vendredi` (Friday) |
+| 61. My grandmother was born in Marseille. | `Ma grand-mère est née à Marseille.` Word by word: `Ma` (my) `grand-mère` (grandmother) `est` (is, helper) `née` (born) `à` (at) `Marseille` (Marseille) |
+| 62. The old tree died during the winter. | `Le vieil arbre est mort pendant l’hiver.` Word by word: `Le` (the) `vieil` (old) `arbre` (tree) `est` (is, helper) `mort` (died) `pendant` (during) `l’` (the) `hiver` (winter) |
+| 63. We passed by the park. | `Nous sommes passés par le parc.` Word by word: `Nous` (we) `sommes` (are, helper) `passés` (passed) `par` (by) `le` (the) `parc` (park) |
+| 64. The student became very calm. | `L’étudiante est devenue très calme.` Word by word: `L’` (the) `étudiante` (student) `est` (is, helper) `devenue` (became) `très` (very) `calme` (calm) |
+| 65. Did Clara fall in the street? | `Clara est-elle tombée dans la rue ?` Word by word: `Clara` (Clara) `est-elle` (is she) `tombée` (fell) `dans` (in) `la` (the) `rue` (street) |
+| 66. I did not go to the party. | `Je ne suis pas allé à la fête.` Word by word: `Je` (I) `ne` (not — with pas) `suis` (am, helper) `pas` (not) `allé` (went) `à` (to) `la` (the) `fête` (party) |
+| 67. They did not arrive late. | `Elles ne sont pas arrivées en retard.` Word by word: `Elles` (they) `ne` (not — with pas) `sont` (are, helper) `pas` (not) `arrivées` (arrived) `en` (in) `retard` (late) |
+| 68. We have already returned home. | `Nous sommes déjà rentrés chez nous.` Word by word: `Nous` (us) `sommes` (are, helper) `déjà` (already) `rentrés` (returned) `chez` (at) `nous` (we) |
+| 69. Why did you leave so early? | `Pourquoi êtes-vous partis si tôt ?` Word by word: `Pourquoi` (why) `êtes-vous` (are you) `partis` (left) `si` (so) `tôt` (early) |
+| 70. She came with me and stayed two hours. | `Elle est venue avec moi et elle est restée deux heures.` Word by word: `Elle` (she) `est` (is, helper) `venue` (came) `avec` (with) `moi` (me) `et` (and) `elle` (she) `est` (is, helper) `restée` (stayed) `deux` (two) `heures` (hours) |
+| 71. I woke up before everyone. | `Je me suis réveillé avant tout le monde.` Word by word: `Je` (I) `me` (myself) `suis` (am, helper) `réveillé` (woke up) `avant` (before) `tout` (all) `le` (the) `monde` (people) |
+| 72. She got up at six. | `Elle s’est levée à six heures.` Word by word: `Elle` (she) `s’` (herself) `est` (is, helper) `levée` (got up) `à` (at) `six` (six) `heures` (o’clock) |
+| 73. We got dressed quickly. | `Nous nous sommes habillés rapidement.` Word by word: `Nous` (we) `nous` (ourselves) `sommes` (are, helper) `habillés` (got dressed) `rapidement` (quickly) |
+| 74. They went to bed after midnight. | `Ils se sont couchés après minuit.` Word by word: `Ils` (they) `se` (themselves) `sont` (are, helper) `couchés` (went to bed) `après` (after) `minuit` (midnight) |
+| 75. Did you hurry this morning? | `Est-ce que tu t’es dépêché ce matin ?` Word by word: `Est-ce` (is it) `que` (that) `tu` (you) `t’` (yourself) `es` (are, helper) `dépêché` (hurried) `ce` (this) `matin` (morning) |
+| 76. The girls saw each other at the station. | `Les filles se sont vues à la gare.` Word by word: `Les` (the) `filles` (girls) `se` (each other) `sont` (are, helper) `vues` (saw) `à` (at) `la` (the) `gare` (station) |
+| 77. The neighbors spoke to each other after the meeting. | `Les voisins se sont parlé après la réunion.` Word by word: `Les` (the) `voisins` (neighbors) `se` (each other) `sont` (are, helper) `parlé` (spoke) `après` (after) `la` (the) `réunion` (meeting) |
+| 78. We called each other yesterday evening. | `Nous nous sommes téléphoné hier soir.` Word by word: `Nous` (we) `nous` (each other) `sommes` (are, helper) `téléphoné` (called each other) `hier` (yesterday) `soir` (evening) |
+| 79. She washed her hands before dinner. | `Elle s’est lavé les mains avant le dîner.` Word by word: `Elle` (she) `s’` (herself) `est` (is, helper) `lavé` (washed) `les` (the) `mains` (hands) `avant` (before) `le` (the) `dîner` (dinner) |
+| 80. I did not sit near the door. | `Je ne me suis pas assis près de la porte.` Word by word: `Je` (I) `ne` (not — with pas) `me` (myself) `suis` (am, helper) `pas` (not) `assis` (sat down) `près` (near) `de` (of) `la` (the) `porte` (door) |
+| 81. They did not get bored during the trip. | `Ils ne se sont pas ennuyés pendant le voyage.` Word by word: `Ils` (they) `ne` (not — with pas) `se` (themselves) `sont` (are, helper) `pas` (not) `ennuyés` (got bored) `pendant` (during) `le` (the) `voyage` (trip) |
+| 82. Did you remember the appointment? | `Vous vous êtes souvenus du rendez-vous ?` Word by word: `Vous` (you) `vous` (yourselves) `êtes` (are, helper) `souvenus` (remembered) `du` (of the) `rendez-vous` (appointment) |
+| 83. We realized the problem too late. | `Nous nous sommes rendu compte du problème trop tard.` Word by word: `Nous` (we) `nous` (ourselves) `sommes` (are, helper) `rendu` (realized) `compte` (account) `du` (of the) `problème` (problem) `trop` (too) `tard` (late) |
+| 84. She left quietly. | `Elle s’en est allée sans bruit.` Word by word: `Elle` (she) `s’` (herself) `en` (away) `est` (is, helper) `allée` (went) `sans` (without) `bruit` (noise) |
+| 85. The friends met again in front of the café. | `Les amis se sont retrouvés devant le café.` Word by word: `Les` (the) `amis` (friends) `se` (each other) `sont` (are, helper) `retrouvés` (met again) `devant` (in front of) `le` (the) `café` (café) |
+| 86. The letter? I wrote it yesterday. | `La lettre ? Je l’ai écrite hier.` Word by word: `La` (the) `lettre` (letter) `Je` (I) `l’` (it) `ai` (have, helper) `écrite` (written) `hier` (yesterday) |
+| 87. The books? We read them during vacation. | `Les livres ? Nous les avons lus pendant les vacances.` Word by word: `Les` (the) `livres` (books) `Nous` (we) `les` (them) `avons` (have, helper) `lus` (read) `pendant` (during) `les` (the) `vacances` (vacation) |
+| 88. The photos? She took them in the garden. | `Les photos ? Elle les a prises dans le jardin.` Word by word: `Les` (the) `photos` (photos) `Elle` (she) `les` (them) `a` (has, helper) `prises` (took) `dans` (in) `le` (the) `jardin` (garden) |
+| 89. The exercises? Did you do them alone? | `Les exercices ? Tu les as faits tout seul ?` Word by word: `Les` (the) `exercices` (exercises) `Tu` (you) `les` (them) `as` (have, helper) `faits` (done) `tout` (all) `seul` (alone) |
+| 90. The song? They heard it on the radio. | `La chanson ? Ils l’ont entendue à la radio.` Word by word: `La` (the) `chanson` (song) `Ils` (they) `l’` (it) `ont` (have, helper) `entendue` (heard) `à` (on) `la` (the) `radio` (radio) |
+| 91. The keys? I put them in my coat. | `Les clés ? Je les ai mises dans mon manteau.` Word by word: `Les` (the) `clés` (keys) `Je` (I) `les` (them) `ai` (have, helper) `mises` (put) `dans` (in) `mon` (my) `manteau` (coat) |
+| 92. The windows? We opened them before breakfast. | `Les fenêtres ? Nous les avons ouvertes avant le petit déjeuner.` Word by word: `Les` (the) `fenêtres` (windows) `Nous` (we) `les` (them) `avons` (have, helper) `ouvertes` (opened) `avant` (before) `le` (the) `petit` (little) `déjeuner` (breakfast) |
+| 93. The invitations? She received them this week. | `Les invitations ? Elle les a reçues cette semaine.` Word by word: `Les` (the) `invitations` (invitations) `Elle` (she) `les` (them) `a` (has, helper) `reçues` (received) `cette` (this) `semaine` (week) |
+| 94. The tickets? They bought them online. | `Les billets ? Ils les ont achetés en ligne.` Word by word: `Les` (the) `billets` (tickets) `Ils` (they) `les` (them) `ont` (have, helper) `achetés` (bought) `en` (on) `ligne` (line) |
+| 95. The address? I did not find it. | `L’adresse ? Je ne l’ai pas trouvée.` Word by word: `L’` (the) `adresse` (address) `Je` (I) `ne` (not — with pas) `l’` (it) `ai` (have, helper) `pas` (not) `trouvée` (found) |
+| 96. These messages? Have you already read them? | `Ces messages ? Est-ce que tu les as déjà lus ?` Word by word: `Ces` (these) `messages` (messages) `Est-ce` (is it) `que` (that) `tu` (you) `les` (them) `as` (have, helper) `déjà` (already) `lus` (read) |
+| 97. My cousins arrived, and we welcomed them. | `Mes cousins sont arrivés, et nous les avons accueillis.` Word by word: `Mes` (my) `cousins` (cousins) `sont` (are, helper) `arrivés` (arrived) `et` (and) `nous` (we) `les` (them) `avons` (have, helper) `accueillis` (welcomed) |
+| 98. The scarf? Clara lost it on the bus. | `L’écharpe ? Clara l’a perdue dans le bus.` Word by word: `L’` (the) `écharpe` (scarf) `Clara` (Clara) `l’` (it) `a` (has, helper) `perdue` (lost) `dans` (in) `le` (the) `bus` (bus) |
+| 99. The postcards? I sent them to my parents. | `Les cartes postales ? Je les ai envoyées à mes parents.` Word by word: `Les` (the) `cartes` (cards) `postales` (postcards) `Je` (I) `les` (them) `ai` (have, helper) `envoyées` (sent) `à` (to) `mes` (my) `parents` (parents) |
+| 100. The problem? We understood it after the lesson. | `Le problème ? Nous l’avons compris après la leçon.` Word by word: `Le` (the) `problème` (problem) `Nous` (we) `l’` (it) `avons` (have, helper) `compris` (understood) `après` (after) `la` (the) `leçon` (lesson) |

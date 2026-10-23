@@ -39,6 +39,17 @@ def inline(text):
     return text
 
 
+def word_gloss(source):
+    """Render `French` (English) pairs as French words stacked over meanings."""
+    pairs = re.findall(r"`([^`]+)` \(([^()]+)\)", source)
+    chips = "".join(
+        f'<span class="gloss-pair"><code class="speakable" lang="fr">{html.escape(fr, quote=False)}</code>'
+        f'<span class="gloss-en" lang="en">{html.escape(en, quote=False)}</span></span>'
+        for fr, en in pairs
+    )
+    return f'<span class="word-gloss" aria-label="Word by word">{chips}</span>'
+
+
 def markdown_to_html(source):
     lines = source.splitlines()
     output = []
@@ -148,7 +159,13 @@ def markdown_to_html(source):
                         cell.strip() for cell in lines[index].strip().strip("|").split("|")
                     ]
                     output.append("<tr>")
-                    output.extend(f"<td>{inline(cell)}</td>" for cell in cells)
+                    if drill and cells and " Word by word: " in cells[-1]:
+                        answer, gloss = cells[-1].split(" Word by word: ", 1)
+                        cells[-1] = inline(answer) + word_gloss(gloss)
+                        output.extend(f"<td>{inline(cell)}</td>" for cell in cells[:-1])
+                        output.append(f"<td>{cells[-1]}</td>")
+                    else:
+                        output.extend(f"<td>{inline(cell)}</td>" for cell in cells)
                     output.append("</tr>")
                     index += 1
                 close_table()

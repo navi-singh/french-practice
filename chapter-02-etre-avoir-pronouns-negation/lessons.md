@@ -492,103 +492,103 @@ Cover the French column, translate each English sentence aloud, then uncover to 
 
 | English | French |
 | --- | --- |
-| 1. I am a student. | `Je suis étudiant.` |
-| 2. You informal are my friend. | `Tu es mon ami.` |
-| 3. He is Canadian. | `Il est canadien.` |
-| 4. She is French. | `Elle est française.` |
-| 5. We are in Paris. | `Nous sommes à Paris.` |
-| 6. You formal are on time. | `Vous êtes à l’heure.` |
-| 7. They masculine are tired. | `Ils sont fatigués.` |
-| 8. They feminine are happy. | `Elles sont contentes.` |
-| 9. People are friendly here. | `On est sympathique ici.` |
-| 10. We informal are in a small café. | `On est dans un petit café.` |
-| 11. You plural are Canadian. | `Vous êtes canadiens.` |
-| 12. My sister is a doctor. | `Ma sœur est médecin.` |
-| 13. My brother is an engineer. | `Mon frère est ingénieur.` |
-| 14. This is my new apartment. | `C’est mon nouvel appartement.` |
-| 15. It is a good restaurant. | `C’est un bon restaurant.` |
-| 16. I am American. | `Je suis américain.` |
-| 17. She is American. | `Elle est américaine.` |
-| 18. We are students. | `Nous sommes étudiants.` |
-| 19. They are professors. | `Ils sont professeurs.` |
-| 20. The kitchen is white. | `La cuisine est blanche.` |
-| 21. The neighbors are noisy. | `Les voisins sont bruyants.` |
-| 22. The street is quiet. | `La rue est tranquille.` |
-| 23. You formal are late. | `Vous êtes en retard.` |
-| 24. We are early. | `Nous sommes en avance.` |
-| 25. I agree with you informal. | `Je suis d’accord avec toi.` |
-| 26. We agree with you formal. | `Nous sommes d’accord avec vous.` |
-| 27. She is in the middle of studying French. | `Elle est en train d’étudier le français.` |
-| 28. They are in the middle of working. | `Ils sont en train de travailler.` |
-| 29. I am happy to be here. | `Je suis content d’être ici.` |
-| 30. She is happy to be in Montreal. | `Elle est contente d’être à Montréal.` |
-| 31. The hotel is downtown. | `L’hôtel est dans le centre-ville.` |
-| 32. My roommates are friendly. | `Mes colocataires sont sympathiques.` |
-| 33. This is Sophie. | `C’est Sophie.` |
-| 34. It is pleasant. | `C’est agréable.` |
-| 35. You informal are the new roommate. | `Tu es la nouvelle colocataire.` |
-| 36. I am twenty years old. | `J’ai vingt ans.` |
-| 37. You informal are hungry. | `Tu as faim.` |
-| 38. He is thirsty. | `Il a soif.` |
-| 39. She is cold. | `Elle a froid.` |
-| 40. We are hot. | `Nous avons chaud.` |
-| 41. You formal are right. | `Vous avez raison.` |
-| 42. They are wrong. | `Ils ont tort.` |
-| 43. I am afraid of the dog. | `J’ai peur du chien.` |
-| 44. She needs a pen. | `Elle a besoin d’un stylo.` |
-| 45. We feel like going out this evening. | `Nous avons envie de sortir ce soir.` |
-| 46. They are lucky. | `Ils ont de la chance.` |
-| 47. My brother has a blue notebook. | `Mon frère a un cahier bleu.` |
-| 48. My sister has a red bag. | `Ma sœur a un sac rouge.` |
-| 49. We have two bedrooms. | `Nous avons deux chambres.` |
-| 50. You plural have a large garden. | `Vous avez un grand jardin.` |
-| 51. The apartment has a beautiful view. | `L’appartement a une belle vue.` |
-| 52. The house has a white kitchen. | `La maison a une cuisine blanche.` |
-| 53. I have nineteen euros. | `J’ai dix-neuf euros.` |
-| 54. You informal have a new friend. | `Tu as un nouvel ami.` |
-| 55. The students have French books. | `Les étudiants ont des livres français.` |
-| 56. There is a pharmacy near the house. | `Il y a une pharmacie près de la maison.` |
-| 57. There are children in the garden. | `Il y a des enfants dans le jardin.` |
-| 58. There is a problem. | `Il y a un problème.` |
-| 59. There is bread in the kitchen. | `Il y a du pain dans la cuisine.` |
-| 60. There are some fruits on the table. | `Il y a des fruits sur la table.` |
-| 61. There is water in the fridge. | `Il y a de l’eau dans le frigo.` |
-| 62. There is a park near my street. | `Il y a un parc près de ma rue.` |
-| 63. There are two chairs in the room. | `Il y a deux chaises dans la salle.` |
-| 64. There is a quiet café downtown. | `Il y a un café tranquille dans le centre-ville.` |
-| 65. There are no cars in the street. | `Il n’y a pas de voitures dans la rue.` |
-| 66. I am not ready. | `Je ne suis pas prêt.` |
-| 67. You informal are not late. | `Tu n’es pas en retard.` |
-| 68. He is not American. | `Il n’est pas américain.` |
-| 69. She is not tired. | `Elle n’est pas fatiguée.` |
-| 70. We are not noisy. | `Nous ne sommes pas bruyants.` |
-| 71. You formal are not alone. | `Vous n’êtes pas seul.` |
-| 72. They feminine are not Canadian. | `Elles ne sont pas canadiennes.` |
-| 73. It is not a car. | `Ce n’est pas une voiture.` |
-| 74. It is not a problem. | `Ce n’est pas un problème.` |
-| 75. My neighbor is not patient. | `Ma voisine n’est pas patiente.` |
-| 76. I do not have a car. | `Je n’ai pas de voiture.` |
-| 77. You informal do not have a pen. | `Tu n’as pas de stylo.` |
-| 78. He does not have a notebook. | `Il n’a pas de cahier.` |
-| 79. She does not have brothers. | `Elle n’a pas de frères.` |
-| 80. We do not have coffee. | `Nous n’avons pas de café.` |
-| 81. You plural do not have photos. | `Vous n’avez pas de photos.` |
-| 82. They do not have French books. | `Ils n’ont pas de livres français.` |
-| 83. I am not hungry. | `Je n’ai pas faim.` |
-| 84. She is not thirsty. | `Elle n’a pas soif.` |
-| 85. We are not cold. | `Nous n’avons pas froid.` |
-| 86. There is no solution. | `Il n’y a pas de solution.` |
-| 87. There are no chairs. | `Il n’y a pas de chaises.` |
-| 88. There is no noise in the street. | `Il n’y a pas de bruit dans la rue.` |
-| 89. There is no water in the fridge. | `Il n’y a pas d’eau dans le frigo.` |
-| 90. There is no problem here. | `Il n’y a pas de problème ici.` |
-| 91. I am a student, but my sister is an engineer. | `Je suis étudiant, mais ma sœur est ingénieure.` |
-| 92. We have a small apartment and a large garden. | `Nous avons un petit appartement et un grand jardin.` |
-| 93. There is a pharmacy near our house. | `Il y a une pharmacie près de notre maison.` |
-| 94. My neighbors are not noisy. | `Mes voisins ne sont pas bruyants.` |
-| 95. We informal do not have coffee, so we are thirsty. | `On n’a pas de café, alors on a soif.` |
-| 96. She is twenty years old and she is happy. | `Elle a vingt ans et elle est contente.` |
-| 97. You formal are not late, it is still early. | `Vous n’êtes pas en retard, il est encore tôt.` |
-| 98. I do not have a car, but I have a bike. | `Je n’ai pas de voiture, mais j’ai un vélo.` |
-| 99. It is not a big house, it is a small apartment. | `Ce n’est pas une grande maison, c’est un petit appartement.` |
-| 100. There are no noisy neighbors, and we are happy here. | `Il n’y a pas de voisins bruyants, et nous sommes contents ici.` |
+| 1. I am a student. | `Je suis étudiant.` Word by word: `Je` (I) `suis` (am) `étudiant` (student) |
+| 2. You informal are my friend. | `Tu es mon ami.` Word by word: `Tu` (you, informal) `es` (are) `mon` (my) `ami` (friend) |
+| 3. He is Canadian. | `Il est canadien.` Word by word: `Il` (he) `est` (is) `canadien` (Canadian) |
+| 4. She is French. | `Elle est française.` Word by word: `Elle` (she) `est` (is) `française` (French) |
+| 5. We are in Paris. | `Nous sommes à Paris.` Word by word: `Nous` (we) `sommes` (are) `à` (in) `Paris` (Paris) |
+| 6. You formal are on time. | `Vous êtes à l’heure.` Word by word: `Vous` (you) `êtes` (are) `à` (at) `l’` (the) `heure` (hour) |
+| 7. They masculine are tired. | `Ils sont fatigués.` Word by word: `Ils` (they) `sont` (are) `fatigués` (tired) |
+| 8. They feminine are happy. | `Elles sont contentes.` Word by word: `Elles` (they, feminine) `sont` (are) `contentes` (happy) |
+| 9. People are friendly here. | `On est sympathique ici.` Word by word: `On` (people) `est` (are) `sympathique` (friendly) `ici` (here) |
+| 10. We informal are in a small café. | `On est dans un petit café.` Word by word: `On` (we) `est` (are) `dans` (in) `un` (a) `petit` (small) `café` (café) |
+| 11. You plural are Canadian. | `Vous êtes canadiens.` Word by word: `Vous` (you) `êtes` (are) `canadiens` (Canadian) |
+| 12. My sister is a doctor. | `Ma sœur est médecin.` Word by word: `Ma` (my) `sœur` (sister) `est` (is) `médecin` (doctor) |
+| 13. My brother is an engineer. | `Mon frère est ingénieur.` Word by word: `Mon` (my) `frère` (brother) `est` (is) `ingénieur` (engineer) |
+| 14. This is my new apartment. | `C’est mon nouvel appartement.` Word by word: `C’` (it) `est` (is) `mon` (my) `nouvel` (new) `appartement` (apartment) |
+| 15. It is a good restaurant. | `C’est un bon restaurant.` Word by word: `C’` (it) `est` (is) `un` (a) `bon` (good) `restaurant` (restaurant) |
+| 16. I am American. | `Je suis américain.` Word by word: `Je` (I) `suis` (am) `américain` (American) |
+| 17. She is American. | `Elle est américaine.` Word by word: `Elle` (she) `est` (is) `américaine` (American) |
+| 18. We are students. | `Nous sommes étudiants.` Word by word: `Nous` (we) `sommes` (are) `étudiants` (students) |
+| 19. They are professors. | `Ils sont professeurs.` Word by word: `Ils` (they) `sont` (are) `professeurs` (professors) |
+| 20. The kitchen is white. | `La cuisine est blanche.` Word by word: `La` (the) `cuisine` (kitchen) `est` (is) `blanche` (white) |
+| 21. The neighbors are noisy. | `Les voisins sont bruyants.` Word by word: `Les` (the) `voisins` (neighbors) `sont` (are) `bruyants` (noisy) |
+| 22. The street is quiet. | `La rue est tranquille.` Word by word: `La` (the) `rue` (street) `est` (is) `tranquille` (quiet) |
+| 23. You formal are late. | `Vous êtes en retard.` Word by word: `Vous` (you) `êtes` (are) `en` (in) `retard` (late) |
+| 24. We are early. | `Nous sommes en avance.` Word by word: `Nous` (we) `sommes` (are) `en` (in) `avance` (early) |
+| 25. I agree with you informal. | `Je suis d’accord avec toi.` Word by word: `Je` (I) `suis` (am) `d’accord` (agree) `avec` (with) `toi` (you) |
+| 26. We agree with you formal. | `Nous sommes d’accord avec vous.` Word by word: `Nous` (we) `sommes` (are) `d’accord` (agree) `avec` (with) `vous` (you) |
+| 27. She is in the middle of studying French. | `Elle est en train d’étudier le français.` Word by word: `Elle` (she) `est` (is) `en` (in) `train` (middle) `d’` (of) `étudier` (studying) `le` (the) `français` (French) |
+| 28. They are in the middle of working. | `Ils sont en train de travailler.` Word by word: `Ils` (they) `sont` (are) `en` (in) `train` (middle) `de` (of) `travailler` (working) |
+| 29. I am happy to be here. | `Je suis content d’être ici.` Word by word: `Je` (I) `suis` (am) `content` (happy) `d’` (to) `être` (be) `ici` (here) |
+| 30. She is happy to be in Montreal. | `Elle est contente d’être à Montréal.` Word by word: `Elle` (she) `est` (is) `contente` (happy) `d’` (to) `être` (be) `à` (in) `Montréal` (Montreal) |
+| 31. The hotel is downtown. | `L’hôtel est dans le centre-ville.` Word by word: `L’` (the) `hôtel` (hotel) `est` (is) `dans` (in) `le` (the) `centre-ville` (downtown) |
+| 32. My roommates are friendly. | `Mes colocataires sont sympathiques.` Word by word: `Mes` (my) `colocataires` (roommates) `sont` (are) `sympathiques` (friendly) |
+| 33. This is Sophie. | `C’est Sophie.` Word by word: `C’` (it) `est` (is) `Sophie` (Sophie) |
+| 34. It is pleasant. | `C’est agréable.` Word by word: `C’` (it) `est` (is) `agréable` (pleasant) |
+| 35. You informal are the new roommate. | `Tu es la nouvelle colocataire.` Word by word: `Tu` (you, informal) `es` (are) `la` (the) `nouvelle` (new) `colocataire` (roommate) |
+| 36. I am twenty years old. | `J’ai vingt ans.` Word by word: `J’` (I) `ai` (have) `vingt` (twenty) `ans` (years old) |
+| 37. You informal are hungry. | `Tu as faim.` Word by word: `Tu` (you, informal) `as` (have) `faim` (hungry) |
+| 38. He is thirsty. | `Il a soif.` Word by word: `Il` (he) `a` (has) `soif` (thirsty) |
+| 39. She is cold. | `Elle a froid.` Word by word: `Elle` (she) `a` (has) `froid` (cold) |
+| 40. We are hot. | `Nous avons chaud.` Word by word: `Nous` (we) `avons` (have) `chaud` (hot) |
+| 41. You formal are right. | `Vous avez raison.` Word by word: `Vous` (you) `avez` (have) `raison` (right) |
+| 42. They are wrong. | `Ils ont tort.` Word by word: `Ils` (they) `ont` (have) `tort` (wrong) |
+| 43. I am afraid of the dog. | `J’ai peur du chien.` Word by word: `J’` (I) `ai` (have) `peur` (fear) `du` (of the) `chien` (dog) |
+| 44. She needs a pen. | `Elle a besoin d’un stylo.` Word by word: `Elle` (she) `a` (has) `besoin` (need) `d’` (of) `un` (a) `stylo` (pen) |
+| 45. We feel like going out this evening. | `Nous avons envie de sortir ce soir.` Word by word: `Nous` (we) `avons` (have) `envie` (feel like) `de` (to) `sortir` (going out) `ce` (this) `soir` (evening) |
+| 46. They are lucky. | `Ils ont de la chance.` Word by word: `Ils` (they) `ont` (have) `de` (some) `la` (the) `chance` (luck) |
+| 47. My brother has a blue notebook. | `Mon frère a un cahier bleu.` Word by word: `Mon` (my) `frère` (brother) `a` (has) `un` (a) `cahier` (notebook) `bleu` (blue) |
+| 48. My sister has a red bag. | `Ma sœur a un sac rouge.` Word by word: `Ma` (my) `sœur` (sister) `a` (has) `un` (a) `sac` (bag) `rouge` (red) |
+| 49. We have two bedrooms. | `Nous avons deux chambres.` Word by word: `Nous` (we) `avons` (have) `deux` (two) `chambres` (bedroom) |
+| 50. You plural have a large garden. | `Vous avez un grand jardin.` Word by word: `Vous` (you) `avez` (have) `un` (a) `grand` (large) `jardin` (garden) |
+| 51. The apartment has a beautiful view. | `L’appartement a une belle vue.` Word by word: `L’` (the) `appartement` (apartment) `a` (has) `une` (a) `belle` (beautiful) `vue` (view) |
+| 52. The house has a white kitchen. | `La maison a une cuisine blanche.` Word by word: `La` (the) `maison` (house) `a` (has) `une` (a) `cuisine` (kitchen) `blanche` (white) |
+| 53. I have nineteen euros. | `J’ai dix-neuf euros.` Word by word: `J’` (I) `ai` (have) `dix-neuf` (nineteen) `euros` (euros) |
+| 54. You informal have a new friend. | `Tu as un nouvel ami.` Word by word: `Tu` (you, informal) `as` (have) `un` (a) `nouvel` (new) `ami` (friend) |
+| 55. The students have French books. | `Les étudiants ont des livres français.` Word by word: `Les` (the) `étudiants` (students) `ont` (have) `des` (some) `livres` (books) `français` (French) |
+| 56. There is a pharmacy near the house. | `Il y a une pharmacie près de la maison.` Word by word: `Il y a` (there is) `une` (a) `pharmacie` (pharmacy) `près` (near) `de` (of) `la` (the) `maison` (house) |
+| 57. There are children in the garden. | `Il y a des enfants dans le jardin.` Word by word: `Il y a` (there are) `des` (some) `enfants` (children) `dans` (in) `le` (the) `jardin` (garden) |
+| 58. There is a problem. | `Il y a un problème.` Word by word: `Il y a` (there is) `un` (a) `problème` (problem) |
+| 59. There is bread in the kitchen. | `Il y a du pain dans la cuisine.` Word by word: `Il y a` (there is) `du` (some) `pain` (bread) `dans` (in) `la` (the) `cuisine` (kitchen) |
+| 60. There are some fruits on the table. | `Il y a des fruits sur la table.` Word by word: `Il y a` (there are) `des` (some) `fruits` (fruits) `sur` (on) `la` (the) `table` (table) |
+| 61. There is water in the fridge. | `Il y a de l’eau dans le frigo.` Word by word: `Il y a` (there is) `de` (some) `l’` (the — part of some) `eau` (water) `dans` (in) `le` (the) `frigo` (fridge) |
+| 62. There is a park near my street. | `Il y a un parc près de ma rue.` Word by word: `Il y a` (there is) `un` (a) `parc` (park) `près` (near) `de` (of) `ma` (my) `rue` (street) |
+| 63. There are two chairs in the room. | `Il y a deux chaises dans la salle.` Word by word: `Il y a` (there are) `deux` (two) `chaises` (chairs) `dans` (in) `la` (the) `salle` (room) |
+| 64. There is a quiet café downtown. | `Il y a un café tranquille dans le centre-ville.` Word by word: `Il y a` (there is) `un` (a) `café` (café) `tranquille` (quiet) `dans` (in) `le` (the) `centre-ville` (downtown) |
+| 65. There are no cars in the street. | `Il n’y a pas de voitures dans la rue.` Word by word: `Il` (it) `n’` (not, with pas) `y` (there) `a` (is) `pas` (not) `de` (any) `voitures` (cars) `dans` (in) `la` (the) `rue` (street) |
+| 66. I am not ready. | `Je ne suis pas prêt.` Word by word: `Je` (I) `ne` (not, with pas) `suis` (am) `pas` (not) `prêt` (ready) |
+| 67. You informal are not late. | `Tu n’es pas en retard.` Word by word: `Tu` (you, informal) `n’` (not, with pas) `es` (are) `pas` (not) `en` (in) `retard` (late) |
+| 68. He is not American. | `Il n’est pas américain.` Word by word: `Il` (he) `n’` (not, with pas) `est` (is) `pas` (not) `américain` (American) |
+| 69. She is not tired. | `Elle n’est pas fatiguée.` Word by word: `Elle` (she) `n’` (not, with pas) `est` (is) `pas` (not) `fatiguée` (tired) |
+| 70. We are not noisy. | `Nous ne sommes pas bruyants.` Word by word: `Nous` (we) `ne` (not, with pas) `sommes` (are) `pas` (not) `bruyants` (noisy) |
+| 71. You formal are not alone. | `Vous n’êtes pas seul.` Word by word: `Vous` (you) `n’` (not, with pas) `êtes` (are) `pas` (not) `seul` (alone) |
+| 72. They feminine are not Canadian. | `Elles ne sont pas canadiennes.` Word by word: `Elles` (they, feminine) `ne` (not, with pas) `sont` (are) `pas` (not) `canadiennes` (Canadian) |
+| 73. It is not a car. | `Ce n’est pas une voiture.` Word by word: `Ce` (it) `n’` (not, with pas) `est` (is) `pas` (not) `une` (a) `voiture` (car) |
+| 74. It is not a problem. | `Ce n’est pas un problème.` Word by word: `Ce` (it) `n’` (not, with pas) `est` (is) `pas` (not) `un` (a) `problème` (problem) |
+| 75. My neighbor is not patient. | `Ma voisine n’est pas patiente.` Word by word: `Ma` (my) `voisine` (female neighbor) `n’` (not, with pas) `est` (is) `pas` (not) `patiente` (patient) |
+| 76. I do not have a car. | `Je n’ai pas de voiture.` Word by word: `Je` (I) `n’` (not, with pas) `ai` (have) `pas` (not) `de` (any) `voiture` (car) |
+| 77. You informal do not have a pen. | `Tu n’as pas de stylo.` Word by word: `Tu` (you, informal) `n’` (not, with pas) `as` (have) `pas` (not) `de` (any) `stylo` (pen) |
+| 78. He does not have a notebook. | `Il n’a pas de cahier.` Word by word: `Il` (he) `n’` (not, with pas) `a` (has) `pas` (not) `de` (any) `cahier` (notebook) |
+| 79. She does not have brothers. | `Elle n’a pas de frères.` Word by word: `Elle` (she) `n’` (not, with pas) `a` (has) `pas` (not) `de` (any) `frères` (brothers) |
+| 80. We do not have coffee. | `Nous n’avons pas de café.` Word by word: `Nous` (we) `n’` (not, with pas) `avons` (have) `pas` (not) `de` (any) `café` (café) |
+| 81. You plural do not have photos. | `Vous n’avez pas de photos.` Word by word: `Vous` (you) `n’` (not, with pas) `avez` (have) `pas` (not) `de` (any) `photos` (photos) |
+| 82. They do not have French books. | `Ils n’ont pas de livres français.` Word by word: `Ils` (they) `n’` (not, with pas) `ont` (have) `pas` (not) `de` (any) `livres` (books) `français` (French) |
+| 83. I am not hungry. | `Je n’ai pas faim.` Word by word: `Je` (I) `n’` (not, with pas) `ai` (have) `pas` (not) `faim` (hungry) |
+| 84. She is not thirsty. | `Elle n’a pas soif.` Word by word: `Elle` (she) `n’` (not, with pas) `a` (has) `pas` (not) `soif` (thirsty) |
+| 85. We are not cold. | `Nous n’avons pas froid.` Word by word: `Nous` (we) `n’` (not, with pas) `avons` (have) `pas` (not) `froid` (cold) |
+| 86. There is no solution. | `Il n’y a pas de solution.` Word by word: `Il` (it) `n’` (not, with pas) `y` (there) `a` (is) `pas` (not) `de` (any) `solution` (solution) |
+| 87. There are no chairs. | `Il n’y a pas de chaises.` Word by word: `Il` (it) `n’` (not, with pas) `y` (there) `a` (is) `pas` (not) `de` (any) `chaises` (chairs) |
+| 88. There is no noise in the street. | `Il n’y a pas de bruit dans la rue.` Word by word: `Il` (it) `n’` (not, with pas) `y` (there) `a` (is) `pas` (not) `de` (any) `bruit` (noise) `dans` (in) `la` (the) `rue` (street) |
+| 89. There is no water in the fridge. | `Il n’y a pas d’eau dans le frigo.` Word by word: `Il` (it) `n’` (not, with pas) `y` (there) `a` (is) `pas` (not) `d’` (any) `eau` (water) `dans` (in) `le` (the) `frigo` (fridge) |
+| 90. There is no problem here. | `Il n’y a pas de problème ici.` Word by word: `Il` (it) `n’` (not, with pas) `y` (there) `a` (is) `pas` (not) `de` (any) `problème` (problem) `ici` (here) |
+| 91. I am a student, but my sister is an engineer. | `Je suis étudiant, mais ma sœur est ingénieure.` Word by word: `Je` (I) `suis` (am) `étudiant` (student) `mais` (but) `ma` (my) `sœur` (sister) `est` (is) `ingénieure` (engineer) |
+| 92. We have a small apartment and a large garden. | `Nous avons un petit appartement et un grand jardin.` Word by word: `Nous` (we) `avons` (have) `un` (a) `petit` (small) `appartement` (apartment) `et` (and) `un` (a) `grand` (large) `jardin` (garden) |
+| 93. There is a pharmacy near our house. | `Il y a une pharmacie près de notre maison.` Word by word: `Il y a` (there is) `une` (a) `pharmacie` (pharmacy) `près` (near) `de` (of) `notre` (our) `maison` (house) |
+| 94. My neighbors are not noisy. | `Mes voisins ne sont pas bruyants.` Word by word: `Mes` (my) `voisins` (neighbors) `ne` (not, with pas) `sont` (are) `pas` (not) `bruyants` (noisy) |
+| 95. We informal do not have coffee, so we are thirsty. | `On n’a pas de café, alors on a soif.` Word by word: `On` (we) `n’` (not, with pas) `a` (have) `pas` (not) `de` (any) `café` (café) `alors` (so) `on` (we) `a` (are) `soif` (thirsty) |
+| 96. She is twenty years old and she is happy. | `Elle a vingt ans et elle est contente.` Word by word: `Elle` (she) `a` (has) `vingt` (twenty) `ans` (years old) `et` (and) `elle` (she) `est` (is) `contente` (happy) |
+| 97. You formal are not late, it is still early. | `Vous n’êtes pas en retard, il est encore tôt.` Word by word: `Vous` (you) `n’` (not, with pas) `êtes` (are) `pas` (not) `en` (in) `retard` (late) `il` (it) `est` (is) `encore` (still) `tôt` (early) |
+| 98. I do not have a car, but I have a bike. | `Je n’ai pas de voiture, mais j’ai un vélo.` Word by word: `Je` (I) `n’` (not, with pas) `ai` (have) `pas` (not) `de` (any) `voiture` (car) `mais` (but) `j’` (I) `ai` (have) `un` (a) `vélo` (bicycle) |
+| 99. It is not a big house, it is a small apartment. | `Ce n’est pas une grande maison, c’est un petit appartement.` Word by word: `Ce` (it) `n’` (not, with pas) `est` (is) `pas` (not) `une` (a) `grande` (large) `maison` (house) `c’` (it) `est` (is) `un` (a) `petit` (small) `appartement` (apartment) |
+| 100. There are no noisy neighbors, and we are happy here. | `Il n’y a pas de voisins bruyants, et nous sommes contents ici.` Word by word: `Il` (it) `n’` (not, with pas) `y` (there) `a` (is) `pas` (not) `de` (any) `voisins` (neighbors) `bruyants` (noisy) `et` (and) `nous` (we) `sommes` (are) `contents` (happy) `ici` (here) |

@@ -582,103 +582,103 @@ Cover the French column, translate each English sentence aloud, then uncover to 
 
 | English | French |
 | --- | --- |
-| 1. I wake up before the alarm. | `Je me réveille avant le réveil.` |
-| 2. You get dressed quickly on Mondays. | `Tu t’habilles vite le lundi.` |
-| 3. She rests after lunch. | `Elle se repose après le déjeuner.` |
-| 4. We get up late on Sunday. | `Nous nous levons tard le dimanche.` |
-| 5. Do you all get ready together? | `Vous vous préparez ensemble ?` |
-| 6. The children go to bed at nine. | `Les enfants se couchent à neuf heures.` |
-| 7. My brother is sitting near the window. | `Mon frère s’assoit près de la fenêtre.` |
-| 8. I stop in front of the school. | `Je m’arrête devant l’école.` |
-| 9. They relax in the garden. | `Elles se détendent dans le jardin.` |
-| 10. What is your name? | `Comment tu t’appelles ?` |
-| 11. The students are getting ready for the exam. | `Les étudiants se préparent pour l’examen.` |
-| 12. I feel better today. | `Je me sens mieux aujourd’hui.` |
-| 13. The cat hides under the table. | `Le chat se cache sous la table.` |
-| 14. You are walking in the park. | `Tu te promènes dans le parc.` |
-| 15. We meet in front of the cinema. | `Nous nous retrouvons devant le cinéma.` |
-| 16. She looks at herself in the mirror. | `Elle se regarde dans le miroir.` |
-| 17. The little boy gets bored during the lesson. | `Le petit garçon s’ennuie pendant la leçon.` |
-| 18. I hurry because the bus is arriving. | `Je me dépêche parce que le bus arrive.` |
-| 19. They are not sitting here. | `Ils ne s’assoient pas ici.` |
-| 20. Are we leaving now? | `Nous nous en allons maintenant ?` |
-| 21. I am not getting up before seven. | `Je ne me lève pas avant sept heures.` |
-| 22. Do you remember the address? | `Est-ce que tu te souviens de l’adresse ?` |
-| 23. She is going to put on makeup before the party. | `Elle va se maquiller avant la fête.` |
-| 24. We want to rest this afternoon. | `Nous voulons nous reposer cet après-midi.` |
-| 25. You must hurry a little. | `Vous devez vous dépêcher un peu.` |
-| 26. He can sit next to me. | `Il peut s’asseoir à côté de moi.` |
-| 27. Do not worry. | `Ne t’inquiète pas.` |
-| 28. Get up right away! | `Lève-toi tout de suite !` |
-| 29. Let us sit down here. | `Asseyons-nous ici !` |
-| 30. Do not go to bed too late. | `Ne vous couchez pas trop tard.` |
-| 31. Are they going to meet after class? | `Est-ce qu’ils vont se retrouver après le cours ?` |
-| 32. I do not feel ready. | `Je ne me sens pas prêt.` |
-| 33. Why are you getting angry? | `Pourquoi est-ce que tu te fâches ?` |
-| 34. She is going to wash before dinner. | `Elle va se laver avant le dîner.` |
-| 35. We are not going to get bored tonight. | `Nous n’allons pas nous ennuyer ce soir.` |
-| 36. Hurry up, the train leaves soon! | `Dépêche-toi, le train part bientôt !` |
-| 37. Do not stop in the street. | `Ne t’arrête pas dans la rue.` |
-| 38. Get ready, children! | `Préparez-vous, les enfants !` |
-| 39. I want to sit near the door. | `Je veux m’asseoir près de la porte.` |
-| 40. Do you have to leave now? | `Est-ce que vous devez vous en aller maintenant ?` |
-| 41. I wash my hands before cooking. | `Je me lave les mains avant de cuisiner.` |
-| 42. She brushes her teeth after breakfast. | `Elle se brosse les dents après le petit déjeuner.` |
-| 43. We wash our faces with cold water. | `Nous nous lavons le visage à l’eau froide.` |
-| 44. The children rub their eyes when they are tired. | `Les enfants se frottent les yeux quand ils sont fatigués.` |
-| 45. You hurt your foot on the stairs. | `Tu te fais mal au pied dans l’escalier.` |
-| 46. He dries his hair in the bathroom. | `Il se sèche les cheveux dans la salle de bains.` |
-| 47. I cut my finger while preparing dinner. | `Je me coupe le doigt en préparant le dîner.` |
-| 48. Do you brush your hair every morning? | `Tu te brosses les cheveux chaque matin ?` |
-| 49. Do not touch your eyes. | `Ne te touche pas les yeux.` |
-| 50. Wash your hands, please. | `Lave-toi les mains, s’il te plaît.` |
-| 51. We talk to each other every evening. | `Nous nous parlons chaque soir.` |
-| 52. They write to each other often. | `Ils s’écrivent souvent.` |
-| 53. Do you call each other on weekends? | `Vous vous téléphonez le week-end ?` |
-| 54. The cousins see each other at the market. | `Les cousins se voient au marché.` |
-| 55. We understand each other very well. | `Nous nous comprenons très bien.` |
-| 56. They meet in front of the library. | `Elles se retrouvent devant la bibliothèque.` |
-| 57. We do not talk to each other during the film. | `Nous ne nous parlons pas pendant le film.` |
-| 58. Do the neighbors help each other? | `Est-ce que les voisins s’aident ?` |
-| 59. The two friends send each other messages. | `Les deux amis s’envoient des messages.` |
-| 60. Let us look at one another and speak slowly. | `Regardons-nous et parlons lentement.` |
-| 61. I remember this street. | `Je me souviens de cette rue.` |
-| 62. She gets along well with her roommate. | `Elle s’entend bien avec sa colocataire.` |
-| 63. We realize our mistake. | `Nous nous rendons compte de notre erreur.` |
-| 64. They leave without saying anything. | `Ils s’en vont sans rien dire.` |
-| 65. Do you remember his first name? | `Est-ce que vous vous souvenez de son prénom ?` |
-| 66. I get along badly with this neighbor. | `Je m’entends mal avec ce voisin.` |
-| 67. Let us hurry before the train leaves. | `Dépêchons-nous avant le départ du train.` |
-| 68. She realizes that she is late. | `Elle se rend compte qu’elle est en retard.` |
-| 69. I am leaving because I am tired. | `Je m’en vais parce que je suis fatigué.` |
-| 70. Go away now! | `Va-t’en maintenant !` |
-| 71. My name is Nora, and I call my mother every day. | `Je m’appelle Nora, et j’appelle ma mère chaque jour.` |
-| 72. The noise wakes the baby, and the baby wakes up. | `Le bruit réveille le bébé, et le bébé se réveille.` |
-| 73. This game amuses my sister, and she has fun. | `Ce jeu amuse ma sœur, et elle s’amuse.` |
-| 74. My father puts my little brother to bed, then he goes to bed. | `Mon père couche mon petit frère, puis il se couche.` |
-| 75. Do you realize the price of this ticket? | `Tu te rends compte du prix de ce billet ?` |
-| 76. We remember our first apartment. | `Nous nous souvenons de notre premier appartement.` |
-| 77. They do not get along with the new manager. | `Ils ne s’entendent pas avec le nouveau responsable.` |
-| 78. I do not remember the password. | `Je ne me souviens pas du mot de passe.` |
-| 79. Are you leaving already? | `Tu t’en vas déjà ?` |
-| 80. Let us hurry, but let us stay calm. | `Dépêchons-nous, mais restons calmes.` |
-| 81. I learn better by writing examples. | `J’apprends mieux en écrivant des exemples.` |
-| 82. She listens to music while cooking. | `Elle écoute de la musique en cuisinant.` |
-| 83. We talk while walking to work. | `Nous nous parlons en marchant vers le travail.` |
-| 84. He makes progress by studying every day. | `Il fait des progrès en étudiant chaque jour.` |
-| 85. You can relax while reading in the garden. | `Tu peux te détendre en lisant dans le jardin.` |
-| 86. Knowing the answer, she smiles. | `Sachant la réponse, elle sourit.` |
-| 87. Being very busy, we eat quickly. | `Étant très occupés, nous mangeons vite.` |
-| 88. Having time, I prepare a real breakfast. | `Ayant le temps, je prépare un vrai petit déjeuner.` |
-| 89. The smiling children wait near the door. | `Les enfants souriants attendent près de la porte.` |
-| 90. This surprising story makes everyone laugh. | `Cette histoire étonnante fait rire tout le monde.` |
-| 91. I close the door while leaving. | `Je ferme la porte en partant.` |
-| 92. She checks the time while getting ready. | `Elle regarde l’heure en se préparant.` |
-| 93. We remember the words by repeating them aloud. | `Nous nous souvenons des mots en les répétant à voix haute.` |
-| 94. Do not speak while eating. | `Ne parle pas en mangeant.` |
-| 95. They hurry while carrying their bags. | `Ils se dépêchent en portant leurs sacs.` |
-| 96. By drinking water, I feel better. | `En buvant de l’eau, je me sens mieux.` |
-| 97. While waiting for the bus, we call each other. | `En attendant le bus, nous nous téléphonons.` |
-| 98. Knowing that you are tired, I wait here. | `Sachant que tu es fatigué, j’attends ici.` |
-| 99. Let us review while listening to the dialogue. | `Révisons en écoutant le dialogue.` |
-| 100. Get dressed while keeping calm. | `Habille-toi en restant calme !` |
+| 1. I wake up before the alarm. | `Je me réveille avant le réveil.` Word by word: `Je` (I) `me` (myself) `réveille` (wake up) `avant` (before) `le` (the) `réveil` (alarm) |
+| 2. You get dressed quickly on Mondays. | `Tu t’habilles vite le lundi.` Word by word: `Tu` (you) `t’` (yourself) `habilles` (get dressed) `vite` (quickly) `le` (the) `lundi` (Monday) |
+| 3. She rests after lunch. | `Elle se repose après le déjeuner.` Word by word: `Elle` (she) `se` (herself) `repose` (rest) `après` (after) `le` (the) `déjeuner` (lunch) |
+| 4. We get up late on Sunday. | `Nous nous levons tard le dimanche.` Word by word: `Nous` (we) `nous` (ourselves) `levons` (get up) `tard` (late) `le` (the) `dimanche` (Sunday) |
+| 5. Do you all get ready together? | `Vous vous préparez ensemble ?` Word by word: `Vous` (you all) `vous` (you all) `préparez` (get ready) `ensemble` (together) |
+| 6. The children go to bed at nine. | `Les enfants se couchent à neuf heures.` Word by word: `Les` (the) `enfants` (children) `se` (themselves) `couchent` (go to bed) `à` (at) `neuf` (nine) `heures` (o’clock) |
+| 7. My brother is sitting near the window. | `Mon frère s’assoit près de la fenêtre.` Word by word: `Mon` (my) `frère` (brother) `s’` (himself) `assoit` (sits down) `près` (near) `de` (of) `la` (the) `fenêtre` (window) |
+| 8. I stop in front of the school. | `Je m’arrête devant l’école.` Word by word: `Je` (I) `m’` (myself) `arrête` (stop) `devant` (in front of) `l’` (the) `école` (school) |
+| 9. They relax in the garden. | `Elles se détendent dans le jardin.` Word by word: `Elles` (they) `se` (themselves) `détendent` (relax) `dans` (in) `le` (the) `jardin` (garden) |
+| 10. What is your name? | `Comment tu t’appelles ?` Word by word: `Comment` (how) `tu` (you) `t’` (yourself) `appelles` (are called) |
+| 11. The students are getting ready for the exam. | `Les étudiants se préparent pour l’examen.` Word by word: `Les` (the) `étudiants` (students) `se` (themselves) `préparent` (prepare) `pour` (for) `l’` (the) `examen` (exam) |
+| 12. I feel better today. | `Je me sens mieux aujourd’hui.` Word by word: `Je` (I) `me` (myself) `sens` (feel) `mieux` (better) `aujourd’` (today) `hui` (today) |
+| 13. The cat hides under the table. | `Le chat se cache sous la table.` Word by word: `Le` (the) `chat` (cat) `se` (itself) `cache` (hides) `sous` (under) `la` (the) `table` (table) |
+| 14. You are walking in the park. | `Tu te promènes dans le parc.` Word by word: `Tu` (you) `te` (yourself) `promènes` (walk) `dans` (in) `le` (the) `parc` (park) |
+| 15. We meet in front of the cinema. | `Nous nous retrouvons devant le cinéma.` Word by word: `Nous` (we) `nous` (each other) `retrouvons` (meet) `devant` (in front of) `le` (the) `cinéma` (movie theater) |
+| 16. She looks at herself in the mirror. | `Elle se regarde dans le miroir.` Word by word: `Elle` (she) `se` (herself) `regarde` (looks at) `dans` (in) `le` (the) `miroir` (mirror) |
+| 17. The little boy gets bored during the lesson. | `Le petit garçon s’ennuie pendant la leçon.` Word by word: `Le` (the) `petit` (little) `garçon` (boy) `s’` (himself) `ennuie` (gets bored) `pendant` (during) `la` (the) `leçon` (lesson) |
+| 18. I hurry because the bus is arriving. | `Je me dépêche parce que le bus arrive.` Word by word: `Je` (I) `me` (myself) `dépêche` (hurry) `parce` (because) `que` (that) `le` (the) `bus` (bus) `arrive` (arrives) |
+| 19. They are not sitting here. | `Ils ne s’assoient pas ici.` Word by word: `Ils` (they) `ne` (not — with pas) `s’` (themselves) `assoient` (sit down) `pas` (not) `ici` (here) |
+| 20. Are we leaving now? | `Nous nous en allons maintenant ?` Word by word: `Nous` (we) `nous` (ourselves) `en` (away) `allons` (go) `maintenant` (now) |
+| 21. I am not getting up before seven. | `Je ne me lève pas avant sept heures.` Word by word: `Je` (I) `ne` (not — with pas) `me` (myself) `lève` (get up) `pas` (not) `avant` (before) `sept` (seven) `heures` (o’clock) |
+| 22. Do you remember the address? | `Est-ce que tu te souviens de l’adresse ?` Word by word: `Est-ce` (is it) `que` (that) `tu` (you) `te` (yourself) `souviens` (remember) `de` (of) `l’` (the) `adresse` (address) |
+| 23. She is going to put on makeup before the party. | `Elle va se maquiller avant la fête.` Word by word: `Elle` (she) `va` (is going to) `se` (herself) `maquiller` (put on makeup) `avant` (before) `la` (the) `fête` (party) |
+| 24. We want to rest this afternoon. | `Nous voulons nous reposer cet après-midi.` Word by word: `Nous` (we) `voulons` (want) `nous` (ourselves) `reposer` (rest) `cet` (this) `après-midi` (afternoon) |
+| 25. You must hurry a little. | `Vous devez vous dépêcher un peu.` Word by word: `Vous` (you) `devez` (must) `vous` (yourselves) `dépêcher` (hurry) `un` (a) `peu` (a little) |
+| 26. He can sit next to me. | `Il peut s’asseoir à côté de moi.` Word by word: `Il` (he) `peut` (can) `s’` (himself) `asseoir` (sit down) `à` (at) `côté` (side) `de` (of) `moi` (me) |
+| 27. Do not worry. | `Ne t’inquiète pas.` Word by word: `Ne` (not — with pas) `t’` (yourself) `inquiète` (worry) `pas` (not) |
+| 28. Get up right away! | `Lève-toi tout de suite !` Word by word: `Lève-toi` (get up!) `tout` (right) `de` (—) `suite` (away) |
+| 29. Let us sit down here. | `Asseyons-nous ici !` Word by word: `Asseyons-nous` (let us sit down) `ici` (here) |
+| 30. Do not go to bed too late. | `Ne vous couchez pas trop tard.` Word by word: `Ne` (not — with pas) `vous` (you all) `couchez` (go to bed) `pas` (not) `trop` (too) `tard` (late) |
+| 31. Are they going to meet after class? | `Est-ce qu’ils vont se retrouver après le cours ?` Word by word: `Est-ce` (is it) `qu’` (that) `ils` (they) `vont` (are going to) `se` (each other) `retrouver` (meet) `après` (after) `le` (the) `cours` (class) |
+| 32. I do not feel ready. | `Je ne me sens pas prêt.` Word by word: `Je` (I) `ne` (not — with pas) `me` (myself) `sens` (feel) `pas` (not) `prêt` (ready) |
+| 33. Why are you getting angry? | `Pourquoi est-ce que tu te fâches ?` Word by word: `Pourquoi` (why) `est-ce` (is it) `que` (that) `tu` (you) `te` (yourself) `fâches` (get angry) |
+| 34. She is going to wash before dinner. | `Elle va se laver avant le dîner.` Word by word: `Elle` (she) `va` (is going to) `se` (herself) `laver` (wash) `avant` (before) `le` (the) `dîner` (dinner) |
+| 35. We are not going to get bored tonight. | `Nous n’allons pas nous ennuyer ce soir.` Word by word: `Nous` (we) `n’` (not — with pas) `allons` (are going to) `pas` (not) `nous` (ourselves) `ennuyer` (get bored) `ce` (this) `soir` (evening) |
+| 36. Hurry up, the train leaves soon! | `Dépêche-toi, le train part bientôt !` Word by word: `Dépêche-toi` (hurry up!) `le` (the) `train` (train) `part` (leaves) `bientôt` (soon) |
+| 37. Do not stop in the street. | `Ne t’arrête pas dans la rue.` Word by word: `Ne` (not — with pas) `t’` (yourself) `arrête` (stop) `pas` (not) `dans` (in) `la` (the) `rue` (street) |
+| 38. Get ready, children! | `Préparez-vous, les enfants !` Word by word: `Préparez-vous` (get ready!) `les` (the) `enfants` (children) |
+| 39. I want to sit near the door. | `Je veux m’asseoir près de la porte.` Word by word: `Je` (I) `veux` (want) `m’` (myself) `asseoir` (sit down) `près` (near) `de` (of) `la` (the) `porte` (door) |
+| 40. Do you have to leave now? | `Est-ce que vous devez vous en aller maintenant ?` Word by word: `Est-ce` (is it) `que` (that) `vous` (you) `devez` (have to) `vous` (yourselves) `en` (away) `aller` (go) `maintenant` (now) |
+| 41. I wash my hands before cooking. | `Je me lave les mains avant de cuisiner.` Word by word: `Je` (I) `me` (myself) `lave` (wash) `les` (the) `mains` (hands) `avant` (before) `de` (to) `cuisiner` (cook) |
+| 42. She brushes her teeth after breakfast. | `Elle se brosse les dents après le petit déjeuner.` Word by word: `Elle` (she) `se` (herself) `brosse` (brushes) `les` (the) `dents` (teeth) `après` (after) `le` (the) `petit` (little) `déjeuner` (breakfast) |
+| 43. We wash our faces with cold water. | `Nous nous lavons le visage à l’eau froide.` Word by word: `Nous` (we) `nous` (ourselves) `lavons` (wash) `le` (the) `visage` (face) `à` (with) `l’` (the) `eau` (water) `froide` (cold) |
+| 44. The children rub their eyes when they are tired. | `Les enfants se frottent les yeux quand ils sont fatigués.` Word by word: `Les` (the) `enfants` (children) `se` (themselves) `frottent` (rub) `les` (the) `yeux` (eyes) `quand` (when) `ils` (they) `sont` (are) `fatigués` (tired) |
+| 45. You hurt your foot on the stairs. | `Tu te fais mal au pied dans l’escalier.` Word by word: `Tu` (you) `te` (yourself) `fais` (do) `mal` (pain) `au` (to the) `pied` (foot) `dans` (in) `l’` (the) `escalier` (stairs) |
+| 46. He dries his hair in the bathroom. | `Il se sèche les cheveux dans la salle de bains.` Word by word: `Il` (he) `se` (himself) `sèche` (dries) `les` (the) `cheveux` (hair) `dans` (in) `la` (the) `salle` (room) `de` (of) `bains` (bathroom) |
+| 47. I cut my finger while preparing dinner. | `Je me coupe le doigt en préparant le dîner.` Word by word: `Je` (I) `me` (myself) `coupe` (cut) `le` (the) `doigt` (finger) `en` (while) `préparant` (preparing) `le` (the) `dîner` (dinner) |
+| 48. Do you brush your hair every morning? | `Tu te brosses les cheveux chaque matin ?` Word by word: `Tu` (you) `te` (yourself) `brosses` (brush) `les` (the) `cheveux` (hair) `chaque` (every) `matin` (morning) |
+| 49. Do not touch your eyes. | `Ne te touche pas les yeux.` Word by word: `Ne` (not — with pas) `te` (yourself) `touche` (touch) `pas` (not) `les` (the) `yeux` (eyes) |
+| 50. Wash your hands, please. | `Lave-toi les mains, s’il te plaît.` Word by word: `Lave-toi` (wash yourself!) `les` (the) `mains` (hands) `s’` (if) `il` (it) `te` (you) `plaît` (please) |
+| 51. We talk to each other every evening. | `Nous nous parlons chaque soir.` Word by word: `Nous` (we) `nous` (each other) `parlons` (talk) `chaque` (every) `soir` (evening) |
+| 52. They write to each other often. | `Ils s’écrivent souvent.` Word by word: `Ils` (they) `s’` (each other) `écrivent` (write) `souvent` (often) |
+| 53. Do you call each other on weekends? | `Vous vous téléphonez le week-end ?` Word by word: `Vous` (you) `vous` (each other) `téléphonez` (call each other) `le` (the) `week-end` (weekend) |
+| 54. The cousins see each other at the market. | `Les cousins se voient au marché.` Word by word: `Les` (the) `cousins` (cousins) `se` (each other) `voient` (see) `au` (at the) `marché` (market) |
+| 55. We understand each other very well. | `Nous nous comprenons très bien.` Word by word: `Nous` (we) `nous` (each other) `comprenons` (understand) `très` (very) `bien` (well) |
+| 56. They meet in front of the library. | `Elles se retrouvent devant la bibliothèque.` Word by word: `Elles` (they) `se` (each other) `retrouvent` (meet) `devant` (in front of) `la` (the) `bibliothèque` (library) |
+| 57. We do not talk to each other during the film. | `Nous ne nous parlons pas pendant le film.` Word by word: `Nous` (we) `ne` (not — with pas) `nous` (each other) `parlons` (talk) `pas` (not) `pendant` (during) `le` (the) `film` (film) |
+| 58. Do the neighbors help each other? | `Est-ce que les voisins s’aident ?` Word by word: `Est-ce` (is it) `que` (that) `les` (the) `voisins` (neighbors) `s’` (each other) `aident` (help) |
+| 59. The two friends send each other messages. | `Les deux amis s’envoient des messages.` Word by word: `Les` (the) `deux` (two) `amis` (friends) `s’` (each other) `envoient` (send) `des` (some) `messages` (messages) |
+| 60. Let us look at one another and speak slowly. | `Regardons-nous et parlons lentement.` Word by word: `Regardons-nous` (let us look at one another) `et` (and) `parlons` (let us speak) `lentement` (slowly) |
+| 61. I remember this street. | `Je me souviens de cette rue.` Word by word: `Je` (I) `me` (myself) `souviens` (remember) `de` (of) `cette` (this) `rue` (street) |
+| 62. She gets along well with her roommate. | `Elle s’entend bien avec sa colocataire.` Word by word: `Elle` (she) `s’` (herself) `entend` (gets along) `bien` (well) `avec` (with) `sa` (her) `colocataire` (roommate) |
+| 63. We realize our mistake. | `Nous nous rendons compte de notre erreur.` Word by word: `Nous` (we) `nous` (ourselves) `rendons` (make) `compte` (account) `de` (of) `notre` (our) `erreur` (mistake) |
+| 64. They leave without saying anything. | `Ils s’en vont sans rien dire.` Word by word: `Ils` (they) `s’` (themselves) `en` (away) `vont` (go) `sans` (without) `rien` (anything) `dire` (say) |
+| 65. Do you remember his first name? | `Est-ce que vous vous souvenez de son prénom ?` Word by word: `Est-ce` (is it) `que` (that) `vous` (you) `vous` (yourselves) `souvenez` (remember) `de` (of) `son` (his) `prénom` (first name) |
+| 66. I get along badly with this neighbor. | `Je m’entends mal avec ce voisin.` Word by word: `Je` (I) `m’` (myself) `entends` (get along) `mal` (badly) `avec` (with) `ce` (this) `voisin` (neighbor) |
+| 67. Let us hurry before the train leaves. | `Dépêchons-nous avant le départ du train.` Word by word: `Dépêchons-nous` (let us hurry) `avant` (before) `le` (the) `départ` (departure) `du` (of the) `train` (train) |
+| 68. She realizes that she is late. | `Elle se rend compte qu’elle est en retard.` Word by word: `Elle` (she) `se` (herself) `rend` (realizes) `compte` (account) `qu’` (that) `elle` (she) `est` (is) `en` (in) `retard` (late) |
+| 69. I am leaving because I am tired. | `Je m’en vais parce que je suis fatigué.` Word by word: `Je` (I) `m’` (myself) `en` (away) `vais` (go) `parce` (because) `que` (that) `je` (I) `suis` (am) `fatigué` (tired) |
+| 70. Go away now! | `Va-t’en maintenant !` Word by word: `Va-t’` (go away!) `en` (away) `maintenant` (now) |
+| 71. My name is Nora, and I call my mother every day. | `Je m’appelle Nora, et j’appelle ma mère chaque jour.` Word by word: `Je` (I) `m’` (myself) `appelle` (am called) `Nora` (Nora) `et` (and) `j’` (I) `appelle` (call) `ma` (my) `mère` (mother) `chaque` (every) `jour` (day) |
+| 72. The noise wakes the baby, and the baby wakes up. | `Le bruit réveille le bébé, et le bébé se réveille.` Word by word: `Le` (the) `bruit` (noise) `réveille` (wakes) `le` (the) `bébé` (baby) `et` (and) `le` (the) `bébé` (baby) `se` (itself) `réveille` (wakes) |
+| 73. This game amuses my sister, and she has fun. | `Ce jeu amuse ma sœur, et elle s’amuse.` Word by word: `Ce` (this) `jeu` (game) `amuse` (amuses) `ma` (my) `sœur` (sister) `et` (and) `elle` (she) `s’` (herself) `amuse` (amuses) |
+| 74. My father puts my little brother to bed, then he goes to bed. | `Mon père couche mon petit frère, puis il se couche.` Word by word: `Mon` (my) `père` (father) `couche` (puts to bed) `mon` (my) `petit` (little) `frère` (brother) `puis` (then) `il` (he) `se` (himself) `couche` (goes to bed) |
+| 75. Do you realize the price of this ticket? | `Tu te rends compte du prix de ce billet ?` Word by word: `Tu` (you) `te` (yourself) `rends` (realize) `compte` (realize) `du` (of the) `prix` (price) `de` (of) `ce` (this) `billet` (ticket) |
+| 76. We remember our first apartment. | `Nous nous souvenons de notre premier appartement.` Word by word: `Nous` (we) `nous` (ourselves) `souvenons` (remember) `de` (of) `notre` (our) `premier` (first) `appartement` (apartment) |
+| 77. They do not get along with the new manager. | `Ils ne s’entendent pas avec le nouveau responsable.` Word by word: `Ils` (they) `ne` (not — with pas) `s’` (themselves) `entendent` (get along) `pas` (not) `avec` (with) `le` (the) `nouveau` (new) `responsable` (manager) |
+| 78. I do not remember the password. | `Je ne me souviens pas du mot de passe.` Word by word: `Je` (I) `ne` (not — with pas) `me` (myself) `souviens` (remember) `pas` (not) `du` (of the) `mot` (word) `de` (of) `passe` (pass) |
+| 79. Are you leaving already? | `Tu t’en vas déjà ?` Word by word: `Tu` (you) `t’` (yourself) `en` (away) `vas` (go) `déjà` (already) |
+| 80. Let us hurry, but let us stay calm. | `Dépêchons-nous, mais restons calmes.` Word by word: `Dépêchons-nous` (let us hurry) `mais` (but) `restons` (let us stay) `calmes` (calm) |
+| 81. I learn better by writing examples. | `J’apprends mieux en écrivant des exemples.` Word by word: `J’` (I) `apprends` (learn) `mieux` (better) `en` (by) `écrivant` (writing) `des` (some) `exemples` (examples) |
+| 82. She listens to music while cooking. | `Elle écoute de la musique en cuisinant.` Word by word: `Elle` (she) `écoute` (listens to) `de` (some) `la` (the) `musique` (music) `en` (while) `cuisinant` (cooking) |
+| 83. We talk while walking to work. | `Nous nous parlons en marchant vers le travail.` Word by word: `Nous` (we) `nous` (each other) `parlons` (talk) `en` (while) `marchant` (walking) `vers` (toward) `le` (the) `travail` (work) |
+| 84. He makes progress by studying every day. | `Il fait des progrès en étudiant chaque jour.` Word by word: `Il` (he) `fait` (makes) `des` (some) `progrès` (progress) `en` (by) `étudiant` (studying) `chaque` (every) `jour` (day) |
+| 85. You can relax while reading in the garden. | `Tu peux te détendre en lisant dans le jardin.` Word by word: `Tu` (you) `peux` (can) `te` (yourself) `détendre` (relax) `en` (while) `lisant` (reading) `dans` (in) `le` (the) `jardin` (garden) |
+| 86. Knowing the answer, she smiles. | `Sachant la réponse, elle sourit.` Word by word: `Sachant` (knowing) `la` (the) `réponse` (answer) `elle` (she) `sourit` (smiles) |
+| 87. Being very busy, we eat quickly. | `Étant très occupés, nous mangeons vite.` Word by word: `Étant` (being) `très` (very) `occupés` (busy) `nous` (we) `mangeons` (eat) `vite` (quickly) |
+| 88. Having time, I prepare a real breakfast. | `Ayant le temps, je prépare un vrai petit déjeuner.` Word by word: `Ayant` (having) `le` (the) `temps` (time) `je` (I) `prépare` (prepare) `un` (a) `vrai` (real) `petit` (little) `déjeuner` (lunch) |
+| 89. The smiling children wait near the door. | `Les enfants souriants attendent près de la porte.` Word by word: `Les` (the) `enfants` (children) `souriants` (smiling) `attendent` (wait) `près` (near) `de` (to) `la` (the) `porte` (door) |
+| 90. This surprising story makes everyone laugh. | `Cette histoire étonnante fait rire tout le monde.` Word by word: `Cette` (this) `histoire` (story) `étonnante` (surprising) `fait` (makes) `rire` (laugh) `tout` (all) `le` (the) `monde` (people) |
+| 91. I close the door while leaving. | `Je ferme la porte en partant.` Word by word: `Je` (I) `ferme` (close) `la` (the) `porte` (door) `en` (while) `partant` (leaving) |
+| 92. She checks the time while getting ready. | `Elle regarde l’heure en se préparant.` Word by word: `Elle` (she) `regarde` (looks at) `l’` (the) `heure` (time) `en` (while) `se` (herself) `préparant` (preparing) |
+| 93. We remember the words by repeating them aloud. | `Nous nous souvenons des mots en les répétant à voix haute.` Word by word: `Nous` (we) `nous` (ourselves) `souvenons` (remember) `des` (of the) `mots` (words) `en` (by) `les` (the) `répétant` (repeating) `à` (in) `voix` (voice) `haute` (loud) |
+| 94. Do not speak while eating. | `Ne parle pas en mangeant.` Word by word: `Ne` (not — with pas) `parle` (speak) `pas` (not) `en` (while) `mangeant` (eating) |
+| 95. They hurry while carrying their bags. | `Ils se dépêchent en portant leurs sacs.` Word by word: `Ils` (they) `se` (themselves) `dépêchent` (hurry) `en` (while) `portant` (carrying) `leurs` (their) `sacs` (bags) |
+| 96. By drinking water, I feel better. | `En buvant de l’eau, je me sens mieux.` Word by word: `En` (by) `buvant` (drinking) `de` (some) `l’` (the) `eau` (water) `je` (I) `me` (myself) `sens` (feel) `mieux` (better) |
+| 97. While waiting for the bus, we call each other. | `En attendant le bus, nous nous téléphonons.` Word by word: `En` (while) `attendant` (waiting) `le` (the) `bus` (bus) `nous` (we) `nous` (each other) `téléphonons` (call each other) |
+| 98. Knowing that you are tired, I wait here. | `Sachant que tu es fatigué, j’attends ici.` Word by word: `Sachant` (knowing) `que` (that) `tu` (you) `es` (are, helper) `fatigué` (tired) `j’` (I) `attends` (wait) `ici` (here) |
+| 99. Let us review while listening to the dialogue. | `Révisons en écoutant le dialogue.` Word by word: `Révisons` (let us review) `en` (while) `écoutant` (listening) `le` (the) `dialogue` (dialogue) |
+| 100. Get dressed while keeping calm. | `Habille-toi en restant calme !` Word by word: `Habille-toi` (get dressed!) `en` (while) `restant` (staying) `calme` (calm) |

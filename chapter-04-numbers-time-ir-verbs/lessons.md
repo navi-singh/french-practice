@@ -632,103 +632,103 @@ Cover the French column, translate each English sentence aloud, then uncover to 
 
 | English | French |
 | --- | --- |
-| 1. I have fourteen books. | `J’ai quatorze livres.` |
-| 2. We are looking for twenty-two chairs. | `Nous cherchons vingt-deux chaises.` |
-| 3. The coffee costs five euros. | `Le café coûte cinq euros.` |
-| 4. They live at number thirty-one. | `Ils habitent au trente et un.` |
-| 5. She works with sixty clients. | `Elle travaille avec soixante clients.` |
-| 6. There are seventy-one students in the room. | `Il y a soixante et onze étudiants dans la salle.` |
-| 7. We invite eighty-four people. | `Nous invitons quatre-vingt-quatre personnes.` |
-| 8. The ticket costs ninety-nine euros. | `Le billet coûte quatre-vingt-dix-neuf euros.` |
-| 9. My code is one thousand two. | `Mon code est mille deux.` |
-| 10. This course has one hundred students. | `Ce cours a cent étudiants.` |
-| 11. I have two coffees and three teas. | `J’ai deux cafés et trois thés.` |
-| 12. The small room has forty-eight chairs. | `La petite salle a quarante-huit chaises.` |
-| 13. The hotel is at one hundred one Central Avenue. | `L’hôtel est au cent un, avenue Centrale.` |
-| 14. We have two hundred euros for the trip. | `Nous avons deux cents euros pour le voyage.` |
-| 15. She has two hundred five photos. | `Elle a deux cent cinq photos.` |
-| 16. The address is fifty-six Victor Hugo Street. | `L’adresse est cinquante-six, rue Victor-Hugo.` |
-| 17. I choose twelve postcards. | `Je choisis douze cartes postales.` |
-| 18. You have thirty-nine minutes. | `Tu as trente-neuf minutes.` |
-| 19. There are eighty students in the school. | `Il y a quatre-vingts élèves dans l’école.` |
-| 20. The city has three thousand cafés. | `La ville a trois mille cafés.` |
-| 21. My birthday is November first. | `Mon anniversaire est le premier novembre.` |
-| 22. The meeting is April twenty-third. | `La réunion est le vingt-trois avril.` |
-| 23. We visit Paris in two thousand twenty-seven. | `Nous visitons Paris en deux mille vingt-sept.` |
-| 24. The third chapter is long. | `Le troisième chapitre est long.` |
-| 25. She lives on the second floor. | `Elle habite au deuxième étage.` |
-| 26. The fifth lesson is easy. | `La cinquième leçon est facile.` |
-| 27. Today is July fourteenth. | `Nous sommes le quatorze juillet.` |
-| 28. The exam is on June tenth. | `L’examen est le dix juin.` |
-| 29. His birthday is February twenty-eighth. | `Son anniversaire est le vingt-huit février.` |
-| 30. The first class starts in September. | `Le premier cours commence en septembre.` |
-| 31. The restaurant is on the fourth floor. | `Le restaurant est au quatrième étage.` |
-| 32. The tenth question is difficult. | `La dixième question est difficile.` |
-| 33. We are in two thousand twenty-six. | `Nous sommes en deux mille vingt-six.` |
-| 34. The party is on December thirty-first. | `La fête est le trente et un décembre.` |
-| 35. It is seven o’clock. | `Il est sept heures.` |
-| 36. It is nine fifteen. | `Il est neuf heures quinze.` |
-| 37. It is noon. | `Il est midi.` |
-| 38. It is quarter past noon. | `Il est midi et quart.` |
-| 39. It is quarter to five. | `Il est cinq heures moins le quart.` |
-| 40. It is nineteen thirty. | `Il est dix-neuf heures trente.` |
-| 41. The class starts at eight thirty. | `Le cours commence à huit heures trente.` |
-| 42. We finish at noon. | `Nous finissons à midi.` |
-| 43. The train arrives at twenty-one hundred. | `Le train arrive à vingt et une heures.` |
-| 44. It is one o’clock in the afternoon. | `Il est une heure de l’après-midi.` |
-| 45. It is two thirty. | `Il est deux heures et demie.` |
-| 46. The appointment is at sixteen forty-five. | `Le rendez-vous est à seize heures quarante-cinq.` |
-| 47. The film starts at twenty hours ten. | `Le film commence à vingt heures dix.` |
-| 48. I work from nine to eighteen hundred. | `Je travaille de neuf heures à dix-huit heures.` |
-| 49. What time is it? | `Quelle heure est-il ?` |
-| 50. At what time do you finish on Fridays? | `À quelle heure finissez-vous le vendredi ?` |
-| 51. The store closes at thirteen twenty. | `Le magasin ferme à treize heures vingt.` |
-| 52. I finish early on Thursdays. | `Je finis tôt le jeudi.` |
-| 53. You choose a dessert. | `Tu choisis un dessert.` |
-| 54. She succeeds on her exam in May. | `Elle réussit son examen en mai.` |
-| 55. We think for five minutes. | `Nous réfléchissons cinq minutes.` |
-| 56. You obey the museum rules. | `Vous obéissez aux règles du musée.` |
-| 57. They grow quickly. | `Ils grandissent vite.` |
-| 58. I blush because the room is full. | `Je rougis parce que la salle est pleine.` |
-| 59. We choose two sandwiches for eight euros. | `Nous choisissons deux sandwichs pour huit euros.` |
-| 60. The stores finish their day at nineteen hundred. | `Les magasins finissent leur journée à dix-neuf heures.` |
-| 61. Do you finish at six? | `Est-ce que tu finis à six heures ?` |
-| 62. Do you choose the first table? | `Choisis-tu la première table ?` |
-| 63. Why are they thinking so long? | `Pourquoi réfléchissent-ils si longtemps ?` |
-| 64. The children obey at school. | `Les enfants obéissent à l’école.` |
-| 65. We succeed when we study in the morning. | `Nous réussissons quand nous étudions le matin.` |
-| 66. You do not finish before noon. | `Vous ne finissez pas avant midi.` |
-| 67. She chooses a blue dress. | `Elle choisit une robe bleue.` |
-| 68. I think before the answer. | `Je réfléchis avant la réponse.` |
-| 69. The students succeed because they work. | `Les étudiants réussissent parce qu’ils travaillent.` |
-| 70. We choose three cafés at ten o’clock. | `Nous choisissons trois cafés à dix heures.` |
-| 71. I finish work at eighteen hundred. | `Je finis le travail à dix-huit heures.` |
-| 72. She succeeds on the exam in May. | `Elle réussit l’examen en mai.` |
-| 73. You think for fifteen minutes before dinner. | `Vous réfléchissez quinze minutes avant le dîner.` |
-| 74. The course starts at nine fifteen and finishes at noon. | `Le cours commence à neuf heures quinze et finit à midi.` |
-| 75. My birthday is November first, so I choose a good restaurant. | `Mon anniversaire est le premier novembre, alors je choisis un bon restaurant.` |
-| 76. We choose three vegetables and two cheeses for twenty euros. | `Nous choisissons trois légumes et deux fromages pour vingt euros.` |
-| 77. At midday, you choose a soup for eleven euros. | `À midi, tu choisis une soupe pour onze euros.` |
-| 78. The dinner starts at twenty hours. | `Le dîner commence à vingt heures.` |
-| 79. How many coffees do you choose in the morning? | `Combien de cafés est-ce que tu choisis le matin ?` |
-| 80. Do you finish the first exercise before the second? | `Est-ce que tu finis le premier exercice avant le deuxième ?` |
-| 81. We have class on April fifteenth at fourteen hundred. | `Nous avons cours le quinze avril à quatorze heures.` |
-| 82. The room has ninety chairs, but we choose eighty. | `La salle a quatre-vingt-dix chaises, mais nous choisissons quatre-vingts chaises.` |
-| 83. I succeed at the third lesson because I study. | `Je réussis la troisième leçon parce que j’étudie.` |
-| 84. The train arrives at midnight. | `Le train arrive à minuit.` |
-| 85. It is midnight and the street is calm. | `Il est minuit et la rue est calme.` |
-| 86. We finish the meeting at seventeen fifty. | `Nous finissons la réunion à dix-sept heures cinquante.` |
-| 87. On Mondays, she chooses a table for four people. | `Le lundi, elle choisit une table pour quatre personnes.` |
-| 88. The appointment is on the ninth of October. | `Le rendez-vous est le neuf octobre.` |
-| 89. My office is on the sixth floor. | `Mon bureau est au sixième étage.` |
-| 90. Do they succeed with one hundred euros? | `Réussissent-ils avec cent euros ?` |
-| 91. Why do you choose this hotel in December? | `Pourquoi choisissez-vous cet hôtel en décembre ?` |
-| 92. At what time does the class start? | `À quelle heure le cours commence-t-il ?` |
-| 93. There are sixteen minutes before the film. | `Il y a seize minutes avant le film.` |
-| 94. We have seventy-five guests for dinner. | `Nous avons soixante-quinze invités pour le dîner.` |
-| 95. The second train arrives at twenty-two oh five. | `Le deuxième train arrive à vingt-deux heures cinq.` |
-| 96. I finish at quarter to eight this evening. | `Je finis à huit heures moins le quart ce soir.` |
-| 97. They choose the ninth room. | `Ils choisissent la neuvième salle.` |
-| 98. You have ninety-eight messages. | `Vous avez quatre-vingt-dix-huit messages.` |
-| 99. The coffee costs four euros fifty. | `Le café coûte quatre euros cinquante.` |
-| 100. We think from fourteen hundred to fourteen thirty. | `Nous réfléchissons de quatorze heures à quatorze heures trente.` |
+| 1. I have fourteen books. | `J’ai quatorze livres.` Word by word: `J’` (I) `ai` (have) `quatorze` (fourteen) `livres` (books) |
+| 2. We are looking for twenty-two chairs. | `Nous cherchons vingt-deux chaises.` Word by word: `Nous` (we) `cherchons` (look for) `vingt-deux` (twenty-two) `chaises` (chairs) |
+| 3. The coffee costs five euros. | `Le café coûte cinq euros.` Word by word: `Le` (the) `café` (café) `coûte` (costs) `cinq` (five) `euros` (euros) |
+| 4. They live at number thirty-one. | `Ils habitent au trente et un.` Word by word: `Ils` (they) `habitent` (live) `au` (at the) `trente` (thirty) `et` (and) `un` (one) |
+| 5. She works with sixty clients. | `Elle travaille avec soixante clients.` Word by word: `Elle` (she) `travaille` (works) `avec` (with) `soixante` (sixty) `clients` (clients) |
+| 6. There are seventy-one students in the room. | `Il y a soixante et onze étudiants dans la salle.` Word by word: `Il y a` (there is) `soixante` (sixty) `et` (and) `onze` (eleven) `étudiants` (students) `dans` (in) `la` (the) `salle` (room) |
+| 7. We invite eighty-four people. | `Nous invitons quatre-vingt-quatre personnes.` Word by word: `Nous` (we) `invitons` (invite) `quatre-vingt-quatre` (eighty-four) `personnes` (people) |
+| 8. The ticket costs ninety-nine euros. | `Le billet coûte quatre-vingt-dix-neuf euros.` Word by word: `Le` (the) `billet` (ticket) `coûte` (costs) `quatre-vingt-dix-neuf` (ninety-nine) `euros` (euros) |
+| 9. My code is one thousand two. | `Mon code est mille deux.` Word by word: `Mon` (my) `code` (code) `est` (is) `mille` (thousand) `deux` (two) |
+| 10. This course has one hundred students. | `Ce cours a cent étudiants.` Word by word: `Ce` (this) `cours` (class) `a` (has) `cent` (hundred) `étudiants` (students) |
+| 11. I have two coffees and three teas. | `J’ai deux cafés et trois thés.` Word by word: `J’` (I) `ai` (have) `deux` (two) `cafés` (cafés) `et` (and) `trois` (three) `thés` (teas) |
+| 12. The small room has forty-eight chairs. | `La petite salle a quarante-huit chaises.` Word by word: `La` (the) `petite` (small) `salle` (room) `a` (has) `quarante-huit` (forty-eight) `chaises` (chairs) |
+| 13. The hotel is at one hundred one Central Avenue. | `L’hôtel est au cent un, avenue Centrale.` Word by word: `L’` (the) `hôtel` (hotel) `est` (is) `au` (at the) `cent` (hundred) `un` (one) `avenue` (avenue) `Centrale` (Central) |
+| 14. We have two hundred euros for the trip. | `Nous avons deux cents euros pour le voyage.` Word by word: `Nous` (we) `avons` (have) `deux` (two) `cents` (hundred) `euros` (euros) `pour` (for) `le` (the) `voyage` (trip) |
+| 15. She has two hundred five photos. | `Elle a deux cent cinq photos.` Word by word: `Elle` (she) `a` (has) `deux` (two) `cent` (hundred) `cinq` (five) `photos` (photos) |
+| 16. The address is fifty-six Victor Hugo Street. | `L’adresse est cinquante-six, rue Victor-Hugo.` Word by word: `L’` (the) `adresse` (address) `est` (is) `cinquante-six` (fifty-six) `rue` (street) `Victor-Hugo` (Victor Hugo) |
+| 17. I choose twelve postcards. | `Je choisis douze cartes postales.` Word by word: `Je` (I) `choisis` (choose) `douze` (twelve) `cartes` (cards) `postales` (postcards) |
+| 18. You have thirty-nine minutes. | `Tu as trente-neuf minutes.` Word by word: `Tu` (you) `as` (have) `trente-neuf` (thirty-nine) `minutes` (minutes) |
+| 19. There are eighty students in the school. | `Il y a quatre-vingts élèves dans l’école.` Word by word: `Il y a` (there is) `quatre-vingts` (eighty) `élèves` (students) `dans` (in) `l’` (the) `école` (school) |
+| 20. The city has three thousand cafés. | `La ville a trois mille cafés.` Word by word: `La` (the) `ville` (city) `a` (has) `trois` (three) `mille` (thousand) `cafés` (cafés) |
+| 21. My birthday is November first. | `Mon anniversaire est le premier novembre.` Word by word: `Mon` (my) `anniversaire` (birthday) `est` (is) `le` (the) `premier` (first) `novembre` (November) |
+| 22. The meeting is April twenty-third. | `La réunion est le vingt-trois avril.` Word by word: `La` (the) `réunion` (meeting) `est` (is) `le` (the) `vingt-trois` (twenty-three) `avril` (April) |
+| 23. We visit Paris in two thousand twenty-seven. | `Nous visitons Paris en deux mille vingt-sept.` Word by word: `Nous` (we) `visitons` (visit) `Paris` (Paris) `en` (in) `deux` (two) `mille` (thousand) `vingt-sept` (twenty-seven) |
+| 24. The third chapter is long. | `Le troisième chapitre est long.` Word by word: `Le` (the) `troisième` (third) `chapitre` (chapter) `est` (is) `long` (long) |
+| 25. She lives on the second floor. | `Elle habite au deuxième étage.` Word by word: `Elle` (she) `habite` (live) `au` (on the) `deuxième` (second) `étage` (floor) |
+| 26. The fifth lesson is easy. | `La cinquième leçon est facile.` Word by word: `La` (the) `cinquième` (fifth) `leçon` (lesson) `est` (is) `facile` (easy) |
+| 27. Today is July fourteenth. | `Nous sommes le quatorze juillet.` Word by word: `Nous` (we) `sommes` (are) `le` (the) `quatorze` (fourteen) `juillet` (July) |
+| 28. The exam is on June tenth. | `L’examen est le dix juin.` Word by word: `L’` (the) `examen` (exam) `est` (is) `le` (the) `dix` (ten) `juin` (June) |
+| 29. His birthday is February twenty-eighth. | `Son anniversaire est le vingt-huit février.` Word by word: `Son` (his) `anniversaire` (birthday) `est` (is) `le` (the) `vingt-huit` (twenty-eight) `février` (February) |
+| 30. The first class starts in September. | `Le premier cours commence en septembre.` Word by word: `Le` (the) `premier` (first) `cours` (class) `commence` (starts) `en` (in) `septembre` (September) |
+| 31. The restaurant is on the fourth floor. | `Le restaurant est au quatrième étage.` Word by word: `Le` (the) `restaurant` (restaurant) `est` (is) `au` (on the) `quatrième` (fourth) `étage` (floor) |
+| 32. The tenth question is difficult. | `La dixième question est difficile.` Word by word: `La` (the) `dixième` (tenth) `question` (question) `est` (is) `difficile` (difficult) |
+| 33. We are in two thousand twenty-six. | `Nous sommes en deux mille vingt-six.` Word by word: `Nous` (we) `sommes` (are) `en` (in) `deux` (two) `mille` (thousand) `vingt-six` (twenty-six) |
+| 34. The party is on December thirty-first. | `La fête est le trente et un décembre.` Word by word: `La` (the) `fête` (party) `est` (is) `le` (the) `trente` (thirty) `et` (and) `un` (one) `décembre` (December) |
+| 35. It is seven o’clock. | `Il est sept heures.` Word by word: `Il` (it) `est` (is) `sept` (seven) `heures` (hours) |
+| 36. It is nine fifteen. | `Il est neuf heures quinze.` Word by word: `Il` (it) `est` (is) `neuf` (nine) `heures` (hours) `quinze` (fifteen) |
+| 37. It is noon. | `Il est midi.` Word by word: `Il` (it) `est` (is) `midi` (noon) |
+| 38. It is quarter past noon. | `Il est midi et quart.` Word by word: `Il` (it) `est` (is) `midi` (noon) `et` (and) `quart` (quarter) |
+| 39. It is quarter to five. | `Il est cinq heures moins le quart.` Word by word: `Il` (it) `est` (is) `cinq` (five) `heures` (hours) `moins` (to) `le` (the) `quart` (quarter) |
+| 40. It is nineteen thirty. | `Il est dix-neuf heures trente.` Word by word: `Il` (it) `est` (is) `dix-neuf` (nineteen) `heures` (hours) `trente` (thirty) |
+| 41. The class starts at eight thirty. | `Le cours commence à huit heures trente.` Word by word: `Le` (the) `cours` (class) `commence` (starts) `à` (at) `huit` (eight) `heures` (hours) `trente` (thirty) |
+| 42. We finish at noon. | `Nous finissons à midi.` Word by word: `Nous` (we) `finissons` (finish) `à` (at) `midi` (noon) |
+| 43. The train arrives at twenty-one hundred. | `Le train arrive à vingt et une heures.` Word by word: `Le` (the) `train` (train) `arrive` (arrives) `à` (at) `vingt` (twenty) `et` (and) `une` (one) `heures` (hours) |
+| 44. It is one o’clock in the afternoon. | `Il est une heure de l’après-midi.` Word by word: `Il` (it) `est` (is) `une` (one) `heure` (hour) `de` (of) `l’` (the) `après-midi` (afternoon) |
+| 45. It is two thirty. | `Il est deux heures et demie.` Word by word: `Il` (it) `est` (is) `deux` (two) `heures` (hours) `et` (and) `demie` (half) |
+| 46. The appointment is at sixteen forty-five. | `Le rendez-vous est à seize heures quarante-cinq.` Word by word: `Le` (the) `rendez-vous` (appointment) `est` (is) `à` (at) `seize` (sixteen) `heures` (hours) `quarante-cinq` (forty-five) |
+| 47. The film starts at twenty hours ten. | `Le film commence à vingt heures dix.` Word by word: `Le` (the) `film` (film) `commence` (starts) `à` (at) `vingt` (twenty) `heures` (hours) `dix` (ten) |
+| 48. I work from nine to eighteen hundred. | `Je travaille de neuf heures à dix-huit heures.` Word by word: `Je` (I) `travaille` (work) `de` (from) `neuf` (nine) `heures` (hours) `à` (to) `dix-huit` (eighteen) `heures` (hours) |
+| 49. What time is it? | `Quelle heure est-il ?` Word by word: `Quelle` (what) `heure` (time) `est-il` (is it) |
+| 50. At what time do you finish on Fridays? | `À quelle heure finissez-vous le vendredi ?` Word by word: `À` (at) `quelle` (what) `heure` (time) `finissez-vous` (do you finish) `le` (the) `vendredi` (Friday) |
+| 51. The store closes at thirteen twenty. | `Le magasin ferme à treize heures vingt.` Word by word: `Le` (the) `magasin` (store) `ferme` (closes) `à` (at) `treize` (thirteen) `heures` (hours) `vingt` (twenty) |
+| 52. I finish early on Thursdays. | `Je finis tôt le jeudi.` Word by word: `Je` (I) `finis` (finish) `tôt` (early) `le` (the) `jeudi` (Thursday) |
+| 53. You choose a dessert. | `Tu choisis un dessert.` Word by word: `Tu` (you) `choisis` (choose) `un` (a) `dessert` (dessert) |
+| 54. She succeeds on her exam in May. | `Elle réussit son examen en mai.` Word by word: `Elle` (she) `réussit` (succeeds) `son` (her) `examen` (exam) `en` (in) `mai` (May) |
+| 55. We think for five minutes. | `Nous réfléchissons cinq minutes.` Word by word: `Nous` (we) `réfléchissons` (think) `cinq` (five) `minutes` (minutes) |
+| 56. You obey the museum rules. | `Vous obéissez aux règles du musée.` Word by word: `Vous` (you) `obéissez` (obey) `aux` (to the) `règles` (rules) `du` (of the) `musée` (museum) |
+| 57. They grow quickly. | `Ils grandissent vite.` Word by word: `Ils` (they) `grandissent` (grow) `vite` (quickly) |
+| 58. I blush because the room is full. | `Je rougis parce que la salle est pleine.` Word by word: `Je` (I) `rougis` (blush) `parce` (because) `que` (that) `la` (the) `salle` (room) `est` (is) `pleine` (full) |
+| 59. We choose two sandwiches for eight euros. | `Nous choisissons deux sandwichs pour huit euros.` Word by word: `Nous` (we) `choisissons` (choose) `deux` (two) `sandwichs` (sandwiches) `pour` (for) `huit` (eight) `euros` (euros) |
+| 60. The stores finish their day at nineteen hundred. | `Les magasins finissent leur journée à dix-neuf heures.` Word by word: `Les` (the) `magasins` (stores) `finissent` (finish) `leur` (their) `journée` (day) `à` (at) `dix-neuf` (nineteen) `heures` (hours) |
+| 61. Do you finish at six? | `Est-ce que tu finis à six heures ?` Word by word: `Est-ce` (question marker) `que` (that) `tu` (you) `finis` (finish) `à` (at) `six` (six) `heures` (hours) |
+| 62. Do you choose the first table? | `Choisis-tu la première table ?` Word by word: `Choisis-tu` (do you choose) `la` (the) `première` (first) `table` (table) |
+| 63. Why are they thinking so long? | `Pourquoi réfléchissent-ils si longtemps ?` Word by word: `Pourquoi` (why) `réfléchissent-ils` (do they think) `si` (so) `longtemps` (a long time) |
+| 64. The children obey at school. | `Les enfants obéissent à l’école.` Word by word: `Les` (the) `enfants` (children) `obéissent` (obey) `à` (at) `l’` (the) `école` (school) |
+| 65. We succeed when we study in the morning. | `Nous réussissons quand nous étudions le matin.` Word by word: `Nous` (we) `réussissons` (succeed) `quand` (when) `nous` (we) `étudions` (study) `le` (the) `matin` (morning) |
+| 66. You do not finish before noon. | `Vous ne finissez pas avant midi.` Word by word: `Vous` (you) `ne` (not — with pas) `finissez` (finish) `pas` (not) `avant` (before) `midi` (noon) |
+| 67. She chooses a blue dress. | `Elle choisit une robe bleue.` Word by word: `Elle` (she) `choisit` (chooses) `une` (a) `robe` (dress) `bleue` (blue) |
+| 68. I think before the answer. | `Je réfléchis avant la réponse.` Word by word: `Je` (I) `réfléchis` (think) `avant` (before) `la` (the) `réponse` (answer) |
+| 69. The students succeed because they work. | `Les étudiants réussissent parce qu’ils travaillent.` Word by word: `Les` (the) `étudiants` (students) `réussissent` (succeed) `parce` (because) `qu’` (that) `ils` (they) `travaillent` (work) |
+| 70. We choose three cafés at ten o’clock. | `Nous choisissons trois cafés à dix heures.` Word by word: `Nous` (we) `choisissons` (choose) `trois` (three) `cafés` (cafés) `à` (at) `dix` (ten) `heures` (hours) |
+| 71. I finish work at eighteen hundred. | `Je finis le travail à dix-huit heures.` Word by word: `Je` (I) `finis` (finish) `le` (the) `travail` (work) `à` (at) `dix-huit` (eighteen) `heures` (hours) |
+| 72. She succeeds on the exam in May. | `Elle réussit l’examen en mai.` Word by word: `Elle` (she) `réussit` (succeeds) `l’` (the) `examen` (exam) `en` (in) `mai` (May) |
+| 73. You think for fifteen minutes before dinner. | `Vous réfléchissez quinze minutes avant le dîner.` Word by word: `Vous` (you) `réfléchissez` (think) `quinze` (fifteen) `minutes` (minutes) `avant` (before) `le` (the) `dîner` (dinner) |
+| 74. The course starts at nine fifteen and finishes at noon. | `Le cours commence à neuf heures quinze et finit à midi.` Word by word: `Le` (the) `cours` (class) `commence` (starts) `à` (at) `neuf` (nine) `heures` (hours) `quinze` (fifteen) `et` (and) `finit` (finishes) `à` (at) `midi` (noon) |
+| 75. My birthday is November first, so I choose a good restaurant. | `Mon anniversaire est le premier novembre, alors je choisis un bon restaurant.` Word by word: `Mon` (my) `anniversaire` (birthday) `est` (is) `le` (the) `premier` (first) `novembre` (November) `alors` (so) `je` (I) `choisis` (choose) `un` (a) `bon` (good) `restaurant` (restaurant) |
+| 76. We choose three vegetables and two cheeses for twenty euros. | `Nous choisissons trois légumes et deux fromages pour vingt euros.` Word by word: `Nous` (we) `choisissons` (choose) `trois` (three) `légumes` (vegetables) `et` (and) `deux` (two) `fromages` (cheeses) `pour` (for) `vingt` (twenty) `euros` (euros) |
+| 77. At midday, you choose a soup for eleven euros. | `À midi, tu choisis une soupe pour onze euros.` Word by word: `À` (at) `midi` (noon) `tu` (you) `choisis` (choose) `une` (a) `soupe` (soup) `pour` (for) `onze` (eleven) `euros` (euros) |
+| 78. The dinner starts at twenty hours. | `Le dîner commence à vingt heures.` Word by word: `Le` (the) `dîner` (dinner) `commence` (starts) `à` (at) `vingt` (twenty) `heures` (hours) |
+| 79. How many coffees do you choose in the morning? | `Combien de cafés est-ce que tu choisis le matin ?` Word by word: `Combien` (how many) `de` (of) `cafés` (cafés) `est-ce` (question marker) `que` (that) `tu` (you) `choisis` (choose) `le` (the) `matin` (morning) |
+| 80. Do you finish the first exercise before the second? | `Est-ce que tu finis le premier exercice avant le deuxième ?` Word by word: `Est-ce` (question marker) `que` (that) `tu` (you) `finis` (finish) `le` (the) `premier` (first) `exercice` (exercise) `avant` (before) `le` (the) `deuxième` (second) |
+| 81. We have class on April fifteenth at fourteen hundred. | `Nous avons cours le quinze avril à quatorze heures.` Word by word: `Nous` (we) `avons` (have) `cours` (class) `le` (the) `quinze` (fifteen) `avril` (April) `à` (at) `quatorze` (fourteen) `heures` (hours) |
+| 82. The room has ninety chairs, but we choose eighty. | `La salle a quatre-vingt-dix chaises, mais nous choisissons quatre-vingts chaises.` Word by word: `La` (the) `salle` (room) `a` (has) `quatre-vingt-dix` (ninety) `chaises` (chairs) `mais` (but) `nous` (we) `choisissons` (choose) `quatre-vingts` (eighty) `chaises` (chairs) |
+| 83. I succeed at the third lesson because I study. | `Je réussis la troisième leçon parce que j’étudie.` Word by word: `Je` (I) `réussis` (succeed) `la` (the) `troisième` (third) `leçon` (lesson) `parce` (because) `que` (that) `j’` (I) `étudie` (study) |
+| 84. The train arrives at midnight. | `Le train arrive à minuit.` Word by word: `Le` (the) `train` (train) `arrive` (arrives) `à` (at) `minuit` (midnight) |
+| 85. It is midnight and the street is calm. | `Il est minuit et la rue est calme.` Word by word: `Il` (it) `est` (is) `minuit` (midnight) `et` (and) `la` (the) `rue` (street) `est` (is) `calme` (calm) |
+| 86. We finish the meeting at seventeen fifty. | `Nous finissons la réunion à dix-sept heures cinquante.` Word by word: `Nous` (we) `finissons` (finish) `la` (the) `réunion` (meeting) `à` (at) `dix-sept` (seventeen) `heures` (hours) `cinquante` (fifty) |
+| 87. On Mondays, she chooses a table for four people. | `Le lundi, elle choisit une table pour quatre personnes.` Word by word: `Le` (the) `lundi` (Monday) `elle` (she) `choisit` (chooses) `une` (a) `table` (table) `pour` (for) `quatre` (four) `personnes` (people) |
+| 88. The appointment is on the ninth of October. | `Le rendez-vous est le neuf octobre.` Word by word: `Le` (the) `rendez-vous` (appointment) `est` (is) `le` (the) `neuf` (nine) `octobre` (October) |
+| 89. My office is on the sixth floor. | `Mon bureau est au sixième étage.` Word by word: `Mon` (my) `bureau` (office) `est` (is) `au` (on the) `sixième` (sixth) `étage` (floor) |
+| 90. Do they succeed with one hundred euros? | `Réussissent-ils avec cent euros ?` Word by word: `Réussissent-ils` (do they succeed) `avec` (with) `cent` (hundred) `euros` (euros) |
+| 91. Why do you choose this hotel in December? | `Pourquoi choisissez-vous cet hôtel en décembre ?` Word by word: `Pourquoi` (why) `choisissez-vous` (do you choose) `cet` (this) `hôtel` (hotel) `en` (in) `décembre` (December) |
+| 92. At what time does the class start? | `À quelle heure le cours commence-t-il ?` Word by word: `À` (at) `quelle` (what) `heure` (time) `le` (the) `cours` (class) `commence-t-il` (does it start) |
+| 93. There are sixteen minutes before the film. | `Il y a seize minutes avant le film.` Word by word: `Il y a` (there is) `seize` (sixteen) `minutes` (minutes) `avant` (before) `le` (the) `film` (film) |
+| 94. We have seventy-five guests for dinner. | `Nous avons soixante-quinze invités pour le dîner.` Word by word: `Nous` (we) `avons` (have) `soixante-quinze` (seventy-five) `invités` (guests) `pour` (for) `le` (the) `dîner` (dinner) |
+| 95. The second train arrives at twenty-two oh five. | `Le deuxième train arrive à vingt-deux heures cinq.` Word by word: `Le` (the) `deuxième` (second) `train` (train) `arrive` (arrives) `à` (at) `vingt-deux` (twenty-two) `heures` (hours) `cinq` (five) |
+| 96. I finish at quarter to eight this evening. | `Je finis à huit heures moins le quart ce soir.` Word by word: `Je` (I) `finis` (finish) `à` (at) `huit` (eight) `heures` (hours) `moins` (to) `le` (the) `quart` (quarter) `ce` (this) `soir` (evening) |
+| 97. They choose the ninth room. | `Ils choisissent la neuvième salle.` Word by word: `Ils` (they) `choisissent` (choose) `la` (the) `neuvième` (ninth) `salle` (room) |
+| 98. You have ninety-eight messages. | `Vous avez quatre-vingt-dix-huit messages.` Word by word: `Vous` (you) `avez` (have) `quatre-vingt-dix-huit` (ninety-eight) `messages` (messages) |
+| 99. The coffee costs four euros fifty. | `Le café coûte quatre euros cinquante.` Word by word: `Le` (the) `café` (café) `coûte` (costs) `quatre` (four) `euros` (euros) `cinquante` (fifty) |
+| 100. We think from fourteen hundred to fourteen thirty. | `Nous réfléchissons de quatorze heures à quatorze heures trente.` Word by word: `Nous` (we) `réfléchissons` (think) `de` (from) `quatorze` (fourteen) `heures` (hours) `à` (to) `quatorze` (fourteen) `heures` (hours) `trente` (thirty) |

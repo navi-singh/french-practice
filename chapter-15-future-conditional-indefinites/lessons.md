@@ -507,103 +507,103 @@ Cover the French column, translate each English sentence aloud, then uncover to 
 
 | English | French |
 | --- | --- |
-| 1. Tomorrow, I will finish this lesson before lunch. | `Demain, je finirai cette leçon avant le déjeuner.` |
-| 2. We will visit the museum on Saturday morning. | `Nous visiterons le musée samedi matin.` |
-| 3. She will write to her sister tonight. | `Elle écrira à sa sœur ce soir.` |
-| 4. You will sell the old bicycle next week. | `Tu vendras le vieux vélo la semaine prochaine.` |
-| 5. The children will choose a film after dinner. | `Les enfants choisiront un film après le dîner.` |
-| 6. Will you wait for me at the station? | `M’attendrez-vous à la gare ?` |
-| 7. They will take the train at six o’clock. | `Ils prendront le train à six heures.` |
-| 8. I will not forget your address. | `Je n’oublierai pas ton adresse.` |
-| 9. Will we speak to the director tomorrow? | `Parlerons-nous au directeur demain ?` |
-| 10. Paul will answer the message this afternoon. | `Paul répondra au message cet après-midi.` |
-| 11. You will read the instructions before you begin. | `Vous lirez les consignes avant de commencer.` |
-| 12. My parents will spend the weekend in Lyon. | `Mes parents passeront le week-end à Lyon.` |
-| 13. I will put the keys on the table. | `Je mettrai les clés sur la table.` |
-| 14. The shop will close at seven o’clock. | `Le magasin fermera à sept heures.` |
-| 15. We will hear the answer soon. | `Nous entendrons bientôt la réponse.` |
-| 16. I will be ready in five minutes. | `Je serai prêt dans cinq minutes.` |
-| 17. You will have more time after the exam. | `Tu auras plus de temps après l’examen.` |
-| 18. She will go to the bank this morning. | `Elle ira à la banque ce matin.` |
-| 19. We will do the shopping on Friday. | `Nous ferons les courses vendredi.` |
-| 20. They will be able to come with us. | `Ils pourront venir avec nous.` |
-| 21. Will you see Julie at the office? | `Verras-tu Julie au bureau ?` |
-| 22. My cousins will come in July. | `Mes cousins viendront en juillet.` |
-| 23. I will know the result tomorrow. | `Je saurai le résultat demain.` |
-| 24. You will have to call the doctor. | `Tu devras appeler le médecin.` |
-| 25. I will send you the photos tonight. | `Je t’enverrai les photos ce soir.` |
-| 26. Will you want some coffee after lunch? | `Voudrez-vous du café après le déjeuner ?` |
-| 27. When I arrive, I will call you. | `Quand j’arriverai, je t’appellerai.` |
-| 28. As soon as we finish, we will go out. | `Dès que nous finirons, nous sortirons.` |
-| 29. When you have the keys, you will open the door. | `Lorsque tu auras les clés, tu ouvriras la porte.` |
-| 30. As soon as she knows the price, she will tell us. | `Dès qu’elle saura le prix, elle nous le dira.` |
-| 31. I would like a glass of water, please. | `Je voudrais un verre d’eau, s’il vous plaît.` |
-| 32. Could you close the window? | `Pourriez-vous fermer la fenêtre ?` |
-| 33. We would like to live near the sea. | `Nous aimerions vivre près de la mer.` |
-| 34. You should sleep earlier tonight. | `Tu devrais dormir plus tôt ce soir.` |
-| 35. I would take the bus, but it is too late. | `Je prendrais le bus, mais il est trop tard.` |
-| 36. She would be happier in a quieter neighborhood. | `Elle serait plus heureuse dans un quartier plus calme.` |
-| 37. Would you have five minutes for me? | `Auriez-vous cinq minutes pour moi ?` |
-| 38. They would come with pleasure. | `Ils viendraient avec plaisir.` |
-| 39. I would do it today if I could. | `Je le ferais aujourd’hui si je pouvais.` |
-| 40. We would see the sea from this room. | `Nous verrions la mer depuis cette chambre.` |
-| 41. You should not answer so quickly. | `Vous ne devriez pas répondre si vite.` |
-| 42. I would be able to help you after work. | `Je pourrais t’aider après le travail.` |
-| 43. Would you know where the pharmacy is? | `Sauriez-vous où est la pharmacie ?` |
-| 44. My brother would want a smaller apartment. | `Mon frère voudrait un appartement plus petit.` |
-| 45. I would send the form today. | `J’enverrais le formulaire aujourd’hui.` |
-| 46. I had already eaten when you arrived. | `J’avais déjà mangé quand tu es arrivé.` |
-| 47. She had left before the rain. | `Elle était partie avant la pluie.` |
-| 48. We had reserved a table for eight o’clock. | `Nous avions réservé une table pour huit heures.` |
-| 49. The children had gone to bed early. | `Les enfants s’étaient couchés tôt.` |
-| 50. Had you read the letter before calling? | `Avais-tu lu la lettre avant d’appeler ?` |
-| 51. I had not understood the question. | `Je n’avais pas compris la question.` |
-| 52. They had taken the wrong train. | `Ils avaient pris le mauvais train.` |
-| 53. Marie had prepared dinner for everyone. | `Marie avait préparé le dîner pour tout le monde.` |
-| 54. I would have accepted your invitation. | `J’aurais accepté ton invitation.` |
-| 55. She would have come earlier. | `Elle serait venue plus tôt.` |
-| 56. We would have rented a bigger car. | `Nous aurions loué une voiture plus grande.` |
-| 57. They would have gotten up before six. | `Ils se seraient levés avant six heures.` |
-| 58. Would you have chosen another hotel? | `Auriez-vous choisi un autre hôtel ?` |
-| 59. Without your help, I would have stayed home. | `Sans ton aide, je serais resté à la maison.` |
-| 60. I would not have sent that message. | `Je n’aurais pas envoyé ce message.` |
-| 61. If you are hungry, take a piece of fruit. | `Si tu as faim, prends un fruit.` |
-| 62. If it rains, we will stay at home. | `S’il pleut, nous resterons à la maison.` |
-| 63. If you see Clara, give her this book. | `Si tu vois Clara, donne-lui ce livre.` |
-| 64. If we finish early, we will take a walk. | `Si nous finissons tôt, nous nous promènerons.` |
-| 65. If I have enough money, I will buy the ticket. | `Si j’ai assez d’argent, j’achèterai le billet.` |
-| 66. If you come tomorrow, we will cook together. | `Si tu viens demain, nous cuisinerons ensemble.` |
-| 67. If she finds the file, she will send it to me. | `Si elle trouve le dossier, elle me l’enverra.` |
-| 68. If you need advice, call me. | `Si vous avez besoin d’un conseil, appelez-moi.` |
-| 69. If I had more time, I would read every evening. | `Si j’avais plus de temps, je lirais tous les soirs.` |
-| 70. If we lived closer, we would see each other often. | `Si nous habitions plus près, nous nous verrions souvent.` |
-| 71. If you could come, I would make dinner. | `Si tu pouvais venir, je ferais le dîner.` |
-| 72. If she knew the answer, she would tell us. | `Si elle savait la réponse, elle nous le dirait.` |
-| 73. If the apartment were cheaper, we would rent it. | `Si l’appartement était moins cher, nous le louerions.` |
-| 74. If they wanted to leave, they would say so. | `S’ils voulaient partir, ils le diraient.` |
-| 75. If I were you, I would wait. | `Si j’étais toi, j’attendrais.` |
-| 76. If you had called, I would have opened the door. | `Si tu avais appelé, j’aurais ouvert la porte.` |
-| 77. If we had known, we would have come earlier. | `Si nous avions su, nous serions venus plus tôt.` |
-| 78. If she had taken a taxi, she would have arrived on time. | `Si elle avait pris un taxi, elle serait arrivée à l’heure.` |
-| 79. If I had seen the sign, I would have stopped. | `Si j’avais vu le panneau, je me serais arrêté.` |
-| 80. If they had saved more, they would have bought the house. | `S’ils avaient économisé davantage, ils auraient acheté la maison.` |
-| 81. If you had read the instructions, you would not have made this mistake. | `Si vous aviez lu les consignes, vous n’auriez pas fait cette erreur.` |
-| 82. If the train had been late, we would have missed the meeting. | `Si le train avait été en retard, nous aurions manqué la réunion.` |
-| 83. Everyone will be here at noon. | `Tout le monde sera ici à midi.` |
-| 84. The whole family would like to visit Brittany. | `Toute la famille aimerait visiter la Bretagne.` |
-| 85. All the students will receive a message. | `Tous les étudiants recevront un message.` |
-| 86. She read all the answers carefully. | `Elle a lu toutes les réponses avec attention.` |
-| 87. Each person will choose a seat. | `Chaque personne choisira une place.` |
-| 88. Several have already left. | `Plusieurs sont déjà partis.` |
-| 89. Some people would prefer to wait outside. | `Certains préféreraient attendre dehors.` |
-| 90. A few friends will come after work. | `Quelques amis viendront après le travail.` |
-| 91. No solution would be perfect. | `Aucune solution ne serait parfaite.` |
-| 92. Each one will have their own key. | `Chacun aura sa propre clé.` |
-| 93. I want to do something useful this weekend. | `Je veux faire quelque chose d’utile ce week-end.` |
-| 94. Someone will bring bread. | `Quelqu’un apportera du pain.` |
-| 95. Would you eat anything after midnight? | `Mangerais-tu n’importe quoi après minuit ?` |
-| 96. We will not invite everyone. | `Nous n’inviterons pas tout le monde.` |
-| 97. Each of these ideas could work. | `Chacune de ces idées pourrait marcher.` |
-| 98. Some of my neighbors would help us. | `Certains de mes voisins nous aideraient.` |
-| 99. They had cleaned every room before the guests arrived. | `Ils avaient nettoyé toutes les pièces avant l’arrivée des invités.` |
-| 100. If everyone had listened, we would have finished sooner. | `Si tout le monde avait écouté, nous aurions fini plus tôt.` |
+| 1. Tomorrow, I will finish this lesson before lunch. | `Demain, je finirai cette leçon avant le déjeuner.` Word by word: `Demain` (tomorrow) `je` (I) `finirai` (will finish) `cette` (this) `leçon` (lesson) `avant` (before) `le` (the) `déjeuner` (lunch) |
+| 2. We will visit the museum on Saturday morning. | `Nous visiterons le musée samedi matin.` Word by word: `Nous` (we) `visiterons` (will visit) `le` (the) `musée` (museum) `samedi` (Saturday) `matin` (morning) |
+| 3. She will write to her sister tonight. | `Elle écrira à sa sœur ce soir.` Word by word: `Elle` (she) `écrira` (will write) `à` (to) `sa` (her) `sœur` (sister) `ce` (this) `soir` (evening) |
+| 4. You will sell the old bicycle next week. | `Tu vendras le vieux vélo la semaine prochaine.` Word by word: `Tu` (you) `vendras` (will sell) `le` (the) `vieux` (old) `vélo` (bicycle) `la` (the) `semaine` (week) `prochaine` (next) |
+| 5. The children will choose a film after dinner. | `Les enfants choisiront un film après le dîner.` Word by word: `Les` (the) `enfants` (children) `choisiront` (will choose) `un` (a) `film` (film) `après` (after) `le` (the) `dîner` (dinner) |
+| 6. Will you wait for me at the station? | `M’attendrez-vous à la gare ?` Word by word: `M’` (me) `attendrez-vous` (will wait) `à` (at) `la` (the) `gare` (station) |
+| 7. They will take the train at six o’clock. | `Ils prendront le train à six heures.` Word by word: `Ils` (they) `prendront` (will take) `le` (the) `train` (train) `à` (at) `six` (six) `heures` (hours) |
+| 8. I will not forget your address. | `Je n’oublierai pas ton adresse.` Word by word: `Je` (I) `n’` (not) `oublierai` (will forget) `pas` (not) `ton` (your) `adresse` (address) |
+| 9. Will we speak to the director tomorrow? | `Parlerons-nous au directeur demain ?` Word by word: `Parlerons-nous` (will we speak) `au` (to the) `directeur` (director) `demain` (tomorrow) |
+| 10. Paul will answer the message this afternoon. | `Paul répondra au message cet après-midi.` Word by word: `Paul` (Paul) `répondra` (will answer) `au` (to the) `message` (message) `cet` (this) `après-midi` (afternoon) |
+| 11. You will read the instructions before you begin. | `Vous lirez les consignes avant de commencer.` Word by word: `Vous` (you) `lirez` (will read) `les` (the) `consignes` (instructions) `avant` (before) `de` (to) `commencer` (begin) |
+| 12. My parents will spend the weekend in Lyon. | `Mes parents passeront le week-end à Lyon.` Word by word: `Mes` (my) `parents` (parents) `passeront` (will spend) `le` (the) `week-end` (weekend) `à` (to) `Lyon` (Lyon) |
+| 13. I will put the keys on the table. | `Je mettrai les clés sur la table.` Word by word: `Je` (I) `mettrai` (will put) `les` (the) `clés` (keys) `sur` (on) `la` (the) `table` (table) |
+| 14. The shop will close at seven o’clock. | `Le magasin fermera à sept heures.` Word by word: `Le` (the) `magasin` (shop) `fermera` (will close) `à` (at) `sept` (seven) `heures` (hours) |
+| 15. We will hear the answer soon. | `Nous entendrons bientôt la réponse.` Word by word: `Nous` (we) `entendrons` (will hear) `bientôt` (soon) `la` (the) `réponse` (answer) |
+| 16. I will be ready in five minutes. | `Je serai prêt dans cinq minutes.` Word by word: `Je` (I) `serai` (will be) `prêt` (ready) `dans` (in) `cinq` (five) `minutes` (minutes) |
+| 17. You will have more time after the exam. | `Tu auras plus de temps après l’examen.` Word by word: `Tu` (you) `auras` (will have) `plus` (more) `de` (of) `temps` (time) `après` (after) `l’` (the) `examen` (exam) |
+| 18. She will go to the bank this morning. | `Elle ira à la banque ce matin.` Word by word: `Elle` (she) `ira` (will go) `à` (to) `la` (the) `banque` (bank) `ce` (this) `matin` (morning) |
+| 19. We will do the shopping on Friday. | `Nous ferons les courses vendredi.` Word by word: `Nous` (we) `ferons` (will do) `les` (the) `courses` (shopping) `vendredi` (Friday) |
+| 20. They will be able to come with us. | `Ils pourront venir avec nous.` Word by word: `Ils` (they) `pourront` (will be able) `venir` (come) `avec` (with) `nous` (we) |
+| 21. Will you see Julie at the office? | `Verras-tu Julie au bureau ?` Word by word: `Verras-tu` (will you see) `Julie` (Julie) `au` (at the) `bureau` (office) |
+| 22. My cousins will come in July. | `Mes cousins viendront en juillet.` Word by word: `Mes` (my) `cousins` (cousins) `viendront` (will come) `en` (in) `juillet` (July) |
+| 23. I will know the result tomorrow. | `Je saurai le résultat demain.` Word by word: `Je` (I) `saurai` (will know) `le` (the) `résultat` (result) `demain` (tomorrow) |
+| 24. You will have to call the doctor. | `Tu devras appeler le médecin.` Word by word: `Tu` (you) `devras` (will have to) `appeler` (call) `le` (the) `médecin` (doctor) |
+| 25. I will send you the photos tonight. | `Je t’enverrai les photos ce soir.` Word by word: `Je` (I) `t’` (you) `enverrai` (will send) `les` (the) `photos` (photos) `ce` (this) `soir` (evening) |
+| 26. Will you want some coffee after lunch? | `Voudrez-vous du café après le déjeuner ?` Word by word: `Voudrez-vous` (will you want) `du` (some) `café` (coffee) `après` (after) `le` (the) `déjeuner` (lunch) |
+| 27. When I arrive, I will call you. | `Quand j’arriverai, je t’appellerai.` Word by word: `Quand` (when) `j’` (I) `arriverai` (will arrive) `je` (I) `t’` (you) `appellerai` (will call) |
+| 28. As soon as we finish, we will go out. | `Dès que nous finirons, nous sortirons.` Word by word: `Dès` (as soon as) `que` (that) `nous` (we) `finirons` (will finish) `nous` (we) `sortirons` (will go out) |
+| 29. When you have the keys, you will open the door. | `Lorsque tu auras les clés, tu ouvriras la porte.` Word by word: `Lorsque` (when) `tu` (you) `auras` (will have) `les` (the) `clés` (keys) `tu` (you) `ouvriras` (open) `la` (the) `porte` (door) |
+| 30. As soon as she knows the price, she will tell us. | `Dès qu’elle saura le prix, elle nous le dira.` Word by word: `Dès` (as soon as) `qu’` (that) `elle` (she) `saura` (will know) `le` (it) `prix` (price) `elle` (she) `nous` (we) `le` (the) `dira` (will tell) |
+| 31. I would like a glass of water, please. | `Je voudrais un verre d’eau, s’il vous plaît.` Word by word: `Je` (I) `voudrais` (would like) `un` (a) `verre` (glass) `d’` (of) `eau` (water) `s’` (if) `il` (it) `vous` (you) `plaît` (pleases) |
+| 32. Could you close the window? | `Pourriez-vous fermer la fenêtre ?` Word by word: `Pourriez-vous` (could you, formal) `fermer` (close) `la` (the) `fenêtre` (window) |
+| 33. We would like to live near the sea. | `Nous aimerions vivre près de la mer.` Word by word: `Nous` (we) `aimerions` (would like) `vivre` (live) `près` (near) `de` (of) `la` (the) `mer` (sea) |
+| 34. You should sleep earlier tonight. | `Tu devrais dormir plus tôt ce soir.` Word by word: `Tu` (you) `devrais` (should) `dormir` (sleep) `plus` (more) `tôt` (early) `ce` (this) `soir` (evening) |
+| 35. I would take the bus, but it is too late. | `Je prendrais le bus, mais il est trop tard.` Word by word: `Je` (I) `prendrais` (would take) `le` (the) `bus` (bus) `mais` (but) `il` (it) `est` (is) `trop` (too) `tard` (late) |
+| 36. She would be happier in a quieter neighborhood. | `Elle serait plus heureuse dans un quartier plus calme.` Word by word: `Elle` (she) `serait` (would be) `plus` (more) `heureuse` (happy) `dans` (in) `un` (a) `quartier` (neighborhood) `plus` (more) `calme` (quiet) |
+| 37. Would you have five minutes for me? | `Auriez-vous cinq minutes pour moi ?` Word by word: `Auriez-vous` (would you have) `cinq` (five) `minutes` (minutes) `pour` (for) `moi` (me) |
+| 38. They would come with pleasure. | `Ils viendraient avec plaisir.` Word by word: `Ils` (they) `viendraient` (come) `avec` (with) `plaisir` (pleasure) |
+| 39. I would do it today if I could. | `Je le ferais aujourd’hui si je pouvais.` Word by word: `Je` (I) `le` (it) `ferais` (would do) `aujourd’hui` (today) `si` (if) `je` (I) `pouvais` (could) |
+| 40. We would see the sea from this room. | `Nous verrions la mer depuis cette chambre.` Word by word: `Nous` (we) `verrions` (would see) `la` (the) `mer` (sea) `depuis` (from) `cette` (this) `chambre` (room) |
+| 41. You should not answer so quickly. | `Vous ne devriez pas répondre si vite.` Word by word: `Vous` (you) `ne` (not) `devriez` (should) `pas` (not) `répondre` (answer) `si` (so) `vite` (quickly) |
+| 42. I would be able to help you after work. | `Je pourrais t’aider après le travail.` Word by word: `Je` (I) `pourrais` (would be able) `t’` (you) `aider` (to help) `après` (after) `le` (the) `travail` (work) |
+| 43. Would you know where the pharmacy is? | `Sauriez-vous où est la pharmacie ?` Word by word: `Sauriez-vous` (would you know) `où` (where) `est` (is) `la` (the) `pharmacie` (pharmacy) |
+| 44. My brother would want a smaller apartment. | `Mon frère voudrait un appartement plus petit.` Word by word: `Mon` (my) `frère` (brother) `voudrait` (would want) `un` (a) `appartement` (apartment) `plus` (more) `petit` (small) |
+| 45. I would send the form today. | `J’enverrais le formulaire aujourd’hui.` Word by word: `J’` (I) `enverrais` (would send) `le` (the) `formulaire` (form) `aujourd’hui` (today) |
+| 46. I had already eaten when you arrived. | `J’avais déjà mangé quand tu es arrivé.` Word by word: `J’` (I) `avais` (had) `déjà` (already) `mangé` (eaten) `quand` (when) `tu` (you) `es` (are, helper) `arrivé` (arrived) |
+| 47. She had left before the rain. | `Elle était partie avant la pluie.` Word by word: `Elle` (she) `était` (was, helper) `partie` (left) `avant` (before) `la` (the) `pluie` (rain) |
+| 48. We had reserved a table for eight o’clock. | `Nous avions réservé une table pour huit heures.` Word by word: `Nous` (we) `avions` (had) `réservé` (reserved) `une` (a) `table` (table) `pour` (for) `huit` (eight) `heures` (hours) |
+| 49. The children had gone to bed early. | `Les enfants s’étaient couchés tôt.` Word by word: `Les` (the) `enfants` (children) `s’` (themselves, reflexive) `étaient` (were, helper) `couchés` (gone to bed) `tôt` (early) |
+| 50. Had you read the letter before calling? | `Avais-tu lu la lettre avant d’appeler ?` Word by word: `Avais-tu` (had you) `lu` (read) `la` (the) `lettre` (letter) `avant` (before) `d’` (to) `appeler` (call) |
+| 51. I had not understood the question. | `Je n’avais pas compris la question.` Word by word: `Je` (I) `n’` (not) `avais` (had) `pas` (not) `compris` (understood) `la` (the) `question` (question) |
+| 52. They had taken the wrong train. | `Ils avaient pris le mauvais train.` Word by word: `Ils` (they) `avaient` (had) `pris` (taken) `le` (the) `mauvais` (wrong) `train` (train) |
+| 53. Marie had prepared dinner for everyone. | `Marie avait préparé le dîner pour tout le monde.` Word by word: `Marie` (Marie) `avait` (had) `préparé` (prepared) `le` (the) `dîner` (dinner) `pour` (for) `tout` (all) `le` (the) `monde` (everyone) |
+| 54. I would have accepted your invitation. | `J’aurais accepté ton invitation.` Word by word: `J’` (I) `aurais` (would have) `accepté` (accepted) `ton` (your) `invitation` (invitation) |
+| 55. She would have come earlier. | `Elle serait venue plus tôt.` Word by word: `Elle` (she) `serait` (would have, helper) `venue` (come) `plus` (more) `tôt` (early) |
+| 56. We would have rented a bigger car. | `Nous aurions loué une voiture plus grande.` Word by word: `Nous` (we) `aurions` (would have) `loué` (rented) `une` (a) `voiture` (car) `plus` (more) `grande` (large) |
+| 57. They would have gotten up before six. | `Ils se seraient levés avant six heures.` Word by word: `Ils` (they) `se` (themselves, reflexive) `seraient` (would have, helper) `levés` (got up) `avant` (before) `six` (six) `heures` (hours) |
+| 58. Would you have chosen another hotel? | `Auriez-vous choisi un autre hôtel ?` Word by word: `Auriez-vous` (would you have) `choisi` (chosen) `un` (a) `autre` (another) `hôtel` (hotel) |
+| 59. Without your help, I would have stayed home. | `Sans ton aide, je serais resté à la maison.` Word by word: `Sans` (without) `ton` (your) `aide` (help) `je` (I) `serais` (would be) `resté` (stayed) `à` (at) `la` (the) `maison` (house) |
+| 60. I would not have sent that message. | `Je n’aurais pas envoyé ce message.` Word by word: `Je` (I) `n’` (not) `aurais` (would have) `pas` (not) `envoyé` (sent) `ce` (that) `message` (message) |
+| 61. If you are hungry, take a piece of fruit. | `Si tu as faim, prends un fruit.` Word by word: `Si` (if) `tu` (you) `as` (have) `faim` (hunger) `prends` (take) `un` (a) `fruit` (fruit) |
+| 62. If it rains, we will stay at home. | `S’il pleut, nous resterons à la maison.` Word by word: `S’` (if) `il` (it) `pleut` (rains) `nous` (we) `resterons` (will stay) `à` (to) `la` (the) `maison` (house) |
+| 63. If you see Clara, give her this book. | `Si tu vois Clara, donne-lui ce livre.` Word by word: `Si` (if) `tu` (you) `vois` (see) `Clara` (Clara) `donne-lui` (give her) `ce` (this) `livre` (book) |
+| 64. If we finish early, we will take a walk. | `Si nous finissons tôt, nous nous promènerons.` Word by word: `Si` (if) `nous` (we) `finissons` (finish) `tôt` (early) `nous` (ourselves) `nous` (we) `promènerons` (take a walk) |
+| 65. If I have enough money, I will buy the ticket. | `Si j’ai assez d’argent, j’achèterai le billet.` Word by word: `Si` (if) `j’` (I) `ai` (have) `assez` (enough) `d’` (of) `argent` (money) `j’` (I) `achèterai` (will buy) `le` (the) `billet` (ticket) |
+| 66. If you come tomorrow, we will cook together. | `Si tu viens demain, nous cuisinerons ensemble.` Word by word: `Si` (if) `tu` (you) `viens` (come) `demain` (tomorrow) `nous` (we) `cuisinerons` (will cook) `ensemble` (together) |
+| 67. If she finds the file, she will send it to me. | `Si elle trouve le dossier, elle me l’enverra.` Word by word: `Si` (if) `elle` (she) `trouve` (find) `le` (the) `dossier` (file) `elle` (she) `me` (me) `l’` (it) `enverra` (will send) |
+| 68. If you need advice, call me. | `Si vous avez besoin d’un conseil, appelez-moi.` Word by word: `Si` (if) `vous` (you) `avez` (have) `besoin` (need) `d’` (of) `un` (a) `conseil` (advice) `appelez-moi` (call me) |
+| 69. If I had more time, I would read every evening. | `Si j’avais plus de temps, je lirais tous les soirs.` Word by word: `Si` (if) `j’` (I) `avais` (had) `plus` (more) `de` (of) `temps` (time) `je` (I) `lirais` (would read) `tous` (every) `les` (the) `soirs` (evenings) |
+| 70. If we lived closer, we would see each other often. | `Si nous habitions plus près, nous nous verrions souvent.` Word by word: `Si` (if) `nous` (we) `habitions` (live) `plus` (more) `près` (near) `nous` (each other) `nous` (we) `verrions` (would see) `souvent` (often) |
+| 71. If you could come, I would make dinner. | `Si tu pouvais venir, je ferais le dîner.` Word by word: `Si` (if) `tu` (you) `pouvais` (could) `venir` (come) `je` (I) `ferais` (would make) `le` (the) `dîner` (dinner) |
+| 72. If she knew the answer, she would tell us. | `Si elle savait la réponse, elle nous le dirait.` Word by word: `Si` (if) `elle` (she) `savait` (knew) `la` (the) `réponse` (answer) `elle` (she) `nous` (us) `le` (it) `dirait` (would tell) |
+| 73. If the apartment were cheaper, we would rent it. | `Si l’appartement était moins cher, nous le louerions.` Word by word: `Si` (if) `l’` (the) `appartement` (apartment) `était` (were) `moins` (less) `cher` (expensive) `nous` (we) `le` (it) `louerions` (would rent) |
+| 74. If they wanted to leave, they would say so. | `S’ils voulaient partir, ils le diraient.` Word by word: `S’` (if) `ils` (they) `voulaient` (wanted) `partir` (leave) `ils` (they) `le` (so) `diraient` (would say) |
+| 75. If I were you, I would wait. | `Si j’étais toi, j’attendrais.` Word by word: `Si` (if) `j’` (I) `étais` (were) `toi` (you) `j’` (I) `attendrais` (would wait) |
+| 76. If you had called, I would have opened the door. | `Si tu avais appelé, j’aurais ouvert la porte.` Word by word: `Si` (if) `tu` (you) `avais` (had) `appelé` (called) `j’` (I) `aurais` (would have) `ouvert` (opened) `la` (the) `porte` (door) |
+| 77. If we had known, we would have come earlier. | `Si nous avions su, nous serions venus plus tôt.` Word by word: `Si` (if) `nous` (we) `avions` (had) `su` (known — from savoir) `nous` (we) `serions` (would have, helper) `venus` (come) `plus` (more) `tôt` (early) |
+| 78. If she had taken a taxi, she would have arrived on time. | `Si elle avait pris un taxi, elle serait arrivée à l’heure.` Word by word: `Si` (if) `elle` (she) `avait` (had) `pris` (taken) `un` (a) `taxi` (taxi) `elle` (she) `serait` (would have, helper) `arrivée` (arrived) `à` (on) `l’` (the) `heure` (time) |
+| 79. If I had seen the sign, I would have stopped. | `Si j’avais vu le panneau, je me serais arrêté.` Word by word: `Si` (if) `j’` (I) `avais` (had) `vu` (seen) `le` (the) `panneau` (sign) `je` (I) `me` (myself, reflexive) `serais` (would have, helper) `arrêté` (stopped) |
+| 80. If they had saved more, they would have bought the house. | `S’ils avaient économisé davantage, ils auraient acheté la maison.` Word by word: `S’` (if) `ils` (they) `avaient` (had) `économisé` (saved) `davantage` (more) `ils` (they) `auraient` (would have) `acheté` (bought) `la` (the) `maison` (house) |
+| 81. If you had read the instructions, you would not have made this mistake. | `Si vous aviez lu les consignes, vous n’auriez pas fait cette erreur.` Word by word: `Si` (if) `vous` (you) `aviez` (had) `lu` (read) `les` (the) `consignes` (instructions) `vous` (you) `n’` (not) `auriez` (would have) `pas` (not) `fait` (made) `cette` (this) `erreur` (mistake) |
+| 82. If the train had been late, we would have missed the meeting. | `Si le train avait été en retard, nous aurions manqué la réunion.` Word by word: `Si` (if) `le` (the) `train` (train) `avait` (had) `été` (been) `en` (in) `retard` (late) `nous` (we) `aurions` (would have) `manqué` (missed) `la` (the) `réunion` (meeting) |
+| 83. Everyone will be here at noon. | `Tout le monde sera ici à midi.` Word by word: `Tout` (all) `le` (the) `monde` (everyone) `sera` (will be) `ici` (here) `à` (to) `midi` (noon) |
+| 84. The whole family would like to visit Brittany. | `Toute la famille aimerait visiter la Bretagne.` Word by word: `Toute` (whole) `la` (the) `famille` (family) `aimerait` (would like) `visiter` (visit) `la` (the) `Bretagne` (Brittany) |
+| 85. All the students will receive a message. | `Tous les étudiants recevront un message.` Word by word: `Tous` (all) `les` (the) `étudiants` (students) `recevront` (will receive) `un` (a) `message` (message) |
+| 86. She read all the answers carefully. | `Elle a lu toutes les réponses avec attention.` Word by word: `Elle` (she) `a` (has, helper) `lu` (read) `toutes` (all) `les` (the) `réponses` (answers) `avec` (with) `attention` (care) |
+| 87. Each person will choose a seat. | `Chaque personne choisira une place.` Word by word: `Chaque` (each) `personne` (person) `choisira` (will choose) `une` (a) `place` (seat) |
+| 88. Several have already left. | `Plusieurs sont déjà partis.` Word by word: `Plusieurs` (several) `sont` (have, helper) `déjà` (already) `partis` (gone) |
+| 89. Some people would prefer to wait outside. | `Certains préféreraient attendre dehors.` Word by word: `Certains` (some) `préféreraient` (would prefer) `attendre` (to wait) `dehors` (outside) |
+| 90. A few friends will come after work. | `Quelques amis viendront après le travail.` Word by word: `Quelques` (a few) `amis` (friends) `viendront` (will come) `après` (after) `le` (the) `travail` (work) |
+| 91. No solution would be perfect. | `Aucune solution ne serait parfaite.` Word by word: `Aucune` (no) `solution` (solution) `ne` (not) `serait` (would be) `parfaite` (perfect) |
+| 92. Each one will have their own key. | `Chacun aura sa propre clé.` Word by word: `Chacun` (each one) `aura` (will have) `sa` (their) `propre` (own) `clé` (key) |
+| 93. I want to do something useful this weekend. | `Je veux faire quelque chose d’utile ce week-end.` Word by word: `Je` (I) `veux` (want) `faire` (do) `quelque` (some) `chose` (thing) `d’` (of) `utile` (useful) `ce` (this) `week-end` (weekend) |
+| 94. Someone will bring bread. | `Quelqu’un apportera du pain.` Word by word: `Quelqu’` (someone) `un` (a) `apportera` (will bring) `du` (some) `pain` (bread) |
+| 95. Would you eat anything after midnight? | `Mangerais-tu n’importe quoi après minuit ?` Word by word: `Mangerais-tu` (would you eat) `n’` (no) `importe` (matter) `quoi` (what) `après` (after) `minuit` (midnight) |
+| 96. We will not invite everyone. | `Nous n’inviterons pas tout le monde.` Word by word: `Nous` (we) `n’` (not) `inviterons` (will invite) `pas` (not) `tout` (all) `le` (the) `monde` (everyone) |
+| 97. Each of these ideas could work. | `Chacune de ces idées pourrait marcher.` Word by word: `Chacune` (each one) `de` (of) `ces` (these) `idées` (ideas) `pourrait` (could) `marcher` (to work) |
+| 98. Some of my neighbors would help us. | `Certains de mes voisins nous aideraient.` Word by word: `Certains` (some) `de` (of) `mes` (my) `voisins` (neighbors) `nous` (us) `aideraient` (would help) |
+| 99. They had cleaned every room before the guests arrived. | `Ils avaient nettoyé toutes les pièces avant l’arrivée des invités.` Word by word: `Ils` (they) `avaient` (had) `nettoyé` (cleaned) `toutes` (all) `les` (the) `pièces` (rooms) `avant` (before) `l’` (the) `arrivée` (arrival) `des` (of the) `invités` (guests) |
+| 100. If everyone had listened, we would have finished sooner. | `Si tout le monde avait écouté, nous aurions fini plus tôt.` Word by word: `Si` (if) `tout` (all) `le` (the) `monde` (everyone) `avait` (had) `écouté` (listened) `nous` (we) `aurions` (would have) `fini` (finished) `plus` (more) `tôt` (early) |

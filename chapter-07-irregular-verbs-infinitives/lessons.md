@@ -463,103 +463,103 @@ Cover the French column, translate each English sentence aloud, then uncover to 
 
 | English | French |
 | --- | --- |
-| 1. I leave early on Monday. | `Je pars tôt lundi.` |
-| 2. Are you leaving for Lyon tomorrow? | `Est-ce que tu pars pour Lyon demain ?` |
-| 3. The train leaves at seven o’clock. | `Le train part à sept heures.` |
-| 4. We are going out after dinner. | `Nous sortons après le dîner.` |
-| 5. She is going out with her colleagues tonight. | `Elle sort avec ses collègues ce soir.` |
-| 6. They take the chairs out onto the balcony. | `Ils sortent les chaises sur le balcon.` |
-| 7. I leave the office at six. | `Je quitte le bureau à six heures.` |
-| 8. Do you leave Paris on Friday? | `Est-ce que tu quittes Paris vendredi ?` |
-| 9. We are not leaving the house now. | `Nous ne quittons pas la maison maintenant.` |
-| 10. The children go out during the break. | `Les enfants sortent pendant la pause.` |
-| 11. My parents leave for Canada in July. | `Mes parents partent pour le Canada en juillet.` |
-| 12. You are leaving the classroom before noon. | `Vous quittez la salle de classe avant midi.` |
-| 13. I am going to leave after the meeting. | `Je vais partir après la réunion.` |
-| 14. She wants to go out this weekend. | `Elle veut sortir ce week-end.` |
-| 15. They have to leave the hotel before ten. | `Ils doivent quitter l’hôtel avant dix heures.` |
-| 16. We can go out if the weather is nice. | `Nous pouvons sortir s’il fait beau.` |
-| 17. Why are you leaving so late? | `Pourquoi est-ce que vous partez si tard ?` |
-| 18. He does not leave the city in winter. | `Il ne quitte pas la ville en hiver.` |
-| 19. The bus leaves from the station at noon. | `Le bus part de la gare à midi.` |
-| 20. I take my notebooks out of my bag. | `Je sors mes cahiers de mon sac.` |
-| 21. I am coming to the café with you. | `Je viens au café avec toi.` |
-| 22. Are you coming from the library? | `Est-ce que tu viens de la bibliothèque ?` |
-| 23. Our cousins are coming this weekend. | `Nos cousins viennent ce week-end.` |
-| 24. We hold the door for the teacher. | `Nous tenons la porte pour le professeur.` |
-| 25. She keeps a notebook in her bag. | `Elle tient un carnet dans son sac.` |
-| 26. Do you care about this project? | `Est-ce que vous tenez à ce projet ?` |
-| 27. I have just finished the exercise. | `Je viens de finir l’exercice.` |
-| 28. We have just come back from the market. | `Nous venons de rentrer du marché.` |
-| 29. They have just arrived at the hotel. | `Ils viennent d’arriver à l’hôtel.` |
-| 30. He has just written a short message. | `Il vient d’écrire un message court.` |
-| 31. You have just read the letter. | `Tu viens de lire la lettre.` |
-| 32. She has just gone out with her sister. | `Elle vient de sortir avec sa sœur.` |
-| 33. I have not just called the doctor. | `Je ne viens pas d’appeler le médecin.` |
-| 34. We come from Marseille, but we live in Paris. | `Nous venons de Marseille, mais nous habitons à Paris.` |
-| 35. What are you holding in your hand? | `Qu’est-ce que tu tiens dans ta main ?` |
-| 36. I tell the truth to my parents. | `Je dis la vérité à mes parents.` |
-| 37. What are the children saying? | `Qu’est-ce que les enfants disent ?` |
-| 38. You read the newspaper during breakfast. | `Vous lisez le journal pendant le petit-déjeuner.` |
-| 39. We read more in the evening. | `Nous lisons davantage le soir.` |
-| 40. She writes to her brother every week. | `Elle écrit à son frère chaque semaine.` |
-| 41. Are you writing an email to the director? | `Est-ce que tu écris un mail au directeur ?` |
-| 42. They put their coats near the door. | `Ils mettent leurs manteaux près de la porte.` |
-| 43. I set the table before dinner. | `Je mets la table avant le dîner.` |
-| 44. We receive letters from our grandparents. | `Nous recevons des lettres de nos grands-parents.` |
-| 45. She receives a message from the office. | `Elle reçoit un message du bureau.` |
-| 46. Do you say that often? | `Est-ce que vous dites cela souvent ?` |
-| 47. My friends write postcards in the summer. | `Mes amis écrivent des cartes postales en été.` |
-| 48. I am going to read this book tonight. | `Je vais lire ce livre ce soir.` |
-| 49. We have to put the bags under the table. | `Nous devons mettre les sacs sous la table.` |
-| 50. He wants to receive news from his family. | `Il veut recevoir des nouvelles de sa famille.` |
-| 51. Can you write the address here? | `Peux-tu écrire l’adresse ici ?` |
-| 52. The teacher says that the work is important. | `Le professeur dit que le travail est important.` |
-| 53. They do not read during the trip. | `Ils ne lisent pas pendant le voyage.` |
-| 54. You are going to tell the story tomorrow. | `Tu vas dire l’histoire demain.` |
-| 55. We have just received the tickets. | `Nous venons de recevoir les billets.` |
-| 56. I can come after work. | `Je peux venir après le travail.` |
-| 57. Can you close the window? | `Est-ce que tu peux fermer la fenêtre ?` |
-| 58. They cannot go out before nine. | `Ils ne peuvent pas sortir avant neuf heures.` |
-| 59. We want to leave now. | `Nous voulons partir maintenant.` |
-| 60. She wants to read in the train. | `Elle veut lire dans le train.` |
-| 61. Do you want to write to your aunt? | `Est-ce que vous voulez écrire à votre tante ?` |
-| 62. I have to finish this report tonight. | `Je dois finir ce rapport ce soir.` |
-| 63. You must put your phone on the table. | `Tu dois mettre ton téléphone sur la table.` |
-| 64. He probably is at the office. | `Il doit être au bureau.` |
-| 65. We owe ten euros to Paul. | `Nous devons dix euros à Paul.` |
-| 66. My sister can speak French at work. | `Ma sœur peut parler français au travail.` |
-| 67. The students want to learn quickly. | `Les étudiants veulent apprendre vite.` |
-| 68. You have to choose a seat. | `Vous devez choisir une place.` |
-| 69. I cannot read this letter without my glasses. | `Je ne peux pas lire cette lettre sans mes lunettes.` |
-| 70. Does he want to come to the restaurant? | `Est-ce qu’il veut venir au restaurant ?` |
-| 71. We can wait in front of the museum. | `Nous pouvons attendre devant le musée.` |
-| 72. They have to write the exercise again. | `Ils doivent écrire l’exercice encore une fois.` |
-| 73. She probably wants a glass of water. | `Elle doit vouloir un verre d’eau.` |
-| 74. I want to do the shopping before noon. | `Je veux faire les courses avant midi.` |
-| 75. I like to read in the morning. | `J’aime lire le matin.` |
-| 76. We prefer to stay at home tonight. | `Nous préférons rester à la maison ce soir.` |
-| 77. She is beginning to learn French. | `Elle commence à apprendre le français.` |
-| 78. Are you learning to cook with your father? | `Est-ce que tu apprends à cuisiner avec ton père ?` |
-| 79. Paul helps Marie carry the bags. | `Paul aide Marie à porter les sacs.` |
-| 80. They manage to finish on time. | `Ils réussissent à finir à temps.` |
-| 81. I try to speak every day. | `J’essaie de parler chaque jour.` |
-| 82. We stop working at six o’clock. | `Nous arrêtons de travailler à six heures.` |
-| 83. You forget to close the door. | `Tu oublies de fermer la porte.` |
-| 84. She chooses to stay near the station. | `Elle choisit de rester près de la gare.` |
-| 85. He refuses to answer the question. | `Il refuse de répondre à la question.` |
-| 86. Do you have to begin to write now? | `Est-ce que vous devez commencer à écrire maintenant ?` |
-| 87. We want to try to understand the problem. | `Nous voulons essayer de comprendre le problème.` |
-| 88. The children like to go out after school. | `Les enfants aiment sortir après l’école.` |
-| 89. I am going to learn to cook this summer. | `Je vais apprendre à cuisiner cet été.` |
-| 90. She can manage to finish before dinner. | `Elle peut réussir à finir avant le dîner.` |
-| 91. They are trying to leave earlier. | `Ils essaient de partir plus tôt.` |
-| 92. You must stop talking during the film. | `Tu dois arrêter de parler pendant le film.` |
-| 93. We are beginning to read longer texts. | `Nous commençons à lire des textes plus longs.` |
-| 94. I prefer to write before breakfast. | `Je préfère écrire avant le petit-déjeuner.` |
-| 95. Can you help your brother finish the dishes? | `Peux-tu aider ton frère à finir la vaisselle ?` |
-| 96. She has just chosen to stay in Paris. | `Elle vient de choisir de rester à Paris.` |
-| 97. We forget to buy bread at the market. | `Nous oublions d’acheter du pain au marché.` |
-| 98. He wants to learn to write better. | `Il veut apprendre à écrire mieux.` |
-| 99. Are they trying to receive more news? | `Est-ce qu’ils essaient de recevoir plus de nouvelles ?` |
-| 100. The students begin to receive messages from the professor. | `Les étudiants commencent à recevoir des messages du professeur.` |
+| 1. I leave early on Monday. | `Je pars tôt lundi.` Word by word: `Je` (I) `pars` (leave) `tôt` (early) `lundi` (Monday) |
+| 2. Are you leaving for Lyon tomorrow? | `Est-ce que tu pars pour Lyon demain ?` Word by word: `Est-ce` (question marker: is it) `que` (that) `tu` (you) `pars` (leave) `pour` (for) `Lyon` (Lyon) `demain` (tomorrow) |
+| 3. The train leaves at seven o’clock. | `Le train part à sept heures.` Word by word: `Le` (the) `train` (train) `part` (leaves) `à` (at) `sept` (seven) `heures` (hours) |
+| 4. We are going out after dinner. | `Nous sortons après le dîner.` Word by word: `Nous` (we) `sortons` (go out) `après` (after) `le` (the) `dîner` (dinner) |
+| 5. She is going out with her colleagues tonight. | `Elle sort avec ses collègues ce soir.` Word by word: `Elle` (she) `sort` (goes out) `avec` (with) `ses` (her) `collègues` (colleagues) `ce` (this) `soir` (evening) |
+| 6. They take the chairs out onto the balcony. | `Ils sortent les chaises sur le balcon.` Word by word: `Ils` (they) `sortent` (take out) `les` (the) `chaises` (chairs) `sur` (on) `le` (the) `balcon` (balcony) |
+| 7. I leave the office at six. | `Je quitte le bureau à six heures.` Word by word: `Je` (I) `quitte` (leave) `le` (the) `bureau` (office) `à` (at) `six` (six) `heures` (hours) |
+| 8. Do you leave Paris on Friday? | `Est-ce que tu quittes Paris vendredi ?` Word by word: `Est-ce` (question marker: is it) `que` (that) `tu` (you) `quittes` (leave) `Paris` (Paris) `vendredi` (Friday) |
+| 9. We are not leaving the house now. | `Nous ne quittons pas la maison maintenant.` Word by word: `Nous` (we) `ne` (not, with pas) `quittons` (leave) `pas` (not) `la` (the) `maison` (house) `maintenant` (now) |
+| 10. The children go out during the break. | `Les enfants sortent pendant la pause.` Word by word: `Les` (the) `enfants` (children) `sortent` (go out) `pendant` (during) `la` (the) `pause` (break) |
+| 11. My parents leave for Canada in July. | `Mes parents partent pour le Canada en juillet.` Word by word: `Mes` (my) `parents` (parents) `partent` (leave) `pour` (for) `le` (the) `Canada` (Canada) `en` (in) `juillet` (July) |
+| 12. You are leaving the classroom before noon. | `Vous quittez la salle de classe avant midi.` Word by word: `Vous` (you) `quittez` (leave) `la` (the) `salle` (room) `de` (of) `classe` (classroom) `avant` (before) `midi` (noon) |
+| 13. I am going to leave after the meeting. | `Je vais partir après la réunion.` Word by word: `Je` (I) `vais` (am going to) `partir` (to leave) `après` (after) `la` (the) `réunion` (meeting) |
+| 14. She wants to go out this weekend. | `Elle veut sortir ce week-end.` Word by word: `Elle` (she) `veut` (wants) `sortir` (to go out) `ce` (this) `week-end` (weekend) |
+| 15. They have to leave the hotel before ten. | `Ils doivent quitter l’hôtel avant dix heures.` Word by word: `Ils` (they) `doivent` (have to) `quitter` (to leave) `l’` (the) `hôtel` (hotel) `avant` (before) `dix` (ten) `heures` (hours) |
+| 16. We can go out if the weather is nice. | `Nous pouvons sortir s’il fait beau.` Word by word: `Nous` (we) `pouvons` (can) `sortir` (to go out) `s’` (if) `il` (it) `fait` (is) `beau` (nice) |
+| 17. Why are you leaving so late? | `Pourquoi est-ce que vous partez si tard ?` Word by word: `Pourquoi` (why) `est-ce` (question marker: is it) `que` (that) `vous` (you) `partez` (leave) `si` (so) `tard` (late) |
+| 18. He does not leave the city in winter. | `Il ne quitte pas la ville en hiver.` Word by word: `Il` (he) `ne` (not, with pas) `quitte` (leave) `pas` (not) `la` (the) `ville` (city) `en` (in) `hiver` (winter) |
+| 19. The bus leaves from the station at noon. | `Le bus part de la gare à midi.` Word by word: `Le` (the) `bus` (bus) `part` (leaves) `de` (from) `la` (the) `gare` (station) `à` (at) `midi` (noon) |
+| 20. I take my notebooks out of my bag. | `Je sors mes cahiers de mon sac.` Word by word: `Je` (I) `sors` (take out) `mes` (my) `cahiers` (notebooks) `de` (of) `mon` (my) `sac` (bag) |
+| 21. I am coming to the café with you. | `Je viens au café avec toi.` Word by word: `Je` (I) `viens` (am coming) `au` (to the) `café` (café) `avec` (with) `toi` (you) |
+| 22. Are you coming from the library? | `Est-ce que tu viens de la bibliothèque ?` Word by word: `Est-ce` (question marker: is it) `que` (that) `tu` (you) `viens` (come) `de` (from) `la` (the) `bibliothèque` (library) |
+| 23. Our cousins are coming this weekend. | `Nos cousins viennent ce week-end.` Word by word: `Nos` (our) `cousins` (cousins) `viennent` (come) `ce` (this) `week-end` (weekend) |
+| 24. We hold the door for the teacher. | `Nous tenons la porte pour le professeur.` Word by word: `Nous` (we) `tenons` (hold) `la` (the) `porte` (door) `pour` (for) `le` (the) `professeur` (teacher) |
+| 25. She keeps a notebook in her bag. | `Elle tient un carnet dans son sac.` Word by word: `Elle` (she) `tient` (keeps) `un` (a) `carnet` (notebook) `dans` (in) `son` (her) `sac` (bag) |
+| 26. Do you care about this project? | `Est-ce que vous tenez à ce projet ?` Word by word: `Est-ce` (question marker: is it) `que` (that) `vous` (you) `tenez` (care) `à` (about) `ce` (this) `projet` (project) |
+| 27. I have just finished the exercise. | `Je viens de finir l’exercice.` Word by word: `Je` (I) `viens` (have just) `de` (recent past marker) `finir` (to finish) `l’` (the) `exercice` (exercise) |
+| 28. We have just come back from the market. | `Nous venons de rentrer du marché.` Word by word: `Nous` (we) `venons` (have just) `de` (recent past marker) `rentrer` (to return) `du` (from the) `marché` (market) |
+| 29. They have just arrived at the hotel. | `Ils viennent d’arriver à l’hôtel.` Word by word: `Ils` (they) `viennent` (have just) `d’` (recent past marker) `arriver` (to arrive) `à` (at) `l’` (the) `hôtel` (hotel) |
+| 30. He has just written a short message. | `Il vient d’écrire un message court.` Word by word: `Il` (he) `vient` (has just) `d’` (recent past marker) `écrire` (to write) `un` (a) `message` (message) `court` (short) |
+| 31. You have just read the letter. | `Tu viens de lire la lettre.` Word by word: `Tu` (you) `viens` (have just) `de` (recent past marker) `lire` (to read) `la` (the) `lettre` (letter) |
+| 32. She has just gone out with her sister. | `Elle vient de sortir avec sa sœur.` Word by word: `Elle` (she) `vient` (has just) `de` (recent past marker) `sortir` (to go out) `avec` (with) `sa` (her) `sœur` (sister) |
+| 33. I have not just called the doctor. | `Je ne viens pas d’appeler le médecin.` Word by word: `Je` (I) `ne` (not, with pas) `viens` (have just) `pas` (not) `d’` (recent past marker) `appeler` (to call) `le` (the) `médecin` (doctor) |
+| 34. We come from Marseille, but we live in Paris. | `Nous venons de Marseille, mais nous habitons à Paris.` Word by word: `Nous` (we) `venons` (come) `de` (from) `Marseille` (Marseille) `mais` (but) `nous` (we) `habitons` (live) `à` (in) `Paris` (Paris) |
+| 35. What are you holding in your hand? | `Qu’est-ce que tu tiens dans ta main ?` Word by word: `Qu’` (what) `est-ce` (question marker: is it) `que` (what) `tu` (you) `tiens` (hold) `dans` (in) `ta` (your) `main` (hand) |
+| 36. I tell the truth to my parents. | `Je dis la vérité à mes parents.` Word by word: `Je` (I) `dis` (tell) `la` (the) `vérité` (truth) `à` (to) `mes` (my) `parents` (parents) |
+| 37. What are the children saying? | `Qu’est-ce que les enfants disent ?` Word by word: `Qu’` (what) `est-ce` (question marker: is it) `que` (what) `les` (the) `enfants` (children) `disent` (say) |
+| 38. You read the newspaper during breakfast. | `Vous lisez le journal pendant le petit-déjeuner.` Word by word: `Vous` (you) `lisez` (read) `le` (the) `journal` (newspaper) `pendant` (during) `le` (the) `petit-déjeuner` (breakfast) |
+| 39. We read more in the evening. | `Nous lisons davantage le soir.` Word by word: `Nous` (we) `lisons` (read) `davantage` (more) `le` (the) `soir` (evening) |
+| 40. She writes to her brother every week. | `Elle écrit à son frère chaque semaine.` Word by word: `Elle` (she) `écrit` (writes) `à` (to) `son` (her) `frère` (brother) `chaque` (each) `semaine` (week) |
+| 41. Are you writing an email to the director? | `Est-ce que tu écris un mail au directeur ?` Word by word: `Est-ce` (question marker: is it) `que` (that) `tu` (you) `écris` (write) `un` (a) `mail` (email) `au` (to the) `directeur` (director) |
+| 42. They put their coats near the door. | `Ils mettent leurs manteaux près de la porte.` Word by word: `Ils` (they) `mettent` (put) `leurs` (their) `manteaux` (coats) `près` (near) `de` (to) `la` (the) `porte` (door) |
+| 43. I set the table before dinner. | `Je mets la table avant le dîner.` Word by word: `Je` (I) `mets` (put) `la` (the) `table` (table) `avant` (before) `le` (the) `dîner` (dinner) |
+| 44. We receive letters from our grandparents. | `Nous recevons des lettres de nos grands-parents.` Word by word: `Nous` (we) `recevons` (receive) `des` (some) `lettres` (letters) `de` (from) `nos` (our) `grands-parents` (grandparents) |
+| 45. She receives a message from the office. | `Elle reçoit un message du bureau.` Word by word: `Elle` (she) `reçoit` (receives) `un` (a) `message` (message) `du` (from the) `bureau` (office) |
+| 46. Do you say that often? | `Est-ce que vous dites cela souvent ?` Word by word: `Est-ce` (question marker: is it) `que` (that) `vous` (you) `dites` (say) `cela` (that) `souvent` (often) |
+| 47. My friends write postcards in the summer. | `Mes amis écrivent des cartes postales en été.` Word by word: `Mes` (my) `amis` (friends) `écrivent` (write) `des` (some) `cartes` (cards) `postales` (postcards) `en` (in) `été` (summer) |
+| 48. I am going to read this book tonight. | `Je vais lire ce livre ce soir.` Word by word: `Je` (I) `vais` (am going to) `lire` (to read) `ce` (this) `livre` (book) `ce` (this) `soir` (evening) |
+| 49. We have to put the bags under the table. | `Nous devons mettre les sacs sous la table.` Word by word: `Nous` (we) `devons` (have to) `mettre` (to put) `les` (the) `sacs` (bags) `sous` (under) `la` (the) `table` (table) |
+| 50. He wants to receive news from his family. | `Il veut recevoir des nouvelles de sa famille.` Word by word: `Il` (he) `veut` (want) `recevoir` (to receive) `des` (some) `nouvelles` (news) `de` (from) `sa` (his) `famille` (family) |
+| 51. Can you write the address here? | `Peux-tu écrire l’adresse ici ?` Word by word: `Peux-tu` (can you) `écrire` (to write) `l’` (the) `adresse` (address) `ici` (here) |
+| 52. The teacher says that the work is important. | `Le professeur dit que le travail est important.` Word by word: `Le` (the) `professeur` (teacher) `dit` (says) `que` (that) `le` (the) `travail` (work) `est` (is) `important` (important) |
+| 53. They do not read during the trip. | `Ils ne lisent pas pendant le voyage.` Word by word: `Ils` (they) `ne` (not, with pas) `lisent` (read) `pas` (not) `pendant` (during) `le` (the) `voyage` (trip) |
+| 54. You are going to tell the story tomorrow. | `Tu vas dire l’histoire demain.` Word by word: `Tu` (you) `vas` (are going to) `dire` (tell) `l’` (the) `histoire` (story) `demain` (tomorrow) |
+| 55. We have just received the tickets. | `Nous venons de recevoir les billets.` Word by word: `Nous` (we) `venons` (have just) `de` (recent past marker) `recevoir` (to receive) `les` (the) `billets` (tickets) |
+| 56. I can come after work. | `Je peux venir après le travail.` Word by word: `Je` (I) `peux` (can) `venir` (to come) `après` (after) `le` (the) `travail` (work) |
+| 57. Can you close the window? | `Est-ce que tu peux fermer la fenêtre ?` Word by word: `Est-ce` (question marker: is it) `que` (that) `tu` (you) `peux` (can) `fermer` (to close) `la` (the) `fenêtre` (window) |
+| 58. They cannot go out before nine. | `Ils ne peuvent pas sortir avant neuf heures.` Word by word: `Ils` (they) `ne` (not, with pas) `peuvent` (can) `pas` (not) `sortir` (to go out) `avant` (before) `neuf` (nine) `heures` (hours) |
+| 59. We want to leave now. | `Nous voulons partir maintenant.` Word by word: `Nous` (we) `voulons` (want) `partir` (to leave) `maintenant` (now) |
+| 60. She wants to read in the train. | `Elle veut lire dans le train.` Word by word: `Elle` (she) `veut` (wants) `lire` (to read) `dans` (in) `le` (the) `train` (train) |
+| 61. Do you want to write to your aunt? | `Est-ce que vous voulez écrire à votre tante ?` Word by word: `Est-ce` (question marker: is it) `que` (that) `vous` (you) `voulez` (want) `écrire` (to write) `à` (to) `votre` (your) `tante` (aunt) |
+| 62. I have to finish this report tonight. | `Je dois finir ce rapport ce soir.` Word by word: `Je` (I) `dois` (have to) `finir` (to finish) `ce` (this) `rapport` (report) `ce` (this) `soir` (evening) |
+| 63. You must put your phone on the table. | `Tu dois mettre ton téléphone sur la table.` Word by word: `Tu` (you) `dois` (must) `mettre` (to put) `ton` (your) `téléphone` (phone) `sur` (on) `la` (the) `table` (table) |
+| 64. He probably is at the office. | `Il doit être au bureau.` Word by word: `Il` (he) `doit` (is probably) `être` (to be) `au` (at the) `bureau` (office) |
+| 65. We owe ten euros to Paul. | `Nous devons dix euros à Paul.` Word by word: `Nous` (we) `devons` (owe) `dix` (ten) `euros` (euros) `à` (to) `Paul` (Paul) |
+| 66. My sister can speak French at work. | `Ma sœur peut parler français au travail.` Word by word: `Ma` (my) `sœur` (sister) `peut` (can) `parler` (to speak) `français` (French) `au` (at the) `travail` (work) |
+| 67. The students want to learn quickly. | `Les étudiants veulent apprendre vite.` Word by word: `Les` (the) `étudiants` (students) `veulent` (want) `apprendre` (to learn) `vite` (quickly) |
+| 68. You have to choose a seat. | `Vous devez choisir une place.` Word by word: `Vous` (you) `devez` (have to) `choisir` (to choose) `une` (a) `place` (seat) |
+| 69. I cannot read this letter without my glasses. | `Je ne peux pas lire cette lettre sans mes lunettes.` Word by word: `Je` (I) `ne` (not, with pas) `peux` (can) `pas` (not) `lire` (to read) `cette` (this) `lettre` (letter) `sans` (without) `mes` (my) `lunettes` (glasses) |
+| 70. Does he want to come to the restaurant? | `Est-ce qu’il veut venir au restaurant ?` Word by word: `Est-ce` (question marker: is it) `qu’` (that) `il` (he) `veut` (wants) `venir` (to come) `au` (to the) `restaurant` (restaurant) |
+| 71. We can wait in front of the museum. | `Nous pouvons attendre devant le musée.` Word by word: `Nous` (we) `pouvons` (can) `attendre` (to wait) `devant` (in front of) `le` (the) `musée` (museum) |
+| 72. They have to write the exercise again. | `Ils doivent écrire l’exercice encore une fois.` Word by word: `Ils` (they) `doivent` (have to) `écrire` (to write) `l’` (the) `exercice` (exercise) `encore` (again) `une` (a) `fois` (time) |
+| 73. She probably wants a glass of water. | `Elle doit vouloir un verre d’eau.` Word by word: `Elle` (she) `doit` (probably) `vouloir` (to want) `un` (a) `verre` (glass) `d’` (of) `eau` (water) |
+| 74. I want to do the shopping before noon. | `Je veux faire les courses avant midi.` Word by word: `Je` (I) `veux` (want) `faire` (to do) `les` (the) `courses` (shopping) `avant` (before) `midi` (noon) |
+| 75. I like to read in the morning. | `J’aime lire le matin.` Word by word: `J’` (I) `aime` (like) `lire` (to read) `le` (the) `matin` (morning) |
+| 76. We prefer to stay at home tonight. | `Nous préférons rester à la maison ce soir.` Word by word: `Nous` (we) `préférons` (prefer) `rester` (to stay) `à` (at) `la` (the) `maison` (home) `ce` (this) `soir` (evening) |
+| 77. She is beginning to learn French. | `Elle commence à apprendre le français.` Word by word: `Elle` (she) `commence` (begins) `à` (to) `apprendre` (to learn) `le` (the) `français` (French) |
+| 78. Are you learning to cook with your father? | `Est-ce que tu apprends à cuisiner avec ton père ?` Word by word: `Est-ce` (question marker: is it) `que` (that) `tu` (you) `apprends` (learn) `à` (to) `cuisiner` (to cook) `avec` (with) `ton` (your) `père` (father) |
+| 79. Paul helps Marie carry the bags. | `Paul aide Marie à porter les sacs.` Word by word: `Paul` (Paul) `aide` (helps) `Marie` (Marie) `à` (to) `porter` (to carry) `les` (the) `sacs` (bags) |
+| 80. They manage to finish on time. | `Ils réussissent à finir à temps.` Word by word: `Ils` (they) `réussissent` (manage) `à` (to) `finir` (to finish) `à` (to) `temps` (time) |
+| 81. I try to speak every day. | `J’essaie de parler chaque jour.` Word by word: `J’` (I) `essaie` (try) `de` (to) `parler` (to speak) `chaque` (each) `jour` (day) |
+| 82. We stop working at six o’clock. | `Nous arrêtons de travailler à six heures.` Word by word: `Nous` (we) `arrêtons` (stop) `de` (—) `travailler` (to work) `à` (at) `six` (six) `heures` (o’clock) |
+| 83. You forget to close the door. | `Tu oublies de fermer la porte.` Word by word: `Tu` (you) `oublies` (forget) `de` (to) `fermer` (to close) `la` (the) `porte` (door) |
+| 84. She chooses to stay near the station. | `Elle choisit de rester près de la gare.` Word by word: `Elle` (she) `choisit` (chooses) `de` (to) `rester` (to stay) `près` (near) `de` (to) `la` (the) `gare` (station) |
+| 85. He refuses to answer the question. | `Il refuse de répondre à la question.` Word by word: `Il` (he) `refuse` (refuses) `de` (to) `répondre` (to answer) `à` (to) `la` (the) `question` (question) |
+| 86. Do you have to begin to write now? | `Est-ce que vous devez commencer à écrire maintenant ?` Word by word: `Est-ce` (question marker: is it) `que` (that) `vous` (you) `devez` (have to) `commencer` (to begin) `à` (to) `écrire` (to write) `maintenant` (now) |
+| 87. We want to try to understand the problem. | `Nous voulons essayer de comprendre le problème.` Word by word: `Nous` (we) `voulons` (want) `essayer` (to try) `de` (to) `comprendre` (to understand) `le` (the) `problème` (problem) |
+| 88. The children like to go out after school. | `Les enfants aiment sortir après l’école.` Word by word: `Les` (the) `enfants` (children) `aiment` (like) `sortir` (to go out) `après` (after) `l’` (the) `école` (school) |
+| 89. I am going to learn to cook this summer. | `Je vais apprendre à cuisiner cet été.` Word by word: `Je` (I) `vais` (am going to) `apprendre` (to learn) `à` (to) `cuisiner` (to cook) `cet` (this) `été` (summer) |
+| 90. She can manage to finish before dinner. | `Elle peut réussir à finir avant le dîner.` Word by word: `Elle` (she) `peut` (can) `réussir` (to manage) `à` (to) `finir` (to finish) `avant` (before) `le` (the) `dîner` (dinner) |
+| 91. They are trying to leave earlier. | `Ils essaient de partir plus tôt.` Word by word: `Ils` (they) `essaient` (try) `de` (to) `partir` (to leave) `plus` (more) `tôt` (early) |
+| 92. You must stop talking during the film. | `Tu dois arrêter de parler pendant le film.` Word by word: `Tu` (you) `dois` (must) `arrêter` (to stop) `de` (—) `parler` (to speak) `pendant` (during) `le` (the) `film` (film) |
+| 93. We are beginning to read longer texts. | `Nous commençons à lire des textes plus longs.` Word by word: `Nous` (we) `commençons` (begin) `à` (to) `lire` (to read) `des` (some) `textes` (texts) `plus` (more) `longs` (long) |
+| 94. I prefer to write before breakfast. | `Je préfère écrire avant le petit-déjeuner.` Word by word: `Je` (I) `préfère` (prefer) `écrire` (to write) `avant` (before) `le` (the) `petit-déjeuner` (breakfast) |
+| 95. Can you help your brother finish the dishes? | `Peux-tu aider ton frère à finir la vaisselle ?` Word by word: `Peux-tu` (can you) `aider` (to help) `ton` (your) `frère` (brother) `à` (—) `finir` (to finish) `la` (the) `vaisselle` (dishes) |
+| 96. She has just chosen to stay in Paris. | `Elle vient de choisir de rester à Paris.` Word by word: `Elle` (she) `vient` (has just) `de` (recent past marker) `choisir` (to choose) `de` (to) `rester` (to stay) `à` (to) `Paris` (Paris) |
+| 97. We forget to buy bread at the market. | `Nous oublions d’acheter du pain au marché.` Word by word: `Nous` (we) `oublions` (forget) `d’` (to) `acheter` (to buy) `du` (some) `pain` (bread) `au` (at the) `marché` (market) |
+| 98. He wants to learn to write better. | `Il veut apprendre à écrire mieux.` Word by word: `Il` (he) `veut` (wants) `apprendre` (to learn) `à` (to) `écrire` (to write) `mieux` (better) |
+| 99. Are they trying to receive more news? | `Est-ce qu’ils essaient de recevoir plus de nouvelles ?` Word by word: `Est-ce` (question marker: is it) `qu’` (that) `ils` (they) `essaient` (try) `de` (to) `recevoir` (to receive) `plus` (more) `de` (of) `nouvelles` (news) |
+| 100. The students begin to receive messages from the professor. | `Les étudiants commencent à recevoir des messages du professeur.` Word by word: `Les` (the) `étudiants` (students) `commencent` (begin) `à` (to) `recevoir` (to receive) `des` (some) `messages` (messages) `du` (from the) `professeur` (teacher) |

@@ -450,103 +450,103 @@ Cover the French column, translate each English sentence aloud, then uncover to 
 
 | English | French |
 | --- | --- |
-| 1. I know the answer. | `Je sais la réponse.` |
-| 2. Do you know my brother? | `Est-ce que tu connais mon frère ?` |
-| 3. She knows how to drive in the city. | `Elle sait conduire en ville.` |
-| 4. We know this neighborhood well. | `Nous connaissons bien ce quartier.` |
-| 5. They know that the museum closes at six. | `Ils savent que le musée ferme à six heures.` |
-| 6. You know how to finish the work. | `Vous savez finir le travail.` |
-| 7. I do not know this professor. | `Je ne connais pas ce professeur.` |
-| 8. Does he know the address of the hotel? | `Est-ce qu’il sait l’adresse de l’hôtel ?` |
-| 9. My parents know Paris very well. | `Mes parents connaissent très bien Paris.` |
-| 10. We know why the train is late. | `Nous savons pourquoi le train est en retard.` |
-| 11. She does not know how to swim. | `Elle ne sait pas nager.` |
-| 12. Do you know this song? | `Est-ce que vous connaissez cette chanson ?` |
-| 13. I know that he wants to leave early. | `Je sais qu’il veut partir tôt.` |
-| 14. The children know this park. | `Les enfants connaissent ce parc.` |
-| 15. Do we know how to answer this question? | `Est-ce que nous savons répondre à cette question ?` |
-| 16. He knows the woman at the door. | `Il connaît la femme à la porte.` |
-| 17. You know that I have to work tonight. | `Tu sais que je dois travailler ce soir.` |
-| 18. We do not know this small village. | `Nous ne connaissons pas ce petit village.` |
-| 19. They know how to read the map. | `Ils savent lire la carte.` |
-| 20. I know your city, but I do not know your street. | `Je connais ta ville, mais je ne connais pas ta rue.` |
-| 21. I see the station from here. | `Je vois la gare d’ici.` |
-| 22. We see the mountains from the window. | `Nous voyons les montagnes de la fenêtre.` |
-| 23. Do you believe this story? | `Est-ce que tu crois cette histoire ?` |
-| 24. She believes that the lesson is useful. | `Elle croit que la leçon est utile.` |
-| 25. They run in the park every Saturday. | `Ils courent dans le parc tous les samedis.` |
-| 26. Why are you laughing? | `Pourquoi est-ce que vous riez ?` |
-| 27. I do not believe that answer. | `Je ne crois pas cette réponse.` |
-| 28. The children laugh at the same jokes. | `Les enfants rient aux mêmes blagues.` |
-| 29. We run before breakfast. | `Nous courons avant le petit-déjeuner.` |
-| 30. Can you see the sign near the door? | `Peux-tu voir le panneau près de la porte ?` |
-| 31. My sister thinks that you are right. | `Ma sœur croit que tu as raison.` |
-| 32. I am going to run around the lake. | `Je vais courir autour du lac.` |
-| 33. They see the problem now. | `Ils voient le problème maintenant.` |
-| 34. We laugh because the film is funny. | `Nous rions parce que le film est drôle.` |
-| 35. Do you believe that he can finish today? | `Croyez-vous qu’il peut finir aujourd’hui ?` |
-| 36. She gives a book to her mother. | `Elle offre un livre à sa mère.` |
-| 37. We open the windows in the morning. | `Nous ouvrons les fenêtres le matin.` |
-| 38. He suffers from his back in winter. | `Il souffre du dos en hiver.` |
-| 39. Do you drive at night? | `Est-ce que tu conduis la nuit ?` |
-| 40. My grandparents live in the country. | `Mes grands-parents vivent à la campagne.` |
-| 41. We follow this course together. | `Nous suivons ce cours ensemble.` |
-| 42. I follow the safety rules. | `Je suis les règles de sécurité.` |
-| 43. They fear the cold in January. | `Ils craignent le froid en janvier.` |
-| 44. You open the door for the cat. | `Vous ouvrez la porte pour le chat.` |
-| 45. We give flowers to the teacher. | `Nous offrons des fleurs au professeur.` |
-| 46. She drives to Marseille on Friday. | `Elle conduit jusqu’à Marseille vendredi.` |
-| 47. Do they live near the sea? | `Est-ce qu’ils vivent près de la mer ?` |
-| 48. I am not following the guide today. | `Je ne suis pas le guide aujourd’hui.` |
-| 49. You fear this exam too much. | `Tu crains trop cet examen.` |
-| 50. The shops open at nine o’clock. | `Les magasins ouvrent à neuf heures.` |
-| 51. He is going to give a ticket to his friend. | `Il va offrir un billet à son ami.` |
-| 52. We have to follow the road to the village. | `Nous devons suivre la route vers le village.` |
-| 53. The students live in a quiet neighborhood. | `Les étudiants vivent dans un quartier calme.` |
-| 54. Can you drive this car? | `Peux-tu conduire cette voiture ?` |
-| 55. The child suffers when it is very hot. | `L’enfant souffre quand il fait très chaud.` |
-| 56. I know a woman who runs every morning. | `Je connais une femme qui court tous les matins.` |
-| 57. Here is the book that my teacher recommends. | `Voici le livre que mon professeur recommande.` |
-| 58. Paris is the city where my cousin lives. | `Paris est la ville où mon cousin habite.` |
-| 59. The man who opens the café is friendly. | `L’homme qui ouvre le café est sympathique.` |
-| 60. The letter that you are writing is very long. | `La lettre que tu écris est très longue.` |
-| 61. The day when we leave arrives quickly. | `Le jour où nous partons arrive vite.` |
-| 62. I see the children who play in the yard. | `Je vois les enfants qui jouent dans la cour.` |
-| 63. This is the restaurant that we know well. | `C’est le restaurant que nous connaissons bien.` |
-| 64. The street where I wait is quiet. | `La rue où j’attends est calme.` |
-| 65. She reads a message that begins with my name. | `Elle lit un message qui commence par mon nom.` |
-| 66. We visit a village that your parents know. | `Nous visitons un village que tes parents connaissent.` |
-| 67. I like the café where students read. | `J’aime le café où les étudiants lisent.` |
-| 68. The dog that sleeps under the table is small. | `Le chien qui dort sous la table est petit.` |
-| 69. The course where we learn French is useful. | `Le cours où nous apprenons le français est utile.` |
-| 70. He follows a road that leads to the sea. | `Il suit une route qui mène à la mer.` |
-| 71. The question that she asks is simple. | `La question qu’elle pose est simple.` |
-| 72. The office where my father works is near here. | `Le bureau où mon père travaille est près d’ici.` |
-| 73. We know the people who live upstairs. | `Nous connaissons les personnes qui vivent en haut.` |
-| 74. The table that he puts near the window is round. | `La table qu’il met près de la fenêtre est ronde.` |
-| 75. The project that I am talking about starts today. | `Le projet dont je parle commence aujourd’hui.` |
-| 76. Here is the document that we need. | `Voici le document dont nous avons besoin.` |
-| 77. The student whose sister lives here comes from Chile. | `L’étudiant dont la sœur habite ici vient du Chili.` |
-| 78. The chair on which she puts her bag is broken. | `La chaise sur laquelle elle met son sac est cassée.` |
-| 79. The friends with whom we run are patient. | `Les amis avec lesquels nous courons sont patients.` |
-| 80. The problem that you are thinking about is serious. | `Le problème auquel tu penses est sérieux.` |
-| 81. The tables between which the dog sleeps are round. | `Les tables entre lesquelles le chien dort sont rondes.` |
-| 82. I do not understand what is happening. | `Je ne comprends pas ce qui arrive.` |
-| 83. Say what you want. | `Dis ce que tu veux.` |
-| 84. That is what we need for the trip. | `Voilà ce dont nous avons besoin pour le voyage.` |
-| 85. I know what changes in this course. | `Je sais ce qui change dans ce cours.` |
-| 86. She reads what the teacher writes. | `Elle lit ce que le professeur écrit.` |
-| 87. Do you understand what I am saying? | `Est-ce que tu comprends ce que je dis ?` |
-| 88. He explains what he knows. | `Il explique ce qu’il sait.` |
-| 89. I see what you are opening. | `Je vois ce que tu ouvres.` |
-| 90. They know what the children fear. | `Ils savent ce que les enfants craignent.` |
-| 91. The street in which we run is flat. | `La rue dans laquelle nous courons est plate.` |
-| 92. The village from which she comes is small. | `Le village duquel elle vient est petit.` |
-| 93. The dates that we are talking about change often. | `Les dates dont nous parlons changent souvent.` |
-| 94. What I believe is simple. | `Ce que je crois est simple.` |
-| 95. What begins today is important. | `Ce qui commence aujourd’hui est important.` |
-| 96. What he needs is on the table. | `Ce dont il a besoin est sur la table.` |
-| 97. The woman to whom you are writing knows my family. | `La femme à laquelle tu écris connaît ma famille.` |
-| 98. The course in which we work is difficult. | `Le cours dans lequel nous travaillons est difficile.` |
-| 99. This is the reason why they laugh. | `C’est la raison pour laquelle ils rient.` |
-| 100. I choose the book whose title is short. | `Je choisis le livre dont le titre est court.` |
+| 1. I know the answer. | `Je sais la réponse.` Word by word: `Je` (I) `sais` (know) `la` (the) `réponse` (answer) |
+| 2. Do you know my brother? | `Est-ce que tu connais mon frère ?` Word by word: `Est-ce` (question marker: is it) `que` (that) `tu` (you) `connais` (know) `mon` (my) `frère` (brother) |
+| 3. She knows how to drive in the city. | `Elle sait conduire en ville.` Word by word: `Elle` (she) `sait` (knows) `conduire` (to drive) `en` (in) `ville` (city) |
+| 4. We know this neighborhood well. | `Nous connaissons bien ce quartier.` Word by word: `Nous` (we) `connaissons` (know) `bien` (well) `ce` (this) `quartier` (neighborhood) |
+| 5. They know that the museum closes at six. | `Ils savent que le musée ferme à six heures.` Word by word: `Ils` (they) `savent` (know) `que` (that) `le` (the) `musée` (museum) `ferme` (closes) `à` (at) `six` (six) `heures` (hours) |
+| 6. You know how to finish the work. | `Vous savez finir le travail.` Word by word: `Vous` (you) `savez` (know) `finir` (to finish) `le` (the) `travail` (work) |
+| 7. I do not know this professor. | `Je ne connais pas ce professeur.` Word by word: `Je` (I) `ne` (not, with pas) `connais` (know) `pas` (not) `ce` (this) `professeur` (teacher) |
+| 8. Does he know the address of the hotel? | `Est-ce qu’il sait l’adresse de l’hôtel ?` Word by word: `Est-ce` (question marker: is it) `qu’` (that) `il` (he) `sait` (knows) `l’` (the) `adresse` (address) `de` (of) `l’` (the) `hôtel` (hotel) |
+| 9. My parents know Paris very well. | `Mes parents connaissent très bien Paris.` Word by word: `Mes` (my) `parents` (parents) `connaissent` (know) `très` (very) `bien` (well) `Paris` (Paris) |
+| 10. We know why the train is late. | `Nous savons pourquoi le train est en retard.` Word by word: `Nous` (we) `savons` (know) `pourquoi` (why) `le` (the) `train` (train) `est` (is) `en` (in) `retard` (delay) |
+| 11. She does not know how to swim. | `Elle ne sait pas nager.` Word by word: `Elle` (she) `ne` (not, with pas) `sait` (knows) `pas` (not) `nager` (to swim) |
+| 12. Do you know this song? | `Est-ce que vous connaissez cette chanson ?` Word by word: `Est-ce` (question marker: is it) `que` (that) `vous` (you) `connaissez` (know) `cette` (this) `chanson` (song) |
+| 13. I know that he wants to leave early. | `Je sais qu’il veut partir tôt.` Word by word: `Je` (I) `sais` (know) `qu’` (that) `il` (he) `veut` (wants) `partir` (to leave) `tôt` (early) |
+| 14. The children know this park. | `Les enfants connaissent ce parc.` Word by word: `Les` (the) `enfants` (children) `connaissent` (know) `ce` (this) `parc` (park) |
+| 15. Do we know how to answer this question? | `Est-ce que nous savons répondre à cette question ?` Word by word: `Est-ce` (question marker: is it) `que` (that) `nous` (we) `savons` (know) `répondre` (to answer) `à` (to) `cette` (this) `question` (question) |
+| 16. He knows the woman at the door. | `Il connaît la femme à la porte.` Word by word: `Il` (he) `connaît` (knows) `la` (the) `femme` (woman) `à` (at) `la` (the) `porte` (door) |
+| 17. You know that I have to work tonight. | `Tu sais que je dois travailler ce soir.` Word by word: `Tu` (you) `sais` (know) `que` (that) `je` (I) `dois` (have to) `travailler` (to work) `ce` (this) `soir` (evening) |
+| 18. We do not know this small village. | `Nous ne connaissons pas ce petit village.` Word by word: `Nous` (we) `ne` (not, with pas) `connaissons` (know) `pas` (not) `ce` (this) `petit` (small) `village` (village) |
+| 19. They know how to read the map. | `Ils savent lire la carte.` Word by word: `Ils` (they) `savent` (know) `lire` (to read) `la` (the) `carte` (map) |
+| 20. I know your city, but I do not know your street. | `Je connais ta ville, mais je ne connais pas ta rue.` Word by word: `Je` (I) `connais` (know) `ta` (your) `ville` (city) `mais` (but) `je` (I) `ne` (not, with pas) `connais` (know) `pas` (not) `ta` (your) `rue` (street) |
+| 21. I see the station from here. | `Je vois la gare d’ici.` Word by word: `Je` (I) `vois` (see) `la` (the) `gare` (station) `d’` (from) `ici` (here) |
+| 22. We see the mountains from the window. | `Nous voyons les montagnes de la fenêtre.` Word by word: `Nous` (we) `voyons` (see) `les` (the) `montagnes` (mountains) `de` (from) `la` (the) `fenêtre` (window) |
+| 23. Do you believe this story? | `Est-ce que tu crois cette histoire ?` Word by word: `Est-ce` (question marker: is it) `que` (that) `tu` (you) `crois` (believe) `cette` (this) `histoire` (story) |
+| 24. She believes that the lesson is useful. | `Elle croit que la leçon est utile.` Word by word: `Elle` (she) `croit` (believes) `que` (that) `la` (the) `leçon` (lesson) `est` (is) `utile` (useful) |
+| 25. They run in the park every Saturday. | `Ils courent dans le parc tous les samedis.` Word by word: `Ils` (they) `courent` (run) `dans` (in) `le` (the) `parc` (park) `tous` (every) `les` (the) `samedis` (Saturdays) |
+| 26. Why are you laughing? | `Pourquoi est-ce que vous riez ?` Word by word: `Pourquoi` (why) `est-ce` (question marker: is it) `que` (that) `vous` (you) `riez` (laugh) |
+| 27. I do not believe that answer. | `Je ne crois pas cette réponse.` Word by word: `Je` (I) `ne` (not, with pas) `crois` (believe) `pas` (not) `cette` (this) `réponse` (answer) |
+| 28. The children laugh at the same jokes. | `Les enfants rient aux mêmes blagues.` Word by word: `Les` (the) `enfants` (children) `rient` (laugh) `aux` (at the) `mêmes` (same) `blagues` (jokes) |
+| 29. We run before breakfast. | `Nous courons avant le petit-déjeuner.` Word by word: `Nous` (we) `courons` (run) `avant` (before) `le` (the) `petit-déjeuner` (breakfast) |
+| 30. Can you see the sign near the door? | `Peux-tu voir le panneau près de la porte ?` Word by word: `Peux-tu` (can you) `voir` (to see) `le` (the) `panneau` (sign) `près` (near) `de` (to) `la` (the) `porte` (door) |
+| 31. My sister thinks that you are right. | `Ma sœur croit que tu as raison.` Word by word: `Ma` (my) `sœur` (sister) `croit` (believes) `que` (that) `tu` (you) `as` (have) `raison` (reason) |
+| 32. I am going to run around the lake. | `Je vais courir autour du lac.` Word by word: `Je` (I) `vais` (am going to) `courir` (to run) `autour` (around) `du` (of the) `lac` (lake) |
+| 33. They see the problem now. | `Ils voient le problème maintenant.` Word by word: `Ils` (they) `voient` (see) `le` (the) `problème` (problem) `maintenant` (now) |
+| 34. We laugh because the film is funny. | `Nous rions parce que le film est drôle.` Word by word: `Nous` (we) `rions` (laugh) `parce` (because) `que` (that) `le` (the) `film` (film) `est` (is) `drôle` (funny) |
+| 35. Do you believe that he can finish today? | `Croyez-vous qu’il peut finir aujourd’hui ?` Word by word: `Croyez-vous` (do you believe) `qu’` (that) `il` (he) `peut` (can) `finir` (to finish) `aujourd’hui` (today) |
+| 36. She gives a book to her mother. | `Elle offre un livre à sa mère.` Word by word: `Elle` (she) `offre` (gives) `un` (a) `livre` (book) `à` (to) `sa` (her) `mère` (mother) |
+| 37. We open the windows in the morning. | `Nous ouvrons les fenêtres le matin.` Word by word: `Nous` (we) `ouvrons` (open) `les` (the) `fenêtres` (windows) `le` (the) `matin` (morning) |
+| 38. He suffers from his back in winter. | `Il souffre du dos en hiver.` Word by word: `Il` (he) `souffre` (suffers) `du` (of the) `dos` (back) `en` (in) `hiver` (winter) |
+| 39. Do you drive at night? | `Est-ce que tu conduis la nuit ?` Word by word: `Est-ce` (question marker: is it) `que` (that) `tu` (you) `conduis` (drive) `la` (the) `nuit` (night) |
+| 40. My grandparents live in the country. | `Mes grands-parents vivent à la campagne.` Word by word: `Mes` (my) `grands-parents` (grandparents) `vivent` (live) `à` (in) `la` (the) `campagne` (countryside) |
+| 41. We follow this course together. | `Nous suivons ce cours ensemble.` Word by word: `Nous` (we) `suivons` (follow) `ce` (this) `cours` (course) `ensemble` (together) |
+| 42. I follow the safety rules. | `Je suis les règles de sécurité.` Word by word: `Je` (I) `suis` (follow) `les` (the) `règles` (rules) `de` (of) `sécurité` (safety) |
+| 43. They fear the cold in January. | `Ils craignent le froid en janvier.` Word by word: `Ils` (they) `craignent` (fear) `le` (the) `froid` (cold) `en` (in) `janvier` (January) |
+| 44. You open the door for the cat. | `Vous ouvrez la porte pour le chat.` Word by word: `Vous` (you) `ouvrez` (open) `la` (the) `porte` (door) `pour` (for) `le` (the) `chat` (cat) |
+| 45. We give flowers to the teacher. | `Nous offrons des fleurs au professeur.` Word by word: `Nous` (we) `offrons` (give) `des` (some) `fleurs` (flowers) `au` (to the) `professeur` (teacher) |
+| 46. She drives to Marseille on Friday. | `Elle conduit jusqu’à Marseille vendredi.` Word by word: `Elle` (she) `conduit` (drives) `jusqu’` (until) `à` (to) `Marseille` (Marseille) `vendredi` (Friday) |
+| 47. Do they live near the sea? | `Est-ce qu’ils vivent près de la mer ?` Word by word: `Est-ce` (question marker: is it) `qu’` (that) `ils` (they) `vivent` (live) `près` (near) `de` (to) `la` (the) `mer` (sea) |
+| 48. I am not following the guide today. | `Je ne suis pas le guide aujourd’hui.` Word by word: `Je` (I) `ne` (not, with pas) `suis` (am) `pas` (not) `le` (the) `guide` (guide) `aujourd’hui` (today) |
+| 49. You fear this exam too much. | `Tu crains trop cet examen.` Word by word: `Tu` (you) `crains` (fear) `trop` (too much) `cet` (this) `examen` (exam) |
+| 50. The shops open at nine o’clock. | `Les magasins ouvrent à neuf heures.` Word by word: `Les` (the) `magasins` (shops) `ouvrent` (open) `à` (at) `neuf` (nine) `heures` (o’clock) |
+| 51. He is going to give a ticket to his friend. | `Il va offrir un billet à son ami.` Word by word: `Il` (he) `va` (is going to) `offrir` (give) `un` (a) `billet` (ticket) `à` (to) `son` (his) `ami` (friend) |
+| 52. We have to follow the road to the village. | `Nous devons suivre la route vers le village.` Word by word: `Nous` (we) `devons` (have to) `suivre` (to follow) `la` (the) `route` (road) `vers` (toward) `le` (the) `village` (village) |
+| 53. The students live in a quiet neighborhood. | `Les étudiants vivent dans un quartier calme.` Word by word: `Les` (the) `étudiants` (students) `vivent` (live) `dans` (in) `un` (a) `quartier` (neighborhood) `calme` (quiet) |
+| 54. Can you drive this car? | `Peux-tu conduire cette voiture ?` Word by word: `Peux-tu` (can you) `conduire` (to drive) `cette` (this) `voiture` (car) |
+| 55. The child suffers when it is very hot. | `L’enfant souffre quand il fait très chaud.` Word by word: `L’` (the) `enfant` (child) `souffre` (suffers) `quand` (when) `il` (it) `fait` (is) `très` (very) `chaud` (hot) |
+| 56. I know a woman who runs every morning. | `Je connais une femme qui court tous les matins.` Word by word: `Je` (I) `connais` (know) `une` (a) `femme` (woman) `qui` (who) `court` (runs) `tous` (every) `les` (the) `matins` (mornings) |
+| 57. Here is the book that my teacher recommends. | `Voici le livre que mon professeur recommande.` Word by word: `Voici` (here is) `le` (the) `livre` (book) `que` (that) `mon` (my) `professeur` (teacher) `recommande` (recommends) |
+| 58. Paris is the city where my cousin lives. | `Paris est la ville où mon cousin habite.` Word by word: `Paris` (Paris) `est` (is) `la` (the) `ville` (city) `où` (where) `mon` (my) `cousin` (cousin) `habite` (lives) |
+| 59. The man who opens the café is friendly. | `L’homme qui ouvre le café est sympathique.` Word by word: `L’` (the) `homme` (man) `qui` (who) `ouvre` (opens) `le` (the) `café` (café) `est` (is) `sympathique` (friendly) |
+| 60. The letter that you are writing is very long. | `La lettre que tu écris est très longue.` Word by word: `La` (the) `lettre` (letter) `que` (that) `tu` (you) `écris` (write) `est` (is) `très` (very) `longue` (long) |
+| 61. The day when we leave arrives quickly. | `Le jour où nous partons arrive vite.` Word by word: `Le` (the) `jour` (day) `où` (when) `nous` (we) `partons` (leave) `arrive` (arrives) `vite` (quickly) |
+| 62. I see the children who play in the yard. | `Je vois les enfants qui jouent dans la cour.` Word by word: `Je` (I) `vois` (see) `les` (the) `enfants` (children) `qui` (who) `jouent` (play) `dans` (in) `la` (the) `cour` (yard) |
+| 63. This is the restaurant that we know well. | `C’est le restaurant que nous connaissons bien.` Word by word: `C’` (this) `est` (is) `le` (the) `restaurant` (restaurant) `que` (that) `nous` (we) `connaissons` (know) `bien` (well) |
+| 64. The street where I wait is quiet. | `La rue où j’attends est calme.` Word by word: `La` (the) `rue` (street) `où` (where) `j’` (I) `attends` (wait) `est` (is) `calme` (quiet) |
+| 65. She reads a message that begins with my name. | `Elle lit un message qui commence par mon nom.` Word by word: `Elle` (she) `lit` (reads) `un` (a) `message` (message) `qui` (that) `commence` (begins) `par` (with) `mon` (my) `nom` (name) |
+| 66. We visit a village that your parents know. | `Nous visitons un village que tes parents connaissent.` Word by word: `Nous` (we) `visitons` (visit) `un` (a) `village` (village) `que` (that) `tes` (your) `parents` (parents) `connaissent` (know) |
+| 67. I like the café where students read. | `J’aime le café où les étudiants lisent.` Word by word: `J’` (I) `aime` (like) `le` (the) `café` (café) `où` (where) `les` (the) `étudiants` (students) `lisent` (read) |
+| 68. The dog that sleeps under the table is small. | `Le chien qui dort sous la table est petit.` Word by word: `Le` (the) `chien` (dog) `qui` (that) `dort` (sleeps) `sous` (under) `la` (the) `table` (table) `est` (is) `petit` (small) |
+| 69. The course where we learn French is useful. | `Le cours où nous apprenons le français est utile.` Word by word: `Le` (the) `cours` (course) `où` (where) `nous` (we) `apprenons` (learn) `le` (the) `français` (French) `est` (is) `utile` (useful) |
+| 70. He follows a road that leads to the sea. | `Il suit une route qui mène à la mer.` Word by word: `Il` (he) `suit` (follows) `une` (a) `route` (road) `qui` (that) `mène` (leads) `à` (to) `la` (the) `mer` (sea) |
+| 71. The question that she asks is simple. | `La question qu’elle pose est simple.` Word by word: `La` (the) `question` (question) `qu’` (that) `elle` (she) `pose` (asks) `est` (is) `simple` (simple) |
+| 72. The office where my father works is near here. | `Le bureau où mon père travaille est près d’ici.` Word by word: `Le` (the) `bureau` (office) `où` (where) `mon` (my) `père` (father) `travaille` (works) `est` (is) `près` (near) `d’` (from) `ici` (here) |
+| 73. We know the people who live upstairs. | `Nous connaissons les personnes qui vivent en haut.` Word by word: `Nous` (we) `connaissons` (know) `les` (the) `personnes` (people) `qui` (who) `vivent` (live) `en` (up) `haut` (above) |
+| 74. The table that he puts near the window is round. | `La table qu’il met près de la fenêtre est ronde.` Word by word: `La` (the) `table` (table) `qu’` (that) `il` (he) `met` (puts) `près` (near) `de` (to) `la` (the) `fenêtre` (window) `est` (is) `ronde` (round) |
+| 75. The project that I am talking about starts today. | `Le projet dont je parle commence aujourd’hui.` Word by word: `Le` (the) `projet` (project) `dont` (about which) `je` (I) `parle` (talks) `commence` (begin) `aujourd’hui` (today) |
+| 76. Here is the document that we need. | `Voici le document dont nous avons besoin.` Word by word: `Voici` (here is) `le` (the) `document` (document) `dont` (that) `nous` (we) `avons` (have) `besoin` (need) |
+| 77. The student whose sister lives here comes from Chile. | `L’étudiant dont la sœur habite ici vient du Chili.` Word by word: `L’` (the) `étudiant` (student) `dont` (whose) `la` (the) `sœur` (sister) `habite` (lives) `ici` (here) `vient` (comes) `du` (from) `Chili` (Chile) |
+| 78. The chair on which she puts her bag is broken. | `La chaise sur laquelle elle met son sac est cassée.` Word by word: `La` (the) `chaise` (chair) `sur` (on) `laquelle` (which) `elle` (she) `met` (puts) `son` (her) `sac` (bag) `est` (is) `cassée` (broken) |
+| 79. The friends with whom we run are patient. | `Les amis avec lesquels nous courons sont patients.` Word by word: `Les` (the) `amis` (friends) `avec` (with) `lesquels` (whom) `nous` (we) `courons` (run) `sont` (are) `patients` (patient) |
+| 80. The problem that you are thinking about is serious. | `Le problème auquel tu penses est sérieux.` Word by word: `Le` (the) `problème` (problem) `auquel` (about which) `tu` (you) `penses` (think) `est` (is) `sérieux` (serious) |
+| 81. The tables between which the dog sleeps are round. | `Les tables entre lesquelles le chien dort sont rondes.` Word by word: `Les` (the) `tables` (tables) `entre` (between) `lesquelles` (which ones) `le` (the) `chien` (dog) `dort` (sleeps) `sont` (are) `rondes` (round) |
+| 82. I do not understand what is happening. | `Je ne comprends pas ce qui arrive.` Word by word: `Je` (I) `ne` (not, with pas) `comprends` (understand) `pas` (not) `ce` (that) `qui` (which) `arrive` (happens) |
+| 83. Say what you want. | `Dis ce que tu veux.` Word by word: `Dis` (say) `ce` (that) `que` (what) `tu` (you) `veux` (want) |
+| 84. That is what we need for the trip. | `Voilà ce dont nous avons besoin pour le voyage.` Word by word: `Voilà` (that is) `ce` (what) `dont` (—) `nous` (we) `avons` (have) `besoin` (need) `pour` (for) `le` (the) `voyage` (trip) |
+| 85. I know what changes in this course. | `Je sais ce qui change dans ce cours.` Word by word: `Je` (I) `sais` (know) `ce` (that) `qui` (which) `change` (changes) `dans` (in) `ce` (this) `cours` (course) |
+| 86. She reads what the teacher writes. | `Elle lit ce que le professeur écrit.` Word by word: `Elle` (she) `lit` (reads) `ce` (that) `que` (what) `le` (the) `professeur` (teacher) `écrit` (writes) |
+| 87. Do you understand what I am saying? | `Est-ce que tu comprends ce que je dis ?` Word by word: `Est-ce` (question marker: is it) `que` (that) `tu` (you) `comprends` (understand) `ce` (that) `que` (what) `je` (I) `dis` (say) |
+| 88. He explains what he knows. | `Il explique ce qu’il sait.` Word by word: `Il` (he) `explique` (explains) `ce` (that) `qu’` (that) `il` (he) `sait` (knows) |
+| 89. I see what you are opening. | `Je vois ce que tu ouvres.` Word by word: `Je` (I) `vois` (see) `ce` (that) `que` (what) `tu` (you) `ouvres` (are opening) |
+| 90. They know what the children fear. | `Ils savent ce que les enfants craignent.` Word by word: `Ils` (they) `savent` (know) `ce` (that) `que` (what) `les` (the) `enfants` (children) `craignent` (fear) |
+| 91. The street in which we run is flat. | `La rue dans laquelle nous courons est plate.` Word by word: `La` (the) `rue` (street) `dans` (in) `laquelle` (which) `nous` (we) `courons` (run) `est` (is) `plate` (flat) |
+| 92. The village from which she comes is small. | `Le village duquel elle vient est petit.` Word by word: `Le` (the) `village` (village) `duquel` (of which) `elle` (she) `vient` (comes) `est` (is) `petit` (small) |
+| 93. The dates that we are talking about change often. | `Les dates dont nous parlons changent souvent.` Word by word: `Les` (the) `dates` (dates) `dont` (that) `nous` (we) `parlons` (talk) `changent` (change) `souvent` (often) |
+| 94. What I believe is simple. | `Ce que je crois est simple.` Word by word: `Ce` (that) `que` (what) `je` (I) `crois` (believe) `est` (is) `simple` (simple) |
+| 95. What begins today is important. | `Ce qui commence aujourd’hui est important.` Word by word: `Ce` (that) `qui` (which) `commence` (begins) `aujourd’hui` (today) `est` (is) `important` (important) |
+| 96. What he needs is on the table. | `Ce dont il a besoin est sur la table.` Word by word: `Ce` (what) `dont` (—) `il` (he) `a` (has) `besoin` (needs) `est` (is) `sur` (on) `la` (the) `table` (table) |
+| 97. The woman to whom you are writing knows my family. | `La femme à laquelle tu écris connaît ma famille.` Word by word: `La` (the) `femme` (woman) `à` (to) `laquelle` (whom) `tu` (you) `écris` (write) `connaît` (knows) `ma` (my) `famille` (family) |
+| 98. The course in which we work is difficult. | `Le cours dans lequel nous travaillons est difficile.` Word by word: `Le` (the) `cours` (course) `dans` (in) `lequel` (which) `nous` (we) `travaillons` (work) `est` (is) `difficile` (difficult) |
+| 99. This is the reason why they laugh. | `C’est la raison pour laquelle ils rient.` Word by word: `C’` (this) `est` (is) `la` (the) `raison` (reason) `pour` (for) `laquelle` (which) `ils` (they) `rient` (laugh) |
+| 100. I choose the book whose title is short. | `Je choisis le livre dont le titre est court.` Word by word: `Je` (I) `choisis` (choose) `le` (the) `livre` (book) `dont` (whose) `le` (the) `titre` (title) `est` (is) `court` (short) |

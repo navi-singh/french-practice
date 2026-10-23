@@ -428,103 +428,103 @@ Cover the French column, translate each English sentence aloud, then uncover to 
 
 | English | French |
 | --- | --- |
-| 1. I was speaking slowly. | `Je parlais lentement.` |
-| 2. You were finishing your homework. | `Tu finissais tes devoirs.` |
-| 3. She was selling vegetables at the market. | `Elle vendait des légumes au marché.` |
-| 4. We were in the kitchen. | `Nous étions dans la cuisine.` |
-| 5. Were you waiting for the bus? | `Vous attendiez le bus ?` |
-| 6. The children were choosing a game. | `Les enfants choisissaient un jeu.` |
-| 7. I was taking notes during the lesson. | `Je prenais des notes pendant le cours.` |
-| 8. They were doing the shopping together. | `Elles faisaient les courses ensemble.` |
-| 9. He did not understand the instructions. | `Il ne comprenait pas les consignes.` |
-| 10. We were writing to our grandparents. | `Nous écrivions à nos grands-parents.` |
-| 11. It was raining and the street was empty. | `Il pleuvait et la rue était vide.` |
-| 12. When I was little, I read every evening. | `Quand j’étais petit, je lisais chaque soir.` |
-| 13. We used to live near the station. | `Nous habitions près de la gare.` |
-| 14. She was afraid, but she wanted to try. | `Elle avait peur, mais elle voulait essayer.` |
-| 15. They often came to our house on Sunday. | `Ils venaient souvent chez nous le dimanche.` |
-| 16. The teacher was explaining the rule calmly. | `Le professeur expliquait la règle calmement.` |
-| 17. I was thinking about my family. | `Je pensais à ma famille.` |
-| 18. You were hungry after class. | `Tu avais faim après le cours.` |
-| 19. The room was warm and quiet. | `La pièce était chaude et calme.` |
-| 20. We used to play outside after school. | `Nous jouions dehors après l’école.` |
-| 21. Every summer, my cousins stayed with us. | `Chaque été, mes cousins restaient chez nous.` |
-| 22. The shop was closing early in winter. | `Le magasin fermait tôt en hiver.` |
-| 23. I did not like coffee at that time. | `Je n’aimais pas le café à cette époque.` |
-| 24. Did your parents work downtown? | `Tes parents travaillaient au centre-ville ?` |
-| 25. The sky was gray, and the wind was cold. | `Le ciel était gris, et le vent était froid.` |
-| 26. I was reading when Paul called me. | `Je lisais quand Paul m’a appelé.` |
-| 27. We were walking when the rain began. | `Nous marchions lorsque la pluie a commencé.` |
-| 28. She was preparing dinner when the guests arrived. | `Elle préparait le dîner quand les invités sont arrivés.` |
-| 29. It was nice out, then a cold wind came. | `Il faisait beau, puis un vent froid est venu.` |
-| 30. The children were sleeping when the phone rang. | `Les enfants dormaient quand le téléphone a sonné.` |
-| 31. I was looking for my keys, and I found them under the bed. | `Je cherchais mes clés, et je les ai trouvées sous le lit.` |
-| 32. We were waiting outside when Marie opened the door. | `Nous attendions dehors quand Marie a ouvert la porte.` |
-| 33. The restaurant was full, so we left. | `Le restaurant était plein, alors nous sommes partis.` |
-| 34. He was crossing the street when he fell. | `Il traversait la rue quand il est tombé.` |
-| 35. I was cutting bread when the light went out. | `Je coupais le pain quand la lumière s’est éteinte.` |
-| 36. They were talking softly when the baby woke up. | `Ils parlaient doucement quand le bébé s’est réveillé.` |
-| 37. She felt sick, so she went home. | `Elle se sentait malade, alors elle est rentrée chez elle.` |
-| 38. We used to take this road, but yesterday we took the train. | `Nous prenions cette route, mais hier nous avons pris le train.` |
-| 39. I was getting ready when my sister arrived. | `Je me préparais quand ma sœur est arrivée.` |
-| 40. The museum was quiet at first, then a group entered. | `Le musée était calme au début, puis un groupe est entré.` |
-| 41. While I was making coffee, Nora set the table. | `Pendant que je faisais le café, Nora a mis la table.` |
-| 42. When we lived in Lyon, we met our best friend. | `Quand nous habitions à Lyon, nous avons rencontré notre meilleur ami.` |
-| 43. The dog was sleeping near the door when I came in. | `Le chien dormait près de la porte quand je suis entré.` |
-| 44. She was writing a message when her mother answered. | `Elle écrivait un message quand sa mère a répondu.` |
-| 45. It was snowing, so the children stayed inside. | `Il neigeait, alors les enfants sont restés à l’intérieur.` |
-| 46. I was not paying attention when the teacher asked the question. | `Je ne faisais pas attention quand le professeur a posé la question.` |
-| 47. The train was late, but we arrived on time. | `Le train était en retard, mais nous sommes arrivés à l’heure.` |
-| 48. You were laughing when I told the story. | `Tu riais quand j’ai raconté l’histoire.` |
-| 49. The kitchen smelled good because my father was cooking. | `La cuisine sentait bon parce que mon père cuisinait.` |
-| 50. We were leaving the house when our neighbor stopped us. | `Nous quittions la maison quand notre voisin nous a arrêtés.` |
-| 51. I give it to Marie. | `Je le lui donne.` |
-| 52. She shows them to her brother. | `Elle les lui montre.` |
-| 53. We send it to our parents. | `Nous la leur envoyons.` |
-| 54. They explain it to the students. | `Ils le leur expliquent.` |
-| 55. Do you pass them to me? | `Tu me les passes ?` |
-| 56. He lends it to you. | `Il te le prête.` |
-| 57. The teacher gives them to us. | `Le professeur nous les donne.` |
-| 58. I take her there. | `Je l’y emmène.` |
-| 59. They talk to us about it often. | `Ils nous en parlent souvent.` |
-| 60. She puts some there every morning. | `Elle y en met chaque matin.` |
-| 61. We did not give it to him. | `Nous ne le lui avons pas donné.` |
-| 62. I already sent them to her. | `Je les lui ai déjà envoyés.` |
-| 63. Did you show it to them? | `Est-ce que tu le leur as montré ?` |
-| 64. The tickets? I gave them to Paul. | `Les billets ? Je les lui ai donnés.` |
-| 65. The letter? She sent it to her parents. | `La lettre ? Elle la leur a envoyée.` |
-| 66. The chairs? We put them there. | `Les chaises ? Nous les y avons mises.` |
-| 67. This problem? I spoke to you about it yesterday. | `Ce problème ? Je t’en ai parlé hier.` |
-| 68. Some bread? He brought us some. | `Du pain ? Il nous en a apporté.` |
-| 69. The address? They wrote it to me. | `L’adresse ? Ils me l’ont écrite.` |
-| 70. Your keys? I put them there. | `Tes clés ? Je les y ai mises.` |
-| 71. In the past, my aunt always gave us some. | `Avant, ma tante nous en donnait toujours.` |
-| 72. Every Friday, I showed the photos to my grandparents. | `Chaque vendredi, je les leur montrais.` |
-| 73. While he was explaining the rule to me, I was writing it down. | `Pendant qu’il me l’expliquait, je l’écrivais.` |
-| 74. She wanted the scarf, so I bought it for her. | `Elle voulait l’écharpe, alors je la lui ai achetée.` |
-| 75. We were bringing them to you when the bus arrived. | `Nous vous les apportions quand le bus est arrivé.` |
-| 76. Give it to me! | `Donne-le-moi !` |
-| 77. Show them to her! | `Montre-les-lui !` |
-| 78. Send it to them! | `Envoyez-la-leur !` |
-| 79. Pass them to us! | `Passez-les-nous !` |
-| 80. Put some there! | `Mets-y-en !` |
-| 81. Take me there! | `Emmène-m’y !` |
-| 82. Tell it to him slowly! | `Dis-le-lui lentement !` |
-| 83. Lend it to me for one day! | `Prête-le-moi pour un jour !` |
-| 84. Bring us some tonight! | `Apportez-nous-en ce soir !` |
-| 85. Do not give it to him now. | `Ne le lui donne pas maintenant.` |
-| 86. Do not send them to me today. | `Ne me les envoie pas aujourd’hui.` |
-| 87. Do not put any there. | `N’y en mets pas.` |
-| 88. Explain it to us again! | `Expliquez-le-nous encore !` |
-| 89. Show it to them before dinner! | `Montre-le-leur avant le dîner !` |
-| 90. Give me some, please! | `Donne-m’en, s’il te plaît !` |
-| 91. The café was noisy, but the waiter found us a quiet table. | `Le café était bruyant, mais le serveur nous a trouvé une table calme.` |
-| 92. I was looking at the menu when Léa showed it to me. | `Je regardais le menu quand Léa me l’a montré.` |
-| 93. We used to buy apples here, and the seller always gave us some. | `Nous achetions des pommes ici, et le vendeur nous en donnait toujours.` |
-| 94. My scarves? I lent them to the children. | `Mes écharpes ? Je les leur ai prêtées.` |
-| 95. While you were reading the letter, I was preparing coffee. | `Pendant que tu lisais la lettre, je préparais du café.` |
-| 96. The seats were ready, and my sister gave them to the guests. | `Les places étaient prêtes, et ma sœur les leur a données.` |
-| 97. The room was dark, so turn on the lamps for me! | `La pièce était sombre, alors allume-les-moi !` |
-| 98. I was carrying the plates when Paul took them from me. | `Je portais les assiettes quand Paul me les a prises.` |
-| 99. We were talking about the tickets, then Clara bought them for us. | `Nous parlions des billets, puis Clara nous les a achetés.` |
-| 100. It was late, so show them to us tomorrow morning. | `Il était tard, alors montrez-les-nous demain matin !` |
+| 1. I was speaking slowly. | `Je parlais lentement.` Word by word: `Je` (I) `parlais` (was speaking) `lentement` (slowly) |
+| 2. You were finishing your homework. | `Tu finissais tes devoirs.` Word by word: `Tu` (you) `finissais` (was finishing) `tes` (your) `devoirs` (homework) |
+| 3. She was selling vegetables at the market. | `Elle vendait des légumes au marché.` Word by word: `Elle` (she) `vendait` (was selling) `des` (some) `légumes` (vegetables) `au` (at the) `marché` (market) |
+| 4. We were in the kitchen. | `Nous étions dans la cuisine.` Word by word: `Nous` (we) `étions` (were) `dans` (in) `la` (the) `cuisine` (kitchen) |
+| 5. Were you waiting for the bus? | `Vous attendiez le bus ?` Word by word: `Vous` (you) `attendiez` (were waiting) `le` (the) `bus` (bus) |
+| 6. The children were choosing a game. | `Les enfants choisissaient un jeu.` Word by word: `Les` (the) `enfants` (children) `choisissaient` (were choosing) `un` (a) `jeu` (game) |
+| 7. I was taking notes during the lesson. | `Je prenais des notes pendant le cours.` Word by word: `Je` (I) `prenais` (was taking) `des` (some) `notes` (notes) `pendant` (during) `le` (the) `cours` (class) |
+| 8. They were doing the shopping together. | `Elles faisaient les courses ensemble.` Word by word: `Elles` (they) `faisaient` (were doing) `les` (the) `courses` (shopping) `ensemble` (together) |
+| 9. He did not understand the instructions. | `Il ne comprenait pas les consignes.` Word by word: `Il` (he) `ne` (not — with pas) `comprenait` (understood) `pas` (not) `les` (the) `consignes` (instructions) |
+| 10. We were writing to our grandparents. | `Nous écrivions à nos grands-parents.` Word by word: `Nous` (we) `écrivions` (were writing) `à` (to) `nos` (our) `grands-parents` (grandparents) |
+| 11. It was raining and the street was empty. | `Il pleuvait et la rue était vide.` Word by word: `Il` (it) `pleuvait` (was raining) `et` (and) `la` (the) `rue` (street) `était` (was) `vide` (empty) |
+| 12. When I was little, I read every evening. | `Quand j’étais petit, je lisais chaque soir.` Word by word: `Quand` (when) `j’` (I) `étais` (was) `petit` (little) `je` (I) `lisais` (used to read) `chaque` (every) `soir` (evening) |
+| 13. We used to live near the station. | `Nous habitions près de la gare.` Word by word: `Nous` (we) `habitions` (used to live) `près` (near) `de` (of) `la` (the) `gare` (station) |
+| 14. She was afraid, but she wanted to try. | `Elle avait peur, mais elle voulait essayer.` Word by word: `Elle` (she) `avait` (had) `peur` (fear) `mais` (but) `elle` (she) `voulait` (wanted) `essayer` (try) |
+| 15. They often came to our house on Sunday. | `Ils venaient souvent chez nous le dimanche.` Word by word: `Ils` (they) `venaient` (used to come) `souvent` (often) `chez` (at the home of) `nous` (us) `le` (on) `dimanche` (Sunday) |
+| 16. The teacher was explaining the rule calmly. | `Le professeur expliquait la règle calmement.` Word by word: `Le` (the) `professeur` (teacher) `expliquait` (was explaining) `la` (the) `règle` (rule) `calmement` (calmly) |
+| 17. I was thinking about my family. | `Je pensais à ma famille.` Word by word: `Je` (I) `pensais` (was thinking) `à` (about) `ma` (my) `famille` (family) |
+| 18. You were hungry after class. | `Tu avais faim après le cours.` Word by word: `Tu` (you) `avais` (had) `faim` (hunger) `après` (after) `le` (the) `cours` (class) |
+| 19. The room was warm and quiet. | `La pièce était chaude et calme.` Word by word: `La` (the) `pièce` (room) `était` (was) `chaude` (warm) `et` (and) `calme` (quiet) |
+| 20. We used to play outside after school. | `Nous jouions dehors après l’école.` Word by word: `Nous` (we) `jouions` (were playing) `dehors` (outside) `après` (after) `l’` (the) `école` (school) |
+| 21. Every summer, my cousins stayed with us. | `Chaque été, mes cousins restaient chez nous.` Word by word: `Chaque` (every) `été` (summer) `mes` (my) `cousins` (cousins) `restaient` (stayed) `chez` (at the home of) `nous` (us) |
+| 22. The shop was closing early in winter. | `Le magasin fermait tôt en hiver.` Word by word: `Le` (the) `magasin` (store) `fermait` (was closing) `tôt` (early) `en` (in) `hiver` (winter) |
+| 23. I did not like coffee at that time. | `Je n’aimais pas le café à cette époque.` Word by word: `Je` (I) `n’` (not — with pas) `aimais` (liked) `pas` (not) `le` (the) `café` (coffee) `à` (at) `cette` (that) `époque` (time) |
+| 24. Did your parents work downtown? | `Tes parents travaillaient au centre-ville ?` Word by word: `Tes` (your) `parents` (parents) `travaillaient` (were working) `au` (in the) `centre-ville` (downtown) |
+| 25. The sky was gray, and the wind was cold. | `Le ciel était gris, et le vent était froid.` Word by word: `Le` (the) `ciel` (sky) `était` (was) `gris` (gray) `et` (and) `le` (the) `vent` (wind) `était` (was) `froid` (cold) |
+| 26. I was reading when Paul called me. | `Je lisais quand Paul m’a appelé.` Word by word: `Je` (I) `lisais` (was reading) `quand` (when) `Paul` (Paul) `m’` (me) `a` (has, helper) `appelé` (called) |
+| 27. We were walking when the rain began. | `Nous marchions lorsque la pluie a commencé.` Word by word: `Nous` (we) `marchions` (were walking) `lorsque` (when) `la` (the) `pluie` (rain) `a` (has, helper) `commencé` (begun) |
+| 28. She was preparing dinner when the guests arrived. | `Elle préparait le dîner quand les invités sont arrivés.` Word by word: `Elle` (she) `préparait` (was preparing) `le` (the) `dîner` (dinner) `quand` (when) `les` (the) `invités` (guests) `sont` (are, helper) `arrivés` (arrived) |
+| 29. It was nice out, then a cold wind came. | `Il faisait beau, puis un vent froid est venu.` Word by word: `Il` (it) `faisait` (was) `beau` (nice) `puis` (then) `un` (a) `vent` (wind) `froid` (cold) `est` (is, helper) `venu` (came) |
+| 30. The children were sleeping when the phone rang. | `Les enfants dormaient quand le téléphone a sonné.` Word by word: `Les` (the) `enfants` (children) `dormaient` (were sleeping) `quand` (when) `le` (the) `téléphone` (phone) `a` (has, helper) `sonné` (rung) |
+| 31. I was looking for my keys, and I found them under the bed. | `Je cherchais mes clés, et je les ai trouvées sous le lit.` Word by word: `Je` (I) `cherchais` (was looking for) `mes` (my) `clés` (keys) `et` (and) `je` (I) `les` (them) `ai` (have, helper) `trouvées` (found) `sous` (under) `le` (the) `lit` (bed) |
+| 32. We were waiting outside when Marie opened the door. | `Nous attendions dehors quand Marie a ouvert la porte.` Word by word: `Nous` (we) `attendions` (were waiting) `dehors` (outside) `quand` (when) `Marie` (Marie) `a` (has, helper) `ouvert` (opened) `la` (the) `porte` (door) |
+| 33. The restaurant was full, so we left. | `Le restaurant était plein, alors nous sommes partis.` Word by word: `Le` (the) `restaurant` (restaurant) `était` (was) `plein` (full) `alors` (so) `nous` (we) `sommes` (are, helper) `partis` (left) |
+| 34. He was crossing the street when he fell. | `Il traversait la rue quand il est tombé.` Word by word: `Il` (he) `traversait` (was crossing) `la` (the) `rue` (street) `quand` (when) `il` (he) `est` (is, helper) `tombé` (fallen) |
+| 35. I was cutting bread when the light went out. | `Je coupais le pain quand la lumière s’est éteinte.` Word by word: `Je` (I) `coupais` (was cutting) `le` (the) `pain` (bread) `quand` (when) `la` (the) `lumière` (light) `s’` (itself) `est` (is, helper) `éteinte` (gone out) |
+| 36. They were talking softly when the baby woke up. | `Ils parlaient doucement quand le bébé s’est réveillé.` Word by word: `Ils` (they) `parlaient` (were speaking) `doucement` (softly) `quand` (when) `le` (the) `bébé` (baby) `s’` (itself) `est` (is, helper) `réveillé` (woke up) |
+| 37. She felt sick, so she went home. | `Elle se sentait malade, alors elle est rentrée chez elle.` Word by word: `Elle` (she) `se` (herself) `sentait` (felt) `malade` (sick) `alors` (so) `elle` (herself) `est` (is, helper) `rentrée` (went home) `chez` (at) `elle` (she) |
+| 38. We used to take this road, but yesterday we took the train. | `Nous prenions cette route, mais hier nous avons pris le train.` Word by word: `Nous` (we) `prenions` (used to take) `cette` (this) `route` (road) `mais` (but) `hier` (yesterday) `nous` (we) `avons` (have, helper) `pris` (taken) `le` (the) `train` (train) |
+| 39. I was getting ready when my sister arrived. | `Je me préparais quand ma sœur est arrivée.` Word by word: `Je` (I) `me` (myself) `préparais` (was preparing) `quand` (when) `ma` (my) `sœur` (sister) `est` (is, helper) `arrivée` (arrived) |
+| 40. The museum was quiet at first, then a group entered. | `Le musée était calme au début, puis un groupe est entré.` Word by word: `Le` (the) `musée` (museum) `était` (was) `calme` (quiet) `au` (at the) `début` (beginning) `puis` (then) `un` (a) `groupe` (group) `est` (is, helper) `entré` (entered) |
+| 41. While I was making coffee, Nora set the table. | `Pendant que je faisais le café, Nora a mis la table.` Word by word: `Pendant` (while) `que` (that) `je` (I) `faisais` (was making) `le` (the) `café` (coffee) `Nora` (Nora) `a` (has, helper) `mis` (put) `la` (the) `table` (table) |
+| 42. When we lived in Lyon, we met our best friend. | `Quand nous habitions à Lyon, nous avons rencontré notre meilleur ami.` Word by word: `Quand` (when) `nous` (we) `habitions` (used to live) `à` (in) `Lyon` (Lyon) `nous` (we) `avons` (have, helper) `rencontré` (met) `notre` (our) `meilleur` (best) `ami` (friend) |
+| 43. The dog was sleeping near the door when I came in. | `Le chien dormait près de la porte quand je suis entré.` Word by word: `Le` (the) `chien` (dog) `dormait` (was sleeping) `près` (near) `de` (of) `la` (the) `porte` (door) `quand` (when) `je` (I) `suis` (am, helper) `entré` (entered) |
+| 44. She was writing a message when her mother answered. | `Elle écrivait un message quand sa mère a répondu.` Word by word: `Elle` (she) `écrivait` (was writing) `un` (a) `message` (message) `quand` (when) `sa` (her) `mère` (mother) `a` (has, helper) `répondu` (answered) |
+| 45. It was snowing, so the children stayed inside. | `Il neigeait, alors les enfants sont restés à l’intérieur.` Word by word: `Il` (it) `neigeait` (was snowing) `alors` (so) `les` (the) `enfants` (children) `sont` (are, helper) `restés` (stayed) `à` (to) `l’` (the) `intérieur` (inside) |
+| 46. I was not paying attention when the teacher asked the question. | `Je ne faisais pas attention quand le professeur a posé la question.` Word by word: `Je` (I) `ne` (not — with pas) `faisais` (paying) `pas` (not) `attention` (attention) `quand` (when) `le` (the) `professeur` (teacher) `a` (has, helper) `posé` (asked) `la` (the) `question` (question) |
+| 47. The train was late, but we arrived on time. | `Le train était en retard, mais nous sommes arrivés à l’heure.` Word by word: `Le` (the) `train` (train) `était` (was) `en` (in) `retard` (late) `mais` (but) `nous` (we) `sommes` (are, helper) `arrivés` (arrived) `à` (on) `l’` (the) `heure` (time) |
+| 48. You were laughing when I told the story. | `Tu riais quand j’ai raconté l’histoire.` Word by word: `Tu` (you) `riais` (was laughing) `quand` (when) `j’` (I) `ai` (have, helper) `raconté` (told) `l’` (the) `histoire` (story) |
+| 49. The kitchen smelled good because my father was cooking. | `La cuisine sentait bon parce que mon père cuisinait.` Word by word: `La` (the) `cuisine` (kitchen) `sentait` (smelled) `bon` (good) `parce` (because) `que` (that) `mon` (my) `père` (father) `cuisinait` (was cooking) |
+| 50. We were leaving the house when our neighbor stopped us. | `Nous quittions la maison quand notre voisin nous a arrêtés.` Word by word: `Nous` (we) `quittions` (were leaving) `la` (the) `maison` (house) `quand` (when) `notre` (our) `voisin` (neighbor) `nous` (us) `a` (has, helper) `arrêtés` (stopped) |
+| 51. I give it to Marie. | `Je le lui donne.` Word by word: `Je` (I) `le` (it) `lui` (to her) `donne` (gives) |
+| 52. She shows them to her brother. | `Elle les lui montre.` Word by word: `Elle` (she) `les` (them) `lui` (to him) `montre` (shows) |
+| 53. We send it to our parents. | `Nous la leur envoyons.` Word by word: `Nous` (we) `la` (it) `leur` (to them) `envoyons` (send) |
+| 54. They explain it to the students. | `Ils le leur expliquent.` Word by word: `Ils` (they) `le` (it) `leur` (to them) `expliquent` (explain) |
+| 55. Do you pass them to me? | `Tu me les passes ?` Word by word: `Tu` (you) `me` (to me) `les` (them) `passes` (pass) |
+| 56. He lends it to you. | `Il te le prête.` Word by word: `Il` (he) `te` (to you) `le` (it) `prête` (lends) |
+| 57. The teacher gives them to us. | `Le professeur nous les donne.` Word by word: `Le` (the) `professeur` (teacher) `nous` (to us) `les` (them) `donne` (gives) |
+| 58. I take her there. | `Je l’y emmène.` Word by word: `Je` (I) `l’` (her) `y` (there) `emmène` (takes) |
+| 59. They talk to us about it often. | `Ils nous en parlent souvent.` Word by word: `Ils` (they) `nous` (to us) `en` (about it) `parlent` (talk) `souvent` (often) |
+| 60. She puts some there every morning. | `Elle y en met chaque matin.` Word by word: `Elle` (she) `y` (there) `en` (some) `met` (puts) `chaque` (every) `matin` (morning) |
+| 61. We did not give it to him. | `Nous ne le lui avons pas donné.` Word by word: `Nous` (we) `ne` (not — with pas) `le` (it) `lui` (to him) `avons` (have, helper) `pas` (not) `donné` (given) |
+| 62. I already sent them to her. | `Je les lui ai déjà envoyés.` Word by word: `Je` (I) `les` (them) `lui` (to her) `ai` (have, helper) `déjà` (already) `envoyés` (sent) |
+| 63. Did you show it to them? | `Est-ce que tu le leur as montré ?` Word by word: `Est-ce` (is it) `que` (that) `tu` (you) `le` (it) `leur` (to them) `as` (have, helper) `montré` (shown) |
+| 64. The tickets? I gave them to Paul. | `Les billets ? Je les lui ai donnés.` Word by word: `Les` (the) `billets` (tickets) `Je` (I) `les` (them) `lui` (to him) `ai` (have, helper) `donnés` (given) |
+| 65. The letter? She sent it to her parents. | `La lettre ? Elle la leur a envoyée.` Word by word: `La` (it) `lettre` (letter) `Elle` (she) `la` (her) `leur` (to them) `a` (has, helper) `envoyée` (sent) |
+| 66. The chairs? We put them there. | `Les chaises ? Nous les y avons mises.` Word by word: `Les` (the) `chaises` (chairs) `Nous` (we) `les` (them) `y` (there) `avons` (have, helper) `mises` (put) |
+| 67. This problem? I spoke to you about it yesterday. | `Ce problème ? Je t’en ai parlé hier.` Word by word: `Ce` (this) `problème` (problem) `Je` (I) `t’` (to you) `en` (about it) `ai` (have, helper) `parlé` (spoken) `hier` (yesterday) |
+| 68. Some bread? He brought us some. | `Du pain ? Il nous en a apporté.` Word by word: `Du` (some) `pain` (bread) `Il` (he) `nous` (to us) `en` (some) `a` (has, helper) `apporté` (brought) |
+| 69. The address? They wrote it to me. | `L’adresse ? Ils me l’ont écrite.` Word by word: `L’` (it) `adresse` (address) `Ils` (they) `me` (to me) `l’` (the) `ont` (have, helper) `écrite` (written) |
+| 70. Your keys? I put them there. | `Tes clés ? Je les y ai mises.` Word by word: `Tes` (your) `clés` (keys) `Je` (I) `les` (them) `y` (there) `ai` (have, helper) `mises` (put) |
+| 71. In the past, my aunt always gave us some. | `Avant, ma tante nous en donnait toujours.` Word by word: `Avant` (before) `ma` (my) `tante` (aunt) `nous` (to us) `en` (some) `donnait` (used to give) `toujours` (always) |
+| 72. Every Friday, I showed the photos to my grandparents. | `Chaque vendredi, je les leur montrais.` Word by word: `Chaque` (every) `vendredi` (Friday) `je` (I) `les` (them) `leur` (to them) `montrais` (showed) |
+| 73. While he was explaining the rule to me, I was writing it down. | `Pendant qu’il me l’expliquait, je l’écrivais.` Word by word: `Pendant` (while) `qu’` (that) `il` (he) `me` (to me) `l’` (it) `expliquait` (was explaining) `je` (I) `l’` (it) `écrivais` (was writing) |
+| 74. She wanted the scarf, so I bought it for her. | `Elle voulait l’écharpe, alors je la lui ai achetée.` Word by word: `Elle` (she) `voulait` (wanted) `l’` (the) `écharpe` (scarf) `alors` (so) `je` (I) `la` (it) `lui` (to her) `ai` (have, helper) `achetée` (bought) |
+| 75. We were bringing them to you when the bus arrived. | `Nous vous les apportions quand le bus est arrivé.` Word by word: `Nous` (we) `vous` (to you) `les` (them) `apportions` (were bringing) `quand` (when) `le` (the) `bus` (bus) `est` (is, helper) `arrivé` (arrived) |
+| 76. Give it to me! | `Donne-le-moi !` Word by word: `Donne-le-moi` (give it to me!) |
+| 77. Show them to her! | `Montre-les-lui !` Word by word: `Montre-les-lui` (show them to her!) |
+| 78. Send it to them! | `Envoyez-la-leur !` Word by word: `Envoyez-la-leur` (send it to them!) |
+| 79. Pass them to us! | `Passez-les-nous !` Word by word: `Passez-les-nous` (pass them to us!) |
+| 80. Put some there! | `Mets-y-en !` Word by word: `Mets-y-en` (put some there!) |
+| 81. Take me there! | `Emmène-m’y !` Word by word: `Emmène-m’` (take me) `y` (there) |
+| 82. Tell it to him slowly! | `Dis-le-lui lentement !` Word by word: `Dis-le-lui` (tell it to him!) `lentement` (slowly) |
+| 83. Lend it to me for one day! | `Prête-le-moi pour un jour !` Word by word: `Prête-le-moi` (lend it to me!) `pour` (for) `un` (a) `jour` (day) |
+| 84. Bring us some tonight! | `Apportez-nous-en ce soir !` Word by word: `Apportez-nous-en` (bring us some!) `ce` (this) `soir` (evening) |
+| 85. Do not give it to him now. | `Ne le lui donne pas maintenant.` Word by word: `Ne` (not — with pas) `le` (it) `lui` (to him) `donne` (give) `pas` (not) `maintenant` (now) |
+| 86. Do not send them to me today. | `Ne me les envoie pas aujourd’hui.` Word by word: `Ne` (not — with pas) `me` (to me) `les` (them) `envoie` (send) `pas` (not) `aujourd’` (today) `hui` (today) |
+| 87. Do not put any there. | `N’y en mets pas.` Word by word: `N’` (not — with pas) `y` (there) `en` (any) `mets` (put) `pas` (not) |
+| 88. Explain it to us again! | `Expliquez-le-nous encore !` Word by word: `Expliquez-le-nous` (explain it to us!) `encore` (again) |
+| 89. Show it to them before dinner! | `Montre-le-leur avant le dîner !` Word by word: `Montre-le-leur` (show it to them!) `avant` (before) `le` (the) `dîner` (dinner) |
+| 90. Give me some, please! | `Donne-m’en, s’il te plaît !` Word by word: `Donne-m’` (give me) `en` (some) `s’` (if) `il` (it) `te` (you) `plaît` (please) |
+| 91. The café was noisy, but the waiter found us a quiet table. | `Le café était bruyant, mais le serveur nous a trouvé une table calme.` Word by word: `Le` (the) `café` (coffee) `était` (was) `bruyant` (noisy) `mais` (but) `le` (the) `serveur` (waiter) `nous` (us) `a` (has, helper) `trouvé` (found) `une` (a) `table` (table) `calme` (quiet) |
+| 92. I was looking at the menu when Léa showed it to me. | `Je regardais le menu quand Léa me l’a montré.` Word by word: `Je` (I) `regardais` (was looking at) `le` (the) `menu` (menu) `quand` (when) `Léa` (Léa) `me` (to me) `l’` (the) `a` (has, helper) `montré` (shown) |
+| 93. We used to buy apples here, and the seller always gave us some. | `Nous achetions des pommes ici, et le vendeur nous en donnait toujours.` Word by word: `Nous` (us) `achetions` (used to buy) `des` (of the) `pommes` (apples) `ici` (here) `et` (and) `le` (the) `vendeur` (seller) `nous` (to us) `en` (some) `donnait` (used to give) `toujours` (always) |
+| 94. My scarves? I lent them to the children. | `Mes écharpes ? Je les leur ai prêtées.` Word by word: `Mes` (my) `écharpes` (scarves) `Je` (I) `les` (them) `leur` (to them) `ai` (have, helper) `prêtées` (lent) |
+| 95. While you were reading the letter, I was preparing coffee. | `Pendant que tu lisais la lettre, je préparais du café.` Word by word: `Pendant` (while) `que` (that) `tu` (you) `lisais` (was reading) `la` (the) `lettre` (letter) `je` (I) `préparais` (was preparing) `du` (some) `café` (coffee) |
+| 96. The seats were ready, and my sister gave them to the guests. | `Les places étaient prêtes, et ma sœur les leur a données.` Word by word: `Les` (the) `places` (seats) `étaient` (were) `prêtes` (ready) `et` (and) `ma` (my) `sœur` (sister) `les` (them) `leur` (to them) `a` (has, helper) `données` (given) |
+| 97. The room was dark, so turn on the lamps for me! | `La pièce était sombre, alors allume-les-moi !` Word by word: `La` (the) `pièce` (room) `était` (was) `sombre` (dark) `alors` (so) `allume-les-moi` (turn them on for me!) |
+| 98. I was carrying the plates when Paul took them from me. | `Je portais les assiettes quand Paul me les a prises.` Word by word: `Je` (I) `portais` (was carrying) `les` (them) `assiettes` (plates) `quand` (when) `Paul` (Paul) `me` (from me) `les` (the) `a` (has, helper) `prises` (took) |
+| 99. We were talking about the tickets, then Clara bought them for us. | `Nous parlions des billets, puis Clara nous les a achetés.` Word by word: `Nous` (we) `parlions` (were speaking) `des` (of the) `billets` (tickets) `puis` (then) `Clara` (Clara) `nous` (to us) `les` (them) `a` (has, helper) `achetés` (bought) |
+| 100. It was late, so show them to us tomorrow morning. | `Il était tard, alors montrez-les-nous demain matin !` Word by word: `Il` (it) `était` (was) `tard` (late) `alors` (so) `montrez-les-nous` (show them to us!) `demain` (tomorrow) `matin` (morning) |

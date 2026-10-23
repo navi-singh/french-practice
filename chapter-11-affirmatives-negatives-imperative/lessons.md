@@ -588,103 +588,103 @@ Cover the French column, translate each English sentence aloud, then uncover to 
 
 | English | French |
 | --- | --- |
-| 1. Yes, I like this café. | `Oui, j’aime ce café.` |
-| 2. No, I do not want any soda. | `Non, je ne veux pas de soda.` |
-| 3. You are not coming ? Yes, I am coming. | `Tu ne viens pas ? Si, je viens.` |
-| 4. I am taking a dessert. Me too. | `Je prends un dessert. Moi aussi.` |
-| 5. We are not going out tonight. Me neither. | `Nous ne sortons pas ce soir. Moi non plus.` |
-| 6. Do you understand nothing ? Yes, I understand the rule. | `Tu ne comprends rien ? Si, je comprends la règle.` |
-| 7. She never eats at this restaurant. | `Elle ne mange jamais dans ce restaurant.` |
-| 8. I no longer work here. | `Je ne travaille plus ici.` |
-| 9. We see nobody in the garden. | `Nous ne voyons personne dans le jardin.` |
-| 10. He says nothing during the class. | `Il ne dit rien pendant le cours.` |
-| 11. They do not have any bread anymore. | `Ils n’ont plus de pain.` |
-| 12. I only drink water in the morning. | `Je ne bois que de l’eau le matin.` |
-| 13. Neither Paul nor Marie is ready. | `Ni Paul ni Marie ne sont prêts.` |
-| 14. I do not know this address yet. | `Je ne connais pas encore cette adresse.` |
-| 15. Not at all, I am not tired. | `Pas du tout, je ne suis pas fatigué.` |
-| 16. You do not like tea ? Yes, I like it. | `Tu n’aimes pas le thé ? Si, je l’aime.` |
-| 17. He never takes the subway on Sunday. | `Il ne prend jamais le métro le dimanche.` |
-| 18. We only have two tickets. | `Nous n’avons que deux billets.` |
-| 19. They are no longer learning Spanish. | `Ils n’apprennent plus l’espagnol.` |
-| 20. No one answers the question. | `Personne ne répond à la question.` |
-| 21. I am working with her today. | `Je travaille avec elle aujourd’hui.` |
-| 22. This gift is for you. | `Ce cadeau est pour toi.` |
-| 23. The teacher speaks to us after class. | `Le professeur parle avec nous après le cours.` |
-| 24. As for me, I prefer this solution. | `Moi, je préfère cette solution.` |
-| 25. As for them, they wait outside. | `Eux, ils attendent dehors.` |
-| 26. She runs faster than him. | `Elle court plus vite que lui.` |
-| 27. Who wants some coffee ? Me. | `Qui veut du café ? Moi.` |
-| 28. You and I are leaving now. | `Toi et moi, nous partons maintenant.` |
-| 29. It is she who understands best. | `C’est elle qui comprend le mieux.` |
-| 30. I have more homework than you. | `J’ai plus de devoirs que toi.` |
-| 31. My brother lives near them. | `Mon frère habite près d’eux.` |
-| 32. Without me, the group starts later. | `Sans moi, le groupe commence plus tard.` |
-| 33. This book is for her, not for him. | `Ce livre est pour elle, pas pour lui.` |
-| 34. They are as patient as we are. | `Ils sont aussi patients que nous.` |
-| 35. At her house, we eat early. | `Chez elle, nous mangeons tôt.` |
-| 36. Speak slowly ! | `Parle lentement !` |
-| 37. Let us finish this exercise ! | `Finissons cet exercice !` |
-| 38. Wait here, please ! | `Attendez ici, s’il vous plaît !` |
-| 39. Open the window ! | `Ouvre la fenêtre !` |
-| 40. Choose a table near the door ! | `Choisis une table près de la porte !` |
-| 41. Let us listen to the guide ! | `Écoutons le guide !` |
-| 42. Answer the question clearly ! | `Répondez clairement à la question !` |
-| 43. Be patient ! | `Sois patient !` |
-| 44. Let us be ready at noon ! | `Soyons prêts à midi !` |
-| 45. Be careful in the city ! | `Soyez prudents en ville !` |
-| 46. Have confidence ! | `Aie confiance !` |
-| 47. Let us have courage ! | `Ayons du courage !` |
-| 48. Please take a seat ! | `Veuillez prendre une place !` |
-| 49. Know that I am ready ! | `Sache que je suis prêt !` |
-| 50. Let us know how to listen ! | `Sachons écouter !` |
-| 51. Go to the market ! | `Va au marché !` |
-| 52. Go there now ! | `Vas-y maintenant !` |
-| 53. Talk about it to your sister ! | `Parles-en à ta sœur !` |
-| 54. Look at this map ! | `Regarde cette carte !` |
-| 55. Take the next train ! | `Prenez le prochain train !` |
-| 56. Let us drink some water ! | `Buvons de l’eau !` |
-| 57. Learn these words ! | `Apprends ces mots !` |
-| 58. Understand my question ! | `Comprends ma question !` |
-| 59. Do not speak so quickly ! | `Ne parle pas si vite !` |
-| 60. Do not wait outside ! | `N’attendez pas dehors !` |
-| 61. Let us not forget the tickets ! | `N’oublions pas les billets !` |
-| 62. Never write your password here ! | `N’écrivez jamais votre mot de passe ici !` |
-| 63. Do not leave anything on the table ! | `Ne laisse rien sur la table !` |
-| 64. Do not take any more coffee ! | `Ne prends plus de café !` |
-| 65. Do not answer anyone tonight ! | `Ne réponds à personne ce soir !` |
-| 66. Let us not buy soda ! | `N’achetons pas de soda !` |
-| 67. Do not be late ! | `Ne sois pas en retard !` |
-| 68. Do not have fear ! | `N’aie pas peur !` |
-| 69. Do not go there alone ! | `N’y va pas seul !` |
-| 70. Do not talk about it now ! | `N’en parle pas maintenant !` |
-| 71. Do not choose that one ! | `Ne choisis pas celui-là !` |
-| 72. Do not drink too much juice ! | `Ne bois pas trop de jus !` |
-| 73. Do not call us after dinner ! | `Ne nous téléphone pas après le dîner !` |
-| 74. Do not look at them ! | `Ne les regarde pas !` |
-| 75. Look at it ! | `Regarde-le !` |
-| 76. Take one of them ! | `Prends-en un !` |
-| 77. Wait for me two minutes ! | `Attends-moi deux minutes !` |
-| 78. Call her tonight ! | `Téléphone-lui ce soir !` |
-| 79. Tell us the truth ! | `Dites-nous la vérité !` |
-| 80. Read it slowly ! | `Lis-le lentement !` |
-| 81. Buy some at the market ! | `Achètes-en au marché !` |
-| 82. Think about it before dinner ! | `Penses-y avant le dîner !` |
-| 83. Do not take it ! | `Ne le prends pas !` |
-| 84. Do not write to him today ! | `Ne lui écris pas aujourd’hui !` |
-| 85. Do not wait for me here ! | `Ne m’attends pas ici !` |
-| 86. Do not answer it too quickly ! | `N’y réponds pas trop vite !` |
-| 87. Do not buy any ! | `N’en achète pas !` |
-| 88. Help me, please ! | `Aide-moi, s’il te plaît !` |
-| 89. Do not help me today ! | `Ne m’aide pas aujourd’hui !` |
-| 90. Invite them this evening ! | `Invite-les ce soir !` |
-| 91. Do not invite them on Sunday ! | `Ne les invite pas dimanche !` |
-| 92. Offer him some tea ! | `Offre-lui du thé !` |
-| 93. Do not offer him coffee ! | `Ne lui offre pas de café !` |
-| 94. Let us go there together ! | `Allons-y ensemble !` |
-| 95. Do not tell us anything ! | `Ne nous dites rien !` |
-| 96. Be honest with me ! | `Sois honnête avec moi !` |
-| 97. Yes, I am ready, and you ? | `Oui, je suis prêt, et toi ?` |
-| 98. She is not ready ? Yes, she is ready. | `Elle n’est pas prête ? Si, elle est prête.` |
-| 99. Me neither, I no longer drink coffee. | `Moi non plus, je ne bois plus de café.` |
-| 100. You and he understand better than they do. | `Toi et lui, vous comprenez mieux qu’eux.` |
+| 1. Yes, I like this café. | `Oui, j’aime ce café.` Word by word: `Oui` (yes) `j’` (I) `aime` (like) `ce` (this) `café` (café) |
+| 2. No, I do not want any soda. | `Non, je ne veux pas de soda.` Word by word: `Non` (no) `je` (I) `ne` (not) `veux` (want) `pas` (not) `de` (any) `soda` (soda) |
+| 3. You are not coming ? Yes, I am coming. | `Tu ne viens pas ? Si, je viens.` Word by word: `Tu` (you) `ne` (not) `viens` (come) `pas` (not) `Si` (yes, correcting a negative) `je` (I) `viens` (come) |
+| 4. I am taking a dessert. Me too. | `Je prends un dessert. Moi aussi.` Word by word: `Je` (I) `prends` (take) `un` (a) `dessert` (dessert) `Moi` (me) `aussi` (too) |
+| 5. We are not going out tonight. Me neither. | `Nous ne sortons pas ce soir. Moi non plus.` Word by word: `Nous` (we) `ne` (not) `sortons` (go out) `pas` (not) `ce` (this) `soir` (evening) `Moi` (me) `non` (neither) `plus` (either) |
+| 6. Do you understand nothing ? Yes, I understand the rule. | `Tu ne comprends rien ? Si, je comprends la règle.` Word by word: `Tu` (you) `ne` (—) `comprends` (understand) `rien` (nothing) `Si` (yes, correcting a negative) `je` (I) `comprends` (understand) `la` (the) `règle` (rule) |
+| 7. She never eats at this restaurant. | `Elle ne mange jamais dans ce restaurant.` Word by word: `Elle` (she) `ne` (—) `mange` (eats) `jamais` (never) `dans` (in) `ce` (this) `restaurant` (restaurant) |
+| 8. I no longer work here. | `Je ne travaille plus ici.` Word by word: `Je` (I) `ne` (—) `travaille` (work) `plus` (no longer) `ici` (here) |
+| 9. We see nobody in the garden. | `Nous ne voyons personne dans le jardin.` Word by word: `Nous` (we) `ne` (—) `voyons` (see) `personne` (nobody) `dans` (in) `le` (the) `jardin` (garden) |
+| 10. He says nothing during the class. | `Il ne dit rien pendant le cours.` Word by word: `Il` (he) `ne` (—) `dit` (says) `rien` (nothing) `pendant` (during) `le` (the) `cours` (class) |
+| 11. They do not have any bread anymore. | `Ils n’ont plus de pain.` Word by word: `Ils` (they) `n’` (—) `ont` (have) `plus` (anymore) `de` (any) `pain` (bread) |
+| 12. I only drink water in the morning. | `Je ne bois que de l’eau le matin.` Word by word: `Je` (I) `ne` (—) `bois` (drink) `que` (only) `de` (some) `l’` (the) `eau` (water) `le` (the) `matin` (morning) |
+| 13. Neither Paul nor Marie is ready. | `Ni Paul ni Marie ne sont prêts.` Word by word: `Ni` (neither) `Paul` (Paul) `ni` (nor) `Marie` (Marie) `ne` (—) `sont` (are) `prêts` (ready) |
+| 14. I do not know this address yet. | `Je ne connais pas encore cette adresse.` Word by word: `Je` (I) `ne` (not) `connais` (know) `pas` (not) `encore` (yet) `cette` (this) `adresse` (address) |
+| 15. Not at all, I am not tired. | `Pas du tout, je ne suis pas fatigué.` Word by word: `Pas` (not) `du` (of the) `tout` (all) `je` (I) `ne` (not) `suis` (am) `pas` (not) `fatigué` (tired) |
+| 16. You do not like tea ? Yes, I like it. | `Tu n’aimes pas le thé ? Si, je l’aime.` Word by word: `Tu` (you) `n’` (not) `aimes` (like) `pas` (not) `le` (the) `thé` (tea) `Si` (yes, contrary to a negative) `je` (I) `l’` (it) `aime` (like) |
+| 17. He never takes the subway on Sunday. | `Il ne prend jamais le métro le dimanche.` Word by word: `Il` (he) `ne` (—) `prend` (takes) `jamais` (never) `le` (the) `métro` (subway) `le` (the) `dimanche` (Sunday) |
+| 18. We only have two tickets. | `Nous n’avons que deux billets.` Word by word: `Nous` (we) `n’` (—) `avons` (have) `que` (only) `deux` (two) `billets` (tickets) |
+| 19. They are no longer learning Spanish. | `Ils n’apprennent plus l’espagnol.` Word by word: `Ils` (they) `n’` (—) `apprennent` (learn) `plus` (no longer) `l’` (the) `espagnol` (Spanish) |
+| 20. No one answers the question. | `Personne ne répond à la question.` Word by word: `Personne` (nobody) `ne` (—) `répond` (answers) `à` (to) `la` (the) `question` (question) |
+| 21. I am working with her today. | `Je travaille avec elle aujourd’hui.` Word by word: `Je` (I) `travaille` (work) `avec` (with) `elle` (her) `aujourd’` (today) `hui` (today) |
+| 22. This gift is for you. | `Ce cadeau est pour toi.` Word by word: `Ce` (this) `cadeau` (gift) `est` (is) `pour` (for) `toi` (you) |
+| 23. The teacher speaks to us after class. | `Le professeur parle avec nous après le cours.` Word by word: `Le` (the) `professeur` (teacher) `parle` (speaks) `avec` (with) `nous` (us) `après` (after) `le` (the) `cours` (class) |
+| 24. As for me, I prefer this solution. | `Moi, je préfère cette solution.` Word by word: `Moi` (as for me) `je` (I) `préfère` (prefer) `cette` (this) `solution` (solution) |
+| 25. As for them, they wait outside. | `Eux, ils attendent dehors.` Word by word: `Eux` (as for them) `ils` (they) `attendent` (wait) `dehors` (outside) |
+| 26. She runs faster than him. | `Elle court plus vite que lui.` Word by word: `Elle` (she) `court` (runs) `plus` (more) `vite` (quickly) `que` (than) `lui` (him) |
+| 27. Who wants some coffee ? Me. | `Qui veut du café ? Moi.` Word by word: `Qui` (who) `veut` (wants) `du` (some) `café` (coffee) `Moi` (me) |
+| 28. You and I are leaving now. | `Toi et moi, nous partons maintenant.` Word by word: `Toi` (you) `et` (and) `moi` (me) `nous` (we) `partons` (leave) `maintenant` (now) |
+| 29. It is she who understands best. | `C’est elle qui comprend le mieux.` Word by word: `C’` (it) `est` (is) `elle` (she) `qui` (who) `comprend` (understands) `le` (the) `mieux` (best) |
+| 30. I have more homework than you. | `J’ai plus de devoirs que toi.` Word by word: `J’` (I) `ai` (have) `plus` (more) `de` (of) `devoirs` (homework) `que` (than) `toi` (you) |
+| 31. My brother lives near them. | `Mon frère habite près d’eux.` Word by word: `Mon` (my) `frère` (brother) `habite` (lives) `près` (near) `d’` (—) `eux` (them) |
+| 32. Without me, the group starts later. | `Sans moi, le groupe commence plus tard.` Word by word: `Sans` (without) `moi` (me) `le` (the) `groupe` (group) `commence` (starts) `plus` (more) `tard` (late) |
+| 33. This book is for her, not for him. | `Ce livre est pour elle, pas pour lui.` Word by word: `Ce` (this) `livre` (book) `est` (is) `pour` (for) `elle` (her) `pas` (not) `pour` (for) `lui` (him) |
+| 34. They are as patient as we are. | `Ils sont aussi patients que nous.` Word by word: `Ils` (they) `sont` (are) `aussi` (as) `patients` (patient) `que` (as) `nous` (we) |
+| 35. At her house, we eat early. | `Chez elle, nous mangeons tôt.` Word by word: `Chez` (at the home of) `elle` (her) `nous` (we) `mangeons` (eat) `tôt` (early) |
+| 36. Speak slowly ! | `Parle lentement !` Word by word: `Parle` (speak!) `lentement` (slowly) |
+| 37. Let us finish this exercise ! | `Finissons cet exercice !` Word by word: `Finissons` (let us finish!) `cet` (this) `exercice` (exercise) |
+| 38. Wait here, please ! | `Attendez ici, s’il vous plaît !` Word by word: `Attendez` (wait!) `ici` (here) `s’` (part of please) `il` (part of please) `vous` (you) `plaît` (pleases) |
+| 39. Open the window ! | `Ouvre la fenêtre !` Word by word: `Ouvre` (open!) `la` (the) `fenêtre` (window) |
+| 40. Choose a table near the door ! | `Choisis une table près de la porte !` Word by word: `Choisis` (choose!) `une` (a) `table` (table) `près` (near) `de` (of) `la` (the) `porte` (door) |
+| 41. Let us listen to the guide ! | `Écoutons le guide !` Word by word: `Écoutons` (let us listen!) `le` (the) `guide` (guide) |
+| 42. Answer the question clearly ! | `Répondez clairement à la question !` Word by word: `Répondez` (answer!) `clairement` (clearly) `à` (to) `la` (the) `question` (question) |
+| 43. Be patient ! | `Sois patient !` Word by word: `Sois` (be!) `patient` (patient) |
+| 44. Let us be ready at noon ! | `Soyons prêts à midi !` Word by word: `Soyons` (let us be!) `prêts` (ready) `à` (at) `midi` (noon) |
+| 45. Be careful in the city ! | `Soyez prudents en ville !` Word by word: `Soyez` (be!) `prudents` (careful) `en` (in) `ville` (town) |
+| 46. Have confidence ! | `Aie confiance !` Word by word: `Aie` (have!) `confiance` (confidence) |
+| 47. Let us have courage ! | `Ayons du courage !` Word by word: `Ayons` (let us have!) `du` (some) `courage` (courage) |
+| 48. Please take a seat ! | `Veuillez prendre une place !` Word by word: `Veuillez` (please) `prendre` (take) `une` (a) `place` (seat) |
+| 49. Know that I am ready ! | `Sache que je suis prêt !` Word by word: `Sache` (know!) `que` (that) `je` (I) `suis` (am) `prêt` (ready) |
+| 50. Let us know how to listen ! | `Sachons écouter !` Word by word: `Sachons` (let us know!) `écouter` (to listen) |
+| 51. Go to the market ! | `Va au marché !` Word by word: `Va` (go!) `au` (to the) `marché` (market) |
+| 52. Go there now ! | `Vas-y maintenant !` Word by word: `Vas-y` (go there!) `maintenant` (now) |
+| 53. Talk about it to your sister ! | `Parles-en à ta sœur !` Word by word: `Parles-en` (talk about it!) `à` (to) `ta` (your) `sœur` (sister) |
+| 54. Look at this map ! | `Regarde cette carte !` Word by word: `Regarde` (look at!) `cette` (this) `carte` (map) |
+| 55. Take the next train ! | `Prenez le prochain train !` Word by word: `Prenez` (take!) `le` (the) `prochain` (next) `train` (train) |
+| 56. Let us drink some water ! | `Buvons de l’eau !` Word by word: `Buvons` (let us drink!) `de` (some) `l’` (the) `eau` (water) |
+| 57. Learn these words ! | `Apprends ces mots !` Word by word: `Apprends` (learn!) `ces` (these) `mots` (words) |
+| 58. Understand my question ! | `Comprends ma question !` Word by word: `Comprends` (understand!) `ma` (my) `question` (question) |
+| 59. Do not speak so quickly ! | `Ne parle pas si vite !` Word by word: `Ne` (not) `parle` (speak) `pas` (not) `si` (so) `vite` (quickly) |
+| 60. Do not wait outside ! | `N’attendez pas dehors !` Word by word: `N’` (not) `attendez` (wait) `pas` (not) `dehors` (outside) |
+| 61. Let us not forget the tickets ! | `N’oublions pas les billets !` Word by word: `N’` (not) `oublions` (let us forget) `pas` (not) `les` (the) `billets` (tickets) |
+| 62. Never write your password here ! | `N’écrivez jamais votre mot de passe ici !` Word by word: `N’` (—) `écrivez` (write) `jamais` (never) `votre` (your) `mot` (word) `de` (of) `passe` (password) `ici` (here) |
+| 63. Do not leave anything on the table ! | `Ne laisse rien sur la table !` Word by word: `Ne` (not) `laisse` (leave) `rien` (anything) `sur` (on) `la` (the) `table` (table) |
+| 64. Do not take any more coffee ! | `Ne prends plus de café !` Word by word: `Ne` (not) `prends` (take) `plus` (any more) `de` (any) `café` (coffee) |
+| 65. Do not answer anyone tonight ! | `Ne réponds à personne ce soir !` Word by word: `Ne` (not) `réponds` (answer) `à` (to) `personne` (anyone) `ce` (this) `soir` (evening) |
+| 66. Let us not buy soda ! | `N’achetons pas de soda !` Word by word: `N’` (not) `achetons` (let us buy) `pas` (not) `de` (any) `soda` (soda) |
+| 67. Do not be late ! | `Ne sois pas en retard !` Word by word: `Ne` (not) `sois` (be) `pas` (not) `en` (—) `retard` (late) |
+| 68. Do not have fear ! | `N’aie pas peur !` Word by word: `N’` (not) `aie` (have) `pas` (not) `peur` (fear) |
+| 69. Do not go there alone ! | `N’y va pas seul !` Word by word: `N’` (not) `y` (there) `va` (go) `pas` (not) `seul` (alone) |
+| 70. Do not talk about it now ! | `N’en parle pas maintenant !` Word by word: `N’` (not) `en` (about it) `parle` (speak) `pas` (not) `maintenant` (now) |
+| 71. Do not choose that one ! | `Ne choisis pas celui-là !` Word by word: `Ne` (not) `choisis` (choose) `pas` (not) `celui-là` (that one) |
+| 72. Do not drink too much juice ! | `Ne bois pas trop de jus !` Word by word: `Ne` (not) `bois` (drink) `pas` (not) `trop` (too much) `de` (of) `jus` (juice) |
+| 73. Do not call us after dinner ! | `Ne nous téléphone pas après le dîner !` Word by word: `Ne` (not) `nous` (us) `téléphone` (call) `pas` (not) `après` (after) `le` (the) `dîner` (dinner) |
+| 74. Do not look at them ! | `Ne les regarde pas !` Word by word: `Ne` (not) `les` (them) `regarde` (look at) `pas` (not) |
+| 75. Look at it ! | `Regarde-le !` Word by word: `Regarde-le` (look at it!) |
+| 76. Take one of them ! | `Prends-en un !` Word by word: `Prends-en` (take from them) `un` (one) |
+| 77. Wait for me two minutes ! | `Attends-moi deux minutes !` Word by word: `Attends-moi` (wait for me!) `deux` (two) `minutes` (minutes) |
+| 78. Call her tonight ! | `Téléphone-lui ce soir !` Word by word: `Téléphone-lui` (call her!) `ce` (this) `soir` (evening) |
+| 79. Tell us the truth ! | `Dites-nous la vérité !` Word by word: `Dites-nous` (tell us!) `la` (the) `vérité` (truth) |
+| 80. Read it slowly ! | `Lis-le lentement !` Word by word: `Lis-le` (read it!) `lentement` (slowly) |
+| 81. Buy some at the market ! | `Achètes-en au marché !` Word by word: `Achètes-en` (buy some!) `au` (at the) `marché` (market) |
+| 82. Think about it before dinner ! | `Penses-y avant le dîner !` Word by word: `Penses-y` (think about it!) `avant` (before) `le` (the) `dîner` (dinner) |
+| 83. Do not take it ! | `Ne le prends pas !` Word by word: `Ne` (not) `le` (it) `prends` (take) `pas` (not) |
+| 84. Do not write to him today ! | `Ne lui écris pas aujourd’hui !` Word by word: `Ne` (not) `lui` (to him) `écris` (write) `pas` (not) `aujourd’` (today) `hui` (today) |
+| 85. Do not wait for me here ! | `Ne m’attends pas ici !` Word by word: `Ne` (not) `m’` (me) `attends` (wait for) `pas` (not) `ici` (here) |
+| 86. Do not answer it too quickly ! | `N’y réponds pas trop vite !` Word by word: `N’` (not) `y` (to it) `réponds` (answer) `pas` (not) `trop` (too) `vite` (quickly) |
+| 87. Do not buy any ! | `N’en achète pas !` Word by word: `N’` (not) `en` (any) `achète` (buy) `pas` (not) |
+| 88. Help me, please ! | `Aide-moi, s’il te plaît !` Word by word: `Aide-moi` (help me!) `s’` (part of please) `il` (part of please) `te` (you) `plaît` (pleases) |
+| 89. Do not help me today ! | `Ne m’aide pas aujourd’hui !` Word by word: `Ne` (not) `m’` (me) `aide` (help) `pas` (not) `aujourd’` (today) `hui` (today) |
+| 90. Invite them this evening ! | `Invite-les ce soir !` Word by word: `Invite-les` (invite them!) `ce` (this) `soir` (evening) |
+| 91. Do not invite them on Sunday ! | `Ne les invite pas dimanche !` Word by word: `Ne` (not) `les` (them) `invite` (invite) `pas` (not) `dimanche` (Sunday) |
+| 92. Offer him some tea ! | `Offre-lui du thé !` Word by word: `Offre-lui` (offer him!) `du` (some) `thé` (tea) |
+| 93. Do not offer him coffee ! | `Ne lui offre pas de café !` Word by word: `Ne` (not) `lui` (to him) `offre` (offer) `pas` (not) `de` (any) `café` (coffee) |
+| 94. Let us go there together ! | `Allons-y ensemble !` Word by word: `Allons-y` (let us go there!) `ensemble` (together) |
+| 95. Do not tell us anything ! | `Ne nous dites rien !` Word by word: `Ne` (not) `nous` (us) `dites` (tell) `rien` (anything) |
+| 96. Be honest with me ! | `Sois honnête avec moi !` Word by word: `Sois` (be!) `honnête` (honest) `avec` (with) `moi` (me) |
+| 97. Yes, I am ready, and you ? | `Oui, je suis prêt, et toi ?` Word by word: `Oui` (yes) `je` (I) `suis` (am) `prêt` (ready) `et` (and) `toi` (you) |
+| 98. She is not ready ? Yes, she is ready. | `Elle n’est pas prête ? Si, elle est prête.` Word by word: `Elle` (she) `n’` (not) `est` (is) `pas` (not) `prête` (ready) `Si` (yes, contrary to a negative) `elle` (she) `est` (is) `prête` (ready) |
+| 99. Me neither, I no longer drink coffee. | `Moi non plus, je ne bois plus de café.` Word by word: `Moi` (me) `non` (neither) `plus` (either) `je` (I) `ne` (—) `bois` (drink) `plus` (no longer) `de` (any) `café` (coffee) |
+| 100. You and he understand better than they do. | `Toi et lui, vous comprenez mieux qu’eux.` Word by word: `Toi` (you) `et` (and) `lui` (him) `vous` (you) `comprenez` (understand) `mieux` (better) `qu’` (than) `eux` (them) |

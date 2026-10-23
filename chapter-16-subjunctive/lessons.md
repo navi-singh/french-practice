@@ -440,103 +440,103 @@ Cover the French column, translate each English sentence aloud, then uncover to 
 
 | English | French |
 | --- | --- |
-| 1. I want you to speak more slowly. | `Je veux que tu parles plus lentement.` |
-| 2. We need to finish before noon. | `Il faut que nous finissions avant midi.` |
-| 3. She wants me to wait here. | `Elle veut que j’attende ici.` |
-| 4. It is important that you sell the car this week. | `Il est important que vous vendiez la voiture cette semaine.` |
-| 5. I am happy that they live near us. | `Je suis content qu’ils habitent près de chez nous.` |
-| 6. Do you want us to choose the restaurant? | `Veux-tu que nous choisissions le restaurant ?` |
-| 7. I doubt that he understands the problem. | `Je doute qu’il comprenne le problème.` |
-| 8. It is possible that she answers tonight. | `Il est possible qu’elle réponde ce soir.` |
-| 9. I want to leave now. | `Je veux partir maintenant.` |
-| 10. I want my brother to leave now. | `Je veux que mon frère parte maintenant.` |
-| 11. We prefer to eat outside. | `Nous préférons manger dehors.` |
-| 12. We prefer that the children eat inside. | `Nous préférons que les enfants mangent dedans.` |
-| 13. Do you want to study together? | `Veux-tu étudier ensemble ?` |
-| 14. Do you want Marie to study with us? | `Veux-tu que Marie étudie avec nous ?` |
-| 15. I am afraid that you are arriving too late. | `J’ai peur que tu arrives trop tard.` |
-| 16. It is better that I call the doctor. | `Il vaut mieux que j’appelle le médecin.` |
-| 17. We are glad that you like this city. | `Nous sommes heureux que vous aimiez cette ville.` |
-| 18. I do not think they are listening. | `Je ne pense pas qu’ils écoutent.` |
-| 19. It is necessary that I be ready at eight o’clock. | `Il faut que je sois prêt à huit heures.` |
-| 20. I am happy that you have time. | `Je suis content que tu aies le temps.` |
-| 21. She wants us to go to the market. | `Elle veut que nous allions au marché.` |
-| 22. It is important that he do his homework. | `Il est important qu’il fasse ses devoirs.` |
-| 23. I doubt that they can come tonight. | `Je doute qu’ils puissent venir ce soir.` |
-| 24. I want you to know the truth. | `Je veux que tu saches la vérité.` |
-| 25. My parents want me to want this job. | `Mes parents veulent que je veuille ce travail.` |
-| 26. It is a shame that we have to leave so early. | `Il est dommage qu’il faille partir si tôt.` |
-| 27. I doubt that it will rain tomorrow. | `Je doute qu’il pleuve demain.` |
-| 28. I do not think this old table is worth the price. | `Je ne pense pas que cette vieille table vaille le prix.` |
-| 29. It is possible that he will come with us. | `Il est possible qu’il vienne avec nous.` |
-| 30. I want you to drink some water. | `Je veux que tu boives de l’eau.` |
-| 31. It is better that we drink less coffee. | `Il vaut mieux que nous buvions moins de café.` |
-| 32. Do you want them to take the train? | `Veux-tu qu’ils prennent le train ?` |
-| 33. I am afraid that she will hold the baby badly. | `J’ai peur qu’elle tienne mal le bébé.` |
-| 34. It is important that you come back before dinner. | `Il est important que vous reveniez avant le dîner.` |
-| 35. I want the children to be polite. | `Je veux que les enfants soient polis.` |
-| 36. We are happy that you have your keys. | `Nous sommes contents que vous ayez vos clés.` |
-| 37. The teacher wants us to be able to explain the rule. | `Le professeur veut que nous puissions expliquer la règle.` |
-| 38. I doubt that she will know my name. | `Je doute qu’elle sache mon nom.` |
-| 39. You must arrive before nine. | `Il faut que tu arrives avant neuf heures.` |
-| 40. It is important that we remain calm. | `Il est important que nous restions calmes.` |
-| 41. It is better that you take the next bus. | `Il vaut mieux que vous preniez le prochain bus.` |
-| 42. It is possible that Paul is at the library. | `Il est possible que Paul soit à la bibliothèque.` |
-| 43. It is a shame that the shop closes so early. | `Il est dommage que le magasin ferme si tôt.` |
-| 44. We must not lose these papers. | `Il ne faut pas que nous perdions ces papiers.` |
-| 45. Is it necessary that I sign here? | `Faut-il que je signe ici ?` |
-| 46. It is important that everyone understand the plan. | `Il est important que tout le monde comprenne le plan.` |
-| 47. It is better that she not drive tonight. | `Il vaut mieux qu’elle ne conduise pas ce soir.` |
-| 48. It is possible that they will choose another date. | `Il est possible qu’ils choisissent une autre date.` |
-| 49. It is not certain that we will have enough chairs. | `Il n’est pas certain que nous ayons assez de chaises.` |
-| 50. It is necessary that you be honest with her. | `Il faut que tu sois honnête avec elle.` |
-| 51. It is important that the children do not run here. | `Il est important que les enfants ne courent pas ici.` |
-| 52. It is better that we send the message now. | `Il vaut mieux que nous envoyions le message maintenant.` |
-| 53. It is possible that this plan will work. | `Il est possible que ce plan marche.` |
-| 54. It is a shame that you cannot stay longer. | `Il est dommage que tu ne puisses pas rester plus longtemps.` |
-| 55. Must we wait outside? | `Faut-il que nous attendions dehors ?` |
-| 56. It is important that I know your address. | `Il est important que je sache ton adresse.` |
-| 57. I want you to come with us. | `Je veux que tu viennes avec nous.` |
-| 58. She prefers that we meet after work. | `Elle préfère que nous nous retrouvions après le travail.` |
-| 59. My father wants me to call him tonight. | `Mon père veut que je l’appelle ce soir.` |
-| 60. We are happy that Marie can travel. | `Nous sommes heureux que Marie puisse voyager.` |
-| 61. I am afraid that the children will forget their coats. | `J’ai peur que les enfants oublient leurs manteaux.` |
-| 62. Do you doubt that he is telling the truth? | `Doutes-tu qu’il dise la vérité ?` |
-| 63. I do not believe that she wants this apartment. | `Je ne crois pas qu’elle veuille cet appartement.` |
-| 64. They are glad that we are here. | `Ils sont contents que nous soyons ici.` |
-| 65. I want to understand this lesson. | `Je veux comprendre cette leçon.` |
-| 66. I want you to understand this lesson. | `Je veux que tu comprennes cette leçon.` |
-| 67. She prefers to leave early. | `Elle préfère partir tôt.` |
-| 68. She prefers that we leave early. | `Elle préfère que nous partions tôt.` |
-| 69. I am sorry that you are sick. | `Je suis désolé que tu sois malade.` |
-| 70. We are surprised that he is doing the dishes. | `Nous sommes surpris qu’il fasse la vaisselle.` |
-| 71. I fear that it will be too expensive. | `J’ai peur que ce soit trop cher.` |
-| 72. They doubt that we will find the street. | `Ils doutent que nous trouvions la rue.` |
-| 73. I am happy to help you. | `Je suis content de t’aider.` |
-| 74. I am happy that you are helping me. | `Je suis content que tu m’aides.` |
-| 75. I think he understands the rule. | `Je pense qu’il comprend la règle.` |
-| 76. I do not think he understands the rule. | `Je ne pense pas qu’il comprenne la règle.` |
-| 77. We believe she will come tomorrow. | `Nous croyons qu’elle viendra demain.` |
-| 78. We do not believe she will come tomorrow. | `Nous ne croyons pas qu’elle vienne demain.` |
-| 79. I know that you can do it. | `Je sais que tu peux le faire.` |
-| 80. I doubt that you can do it. | `Je doute que tu puisses le faire.` |
-| 81. It is certain that they are ready. | `Il est certain qu’ils sont prêts.` |
-| 82. It is not certain that they are ready. | `Il n’est pas certain qu’ils soient prêts.` |
-| 83. Do you think the train will arrive on time? | `Penses-tu que le train arrivera à l’heure ?` |
-| 84. Do you not think the train will arrive on time? | `Ne penses-tu pas que le train arrive à l’heure ?` |
-| 85. I believe that this restaurant is good. | `Je crois que ce restaurant est bon.` |
-| 86. I do not believe that this restaurant is good. | `Je ne crois pas que ce restaurant soit bon.` |
-| 87. She knows that we have the tickets. | `Elle sait que nous avons les billets.` |
-| 88. She doubts that we have the tickets. | `Elle doute que nous ayons les billets.` |
-| 89. I am sure that Paul knows the answer. | `Je suis sûr que Paul sait la réponse.` |
-| 90. I am not sure that Paul knows the answer. | `Je ne suis pas sûr que Paul sache la réponse.` |
-| 91. They think we are leaving tonight. | `Ils pensent que nous partons ce soir.` |
-| 92. They do not think we are leaving tonight. | `Ils ne pensent pas que nous partions ce soir.` |
-| 93. I see that you are tired. | `Je vois que tu es fatigué.` |
-| 94. I am afraid that you are tired. | `J’ai peur que tu sois fatigué.` |
-| 95. Tell me the truth. | `Dis-moi la vérité.` |
-| 96. I want you to tell me the truth. | `Je veux que tu me dises la vérité.` |
-| 97. Let us be patient. | `Soyons patients.` |
-| 98. It is important that we be patient. | `Il est important que nous soyons patients.` |
-| 99. I know that he is coming, but I doubt that he will stay. | `Je sais qu’il vient, mais je doute qu’il reste.` |
-| 100. I think she is right, but I do not think she knows everything. | `Je pense qu’elle a raison, mais je ne pense pas qu’elle sache tout.` |
+| 1. I want you to speak more slowly. | `Je veux que tu parles plus lentement.` Word by word: `Je` (I) `veux` (want) `que` (that) `tu` (you) `parles` (speak, subjunctive) `plus` (more) `lentement` (slowly) |
+| 2. We need to finish before noon. | `Il faut que nous finissions avant midi.` Word by word: `Il` (it) `faut` (it is necessary) `que` (that) `nous` (we) `finissions` (finish, subjunctive) `avant` (before) `midi` (noon) |
+| 3. She wants me to wait here. | `Elle veut que j’attende ici.` Word by word: `Elle` (she) `veut` (wants) `que` (that) `j’` (I) `attende` (wait, subjunctive) `ici` (here) |
+| 4. It is important that you sell the car this week. | `Il est important que vous vendiez la voiture cette semaine.` Word by word: `Il` (it) `est` (is) `important` (important) `que` (that) `vous` (you) `vendiez` (sell, subjunctive) `la` (the) `voiture` (car) `cette` (this) `semaine` (week) |
+| 5. I am happy that they live near us. | `Je suis content qu’ils habitent près de chez nous.` Word by word: `Je` (I) `suis` (am) `content` (happy) `qu’` (that) `ils` (they) `habitent` (live, subjunctive) `près` (near) `de` (of) `chez` (at the home of) `nous` (us) |
+| 6. Do you want us to choose the restaurant? | `Veux-tu que nous choisissions le restaurant ?` Word by word: `Veux-tu` (do you want) `que` (that) `nous` (we) `choisissions` (choose, subjunctive) `le` (the) `restaurant` (restaurant) |
+| 7. I doubt that he understands the problem. | `Je doute qu’il comprenne le problème.` Word by word: `Je` (I) `doute` (doubt) `qu’` (that) `il` (he) `comprenne` (understand, subjunctive) `le` (the) `problème` (problem) |
+| 8. It is possible that she answers tonight. | `Il est possible qu’elle réponde ce soir.` Word by word: `Il` (it) `est` (is) `possible` (it is possible) `qu’` (that) `elle` (she) `réponde` (answer, subjunctive) `ce` (this) `soir` (evening) |
+| 9. I want to leave now. | `Je veux partir maintenant.` Word by word: `Je` (I) `veux` (want) `partir` (leave) `maintenant` (now) |
+| 10. I want my brother to leave now. | `Je veux que mon frère parte maintenant.` Word by word: `Je` (I) `veux` (want) `que` (that) `mon` (my) `frère` (brother) `parte` (leave) `maintenant` (now) |
+| 11. We prefer to eat outside. | `Nous préférons manger dehors.` Word by word: `Nous` (we) `préférons` (prefer) `manger` (eat) `dehors` (outside) |
+| 12. We prefer that the children eat inside. | `Nous préférons que les enfants mangent dedans.` Word by word: `Nous` (we) `préférons` (prefer) `que` (that) `les` (the) `enfants` (children) `mangent` (eat) `dedans` (inside) |
+| 13. Do you want to study together? | `Veux-tu étudier ensemble ?` Word by word: `Veux-tu` (do you want) `étudier` (study) `ensemble` (together) |
+| 14. Do you want Marie to study with us? | `Veux-tu que Marie étudie avec nous ?` Word by word: `Veux-tu` (do you want) `que` (that) `Marie` (Marie) `étudie` (study) `avec` (with) `nous` (we) |
+| 15. I am afraid that you are arriving too late. | `J’ai peur que tu arrives trop tard.` Word by word: `J’` (I) `ai` (have) `peur` (fear) `que` (that) `tu` (you) `arrives` (arrive) `trop` (too) `tard` (late) |
+| 16. It is better that I call the doctor. | `Il vaut mieux que j’appelle le médecin.` Word by word: `Il` (it) `vaut` (is worth) `mieux` (better) `que` (that) `j’` (I) `appelle` (call) `le` (the) `médecin` (doctor) |
+| 17. We are glad that you like this city. | `Nous sommes heureux que vous aimiez cette ville.` Word by word: `Nous` (we) `sommes` (are) `heureux` (happy) `que` (that) `vous` (you) `aimiez` (like, subjunctive) `cette` (this) `ville` (city) |
+| 18. I do not think they are listening. | `Je ne pense pas qu’ils écoutent.` Word by word: `Je` (I) `ne` (not) `pense` (think) `pas` (not) `qu’` (that) `ils` (they) `écoutent` (listen, subjunctive) |
+| 19. It is necessary that I be ready at eight o’clock. | `Il faut que je sois prêt à huit heures.` Word by word: `Il` (it) `faut` (it is necessary) `que` (that) `je` (I) `sois` (be, subjunctive) `prêt` (ready) `à` (at) `huit` (eight) `heures` (hours) |
+| 20. I am happy that you have time. | `Je suis content que tu aies le temps.` Word by word: `Je` (I) `suis` (am) `content` (happy) `que` (that) `tu` (you) `aies` (have, subjunctive) `le` (the) `temps` (time) |
+| 21. She wants us to go to the market. | `Elle veut que nous allions au marché.` Word by word: `Elle` (she) `veut` (wants) `que` (that) `nous` (we) `allions` (go, subjunctive) `au` (to the) `marché` (market) |
+| 22. It is important that he do his homework. | `Il est important qu’il fasse ses devoirs.` Word by word: `Il` (it) `est` (is) `important` (important) `qu’` (that) `il` (he) `fasse` (do, subjunctive) `ses` (his) `devoirs` (homework) |
+| 23. I doubt that they can come tonight. | `Je doute qu’ils puissent venir ce soir.` Word by word: `Je` (I) `doute` (doubt) `qu’` (that) `ils` (they) `puissent` (be able, subjunctive) `venir` (come) `ce` (this) `soir` (evening) |
+| 24. I want you to know the truth. | `Je veux que tu saches la vérité.` Word by word: `Je` (I) `veux` (want) `que` (that) `tu` (you) `saches` (know, subjunctive) `la` (the) `vérité` (truth) |
+| 25. My parents want me to want this job. | `Mes parents veulent que je veuille ce travail.` Word by word: `Mes` (my) `parents` (parents) `veulent` (want) `que` (that) `je` (I) `veuille` (want, subjunctive) `ce` (this) `travail` (job) |
+| 26. It is a shame that we have to leave so early. | `Il est dommage qu’il faille partir si tôt.` Word by word: `Il` (it) `est` (is) `dommage` (a shame) `qu’` (that) `il` (it) `faille` (be necessary) `partir` (leave) `si` (so) `tôt` (early) |
+| 27. I doubt that it will rain tomorrow. | `Je doute qu’il pleuve demain.` Word by word: `Je` (I) `doute` (doubt) `qu’` (that) `il` (it) `pleuve` (rain, subjunctive) `demain` (tomorrow) |
+| 28. I do not think this old table is worth the price. | `Je ne pense pas que cette vieille table vaille le prix.` Word by word: `Je` (I) `ne` (not) `pense` (think) `pas` (not) `que` (that) `cette` (this) `vieille` (old) `table` (table) `vaille` (be worth, subjunctive) `le` (the) `prix` (price) |
+| 29. It is possible that he will come with us. | `Il est possible qu’il vienne avec nous.` Word by word: `Il` (it) `est` (is) `possible` (it is possible) `qu’` (that) `il` (he) `vienne` (come, subjunctive) `avec` (with) `nous` (we) |
+| 30. I want you to drink some water. | `Je veux que tu boives de l’eau.` Word by word: `Je` (I) `veux` (want) `que` (that) `tu` (you) `boives` (drink, subjunctive) `de` (some) `l’` (the) `eau` (water) |
+| 31. It is better that we drink less coffee. | `Il vaut mieux que nous buvions moins de café.` Word by word: `Il` (it) `vaut` (is worth) `mieux` (better) `que` (that) `nous` (we) `buvions` (drink, subjunctive) `moins` (less) `de` (of) `café` (coffee) |
+| 32. Do you want them to take the train? | `Veux-tu qu’ils prennent le train ?` Word by word: `Veux-tu` (do you want) `qu’` (that) `ils` (they) `prennent` (take, subjunctive) `le` (the) `train` (train) |
+| 33. I am afraid that she will hold the baby badly. | `J’ai peur qu’elle tienne mal le bébé.` Word by word: `J’` (I) `ai` (have) `peur` (fear) `qu’` (that) `elle` (she) `tienne` (hold, subjunctive) `mal` (badly) `le` (the) `bébé` (baby) |
+| 34. It is important that you come back before dinner. | `Il est important que vous reveniez avant le dîner.` Word by word: `Il` (it) `est` (is) `important` (it is important) `que` (that) `vous` (you) `reveniez` (come back, subjunctive) `avant` (before) `le` (the) `dîner` (dinner) |
+| 35. I want the children to be polite. | `Je veux que les enfants soient polis.` Word by word: `Je` (I) `veux` (want) `que` (that) `les` (the) `enfants` (children) `soient` (be, subjunctive) `polis` (polite) |
+| 36. We are happy that you have your keys. | `Nous sommes contents que vous ayez vos clés.` Word by word: `Nous` (we) `sommes` (are) `contents` (happy) `que` (that) `vous` (you) `ayez` (have, subjunctive) `vos` (your) `clés` (keys) |
+| 37. The teacher wants us to be able to explain the rule. | `Le professeur veut que nous puissions expliquer la règle.` Word by word: `Le` (the) `professeur` (teacher) `veut` (wants) `que` (that) `nous` (we) `puissions` (be able, subjunctive) `expliquer` (explain) `la` (the) `règle` (rule) |
+| 38. I doubt that she will know my name. | `Je doute qu’elle sache mon nom.` Word by word: `Je` (I) `doute` (doubt) `qu’` (that) `elle` (she) `sache` (know, subjunctive) `mon` (my) `nom` (name) |
+| 39. You must arrive before nine. | `Il faut que tu arrives avant neuf heures.` Word by word: `Il` (it) `faut` (it is necessary) `que` (that) `tu` (you) `arrives` (arrive, subjunctive) `avant` (before) `neuf` (nine) `heures` (hours) |
+| 40. It is important that we remain calm. | `Il est important que nous restions calmes.` Word by word: `Il` (it) `est` (is) `important` (it is important) `que` (that) `nous` (we) `restions` (stay, subjunctive) `calmes` (calm) |
+| 41. It is better that you take the next bus. | `Il vaut mieux que vous preniez le prochain bus.` Word by word: `Il` (it) `vaut` (is worth) `mieux` (it is better) `que` (that) `vous` (you) `preniez` (take, subjunctive) `le` (the) `prochain` (next) `bus` (bus) |
+| 42. It is possible that Paul is at the library. | `Il est possible que Paul soit à la bibliothèque.` Word by word: `Il` (it) `est` (is) `possible` (it is possible) `que` (that) `Paul` (Paul) `soit` (be, subjunctive) `à` (at) `la` (the) `bibliothèque` (library) |
+| 43. It is a shame that the shop closes so early. | `Il est dommage que le magasin ferme si tôt.` Word by word: `Il` (it) `est` (is) `dommage` (a shame) `que` (that) `le` (the) `magasin` (shop) `ferme` (closes, subjunctive) `si` (so) `tôt` (early) |
+| 44. We must not lose these papers. | `Il ne faut pas que nous perdions ces papiers.` Word by word: `Il` (it) `ne` (not) `faut` (it is necessary) `pas` (not) `que` (that) `nous` (we) `perdions` (lose, subjunctive) `ces` (these) `papiers` (papers) |
+| 45. Is it necessary that I sign here? | `Faut-il que je signe ici ?` Word by word: `Faut-il` (is it necessary) `que` (that) `je` (I) `signe` (sign, subjunctive) `ici` (here) |
+| 46. It is important that everyone understand the plan. | `Il est important que tout le monde comprenne le plan.` Word by word: `Il` (it) `est` (is) `important` (it is important) `que` (that) `tout` (all) `le` (the) `monde` (everyone) `comprenne` (understand, subjunctive) `le` (the) `plan` (plan) |
+| 47. It is better that she not drive tonight. | `Il vaut mieux qu’elle ne conduise pas ce soir.` Word by word: `Il` (it) `vaut` (is worth) `mieux` (it is better) `qu’` (that) `elle` (she) `ne` (not) `conduise` (drive, subjunctive) `pas` (not) `ce` (this) `soir` (evening) |
+| 48. It is possible that they will choose another date. | `Il est possible qu’ils choisissent une autre date.` Word by word: `Il` (it) `est` (is) `possible` (it is possible) `qu’` (that) `ils` (they) `choisissent` (choose, subjunctive) `une` (a) `autre` (another) `date` (date) |
+| 49. It is not certain that we will have enough chairs. | `Il n’est pas certain que nous ayons assez de chaises.` Word by word: `Il` (it) `n’` (not) `est` (is) `pas` (not) `certain` (certain) `que` (that) `nous` (we) `ayons` (have, subjunctive) `assez` (enough) `de` (—) `chaises` (chairs) |
+| 50. It is necessary that you be honest with her. | `Il faut que tu sois honnête avec elle.` Word by word: `Il` (it) `faut` (it is necessary) `que` (that) `tu` (you) `sois` (be, subjunctive) `honnête` (honest) `avec` (with) `elle` (her) |
+| 51. It is important that the children do not run here. | `Il est important que les enfants ne courent pas ici.` Word by word: `Il` (it) `est` (is) `important` (it is important) `que` (that) `les` (the) `enfants` (children) `ne` (not) `courent` (run, subjunctive) `pas` (not) `ici` (here) |
+| 52. It is better that we send the message now. | `Il vaut mieux que nous envoyions le message maintenant.` Word by word: `Il` (it) `vaut` (is worth) `mieux` (it is better) `que` (that) `nous` (we) `envoyions` (send, subjunctive) `le` (the) `message` (message) `maintenant` (now) |
+| 53. It is possible that this plan will work. | `Il est possible que ce plan marche.` Word by word: `Il` (it) `est` (is) `possible` (it is possible) `que` (that) `ce` (this) `plan` (plan) `marche` (work, subjunctive) |
+| 54. It is a shame that you cannot stay longer. | `Il est dommage que tu ne puisses pas rester plus longtemps.` Word by word: `Il` (it) `est` (is) `dommage` (a shame) `que` (that) `tu` (you) `ne` (not) `puisses` (be able, subjunctive) `pas` (not) `rester` (stay) `plus` (more) `longtemps` (longer) |
+| 55. Must we wait outside? | `Faut-il que nous attendions dehors ?` Word by word: `Faut-il` (must) `que` (that) `nous` (we) `attendions` (wait, subjunctive) `dehors` (outside) |
+| 56. It is important that I know your address. | `Il est important que je sache ton adresse.` Word by word: `Il` (it) `est` (is) `important` (it is important) `que` (that) `je` (I) `sache` (know, subjunctive) `ton` (your) `adresse` (address) |
+| 57. I want you to come with us. | `Je veux que tu viennes avec nous.` Word by word: `Je` (I) `veux` (want) `que` (that) `tu` (you) `viennes` (come, subjunctive) `avec` (with) `nous` (we) |
+| 58. She prefers that we meet after work. | `Elle préfère que nous nous retrouvions après le travail.` Word by word: `Elle` (she) `préfère` (prefer) `que` (that) `nous` (we) `nous` (each other) `retrouvions` (meet, subjunctive) `après` (after) `le` (the) `travail` (work) |
+| 59. My father wants me to call him tonight. | `Mon père veut que je l’appelle ce soir.` Word by word: `Mon` (my) `père` (father) `veut` (wants) `que` (that) `je` (I) `l’` (him) `appelle` (call) `ce` (this) `soir` (evening) |
+| 60. We are happy that Marie can travel. | `Nous sommes heureux que Marie puisse voyager.` Word by word: `Nous` (we) `sommes` (are) `heureux` (happy) `que` (that) `Marie` (Marie) `puisse` (be able, subjunctive) `voyager` (travel) |
+| 61. I am afraid that the children will forget their coats. | `J’ai peur que les enfants oublient leurs manteaux.` Word by word: `J’` (I) `ai` (have) `peur` (fear) `que` (that) `les` (the) `enfants` (children) `oublient` (forget, subjunctive) `leurs` (their) `manteaux` (coats) |
+| 62. Do you doubt that he is telling the truth? | `Doutes-tu qu’il dise la vérité ?` Word by word: `Doutes-tu` (doubt) `qu’` (that) `il` (he) `dise` (say, subjunctive) `la` (the) `vérité` (truth) |
+| 63. I do not believe that she wants this apartment. | `Je ne crois pas qu’elle veuille cet appartement.` Word by word: `Je` (I) `ne` (not) `crois` (believe) `pas` (not) `qu’` (that) `elle` (she) `veuille` (want, subjunctive) `cet` (this) `appartement` (apartment) |
+| 64. They are glad that we are here. | `Ils sont contents que nous soyons ici.` Word by word: `Ils` (they) `sont` (are) `contents` (happy) `que` (that) `nous` (we) `soyons` (be, subjunctive) `ici` (here) |
+| 65. I want to understand this lesson. | `Je veux comprendre cette leçon.` Word by word: `Je` (I) `veux` (want) `comprendre` (understand) `cette` (this) `leçon` (lesson) |
+| 66. I want you to understand this lesson. | `Je veux que tu comprennes cette leçon.` Word by word: `Je` (I) `veux` (want) `que` (that) `tu` (you) `comprennes` (understand, subjunctive) `cette` (this) `leçon` (lesson) |
+| 67. She prefers to leave early. | `Elle préfère partir tôt.` Word by word: `Elle` (she) `préfère` (prefer) `partir` (leave) `tôt` (early) |
+| 68. She prefers that we leave early. | `Elle préfère que nous partions tôt.` Word by word: `Elle` (she) `préfère` (prefer) `que` (that) `nous` (we) `partions` (leave, subjunctive) `tôt` (early) |
+| 69. I am sorry that you are sick. | `Je suis désolé que tu sois malade.` Word by word: `Je` (I) `suis` (am) `désolé` (sorry) `que` (that) `tu` (you) `sois` (be, subjunctive) `malade` (sick) |
+| 70. We are surprised that he is doing the dishes. | `Nous sommes surpris qu’il fasse la vaisselle.` Word by word: `Nous` (we) `sommes` (are) `surpris` (surprised) `qu’` (that) `il` (he) `fasse` (do, subjunctive) `la` (the) `vaisselle` (dishes) |
+| 71. I fear that it will be too expensive. | `J’ai peur que ce soit trop cher.` Word by word: `J’` (I) `ai` (have) `peur` (fear) `que` (that) `ce` (it) `soit` (be, subjunctive) `trop` (too) `cher` (expensive) |
+| 72. They doubt that we will find the street. | `Ils doutent que nous trouvions la rue.` Word by word: `Ils` (they) `doutent` (doubt) `que` (that) `nous` (we) `trouvions` (find, subjunctive) `la` (the) `rue` (street) |
+| 73. I am happy to help you. | `Je suis content de t’aider.` Word by word: `Je` (I) `suis` (am) `content` (happy) `de` (to) `t’` (you) `aider` (to help) |
+| 74. I am happy that you are helping me. | `Je suis content que tu m’aides.` Word by word: `Je` (I) `suis` (am) `content` (happy) `que` (that) `tu` (you) `m’` (me) `aides` (help) |
+| 75. I think he understands the rule. | `Je pense qu’il comprend la règle.` Word by word: `Je` (I) `pense` (think) `qu’` (that) `il` (he) `comprend` (understands) `la` (the) `règle` (rule) |
+| 76. I do not think he understands the rule. | `Je ne pense pas qu’il comprenne la règle.` Word by word: `Je` (I) `ne` (not) `pense` (think) `pas` (not) `qu’` (that) `il` (he) `comprenne` (understand, subjunctive) `la` (the) `règle` (rule) |
+| 77. We believe she will come tomorrow. | `Nous croyons qu’elle viendra demain.` Word by word: `Nous` (we) `croyons` (believe) `qu’` (that) `elle` (she) `viendra` (will come) `demain` (tomorrow) |
+| 78. We do not believe she will come tomorrow. | `Nous ne croyons pas qu’elle vienne demain.` Word by word: `Nous` (we) `ne` (not) `croyons` (believe) `pas` (not) `qu’` (that) `elle` (she) `vienne` (come, subjunctive) `demain` (tomorrow) |
+| 79. I know that you can do it. | `Je sais que tu peux le faire.` Word by word: `Je` (I) `sais` (know) `que` (that) `tu` (you) `peux` (can) `le` (the) `faire` (do) |
+| 80. I doubt that you can do it. | `Je doute que tu puisses le faire.` Word by word: `Je` (I) `doute` (doubt) `que` (that) `tu` (you) `puisses` (be able, subjunctive) `le` (the) `faire` (do) |
+| 81. It is certain that they are ready. | `Il est certain qu’ils sont prêts.` Word by word: `Il` (it) `est` (is) `certain` (certain) `qu’` (that) `ils` (they) `sont` (are) `prêts` (ready) |
+| 82. It is not certain that they are ready. | `Il n’est pas certain qu’ils soient prêts.` Word by word: `Il` (it) `n’` (not) `est` (is) `pas` (not) `certain` (certain) `qu’` (that) `ils` (they) `soient` (are, subjunctive) `prêts` (ready) |
+| 83. Do you think the train will arrive on time? | `Penses-tu que le train arrivera à l’heure ?` Word by word: `Penses-tu` (think) `que` (that) `le` (the) `train` (train) `arrivera` (arrive) `à` (on) `l’` (the) `heure` (time) |
+| 84. Do you not think the train will arrive on time? | `Ne penses-tu pas que le train arrive à l’heure ?` Word by word: `Ne` (not) `penses-tu` (think) `pas` (not) `que` (that) `le` (the) `train` (train) `arrive` (arrive, subjunctive) `à` (on) `l’` (the) `heure` (time) |
+| 85. I believe that this restaurant is good. | `Je crois que ce restaurant est bon.` Word by word: `Je` (I) `crois` (believe) `que` (that) `ce` (this) `restaurant` (restaurant) `est` (is) `bon` (good) |
+| 86. I do not believe that this restaurant is good. | `Je ne crois pas que ce restaurant soit bon.` Word by word: `Je` (I) `ne` (not) `crois` (believe) `pas` (not) `que` (that) `ce` (this) `restaurant` (restaurant) `soit` (is, subjunctive) `bon` (good) |
+| 87. She knows that we have the tickets. | `Elle sait que nous avons les billets.` Word by word: `Elle` (she) `sait` (knows) `que` (that) `nous` (we) `avons` (have) `les` (the) `billets` (tickets) |
+| 88. She doubts that we have the tickets. | `Elle doute que nous ayons les billets.` Word by word: `Elle` (she) `doute` (doubt) `que` (that) `nous` (we) `ayons` (have, subjunctive) `les` (the) `billets` (tickets) |
+| 89. I am sure that Paul knows the answer. | `Je suis sûr que Paul sait la réponse.` Word by word: `Je` (I) `suis` (am) `sûr` (sure) `que` (that) `Paul` (Paul) `sait` (knows) `la` (the) `réponse` (answer) |
+| 90. I am not sure that Paul knows the answer. | `Je ne suis pas sûr que Paul sache la réponse.` Word by word: `Je` (I) `ne` (not) `suis` (am) `pas` (not) `sûr` (sure) `que` (that) `Paul` (Paul) `sache` (know, subjunctive) `la` (the) `réponse` (answer) |
+| 91. They think we are leaving tonight. | `Ils pensent que nous partons ce soir.` Word by word: `Ils` (they) `pensent` (think) `que` (that) `nous` (we) `partons` (are leaving) `ce` (this) `soir` (evening) |
+| 92. They do not think we are leaving tonight. | `Ils ne pensent pas que nous partions ce soir.` Word by word: `Ils` (they) `ne` (not) `pensent` (think) `pas` (not) `que` (that) `nous` (we) `partions` (are leaving, subjunctive) `ce` (this) `soir` (evening) |
+| 93. I see that you are tired. | `Je vois que tu es fatigué.` Word by word: `Je` (I) `vois` (see) `que` (that) `tu` (you) `es` (are) `fatigué` (tired) |
+| 94. I am afraid that you are tired. | `J’ai peur que tu sois fatigué.` Word by word: `J’` (I) `ai` (have, helper) `peur` (be afraid) `que` (that) `tu` (you) `sois` (be, subjunctive) `fatigué` (tired) |
+| 95. Tell me the truth. | `Dis-moi la vérité.` Word by word: `Dis-moi` (tell) `la` (the) `vérité` (truth) |
+| 96. I want you to tell me the truth. | `Je veux que tu me dises la vérité.` Word by word: `Je` (I) `veux` (want) `que` (that) `tu` (you) `me` (me) `dises` (tell, subjunctive) `la` (the) `vérité` (truth) |
+| 97. Let us be patient. | `Soyons patients.` Word by word: `Soyons` (let us be) `patients` (patient) |
+| 98. It is important that we be patient. | `Il est important que nous soyons patients.` Word by word: `Il` (it) `est` (is) `important` (it is important) `que` (that) `nous` (we) `soyons` (be, subjunctive) `patients` (patient) |
+| 99. I know that he is coming, but I doubt that he will stay. | `Je sais qu’il vient, mais je doute qu’il reste.` Word by word: `Je` (I) `sais` (know) `qu’` (that) `il` (he) `vient` (comes) `mais` (but) `je` (I) `doute` (doubt) `qu’` (that) `il` (he) `reste` (will stay) |
+| 100. I think she is right, but I do not think she knows everything. | `Je pense qu’elle a raison, mais je ne pense pas qu’elle sache tout.` Word by word: `Je` (I) `pense` (think) `qu’` (that) `elle` (she) `a` (is) `raison` (right) `mais` (but) `je` (I) `ne` (not) `pense` (think) `pas` (not) `qu’` (that) `elle` (she) `sache` (know, subjunctive) `tout` (everything) |

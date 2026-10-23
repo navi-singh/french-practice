@@ -687,103 +687,103 @@ Cover the French column, translate each English sentence aloud, then uncover to 
 
 | English | French |
 | --- | --- |
-| 1. The garden is small. | `Le jardin est petit.` |
-| 2. The window is large. | `La fenêtre est grande.` |
-| 3. The school is near the café. | `L’école est près du café.` |
-| 4. The neighbors are friendly. | `Les voisins sont sympathiques.` |
-| 5. The museum is downtown. | `Le musée est dans le centre-ville.` |
-| 6. The question is important. | `La question est importante.` |
-| 7. The hotel is near the station. | `L’hôtel est près de la gare.` |
-| 8. The students are in the classroom. | `Les étudiants sont dans la classe.` |
-| 9. The address is on the document. | `L’adresse est sur le document.` |
-| 10. The restaurant is open. | `Le restaurant est ouvert.` |
-| 11. The chair is white. | `La chaise est blanche.` |
-| 12. The tree is in the garden. | `L’arbre est dans le jardin.` |
-| 13. The cafés are small. | `Les cafés sont petits.` |
-| 14. The tables are black. | `Les tables sont noires.` |
-| 15. The board is in the room. | `Le tableau est dans la salle.` |
-| 16. The answer is difficult. | `La réponse est difficile.` |
-| 17. The friend is American. | `L’ami est américain.` |
-| 18. The story is French. | `L’histoire est française.` |
-| 19. The professors are patient. | `Les professeurs sont patients.` |
-| 20. The city is beautiful. | `La ville est belle.` |
-| 21. I have a blue notebook. | `J’ai un cahier bleu.` |
-| 22. There is a lamp in the bedroom. | `Il y a une lampe dans la chambre.` |
-| 23. We have some photos of Paris. | `Nous avons des photos de Paris.` |
-| 24. The desks are near the windows. | `Les bureaux sont près des fenêtres.` |
-| 25. There are some animals in the park. | `Il y a des animaux dans le parc.` |
-| 26. I have a red bag. | `J’ai un sac rouge.` |
-| 27. There is a door near the table. | `Il y a une porte près de la table.` |
-| 28. We have some notebooks in the bag. | `Nous avons des cahiers dans le sac.` |
-| 29. The newspapers are on the desk. | `Les journaux sont sur le bureau.` |
-| 30. There is a voice in the street. | `Il y a une voix dans la rue.` |
-| 31. I have a small apartment. | `J’ai un petit appartement.` |
-| 32. There are some doors in the hotel. | `Il y a des portes dans l’hôtel.` |
-| 33. The villages are quiet. | `Les villages sont tranquilles.` |
-| 34. We have a large bedroom. | `Nous avons une grande chambre.` |
-| 35. There is a beautiful board in the classroom. | `Il y a un beau tableau dans la classe.` |
-| 36. I have some black chairs. | `J’ai des chaises noires.` |
-| 37. The books are in the bag. | `Les livres sont dans le sac.` |
-| 38. There is a modern office. | `Il y a un bureau moderne.` |
-| 39. We have some old photos. | `Nous avons des vieilles photos.` |
-| 40. A notebook and a pen, please. | `Un cahier et un stylo, s’il vous plaît.` |
-| 41. Paul is happy. | `Paul est content.` |
-| 42. Marie is happy. | `Marie est contente.` |
-| 43. Paul and Marc are tired. | `Paul et Marc sont fatigués.` |
-| 44. Marie and Léa are tired. | `Marie et Léa sont fatiguées.` |
-| 45. Paul and Marie are happy. | `Paul et Marie sont heureux.` |
-| 46. The Canadian female students are active. | `Les étudiantes canadiennes sont actives.` |
-| 47. The athletic boy is calm. | `Le garçon sportif est calme.` |
-| 48. The athletic girl is calm. | `La fille sportive est calme.` |
-| 49. The good result is important. | `Le bon résultat est important.` |
-| 50. The expensive table is black. | `La table chère est noire.` |
-| 51. The natural park is large. | `Le parc naturel est grand.` |
-| 52. The Canadian family is friendly. | `La famille canadienne est sympathique.` |
-| 53. The Italian restaurant is good. | `Le restaurant italien est bon.` |
-| 54. The French actress is happy. | `L’actrice française est contente.` |
-| 55. The American actor is tired. | `L’acteur américain est fatigué.` |
-| 56. The calm girls are in the garden. | `Les filles calmes sont dans le jardin.` |
-| 57. The happy boys are at school. | `Les garçons heureux sont à l’école.` |
-| 58. The active neighbors are Canadian. | `Les voisins actifs sont canadiens.` |
-| 59. The old houses are white. | `Les vieilles maisons sont blanches.` |
-| 60. The small rooms are quiet. | `Les petites chambres sont tranquilles.` |
-| 61. We are in a large Canadian city. | `Nous sommes dans une grande ville canadienne.` |
-| 62. She has a small black jacket. | `Elle a une petite veste noire.` |
-| 63. It is a beautiful modern apartment. | `C’est un bel appartement moderne.` |
-| 64. There is a new French student. | `Il y a un nouvel étudiant français.` |
-| 65. The old white houses are near the river. | `Les vieilles maisons blanches sont près de la rivière.` |
-| 66. My Canadian colleagues are in the café. | `Mes collègues canadiens sont dans le café.` |
-| 67. The quiet street is near a small park. | `La rue tranquille est près d’un petit parc.` |
-| 68. There is a good meal in the kitchen. | `Il y a un bon repas dans la cuisine.` |
-| 69. The young female student is Italian. | `La jeune étudiante est italienne.` |
-| 70. The new friend is American. | `Le nouvel ami est américain.` |
-| 71. The old hotel is downtown. | `Le vieil hôtel est dans le centre-ville.` |
-| 72. The beautiful neighborhood is quiet. | `Le beau quartier est tranquille.` |
-| 73. The big black bag is on the chair. | `Le grand sac noir est sur la chaise.` |
-| 74. The small blue notebooks are in the office. | `Les petits cahiers bleus sont dans le bureau.` |
-| 75. The white kitchen has a black table. | `La cuisine blanche a une table noire.` |
-| 76. The red chairs are near the window. | `Les chaises rouges sont près de la fenêtre.` |
-| 77. The French language is difficult. | `Le français est difficile.` |
-| 78. The Canadian neighbors are friendly. | `Les voisins canadiens sont sympathiques.` |
-| 79. There are some modern apartments in the street. | `Il y a des appartements modernes dans la rue.` |
-| 80. The shared garden is pretty. | `Le jardin partagé est joli.` |
-| 81. My room has a large window. | `Ma chambre a une grande fenêtre.` |
-| 82. The living room has a comfortable sofa. | `Le salon a un canapé confortable.` |
-| 83. There is a white table and some red chairs. | `Il y a une table blanche et des chaises rouges.` |
-| 84. One female neighbor is French. | `Une voisine est française.` |
-| 85. Two male neighbors are Canadian. | `Deux voisins sont canadiens.` |
-| 86. The new apartment is small but modern. | `Le nouvel appartement est petit mais moderne.` |
-| 87. The little house is near a large school. | `La petite maison est près d’une grande école.` |
-| 88. The windows are large and bright. | `Les fenêtres sont grandes et lumineuses.` |
-| 89. Marie and Paul are happy in the neighborhood. | `Marie et Paul sont contents dans le quartier.` |
-| 90. The old sofa is comfortable. | `Le vieux canapé est confortable.` |
-| 91. There are some French books on the desk. | `Il y a des livres français sur le bureau.` |
-| 92. The black bag is under the table. | `Le sac noir est sous la table.` |
-| 93. The good coffee is in the small café. | `Le bon café est dans le petit café.` |
-| 94. The large city has a quiet street. | `La grande ville a une rue tranquille.` |
-| 95. The French students are near the museum. | `Les étudiants français sont près du musée.` |
-| 96. The Canadian female students have blue notebooks. | `Les étudiantes canadiennes ont des cahiers bleus.` |
-| 97. There is a beautiful tree near the school. | `Il y a un bel arbre près de l’école.` |
-| 98. The modern offices are downtown. | `Les bureaux modernes sont dans le centre-ville.` |
-| 99. The white houses have red doors. | `Les maisons blanches ont des portes rouges.` |
-| 100. A small French café is near the station. | `Un petit café français est près de la gare.` |
+| 1. The garden is small. | `Le jardin est petit.` Word by word: `Le` (the) `jardin` (garden) `est` (is) `petit` (small) |
+| 2. The window is large. | `La fenêtre est grande.` Word by word: `La` (the) `fenêtre` (window) `est` (is) `grande` (large) |
+| 3. The school is near the café. | `L’école est près du café.` Word by word: `L’` (the) `école` (school) `est` (is) `près` (near) `du` (of the) `café` (café) |
+| 4. The neighbors are friendly. | `Les voisins sont sympathiques.` Word by word: `Les` (the) `voisins` (neighbors) `sont` (are) `sympathiques` (friendly) |
+| 5. The museum is downtown. | `Le musée est dans le centre-ville.` Word by word: `Le` (the) `musée` (museum) `est` (is) `dans` (in) `le` (the) `centre-ville` (downtown) |
+| 6. The question is important. | `La question est importante.` Word by word: `La` (the) `question` (question) `est` (is) `importante` (important) |
+| 7. The hotel is near the station. | `L’hôtel est près de la gare.` Word by word: `L’` (the) `hôtel` (hotel) `est` (is) `près` (near) `de` (of) `la` (the) `gare` (station) |
+| 8. The students are in the classroom. | `Les étudiants sont dans la classe.` Word by word: `Les` (the) `étudiants` (students) `sont` (are) `dans` (in) `la` (the) `classe` (classroom) |
+| 9. The address is on the document. | `L’adresse est sur le document.` Word by word: `L’` (the) `adresse` (address) `est` (is) `sur` (on) `le` (the) `document` (document) |
+| 10. The restaurant is open. | `Le restaurant est ouvert.` Word by word: `Le` (the) `restaurant` (restaurant) `est` (is) `ouvert` (open) |
+| 11. The chair is white. | `La chaise est blanche.` Word by word: `La` (the) `chaise` (chair) `est` (is) `blanche` (white) |
+| 12. The tree is in the garden. | `L’arbre est dans le jardin.` Word by word: `L’` (the) `arbre` (tree) `est` (is) `dans` (in) `le` (the) `jardin` (garden) |
+| 13. The cafés are small. | `Les cafés sont petits.` Word by word: `Les` (the) `cafés` (cafés) `sont` (are) `petits` (small) |
+| 14. The tables are black. | `Les tables sont noires.` Word by word: `Les` (the) `tables` (tables) `sont` (are) `noires` (black) |
+| 15. The board is in the room. | `Le tableau est dans la salle.` Word by word: `Le` (the) `tableau` (board) `est` (is) `dans` (in) `la` (the) `salle` (room) |
+| 16. The answer is difficult. | `La réponse est difficile.` Word by word: `La` (the) `réponse` (answer) `est` (is) `difficile` (difficult) |
+| 17. The friend is American. | `L’ami est américain.` Word by word: `L’` (the) `ami` (friend) `est` (is) `américain` (American) |
+| 18. The story is French. | `L’histoire est française.` Word by word: `L’` (the) `histoire` (story) `est` (is) `française` (French) |
+| 19. The professors are patient. | `Les professeurs sont patients.` Word by word: `Les` (the) `professeurs` (professors) `sont` (are) `patients` (patient) |
+| 20. The city is beautiful. | `La ville est belle.` Word by word: `La` (the) `ville` (city) `est` (is) `belle` (beautiful) |
+| 21. I have a blue notebook. | `J’ai un cahier bleu.` Word by word: `J’` (I) `ai` (have) `un` (a) `cahier` (notebook) `bleu` (blue) |
+| 22. There is a lamp in the bedroom. | `Il y a une lampe dans la chambre.` Word by word: `Il y a` (there is) `une` (a) `lampe` (lamp) `dans` (in) `la` (the) `chambre` (bedroom) |
+| 23. We have some photos of Paris. | `Nous avons des photos de Paris.` Word by word: `Nous` (we) `avons` (have) `des` (some) `photos` (photos) `de` (of) `Paris` (Paris) |
+| 24. The desks are near the windows. | `Les bureaux sont près des fenêtres.` Word by word: `Les` (the) `bureaux` (desks) `sont` (are) `près` (near) `des` (of the) `fenêtres` (windows) |
+| 25. There are some animals in the park. | `Il y a des animaux dans le parc.` Word by word: `Il y a` (there are) `des` (some) `animaux` (animals) `dans` (in) `le` (the) `parc` (park) |
+| 26. I have a red bag. | `J’ai un sac rouge.` Word by word: `J’` (I) `ai` (have) `un` (a) `sac` (bag) `rouge` (red) |
+| 27. There is a door near the table. | `Il y a une porte près de la table.` Word by word: `Il y a` (there is) `une` (a) `porte` (door) `près` (near) `de` (of) `la` (the) `table` (table) |
+| 28. We have some notebooks in the bag. | `Nous avons des cahiers dans le sac.` Word by word: `Nous` (we) `avons` (have) `des` (some) `cahiers` (notebooks) `dans` (in) `le` (the) `sac` (bag) |
+| 29. The newspapers are on the desk. | `Les journaux sont sur le bureau.` Word by word: `Les` (the) `journaux` (newspapers) `sont` (are) `sur` (on) `le` (the) `bureau` (desk) |
+| 30. There is a voice in the street. | `Il y a une voix dans la rue.` Word by word: `Il y a` (there is) `une` (a) `voix` (voice) `dans` (in) `la` (the) `rue` (street) |
+| 31. I have a small apartment. | `J’ai un petit appartement.` Word by word: `J’` (I) `ai` (have) `un` (a) `petit` (small) `appartement` (apartment) |
+| 32. There are some doors in the hotel. | `Il y a des portes dans l’hôtel.` Word by word: `Il y a` (there are) `des` (some) `portes` (doors) `dans` (in) `l’` (the) `hôtel` (hotel) |
+| 33. The villages are quiet. | `Les villages sont tranquilles.` Word by word: `Les` (the) `villages` (villages) `sont` (are) `tranquilles` (quiet) |
+| 34. We have a large bedroom. | `Nous avons une grande chambre.` Word by word: `Nous` (we) `avons` (have) `une` (a) `grande` (large) `chambre` (bedroom) |
+| 35. There is a beautiful board in the classroom. | `Il y a un beau tableau dans la classe.` Word by word: `Il y a` (there is) `un` (a) `beau` (beautiful) `tableau` (board) `dans` (in) `la` (the) `classe` (classroom) |
+| 36. I have some black chairs. | `J’ai des chaises noires.` Word by word: `J’` (I) `ai` (have) `des` (some) `chaises` (chairs) `noires` (black) |
+| 37. The books are in the bag. | `Les livres sont dans le sac.` Word by word: `Les` (the) `livres` (books) `sont` (are) `dans` (in) `le` (the) `sac` (bag) |
+| 38. There is a modern office. | `Il y a un bureau moderne.` Word by word: `Il y a` (there is) `un` (a) `bureau` (office) `moderne` (modern) |
+| 39. We have some old photos. | `Nous avons des vieilles photos.` Word by word: `Nous` (we) `avons` (have) `des` (some) `vieilles` (old) `photos` (photos) |
+| 40. A notebook and a pen, please. | `Un cahier et un stylo, s’il vous plaît.` Word by word: `Un` (a) `cahier` (notebook) `et` (and) `un` (a) `stylo` (pen) `s’il vous plaît` (please) |
+| 41. Paul is happy. | `Paul est content.` Word by word: `Paul` (Paul) `est` (is) `content` (happy) |
+| 42. Marie is happy. | `Marie est contente.` Word by word: `Marie` (Marie) `est` (is) `contente` (happy) |
+| 43. Paul and Marc are tired. | `Paul et Marc sont fatigués.` Word by word: `Paul` (Paul) `et` (and) `Marc` (Marc) `sont` (are) `fatigués` (tired) |
+| 44. Marie and Léa are tired. | `Marie et Léa sont fatiguées.` Word by word: `Marie` (Marie) `et` (and) `Léa` (Léa) `sont` (are) `fatiguées` (tired) |
+| 45. Paul and Marie are happy. | `Paul et Marie sont heureux.` Word by word: `Paul` (Paul) `et` (and) `Marie` (Marie) `sont` (are) `heureux` (happy) |
+| 46. The Canadian female students are active. | `Les étudiantes canadiennes sont actives.` Word by word: `Les` (the) `étudiantes` (female students) `canadiennes` (Canadian) `sont` (are) `actives` (active) |
+| 47. The athletic boy is calm. | `Le garçon sportif est calme.` Word by word: `Le` (the) `garçon` (boy) `sportif` (athletic) `est` (is) `calme` (calm) |
+| 48. The athletic girl is calm. | `La fille sportive est calme.` Word by word: `La` (the) `fille` (girl) `sportive` (athletic) `est` (is) `calme` (calm) |
+| 49. The good result is important. | `Le bon résultat est important.` Word by word: `Le` (the) `bon` (good) `résultat` (result) `est` (is) `important` (important) |
+| 50. The expensive table is black. | `La table chère est noire.` Word by word: `La` (the) `table` (table) `chère` (expensive) `est` (is) `noire` (black) |
+| 51. The natural park is large. | `Le parc naturel est grand.` Word by word: `Le` (the) `parc` (park) `naturel` (natural) `est` (is) `grand` (large) |
+| 52. The Canadian family is friendly. | `La famille canadienne est sympathique.` Word by word: `La` (the) `famille` (family) `canadienne` (Canadian) `est` (is) `sympathique` (friendly) |
+| 53. The Italian restaurant is good. | `Le restaurant italien est bon.` Word by word: `Le` (the) `restaurant` (restaurant) `italien` (Italian) `est` (is) `bon` (good) |
+| 54. The French actress is happy. | `L’actrice française est contente.` Word by word: `L’` (the) `actrice` (actress) `française` (French) `est` (is) `contente` (happy) |
+| 55. The American actor is tired. | `L’acteur américain est fatigué.` Word by word: `L’` (the) `acteur` (actor) `américain` (American) `est` (is) `fatigué` (tired) |
+| 56. The calm girls are in the garden. | `Les filles calmes sont dans le jardin.` Word by word: `Les` (the) `filles` (girls) `calmes` (calm) `sont` (are) `dans` (in) `le` (the) `jardin` (garden) |
+| 57. The happy boys are at school. | `Les garçons heureux sont à l’école.` Word by word: `Les` (the) `garçons` (boys) `heureux` (happy) `sont` (are) `à` (at) `l’` (the) `école` (school) |
+| 58. The active neighbors are Canadian. | `Les voisins actifs sont canadiens.` Word by word: `Les` (the) `voisins` (neighbors) `actifs` (active) `sont` (are) `canadiens` (Canadian) |
+| 59. The old houses are white. | `Les vieilles maisons sont blanches.` Word by word: `Les` (the) `vieilles` (old) `maisons` (houses) `sont` (are) `blanches` (white) |
+| 60. The small rooms are quiet. | `Les petites chambres sont tranquilles.` Word by word: `Les` (the) `petites` (small) `chambres` (rooms) `sont` (are) `tranquilles` (quiet) |
+| 61. We are in a large Canadian city. | `Nous sommes dans une grande ville canadienne.` Word by word: `Nous` (we) `sommes` (are) `dans` (in) `une` (a) `grande` (large) `ville` (city) `canadienne` (Canadian) |
+| 62. She has a small black jacket. | `Elle a une petite veste noire.` Word by word: `Elle` (she) `a` (has) `une` (a) `petite` (small) `veste` (jacket) `noire` (black) |
+| 63. It is a beautiful modern apartment. | `C’est un bel appartement moderne.` Word by word: `C’` (it) `est` (is) `un` (a) `bel` (beautiful) `appartement` (apartment) `moderne` (modern) |
+| 64. There is a new French student. | `Il y a un nouvel étudiant français.` Word by word: `Il y a` (there is) `un` (a) `nouvel` (new) `étudiant` (student) `français` (French) |
+| 65. The old white houses are near the river. | `Les vieilles maisons blanches sont près de la rivière.` Word by word: `Les` (the) `vieilles` (old) `maisons` (houses) `blanches` (white) `sont` (are) `près` (near) `de` (of) `la` (the) `rivière` (river) |
+| 66. My Canadian colleagues are in the café. | `Mes collègues canadiens sont dans le café.` Word by word: `Mes` (my) `collègues` (colleagues) `canadiens` (Canadian) `sont` (are) `dans` (in) `le` (the) `café` (café) |
+| 67. The quiet street is near a small park. | `La rue tranquille est près d’un petit parc.` Word by word: `La` (the) `rue` (street) `tranquille` (quiet) `est` (is) `près` (near) `d’` (of) `un` (a) `petit` (small) `parc` (park) |
+| 68. There is a good meal in the kitchen. | `Il y a un bon repas dans la cuisine.` Word by word: `Il y a` (there is) `un` (a) `bon` (good) `repas` (meal) `dans` (in) `la` (the) `cuisine` (kitchen) |
+| 69. The young female student is Italian. | `La jeune étudiante est italienne.` Word by word: `La` (the) `jeune` (young) `étudiante` (female student) `est` (is) `italienne` (Italian) |
+| 70. The new friend is American. | `Le nouvel ami est américain.` Word by word: `Le` (the) `nouvel` (new) `ami` (friend) `est` (is) `américain` (American) |
+| 71. The old hotel is downtown. | `Le vieil hôtel est dans le centre-ville.` Word by word: `Le` (the) `vieil` (old) `hôtel` (hotel) `est` (is) `dans` (in) `le` (the) `centre-ville` (downtown) |
+| 72. The beautiful neighborhood is quiet. | `Le beau quartier est tranquille.` Word by word: `Le` (the) `beau` (beautiful) `quartier` (neighborhood) `est` (is) `tranquille` (quiet) |
+| 73. The big black bag is on the chair. | `Le grand sac noir est sur la chaise.` Word by word: `Le` (the) `grand` (large) `sac` (bag) `noir` (black) `est` (is) `sur` (on) `la` (the) `chaise` (chair) |
+| 74. The small blue notebooks are in the office. | `Les petits cahiers bleus sont dans le bureau.` Word by word: `Les` (the) `petits` (small) `cahiers` (notebooks) `bleus` (blue) `sont` (are) `dans` (in) `le` (the) `bureau` (office) |
+| 75. The white kitchen has a black table. | `La cuisine blanche a une table noire.` Word by word: `La` (the) `cuisine` (kitchen) `blanche` (white) `a` (has) `une` (a) `table` (table) `noire` (black) |
+| 76. The red chairs are near the window. | `Les chaises rouges sont près de la fenêtre.` Word by word: `Les` (the) `chaises` (chairs) `rouges` (red) `sont` (are) `près` (near) `de` (of) `la` (the) `fenêtre` (window) |
+| 77. The French language is difficult. | `Le français est difficile.` Word by word: `Le` (the) `français` (French) `est` (is) `difficile` (difficult) |
+| 78. The Canadian neighbors are friendly. | `Les voisins canadiens sont sympathiques.` Word by word: `Les` (the) `voisins` (neighbors) `canadiens` (Canadian) `sont` (are) `sympathiques` (friendly) |
+| 79. There are some modern apartments in the street. | `Il y a des appartements modernes dans la rue.` Word by word: `Il y a` (there are) `des` (some) `appartements` (apartments) `modernes` (modern) `dans` (in) `la` (the) `rue` (street) |
+| 80. The shared garden is pretty. | `Le jardin partagé est joli.` Word by word: `Le` (the) `jardin` (garden) `partagé` (shared) `est` (is) `joli` (pretty) |
+| 81. My room has a large window. | `Ma chambre a une grande fenêtre.` Word by word: `Ma` (my) `chambre` (bedroom) `a` (has) `une` (a) `grande` (large) `fenêtre` (window) |
+| 82. The living room has a comfortable sofa. | `Le salon a un canapé confortable.` Word by word: `Le` (the) `salon` (living room) `a` (has) `un` (a) `canapé` (sofa) `confortable` (comfortable) |
+| 83. There is a white table and some red chairs. | `Il y a une table blanche et des chaises rouges.` Word by word: `Il y a` (there are) `une` (a) `table` (table) `blanche` (white) `et` (and) `des` (some) `chaises` (chairs) `rouges` (red) |
+| 84. One female neighbor is French. | `Une voisine est française.` Word by word: `Une` (a) `voisine` (female neighbor) `est` (is) `française` (French) |
+| 85. Two male neighbors are Canadian. | `Deux voisins sont canadiens.` Word by word: `Deux` (two) `voisins` (neighbors) `sont` (are) `canadiens` (Canadian) |
+| 86. The new apartment is small but modern. | `Le nouvel appartement est petit mais moderne.` Word by word: `Le` (the) `nouvel` (new) `appartement` (apartment) `est` (is) `petit` (small) `mais` (but) `moderne` (modern) |
+| 87. The little house is near a large school. | `La petite maison est près d’une grande école.` Word by word: `La` (the) `petite` (small) `maison` (house) `est` (is) `près` (near) `d’` (of) `une` (a) `grande` (large) `école` (school) |
+| 88. The windows are large and bright. | `Les fenêtres sont grandes et lumineuses.` Word by word: `Les` (the) `fenêtres` (windows) `sont` (are) `grandes` (large) `et` (and) `lumineuses` (bright) |
+| 89. Marie and Paul are happy in the neighborhood. | `Marie et Paul sont contents dans le quartier.` Word by word: `Marie` (Marie) `et` (and) `Paul` (Paul) `sont` (are) `contents` (happy) `dans` (in) `le` (the) `quartier` (neighborhood) |
+| 90. The old sofa is comfortable. | `Le vieux canapé est confortable.` Word by word: `Le` (the) `vieux` (old) `canapé` (sofa) `est` (is) `confortable` (comfortable) |
+| 91. There are some French books on the desk. | `Il y a des livres français sur le bureau.` Word by word: `Il y a` (there are) `des` (some) `livres` (books) `français` (French) `sur` (on) `le` (the) `bureau` (desk) |
+| 92. The black bag is under the table. | `Le sac noir est sous la table.` Word by word: `Le` (the) `sac` (bag) `noir` (black) `est` (is) `sous` (under) `la` (the) `table` (table) |
+| 93. The good coffee is in the small café. | `Le bon café est dans le petit café.` Word by word: `Le` (the) `bon` (good) `café` (café) `est` (is) `dans` (in) `le` (the) `petit` (small) `café` (café) |
+| 94. The large city has a quiet street. | `La grande ville a une rue tranquille.` Word by word: `La` (the) `grande` (large) `ville` (city) `a` (has) `une` (a) `rue` (street) `tranquille` (quiet) |
+| 95. The French students are near the museum. | `Les étudiants français sont près du musée.` Word by word: `Les` (the) `étudiants` (students) `français` (French) `sont` (are) `près` (near) `du` (of the) `musée` (museum) |
+| 96. The Canadian female students have blue notebooks. | `Les étudiantes canadiennes ont des cahiers bleus.` Word by word: `Les` (the) `étudiantes` (female students) `canadiennes` (Canadian) `ont` (have) `des` (some) `cahiers` (notebooks) `bleus` (blue) |
+| 97. There is a beautiful tree near the school. | `Il y a un bel arbre près de l’école.` Word by word: `Il y a` (there is) `un` (a) `bel` (beautiful) `arbre` (tree) `près` (near) `de` (of) `l’` (the) `école` (school) |
+| 98. The modern offices are downtown. | `Les bureaux modernes sont dans le centre-ville.` Word by word: `Les` (the) `bureaux` (offices) `modernes` (modern) `sont` (are) `dans` (in) `le` (the) `centre-ville` (downtown) |
+| 99. The white houses have red doors. | `Les maisons blanches ont des portes rouges.` Word by word: `Les` (the) `maisons` (house) `blanches` (white) `ont` (have) `des` (some) `portes` (doors) `rouges` (red) |
+| 100. A small French café is near the station. | `Un petit café français est près de la gare.` Word by word: `Un` (a) `petit` (small) `café` (café) `français` (French) `est` (is) `près` (near) `de` (of) `la` (the) `gare` (station) |

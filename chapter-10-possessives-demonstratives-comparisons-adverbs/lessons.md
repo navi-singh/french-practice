@@ -626,103 +626,103 @@ Cover the French column, translate each English sentence aloud, then uncover to 
 
 | English | French |
 | --- | --- |
-| 1. My desk is near the window. | `Mon bureau est près de la fenêtre.` |
-| 2. Your address is very clear. | `Ton adresse est très claire.` |
-| 3. His sister works at the bank. | `Sa sœur travaille à la banque.` |
-| 4. Her brother lives in this neighborhood. | `Son frère habite dans ce quartier.` |
-| 5. Our children do their homework after dinner. | `Nos enfants font leurs devoirs après le dîner.` |
-| 6. Their house is smaller than ours. | `Leur maison est plus petite que la nôtre.` |
-| 7. I know your parents. | `Je connais tes parents.` |
-| 8. She is looking for her keys in her bag. | `Elle cherche ses clés dans son sac.` |
-| 9. We are taking our train at noon. | `Nous prenons notre train à midi.` |
-| 10. Do you like your new apartment ? | `Tu aimes ton nouvel appartement ?` |
-| 11. My female friend is learning French. | `Mon amie apprend le français.` |
-| 12. His story is interesting. | `Son histoire est intéressante.` |
-| 13. Their ideas are useful. | `Leurs idées sont utiles.` |
-| 14. Your room is cleaner today. | `Votre chambre est plus propre aujourd’hui.` |
-| 15. My watch is on the table. | `Ma montre est sur la table.` |
-| 16. Our teacher answers our questions. | `Notre professeur répond à nos questions.` |
-| 17. Their son drinks too much soda. | `Leur fils boit trop de soda.` |
-| 18. I prefer your plan to my plan. | `Je préfère ton plan à mon plan.` |
-| 19. Her office is behind the station. | `Son bureau est derrière la gare.` |
-| 20. We do not find our tickets. | `Nous ne trouvons pas nos billets.` |
-| 21. This book is mine. | `Ce livre est le mien.` |
-| 22. This key is yours. | `Cette clé est la tienne.` |
-| 23. These glasses are hers, not mine. | `Ces lunettes sont les siennes, pas les miennes.` |
-| 24. Our room is ready, but yours is not. | `Notre chambre est prête, mais la vôtre ne l’est pas.` |
-| 25. My apartment is small, but theirs is bright. | `Mon appartement est petit, mais le leur est lumineux.` |
-| 26. Here are our tickets. Where are yours ? | `Voici nos billets. Où sont les vôtres ?` |
-| 27. Your answer is clearer than his. | `Ta réponse est plus claire que la sienne.` |
-| 28. Their bags are heavier than ours. | `Leurs sacs sont plus lourds que les nôtres.` |
-| 29. I take my notebook, and you take yours. | `Je prends mon carnet, et tu prends le tien.` |
-| 30. Her method is slower than mine. | `Sa méthode est plus lente que la mienne.` |
-| 31. Our train leaves earlier than theirs. | `Notre train part plus tôt que le leur.` |
-| 32. Your flowers are prettier than mine. | `Tes fleurs sont plus jolies que les miennes.` |
-| 33. This seat is mine, and that one is yours. | `Cette place est la mienne, et celle-là est la tienne.` |
-| 34. Do you prefer our idea or theirs ? | `Tu préfères notre idée ou la leur ?` |
-| 35. My parents know yours. | `Mes parents connaissent les tiens.` |
-| 36. His suitcase takes less space than yours. | `Sa valise prend moins de place que la vôtre.` |
-| 37. This answer is not mine. | `Cette réponse n’est pas la mienne.` |
-| 38. The blue notebooks are ours. | `Les cahiers bleus sont les nôtres.` |
-| 39. This neighborhood is quiet. | `Ce quartier est calme.` |
-| 40. This hotel is near the station. | `Cet hôtel est près de la gare.` |
-| 41. This street is more lively at night. | `Cette rue est plus animée le soir.` |
-| 42. These buildings are old but beautiful. | `Ces immeubles sont vieux mais beaux.` |
-| 43. I prefer this book here. | `Je préfère ce livre-ci.` |
-| 44. She chooses that chair there. | `Elle choisit cette chaise-là.` |
-| 45. Do you want this one or that one ? | `Tu veux celui-ci ou celui-là ?` |
-| 46. The one near the park is less expensive. | `Celui près du parc est moins cher.` |
-| 47. The one that speaks clearly is our guide. | `Celle qui parle clairement est notre guide.` |
-| 48. Those here are too small. | `Ceux-ci sont trop petits.` |
-| 49. Those there belong to my parents. | `Ceux-là sont à mes parents.` |
-| 50. These here are cleaner than those there. | `Celles-ci sont plus propres que celles-là.` |
-| 51. I know that man, but not the one with him. | `Je connais cet homme, mais pas celui avec lui.` |
-| 52. This exercise is easier than the one before. | `Cet exercice est plus facile que celui d’avant.` |
-| 53. These shoes are mine, but those are yours. | `Ces chaussures sont les miennes, mais celles-là sont les tiennes.` |
-| 54. I am taking this suitcase because that one is heavy. | `Je prends cette valise parce que celle-là est lourde.` |
-| 55. Do you understand this rule here ? | `Tu comprends cette règle-ci ?` |
-| 56. The students in this class work well. | `Les étudiants de cette classe travaillent bien.` |
-| 57. That solution is worse than this one. | `Cette solution-là est pire que celle-ci.` |
-| 58. My room is bigger than your room. | `Ma chambre est plus grande que ta chambre.` |
-| 59. This café is less noisy than the restaurant. | `Ce café est moins bruyant que le restaurant.` |
-| 60. She is as patient as her brother. | `Elle est aussi patiente que son frère.` |
-| 61. We have more time than you. | `Nous avons plus de temps que vous.` |
-| 62. They have less money than their parents. | `Ils ont moins d’argent que leurs parents.` |
-| 63. I buy as many vegetables as my sister. | `J’achète autant de légumes que ma sœur.` |
-| 64. You work more than me. | `Tu travailles plus que moi.` |
-| 65. He goes out less than his friends. | `Il sort moins que ses amis.` |
-| 66. We read as much as our teacher. | `Nous lisons autant que notre professeur.` |
-| 67. This is the most practical bag. | `C’est le sac le plus pratique.` |
-| 68. This is the least expensive room. | `C’est la chambre la moins chère.` |
-| 69. These are the best seats in the room. | `Ce sont les meilleures places de la salle.` |
-| 70. She cooks better than I do. | `Elle cuisine mieux que moi.` |
-| 71. This is the worst excuse of the day. | `C’est la pire excuse de la journée.` |
-| 72. He writes worse when he is tired. | `Il écrit plus mal quand il est fatigué.` |
-| 73. Our car is faster than theirs. | `Notre voiture est plus rapide que la leur.` |
-| 74. Your idea is as useful as mine. | `Ton idée est aussi utile que la mienne.` |
-| 75. This table takes up the least space. | `Cette table prend le moins de place.` |
-| 76. Who has the most experience here ? | `Qui a le plus d’expérience ici ?` |
-| 77. I drink less coffee than my father. | `Je bois moins de café que mon père.` |
-| 78. They speak more clearly than we do. | `Ils parlent plus clairement que nous.` |
-| 79. She arrives earlier than him. | `Elle arrive plus tôt que lui.` |
-| 80. This problem is more serious than that one. | `Ce problème est plus sérieux que celui-là.` |
-| 81. I understand this lesson better today. | `Je comprends mieux cette leçon aujourd’hui.` |
-| 82. The guide speaks slowly. | `Le guide parle lentement.` |
-| 83. We listen carefully to the teacher. | `Nous écoutons attentivement le professeur.` |
-| 84. They answer politely. | `Ils répondent poliment.` |
-| 85. She explains the rule clearly. | `Elle explique clairement la règle.` |
-| 86. Fortunately, the train is not late. | `Heureusement, le train n’est pas en retard.` |
-| 87. I often work at the library. | `Je travaille souvent à la bibliothèque.` |
-| 88. You always arrive early. | `Tu arrives toujours tôt.` |
-| 89. He drives carefully in the city. | `Il conduit prudemment en ville.` |
-| 90. We wait patiently near the door. | `Nous attendons patiemment près de la porte.` |
-| 91. My brother studies regularly in the evening. | `Mon frère étudie régulièrement le soir.` |
-| 92. This child speaks more softly than the others. | `Cet enfant parle plus doucement que les autres.` |
-| 93. You explain less simply than our teacher. | `Tu expliques moins simplement que notre professeur.` |
-| 94. She sings as well as her mother. | `Elle chante aussi bien que sa mère.` |
-| 95. In this group, Lina answers best. | `Dans ce groupe, Lina répond le mieux.` |
-| 96. I already know this word. | `Je connais déjà ce mot.` |
-| 97. They leave late but walk quickly. | `Ils partent tard mais marchent vite.` |
-| 98. I read this sentence calmly. | `Je lis cette phrase calmement.` |
-| 99. Our neighbors rarely eat here. | `Nos voisins mangent rarement ici.` |
-| 100. This student writes more carefully than I do. | `Cet étudiant écrit plus soigneusement que moi.` |
+| 1. My desk is near the window. | `Mon bureau est près de la fenêtre.` Word by word: `Mon` (my) `bureau` (desk) `est` (is) `près` (near) `de` (—) `la` (the) `fenêtre` (window) |
+| 2. Your address is very clear. | `Ton adresse est très claire.` Word by word: `Ton` (your) `adresse` (address) `est` (is) `très` (very) `claire` (clear) |
+| 3. His sister works at the bank. | `Sa sœur travaille à la banque.` Word by word: `Sa` (his) `sœur` (sister) `travaille` (works) `à` (at) `la` (the) `banque` (bank) |
+| 4. Her brother lives in this neighborhood. | `Son frère habite dans ce quartier.` Word by word: `Son` (her) `frère` (brother) `habite` (lives) `dans` (in) `ce` (this) `quartier` (neighborhood) |
+| 5. Our children do their homework after dinner. | `Nos enfants font leurs devoirs après le dîner.` Word by word: `Nos` (our) `enfants` (children) `font` (do) `leurs` (their) `devoirs` (assignments) `après` (after) `le` (the) `dîner` (dinner) |
+| 6. Their house is smaller than ours. | `Leur maison est plus petite que la nôtre.` Word by word: `Leur` (their) `maison` (house) `est` (is) `plus` (more) `petite` (small) `que` (than) `la` (the) `nôtre` (ours) |
+| 7. I know your parents. | `Je connais tes parents.` Word by word: `Je` (I) `connais` (know) `tes` (your) `parents` (parents) |
+| 8. She is looking for her keys in her bag. | `Elle cherche ses clés dans son sac.` Word by word: `Elle` (she) `cherche` (looks for) `ses` (her) `clés` (keys) `dans` (in) `son` (her) `sac` (bag) |
+| 9. We are taking our train at noon. | `Nous prenons notre train à midi.` Word by word: `Nous` (we) `prenons` (take) `notre` (our) `train` (train) `à` (at) `midi` (noon) |
+| 10. Do you like your new apartment ? | `Tu aimes ton nouvel appartement ?` Word by word: `Tu` (you) `aimes` (like) `ton` (your) `nouvel` (new) `appartement` (apartment) |
+| 11. My female friend is learning French. | `Mon amie apprend le français.` Word by word: `Mon` (my) `amie` (female friend) `apprend` (learns) `le` (the) `français` (French) |
+| 12. His story is interesting. | `Son histoire est intéressante.` Word by word: `Son` (his) `histoire` (story) `est` (is) `intéressante` (interesting) |
+| 13. Their ideas are useful. | `Leurs idées sont utiles.` Word by word: `Leurs` (their) `idées` (ideas) `sont` (are) `utiles` (useful) |
+| 14. Your room is cleaner today. | `Votre chambre est plus propre aujourd’hui.` Word by word: `Votre` (your) `chambre` (room) `est` (is) `plus` (more) `propre` (clean) `aujourd’` (today) `hui` (—) |
+| 15. My watch is on the table. | `Ma montre est sur la table.` Word by word: `Ma` (my) `montre` (watch) `est` (is) `sur` (on) `la` (the) `table` (table) |
+| 16. Our teacher answers our questions. | `Notre professeur répond à nos questions.` Word by word: `Notre` (our) `professeur` (teacher) `répond` (answers) `à` (to) `nos` (our) `questions` (questions) |
+| 17. Their son drinks too much soda. | `Leur fils boit trop de soda.` Word by word: `Leur` (their) `fils` (son) `boit` (drinks) `trop` (too much) `de` (of) `soda` (soda) |
+| 18. I prefer your plan to my plan. | `Je préfère ton plan à mon plan.` Word by word: `Je` (I) `préfère` (prefer) `ton` (your) `plan` (plan) `à` (to) `mon` (my) `plan` (plan) |
+| 19. Her office is behind the station. | `Son bureau est derrière la gare.` Word by word: `Son` (her) `bureau` (office) `est` (is) `derrière` (behind) `la` (the) `gare` (station) |
+| 20. We do not find our tickets. | `Nous ne trouvons pas nos billets.` Word by word: `Nous` (we) `ne` (not) `trouvons` (find) `pas` (not) `nos` (our) `billets` (tickets) |
+| 21. This book is mine. | `Ce livre est le mien.` Word by word: `Ce` (this) `livre` (book) `est` (is) `le` (the) `mien` (mine) |
+| 22. This key is yours. | `Cette clé est la tienne.` Word by word: `Cette` (this) `clé` (key) `est` (is) `la` (the) `tienne` (yours) |
+| 23. These glasses are hers, not mine. | `Ces lunettes sont les siennes, pas les miennes.` Word by word: `Ces` (these) `lunettes` (glasses) `sont` (are) `les` (the) `siennes` (hers) `pas` (not) `les` (the) `miennes` (mine) |
+| 24. Our room is ready, but yours is not. | `Notre chambre est prête, mais la vôtre ne l’est pas.` Word by word: `Notre` (our) `chambre` (room) `est` (is) `prête` (ready) `mais` (but) `la` (the) `vôtre` (yours) `ne` (not) `l’` (it) `est` (is) `pas` (not) |
+| 25. My apartment is small, but theirs is bright. | `Mon appartement est petit, mais le leur est lumineux.` Word by word: `Mon` (my) `appartement` (apartment) `est` (is) `petit` (small) `mais` (but) `le` (the) `leur` (theirs) `est` (is) `lumineux` (bright) |
+| 26. Here are our tickets. Where are yours ? | `Voici nos billets. Où sont les vôtres ?` Word by word: `Voici` (here are) `nos` (our) `billets` (tickets) `Où` (where) `sont` (are) `les` (the) `vôtres` (yours) |
+| 27. Your answer is clearer than his. | `Ta réponse est plus claire que la sienne.` Word by word: `Ta` (your) `réponse` (answer) `est` (is) `plus` (more) `claire` (clear) `que` (than) `la` (the) `sienne` (his) |
+| 28. Their bags are heavier than ours. | `Leurs sacs sont plus lourds que les nôtres.` Word by word: `Leurs` (their) `sacs` (bags) `sont` (are) `plus` (more) `lourds` (heavy) `que` (than) `les` (the) `nôtres` (ours) |
+| 29. I take my notebook, and you take yours. | `Je prends mon carnet, et tu prends le tien.` Word by word: `Je` (I) `prends` (take) `mon` (my) `carnet` (notebook) `et` (and) `tu` (you) `prends` (take) `le` (the) `tien` (yours) |
+| 30. Her method is slower than mine. | `Sa méthode est plus lente que la mienne.` Word by word: `Sa` (her) `méthode` (method) `est` (is) `plus` (more) `lente` (slow) `que` (than) `la` (the) `mienne` (mine) |
+| 31. Our train leaves earlier than theirs. | `Notre train part plus tôt que le leur.` Word by word: `Notre` (our) `train` (train) `part` (leaves) `plus` (more) `tôt` (early) `que` (than) `le` (the) `leur` (theirs) |
+| 32. Your flowers are prettier than mine. | `Tes fleurs sont plus jolies que les miennes.` Word by word: `Tes` (your) `fleurs` (flowers) `sont` (are) `plus` (more) `jolies` (pretty) `que` (than) `les` (the) `miennes` (mine) |
+| 33. This seat is mine, and that one is yours. | `Cette place est la mienne, et celle-là est la tienne.` Word by word: `Cette` (this) `place` (seat) `est` (is) `la` (the) `mienne` (mine) `et` (and) `celle-là` (that one) `est` (is) `la` (the) `tienne` (yours) |
+| 34. Do you prefer our idea or theirs ? | `Tu préfères notre idée ou la leur ?` Word by word: `Tu` (you) `préfères` (prefer) `notre` (our) `idée` (idea) `ou` (or) `la` (the) `leur` (theirs) |
+| 35. My parents know yours. | `Mes parents connaissent les tiens.` Word by word: `Mes` (my) `parents` (parents) `connaissent` (know) `les` (the) `tiens` (yours) |
+| 36. His suitcase takes less space than yours. | `Sa valise prend moins de place que la vôtre.` Word by word: `Sa` (his) `valise` (suitcase) `prend` (takes) `moins` (less) `de` (—) `place` (space) `que` (than) `la` (the) `vôtre` (yours) |
+| 37. This answer is not mine. | `Cette réponse n’est pas la mienne.` Word by word: `Cette` (this) `réponse` (answer) `n’` (not) `est` (is) `pas` (not) `la` (the) `mienne` (mine) |
+| 38. The blue notebooks are ours. | `Les cahiers bleus sont les nôtres.` Word by word: `Les` (the) `cahiers` (notebooks) `bleus` (blue) `sont` (are) `les` (the) `nôtres` (ours) |
+| 39. This neighborhood is quiet. | `Ce quartier est calme.` Word by word: `Ce` (this) `quartier` (neighborhood) `est` (is) `calme` (quiet) |
+| 40. This hotel is near the station. | `Cet hôtel est près de la gare.` Word by word: `Cet` (this) `hôtel` (hotel) `est` (is) `près` (near) `de` (—) `la` (the) `gare` (station) |
+| 41. This street is more lively at night. | `Cette rue est plus animée le soir.` Word by word: `Cette` (this) `rue` (street) `est` (is) `plus` (more) `animée` (lively) `le` (the) `soir` (evening) |
+| 42. These buildings are old but beautiful. | `Ces immeubles sont vieux mais beaux.` Word by word: `Ces` (these) `immeubles` (buildings) `sont` (are) `vieux` (old) `mais` (but) `beaux` (beautiful) |
+| 43. I prefer this book here. | `Je préfère ce livre-ci.` Word by word: `Je` (I) `préfère` (prefer) `ce` (this) `livre-ci` (book here) |
+| 44. She chooses that chair there. | `Elle choisit cette chaise-là.` Word by word: `Elle` (she) `choisit` (chooses) `cette` (that) `chaise-là` (chair there) |
+| 45. Do you want this one or that one ? | `Tu veux celui-ci ou celui-là ?` Word by word: `Tu` (you) `veux` (want) `celui-ci` (this one here) `ou` (or) `celui-là` (that one there) |
+| 46. The one near the park is less expensive. | `Celui près du parc est moins cher.` Word by word: `Celui` (the one) `près` (near) `du` (the) `parc` (park) `est` (is) `moins` (less) `cher` (expensive) |
+| 47. The one that speaks clearly is our guide. | `Celle qui parle clairement est notre guide.` Word by word: `Celle` (the one) `qui` (that) `parle` (speaks) `clairement` (clearly) `est` (is) `notre` (our) `guide` (guide) |
+| 48. Those here are too small. | `Ceux-ci sont trop petits.` Word by word: `Ceux-ci` (those here) `sont` (are) `trop` (too) `petits` (small) |
+| 49. Those there belong to my parents. | `Ceux-là sont à mes parents.` Word by word: `Ceux-là` (those there) `sont` (are) `à` (to) `mes` (my) `parents` (parents) |
+| 50. These here are cleaner than those there. | `Celles-ci sont plus propres que celles-là.` Word by word: `Celles-ci` (these here) `sont` (are) `plus` (more) `propres` (clean) `que` (than) `celles-là` (those there) |
+| 51. I know that man, but not the one with him. | `Je connais cet homme, mais pas celui avec lui.` Word by word: `Je` (I) `connais` (know) `cet` (that) `homme` (man) `mais` (but) `pas` (not) `celui` (the one) `avec` (with) `lui` (him) |
+| 52. This exercise is easier than the one before. | `Cet exercice est plus facile que celui d’avant.` Word by word: `Cet` (this) `exercice` (exercise) `est` (is) `plus` (more) `facile` (easy) `que` (than) `celui` (the one) `d’` (—) `avant` (before) |
+| 53. These shoes are mine, but those are yours. | `Ces chaussures sont les miennes, mais celles-là sont les tiennes.` Word by word: `Ces` (these) `chaussures` (shoes) `sont` (are) `les` (the) `miennes` (mine) `mais` (but) `celles-là` (those) `sont` (are) `les` (the) `tiennes` (yours) |
+| 54. I am taking this suitcase because that one is heavy. | `Je prends cette valise parce que celle-là est lourde.` Word by word: `Je` (I) `prends` (take) `cette` (this) `valise` (suitcase) `parce` (because) `que` (that) `celle-là` (that one) `est` (is) `lourde` (heavy) |
+| 55. Do you understand this rule here ? | `Tu comprends cette règle-ci ?` Word by word: `Tu` (you) `comprends` (understand) `cette` (this) `règle-ci` (rule here) |
+| 56. The students in this class work well. | `Les étudiants de cette classe travaillent bien.` Word by word: `Les` (the) `étudiants` (students) `de` (in) `cette` (this) `classe` (class) `travaillent` (work) `bien` (well) |
+| 57. That solution is worse than this one. | `Cette solution-là est pire que celle-ci.` Word by word: `Cette` (that) `solution-là` (solution there) `est` (is) `pire` (worse) `que` (than) `celle-ci` (this one) |
+| 58. My room is bigger than your room. | `Ma chambre est plus grande que ta chambre.` Word by word: `Ma` (my) `chambre` (room) `est` (is) `plus` (more) `grande` (big) `que` (than) `ta` (your) `chambre` (room) |
+| 59. This café is less noisy than the restaurant. | `Ce café est moins bruyant que le restaurant.` Word by word: `Ce` (this) `café` (café) `est` (is) `moins` (less) `bruyant` (noisy) `que` (than) `le` (the) `restaurant` (restaurant) |
+| 60. She is as patient as her brother. | `Elle est aussi patiente que son frère.` Word by word: `Elle` (she) `est` (is) `aussi` (as) `patiente` (patient) `que` (as) `son` (her) `frère` (brother) |
+| 61. We have more time than you. | `Nous avons plus de temps que vous.` Word by word: `Nous` (we) `avons` (have) `plus` (more) `de` (of) `temps` (time) `que` (than) `vous` (you) |
+| 62. They have less money than their parents. | `Ils ont moins d’argent que leurs parents.` Word by word: `Ils` (they) `ont` (have) `moins` (less) `d’` (of) `argent` (money) `que` (than) `leurs` (their) `parents` (parents) |
+| 63. I buy as many vegetables as my sister. | `J’achète autant de légumes que ma sœur.` Word by word: `J’` (I) `achète` (buy) `autant` (as many) `de` (of) `légumes` (vegetables) `que` (as) `ma` (my) `sœur` (sister) |
+| 64. You work more than me. | `Tu travailles plus que moi.` Word by word: `Tu` (you) `travailles` (work) `plus` (more) `que` (than) `moi` (me) |
+| 65. He goes out less than his friends. | `Il sort moins que ses amis.` Word by word: `Il` (he) `sort` (goes out) `moins` (less) `que` (than) `ses` (his) `amis` (friends) |
+| 66. We read as much as our teacher. | `Nous lisons autant que notre professeur.` Word by word: `Nous` (we) `lisons` (read) `autant` (as much) `que` (as) `notre` (our) `professeur` (teacher) |
+| 67. This is the most practical bag. | `C’est le sac le plus pratique.` Word by word: `C’` (this) `est` (is) `le` (the) `sac` (bag) `le` (the) `plus` (most) `pratique` (practical) |
+| 68. This is the least expensive room. | `C’est la chambre la moins chère.` Word by word: `C’` (this) `est` (is) `la` (the) `chambre` (room) `la` (the) `moins` (least) `chère` (expensive) |
+| 69. These are the best seats in the room. | `Ce sont les meilleures places de la salle.` Word by word: `Ce` (these) `sont` (are) `les` (the) `meilleures` (best) `places` (seats) `de` (in) `la` (the) `salle` (room) |
+| 70. She cooks better than I do. | `Elle cuisine mieux que moi.` Word by word: `Elle` (she) `cuisine` (cooks) `mieux` (better) `que` (than) `moi` (me) |
+| 71. This is the worst excuse of the day. | `C’est la pire excuse de la journée.` Word by word: `C’` (this) `est` (is) `la` (the) `pire` (worst) `excuse` (excuse) `de` (of) `la` (the) `journée` (day) |
+| 72. He writes worse when he is tired. | `Il écrit plus mal quand il est fatigué.` Word by word: `Il` (he) `écrit` (writes) `plus` (more) `mal` (badly) `quand` (when) `il` (he) `est` (is) `fatigué` (tired) |
+| 73. Our car is faster than theirs. | `Notre voiture est plus rapide que la leur.` Word by word: `Notre` (our) `voiture` (car) `est` (is) `plus` (more) `rapide` (fast) `que` (than) `la` (the) `leur` (theirs) |
+| 74. Your idea is as useful as mine. | `Ton idée est aussi utile que la mienne.` Word by word: `Ton` (your) `idée` (idea) `est` (is) `aussi` (as) `utile` (useful) `que` (as) `la` (the) `mienne` (mine) |
+| 75. This table takes up the least space. | `Cette table prend le moins de place.` Word by word: `Cette` (this) `table` (table) `prend` (takes) `le` (the) `moins` (least) `de` (—) `place` (space) |
+| 76. Who has the most experience here ? | `Qui a le plus d’expérience ici ?` Word by word: `Qui` (who) `a` (has) `le` (the) `plus` (most) `d’` (of) `expérience` (experience) `ici` (here) |
+| 77. I drink less coffee than my father. | `Je bois moins de café que mon père.` Word by word: `Je` (I) `bois` (drink) `moins` (less) `de` (of) `café` (coffee) `que` (than) `mon` (my) `père` (father) |
+| 78. They speak more clearly than we do. | `Ils parlent plus clairement que nous.` Word by word: `Ils` (they) `parlent` (speak) `plus` (more) `clairement` (clearly) `que` (than) `nous` (we) |
+| 79. She arrives earlier than him. | `Elle arrive plus tôt que lui.` Word by word: `Elle` (she) `arrive` (arrives) `plus` (more) `tôt` (early) `que` (than) `lui` (him) |
+| 80. This problem is more serious than that one. | `Ce problème est plus sérieux que celui-là.` Word by word: `Ce` (this) `problème` (problem) `est` (is) `plus` (more) `sérieux` (serious) `que` (than) `celui-là` (that one) |
+| 81. I understand this lesson better today. | `Je comprends mieux cette leçon aujourd’hui.` Word by word: `Je` (I) `comprends` (understand) `mieux` (better) `cette` (this) `leçon` (lesson) `aujourd’` (today) `hui` (today) |
+| 82. The guide speaks slowly. | `Le guide parle lentement.` Word by word: `Le` (the) `guide` (guide) `parle` (speaks) `lentement` (slowly) |
+| 83. We listen carefully to the teacher. | `Nous écoutons attentivement le professeur.` Word by word: `Nous` (we) `écoutons` (listen) `attentivement` (carefully) `le` (the) `professeur` (teacher) |
+| 84. They answer politely. | `Ils répondent poliment.` Word by word: `Ils` (they) `répondent` (answer) `poliment` (politely) |
+| 85. She explains the rule clearly. | `Elle explique clairement la règle.` Word by word: `Elle` (she) `explique` (explains) `clairement` (clearly) `la` (the) `règle` (rule) |
+| 86. Fortunately, the train is not late. | `Heureusement, le train n’est pas en retard.` Word by word: `Heureusement` (fortunately) `le` (the) `train` (train) `n’` (not) `est` (is) `pas` (not) `en` (—) `retard` (late) |
+| 87. I often work at the library. | `Je travaille souvent à la bibliothèque.` Word by word: `Je` (I) `travaille` (work) `souvent` (often) `à` (at) `la` (the) `bibliothèque` (library) |
+| 88. You always arrive early. | `Tu arrives toujours tôt.` Word by word: `Tu` (you) `arrives` (arrive) `toujours` (always) `tôt` (early) |
+| 89. He drives carefully in the city. | `Il conduit prudemment en ville.` Word by word: `Il` (he) `conduit` (drives) `prudemment` (carefully) `en` (in) `ville` (town) |
+| 90. We wait patiently near the door. | `Nous attendons patiemment près de la porte.` Word by word: `Nous` (we) `attendons` (wait) `patiemment` (patiently) `près` (near) `de` (—) `la` (the) `porte` (door) |
+| 91. My brother studies regularly in the evening. | `Mon frère étudie régulièrement le soir.` Word by word: `Mon` (my) `frère` (brother) `étudie` (studies) `régulièrement` (regularly) `le` (the) `soir` (evening) |
+| 92. This child speaks more softly than the others. | `Cet enfant parle plus doucement que les autres.` Word by word: `Cet` (this) `enfant` (child) `parle` (speaks) `plus` (more) `doucement` (softly) `que` (than) `les` (the) `autres` (others) |
+| 93. You explain less simply than our teacher. | `Tu expliques moins simplement que notre professeur.` Word by word: `Tu` (you) `expliques` (explain) `moins` (less) `simplement` (simply) `que` (than) `notre` (our) `professeur` (teacher) |
+| 94. She sings as well as her mother. | `Elle chante aussi bien que sa mère.` Word by word: `Elle` (she) `chante` (sings) `aussi` (as) `bien` (well) `que` (as) `sa` (her) `mère` (mother) |
+| 95. In this group, Lina answers best. | `Dans ce groupe, Lina répond le mieux.` Word by word: `Dans` (in) `ce` (this) `groupe` (group) `Lina` (Lina) `répond` (answers) `le` (the) `mieux` (best) |
+| 96. I already know this word. | `Je connais déjà ce mot.` Word by word: `Je` (I) `connais` (know) `déjà` (already) `ce` (this) `mot` (word) |
+| 97. They leave late but walk quickly. | `Ils partent tard mais marchent vite.` Word by word: `Ils` (they) `partent` (leave) `tard` (late) `mais` (but) `marchent` (walk) `vite` (quickly) |
+| 98. I read this sentence calmly. | `Je lis cette phrase calmement.` Word by word: `Je` (I) `lis` (read) `cette` (this) `phrase` (sentence) `calmement` (calmly) |
+| 99. Our neighbors rarely eat here. | `Nos voisins mangent rarement ici.` Word by word: `Nos` (our) `voisins` (neighbors) `mangent` (eat) `rarement` (rarely) `ici` (here) |
+| 100. This student writes more carefully than I do. | `Cet étudiant écrit plus soigneusement que moi.` Word by word: `Cet` (this) `étudiant` (student) `écrit` (writes) `plus` (more) `soigneusement` (carefully) `que` (than) `moi` (I) |
