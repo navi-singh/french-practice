@@ -1,10 +1,24 @@
 # Chapter 18 Lessons: Completed Events with the Passé Composé
 
+:::formula Key formulas in this chapter
+### Passé composé — a completed event
+present of **avoir** or **être** + **past participle**
+
+`j'ai parlé` (I spoke) · `elle est partie` (she left) · `nous nous sommes levés` (we got up)
+
+Only the auxiliary changes with the person. With être, and with pronominal verbs, the participle also agrees with the subject.
+:::
+
 ## Unit 1: Two parts make one past tense
 
 The passé composé presents an event as a completed whole, or a bounded series of events. It can translate “I did,” “I have done,” or a past event in a story. A word like yesterday helps locate an event, but the speaker's viewpoint matters: yesterday can also contain background in the imparfait.
 
-Use the present of avoir or être + a past participle. Avoir: `j'ai, tu as, il a, nous avons, vous avez, elles ont` (I have, you have, he has, we have, you have, they have). Être: `je suis, tu es, elle est, nous sommes, vous êtes, ils sont` (I am, you are, she is, we are, you are, they are).
+Use the present of avoir or être + a past participle. Only the auxiliary changes with the person:
+
+| Auxiliary (present) | je | tu | il/elle | nous | vous | ils/elles |
+| --- | --- | --- | --- | --- | --- | --- |
+| avoir | `j'ai` (I have) | `tu as` (you have) | `il a` (he has) | `nous avons` (we have) | `vous avez` (you have) | `elles ont` (they have) |
+| être | `je suis` (I am) | `tu es` (you are) | `elle est` (she is) | `nous sommes` (we are) | `vous êtes` (you are) | `ils sont` (they are) |
 
 Regular participles: -er becomes -é (`parler → parlé` (to speak → spoken)), regular -ir becomes -i (`finir → fini` (to finish → finished)), and many regular -re verbs become -u (`vendre → vendu` (to sell → sold)). The participle does not change with the grammatical person.
 

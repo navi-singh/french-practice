@@ -1,5 +1,21 @@
 # Chapter 19 Lessons: Imparfait, Events, and Earlier Pasts
 
+:::formula Key formulas in this chapter
+### Imparfait — background, habit, “was …ing / used to”
+present **nous** stem (drop -ons) + imparfait endings; être uses **ét-**
+
+| Ending | je | tu | il/elle | nous | vous | ils/elles |
+| --- | --- | --- | --- | --- | --- | --- |
+| imparfait | -ais | -ais | -ait | -ions | -iez | -aient |
+
+`nous parlons → je parlais` (I was speaking / used to speak) · `j'étais` (I was)
+
+### Plus-que-parfait — “had done”, a step further back
+**imparfait** of avoir or être + **past participle**
+
+`j'avais fini` (I had finished) · `elle était partie` (she had left)
+:::
+
 ## Unit 1: Build the imparfait
 
 Take the present nous form, remove -ons, and add -ais, -ais, -ait, -ions, -iez, -aient. This works even with many irregular present verbs: nous prenons gives pren-, nous faisons gives fais-, nous buvons gives buv-. Être is exceptional: use ét-.
@@ -44,9 +60,12 @@ Choose the past forms: (1) It was raining when the bus arrived; (2) we waited fo
 
 The plus-que-parfait looks back from a past reference point. Form it with imparfait avoir or être + the same past participle used in passé composé.
 
-- Avoir: `j'avais fini, tu avais fini, il avait fini, nous avions fini, vous aviez fini, elles avaient fini` (I had finished, you had finished, he had finished, we had finished, you had finished, they had finished).
-- Être: `j'étais parti, tu étais parti, il était parti, nous étions partis, vous étiez partis, ils étaient partis` (I had left, you had left, he had left, we had left, you had left, they had left) (masculine models).
-- Pronominal: `Elle s'était levée.` (She had got up.) The pronoun stays before the auxiliary.
+| Model | je | tu | il/elle | nous | vous | ils/elles |
+| --- | --- | --- | --- | --- | --- | --- |
+| avoir: finir | `j'avais fini` (I had finished) | `tu avais fini` (you had finished) | `il avait fini` (he had finished) | `nous avions fini` (we had finished) | `vous aviez fini` (you had finished) | `elles avaient fini` (they had finished) |
+| être: partir (masculine subjects) | `j'étais parti` (I had left) | `tu étais parti` (you had left) | `il était parti` (he had left) | `nous étions partis` (we had left) | `vous étiez partis` (you had left) | `ils étaient partis` (they had left) |
+
+Pronominal: `Elle s'était levée.` (She had got up.) The pronoun stays before the auxiliary.
 
 Auxiliary choice and agreement do not change: `Elles étaient arrivées.` (They had arrived.); `Les lettres que j'avais écrites.` (The letters that I had written.); `Elle s'était lavé les mains.` (She had washed her hands.) With avoir, no agreement with the subject; agreement normally follows a preceding direct object. With pronominal verbs, determine whether se is direct or indirect.
 

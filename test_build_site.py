@@ -412,7 +412,7 @@ class CourseAnswerCoverageTests(unittest.TestCase):
     def test_every_answer_block_is_closed(self):
         for path in self.files:
             lines = path.read_text(encoding="utf-8").splitlines()
-            opens = sum(1 for line in lines if line.strip().startswith(":::answer"))
+            opens = sum(1 for line in lines if line.strip().startswith((":::answer", ":::formula")))
             closes = sum(1 for line in lines if line.strip() == ":::")
             with self.subTest(path=path.name, chapter=path.parent.name):
                 self.assertEqual(opens, closes, "unbalanced ::: markers")

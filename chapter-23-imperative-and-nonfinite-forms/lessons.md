@@ -1,18 +1,41 @@
 # Chapter 23 Lessons: Imperative and Practical Non-finite Forms
 
+:::formula Key formulas in this chapter
+### Impératif — a command
+present-tense **tu / nous / vous** form with **no subject**; -er verbs (and aller) drop the -s of the tu form
+
+`Écoute !` (Listen!) · `Écoutons !` (Let’s listen!) · `Écoutez !` (Listen!, plural/formal) · irregular: être, avoir, savoir
+
+### Participe présent and gérondif — “-ing”
+present **nous** stem (drop -ons) + **-ant**; gérondif = **en** + present participle
+
+`parlant` (speaking) · `en parlant` (while/by speaking) · exceptions: `étant` (being), `ayant` (having), `sachant` (knowing)
+
+### Infinitive constructions
+verb + **infinitive**, verb + **à** + infinitive, or verb + **de** + infinitive
+
+`Je peux venir.` (I can come.) · `J'apprends à conduire.` (I am learning to drive.) · `J'essaie de comprendre.` (I am trying to understand.)
+:::
+
 ## Unit 1: The imperative is a mood
 
-An imperative addresses tu, nous, or vous without an expressed subject: `Écoute.` `Écoutons.` `Écoutez.` These mean “Listen,” “Let's listen,” and “Listen” (formal or plural). Most forms match the present indicative, but regular -er and verbs like ouvrir lose the tu -s: `Parle.` (Speak.) `Ouvre.` (Open.) Aller gives `Va.` (Go.) Regular finir gives `Finis, finissons, finissez` (finish, let’s finish, finish [plural/formal]); attendre gives `Attends, attendons, attendez` (wait, let’s wait, wait [plural/formal]).
-
-Learn irregular sets:
+An imperative addresses tu, nous, or vous without an expressed subject: `Écoute.` `Écoutons.` `Écoutez.` These mean “Listen,” “Let's listen,” and “Listen” (formal or plural). Most forms match the present indicative, but regular -er and verbs like ouvrir lose the tu -s: `Parle.` (Speak.) `Ouvre.` (Open.) Aller gives `Va.` (Go.)
 
 | Verb | tu | nous | vous |
 | --- | --- | --- | --- |
+| parler | `parle` (speak) | `parlons` (let’s speak) | `parlez` (speak, plural/formal) |
+| finir | `finis` (finish) | `finissons` (let’s finish) | `finissez` (finish, plural/formal) |
+| attendre | `attends` (wait) | `attendons` (let’s wait) | `attendez` (wait, plural/formal) |
+| aller | `va` (go) | `allons` (let’s go) | `allez` (go, plural/formal) |
+| faire | `fais` (do/make) | `faisons` (let’s do/make) | `faites` (do/make, plural/formal) |
+| dire | `dis` (say/tell) | `disons` (let’s say/tell) | `dites` (say/tell, plural/formal) |
 | être | `sois` (be) | `soyons` (let’s be) | `soyez` (be, plural/formal) |
 | avoir | `aie` (have) | `ayons` (let’s have) | `ayez` (have, plural/formal) |
 | savoir | `sache` (know) | `sachons` (let’s find out) | `sachez` (know, plural/formal) |
 
-Vouloir commonly supplies polite `Veuillez patienter.` (Please wait.). Faire gives `fais, faisons, faites` (do/make, let’s do/make, do/make (plural/formal)), dire `dis, disons, dites` (say/tell, let’s say/tell, say/tell (plural/formal)). Add -s to otherwise s-less forms before directly attached y/en: `Vas-y.` (Go there.) `Manges-en.` (Eat some.) This is a linking spelling, not a new person ending.
+Être, avoir and savoir are irregular: they borrow subjunctive-like stems.
+
+Vouloir commonly supplies polite `Veuillez patienter.` (Please wait.). Add -s to otherwise s-less forms before directly attached y/en: `Vas-y.` (Go there.) `Manges-en.` (Eat some.) This is a linking spelling, not a new person ending.
 
 Negation encloses the verb: `Ne parle pas.` (Don’t speak.) `N'ayez pas peur.` (Don’t be afraid.) Never add tu/vous as the ordinary subject of the imperative.
 

@@ -1,5 +1,24 @@
 # Chapter 21 Lessons: Conditional Forms and Si Clauses
 
+:::formula Key formulas in this chapter
+### Conditionnel présent — “would”
+**future stem** + **imparfait** endings
+
+| Ending | je | tu | il/elle | nous | vous | ils/elles |
+| --- | --- | --- | --- | --- | --- | --- |
+| conditional | -ais | -ais | -ait | -ions | -iez | -aient |
+
+`je parlerais` (I would speak) · `je voudrais` (I would like) · `tu devrais` (you should)
+
+### Conditionnel passé — “would have done”
+**conditionnel présent** of avoir or être + **past participle**
+
+`j'aurais fini` (I would have finished) · `elle serait venue` (she would have come)
+
+### Si clauses — the tense pairs
+si + **présent** → futur · si + **imparfait** → conditionnel présent · si + **plus-que-parfait** → conditionnel passé
+:::
+
 ## Unit 1: Present conditional formation
 
 Use the future stem plus imparfait endings: -ais, -ais, -ait, -ions, -iez, -aient. Regular -er/-ir use the infinitive; regular -re drops final e. The name “present conditional” does not mean an ordinary present fact: it often marks a hypothetical result or a softened request.
@@ -30,8 +49,10 @@ Form: nous + aller; vous + pouvoir; je + acheter. Then give polite French for �
 
 Use present conditional avoir or être + past participle:
 
-- `j'aurais fini, tu aurais fini, elle aurait fini, nous aurions fini, vous auriez fini, ils auraient fini` (I would have finished, you would have finished, she would have finished, we would have finished, you would have finished, they would have finished);
-- `je serais parti, tu serais parti, il serait parti, nous serions partis, vous seriez partis, ils seraient partis` (I would have left, you would have left, he would have left, we would have left, you would have left, they would have left) (masculine subjects).
+| Model | je | tu | il/elle | nous | vous | ils/elles |
+| --- | --- | --- | --- | --- | --- | --- |
+| avoir: finir | `j'aurais fini` (I would have finished) | `tu aurais fini` (you would have finished) | `elle aurait fini` (she would have finished) | `nous aurions fini` (we would have finished) | `vous auriez fini` (you would have finished) | `ils auraient fini` (they would have finished) |
+| être: partir (masculine subjects) | `je serais parti` (I would have left) | `tu serais parti` (you would have left) | `il serait parti` (he would have left) | `nous serions partis` (we would have left) | `vous seriez partis` (you would have left) | `ils seraient partis` (they would have left) |
 
 Auxiliary selection and agreement follow compound-past rules. Most verbs take avoir; intransitive partir/venir/aller take être; pronominals take être. `Elles seraient venues.` (They would have come.) agrees; `Elle se serait lavé les mains.` (She would have washed her hands.) does not agree lavé with the subject because les mains is the following direct object. With avoir, a preceding direct object can cause agreement: `Les lettres que j'aurais écrites.` (The letters that I would have written.)
 

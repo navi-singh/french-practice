@@ -128,6 +128,26 @@ def markdown_to_html(source):
             )
             continue
 
+        formula = re.match(r"^:::formula\s*(.*)$", stripped)
+        if formula:
+            flush_paragraph()
+            close_list()
+            close_table()
+            label = formula.group(1).strip() or "Key formula"
+            body = []
+            index += 1
+            while index < len(lines) and lines[index].strip() != ":::":
+                body.append(lines[index])
+                index += 1
+            index += 1
+            output.append(
+                '<aside class="formula-box">'
+                f'<p class="formula-label">{html.escape(label, quote=False)}</p>'
+                f"{markdown_to_html(chr(10).join(body))}"
+                "</aside>"
+            )
+            continue
+
         if "|" in stripped and index + 1 < len(lines):
             separator = lines[index + 1].strip()
             if re.match(r"^\|?[\s:|-]+\|[\s:|-]+\|?$", separator):
@@ -272,7 +292,7 @@ def chapter_data(folder):
                 "type": kind,
                 "html": markdown_to_html(raw),
                 "sections": outline(raw),
-                "search": re.sub(r"\s+", " ", re.sub(r":::answer\s*|:::", " ", raw)).lower(),
+                "search": re.sub(r"\s+", " ", re.sub(r":::(?:answer|formula)\s*|:::", " ", raw)).lower(),
             }
         )
     documents.sort(key=lambda doc: (priority[doc["type"]], doc["title"]))

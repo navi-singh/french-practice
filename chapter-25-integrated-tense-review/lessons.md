@@ -1,5 +1,24 @@
 # Chapter 25 Lessons: Integrated Tense and Mood Selection
 
+:::formula Key formulas in this chapter
+Build any form from one of these patterns, after choosing the meaning.
+
+| Tense | Formula | Example |
+| --- | --- | --- |
+| Présent | stem + -e/-es/-e/-ons/-ez/-ent (-er) | `je parle` (I speak) |
+| Passé composé | present avoir/être + past participle | `j'ai parlé` (I spoke) |
+| Imparfait | nous stem + -ais/-ais/-ait/-ions/-iez/-aient | `je parlais` (I was speaking) |
+| Plus-que-parfait | imparfait avoir/être + past participle | `j'avais parlé` (I had spoken) |
+| Futur proche | present aller + infinitive | `je vais parler` (I am going to speak) |
+| Futur simple | future stem + -ai/-as/-a/-ons/-ez/-ont | `je parlerai` (I will speak) |
+| Futur antérieur | futur avoir/être + past participle | `j'aurai parlé` (I will have spoken) |
+| Conditionnel présent | future stem + -ais/-ais/-ait/-ions/-iez/-aient | `je parlerais` (I would speak) |
+| Conditionnel passé | conditional avoir/être + past participle | `j'aurais parlé` (I would have spoken) |
+| Subjonctif présent | que + ils stem + -e/-es/-e/-ions/-iez/-ent | `que je parle` (that I speak) |
+| Passé du subjonctif | que + subjunctive avoir/être + past participle | `que j'aie parlé` (that I have spoken) |
+| Impératif | tu/nous/vous present form, no subject | `Parle !` (Speak!) |
+:::
+
 ## Unit 1: Ask meaning questions before conjugating
 
 First locate the reference point: now, a past event, or a future deadline. Then ask whether the action is in progress, habitual, bounded, or already completed relative to that point. Finally inspect the clause: a wish, doubt, command, condition, or infinitive construction can override a simple timeline choice.

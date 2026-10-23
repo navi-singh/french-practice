@@ -382,6 +382,26 @@ code.speakable {
   cursor: pointer;
 }
 code.speakable:hover { outline: 2px solid var(--accent); }
+.formula-box {
+  margin: 1.4em 0 2em;
+  padding: 16px 20px 8px;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  background: var(--surface-2);
+}
+.formula-box .formula-label {
+  margin: 0 0 6px;
+  color: var(--primary-2);
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: .09em;
+  text-transform: uppercase;
+}
+.formula-box h3 { margin: 1em 0 .3em; font-size: 1.05rem; }
+.formula-box h3:first-of-type { margin-top: .4em; }
+.formula-box p { margin: .3em 0 .6em; max-width: none; }
+.formula-box .table-wrap { margin: .4em 0 1em; }
+.formula-box table { background: var(--surface); }
 .answer-block {
   margin: 1.2em 0 1.6em;
   border: 1px solid var(--border);

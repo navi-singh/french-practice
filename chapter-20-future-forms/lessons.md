@@ -1,8 +1,35 @@
 # Chapter 20 Lessons: The Future Family
 
+:::formula Key formulas in this chapter
+### Futur proche — “going to”
+present of **aller** + **infinitive**
+
+`je vais partir` (I am going to leave) · `nous allons manger` (we are going to eat)
+
+### Futur simple — “will”
+**future stem** (the infinitive; -re verbs drop the final e) + future endings
+
+| Ending | je | tu | il/elle | nous | vous | ils/elles |
+| --- | --- | --- | --- | --- | --- | --- |
+| futur | -ai | -as | -a | -ons | -ez | -ont |
+
+`je parlerai` (I will speak) · `je vendrai` (I will sell) · irregular stems: ser-, aur-, ir-, fer-, pourr-, viendr-
+
+### Futur antérieur — “will have done”
+**futur simple** of avoir or être + **past participle**
+
+`j'aurai fini` (I will have finished) · `elle sera partie` (she will have left)
+:::
+
 ## Unit 1: An intention linked to now
 
-Futur proche is present aller + infinitive: `je vais partir, tu vas partir, elle va partir, nous allons partir, vous allez partir, ils vont partir` (I am going to leave, you are going to leave, she is going to leave, we are going to leave, you are going to leave, they are going to leave). Only aller is conjugated. `Je vais aller au marché.` (I am going to go to the market.) is grammatical: the first aller is the future auxiliary, the second means “go.”
+Futur proche is present aller + infinitive. Only aller is conjugated; the infinitive never changes:
+
+| Model | je | tu | il/elle | nous | vous | ils/elles |
+| --- | --- | --- | --- | --- | --- | --- |
+| aller + partir | `je vais partir` (I am going to leave) | `tu vas partir` (you are going to leave) | `elle va partir` (she is going to leave) | `nous allons partir` (we are going to leave) | `vous allez partir` (you are going to leave) | `ils vont partir` (they are going to leave) |
+
+`Je vais aller au marché.` (I am going to go to the market.) is grammatical: the first aller is the future auxiliary, the second means “go.”
 
 Use it for a present intention, an impending event, or a prediction based on visible evidence: `Regarde ces nuages : il va pleuvoir.` (Look at those clouds: it is going to rain.) “Proche” does not impose a strict distance in time: `Nous allons déménager l'année prochaine.` (We are going to move next year.) can express a settled plan. Place negation around aller: `Je ne vais pas sortir.` (I am not going to go out.) A reflexive pronoun belongs with its infinitive: `Elle va se coucher.` (She is going to go to bed.)
 
@@ -60,8 +87,10 @@ Supply the future: nous + faire; tu + pouvoir; elle + vendre. Then translate “
 
 Futur antérieur uses future avoir or être + past participle. It views an action as already complete at a later point: `À midi, j'aurai fini.` (By noon, I will have finished.) The relevant contrast is “will do” versus “will have done,” not simply distant versus near.
 
-- Avoir model: `j'aurai fini, tu auras fini, il aura fini, nous aurons fini, vous aurez fini, elles auront fini` (I will have finished, you will have finished, he will have finished, we will have finished, you will have finished, they will have finished).
-- Être model, feminine subjects: `je serai partie, tu seras partie, elle sera partie, nous serons parties, vous serez parties, elles seront parties` (I will have left, you will have left, she will have left, we will have left, you will have left, they will have left).
+| Model | je | tu | il/elle | nous | vous | ils/elles |
+| --- | --- | --- | --- | --- | --- | --- |
+| avoir: finir | `j'aurai fini` (I will have finished) | `tu auras fini` (you will have finished) | `il aura fini` (he will have finished) | `nous aurons fini` (we will have finished) | `vous aurez fini` (you will have finished) | `elles auront fini` (they will have finished) |
+| être: partir (feminine subjects) | `je serai partie` (I will have left) | `tu seras partie` (you will have left) | `elle sera partie` (she will have left) | `nous serons parties` (we will have left) | `vous serez parties` (you will have left) | `elles seront parties` (they will have left) |
 
 Use the same auxiliary and agreement rules as passé composé: intransitive aller uses être, most verbs use avoir, pronominals use être with direct/indirect-object distinctions. `Elle se sera lavé les mains.` (She will have washed her hands.) has no agreement on lavé because the direct object follows; `Elles seront arrivées.` (They will have arrived.) agrees. With avoir: `Les pages que j'aurai lues.` (The pages that I will have read.) A negative surrounds the future auxiliary: `Je n'aurai pas terminé.` (I will not have finished.)
 

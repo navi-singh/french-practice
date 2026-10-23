@@ -1,5 +1,23 @@
 # Chapter 24 Lessons: Recognizing Literary Pasts
 
+:::formula Key formulas in this chapter
+### Passé simple — literary completed event (recognize, don't produce)
+**stem** + one of three ending series
+
+| Ending | je | tu | il/elle | nous | vous | ils/elles |
+| --- | --- | --- | --- | --- | --- | --- |
+| -er verbs | -ai | -as | -a | -âmes | -âtes | -èrent |
+| -ir / many -re | -is | -is | -it | -îmes | -îtes | -irent |
+| u-series | -us | -us | -ut | -ûmes | -ûtes | -urent |
+
+`il parla` (he spoke) · `elle finit` (she finished) · `il fut` (he was) · `il eut` (he had)
+
+### Passé antérieur — literary “had done”
+**passé simple** of avoir or être + **past participle**
+
+`il eut fini` (he had finished) · `elle fut partie` (she had left)
+:::
+
 ## Unit 1: Read literary forms; produce contemporary forms
 
 Passé simple is common in written narration, history, and stories. It advances completed events, often where everyday French uses passé composé. It is not “a more distant past”: the distinction concerns narrative register and viewpoint. `La porte s'ouvrit. Un homme entra.` (The door opened. A man entered.) means “The door opened. A man entered.” An everyday retelling is `La porte s'est ouverte. Un homme est entré.` (The door opened. A man came in.) Background still uses imparfait: `Il faisait froid quand l'homme entra.` (It was cold when the man entered.)

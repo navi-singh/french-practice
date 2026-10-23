@@ -1,5 +1,21 @@
 # Chapter 22 Lessons: Subjunctive or Indicative?
 
+:::formula Key formulas in this chapter
+### Subjonctif présent — after que + will, emotion, necessity, doubt
+**que** + stem of present **ils** (drop -ent) + subjunctive endings; nous/vous use the present **nous** stem
+
+| Ending | je | tu | il/elle | nous | vous | ils/elles |
+| --- | --- | --- | --- | --- | --- | --- |
+| subjunctive | -e | -es | -e | -ions | -iez | -ent |
+
+`ils parlent → que je parle` (that I speak) · `que nous venions` (that we come) · irregular: `que je sois` (that I be), `que j'aie` (that I have), `que je fasse` (that I do), `que je puisse` (that I can)
+
+### Passé du subjonctif — completed before the trigger
+**que** + subjonctif présent of avoir or être + **past participle**
+
+`que j'aie fini` (that I have finished) · `qu'elle soit partie` (that she has left)
+:::
+
 ## Unit 1: Mood is not a date
 
 The indicative presents content as an assertion, fact, or positive belief. The subjunctive places it under a trigger such as will, necessity, emotion, or doubt. A subjunctive can refer to a real event: `Je suis heureuse qu'il soit ici.` (I am happy that he is here.) expresses happiness about his actual presence. Therefore “subjunctive means unreal” is not a reliable rule.
@@ -63,7 +79,12 @@ Translate: (1) I know she is here; (2) I doubt she is here; (3) I want to leave;
 
 ## Unit 4: Passé du subjonctif
 
-For an action completed before the time relevant to the trigger, use present subjunctive avoir or être + past participle: `que j'aie fini, que tu aies fini, qu'il ait fini, que nous ayons fini, que vous ayez fini, qu'elles aient fini` (that I have finished, that you have finished, that he has finished, that we have finished, that you have finished, that they have finished). With être, masculine models are `que je sois parti, que tu sois parti, qu'il soit parti, que nous soyons partis, que vous soyez partis, qu'ils soient partis` (that I have left, that you have left, that he has left, that we have left, that you have left, that they have left).
+For an action completed before the time relevant to the trigger, use present subjunctive avoir or être + past participle:
+
+| Model | je | tu | il/elle | nous | vous | ils/elles |
+| --- | --- | --- | --- | --- | --- | --- |
+| avoir: finir | `que j'aie fini` (that I have finished) | `que tu aies fini` (that you have finished) | `qu'il ait fini` (that he has finished) | `que nous ayons fini` (that we have finished) | `que vous ayez fini` (that you have finished) | `qu'elles aient fini` (that they have finished) |
+| être: partir (masculine subjects) | `que je sois parti` (that I have left) | `que tu sois parti` (that you have left) | `qu'il soit parti` (that he has left) | `que nous soyons partis` (that we have left) | `que vous soyez partis` (that you have left) | `qu'ils soient partis` (that they have left) |
 
 Auxiliary choice and agreement follow passé composé rules. `Je suis contente qu'elle soit arrivée.` (I am happy that she has arrived.) agrees with a feminine subject. `Je regrette qu'elle se soit lavé les mains ici.` (I regret that she washed her hands here.) has a following direct object, so lavé does not agree. `Je doute qu'ils se soient parlé.` (I doubt that they spoke to each other.) has indirect se. With avoir, a preceding direct object can cause agreement: `Je suis contente des lettres qu'elle a écrites.` (I am happy about the letters she wrote.) (indicative relative clause here).
 
