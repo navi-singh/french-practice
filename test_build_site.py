@@ -363,6 +363,43 @@ class WordGlossTests(unittest.TestCase):
         )
 
 
+class VocabularyHintTests(unittest.TestCase):
+    def test_hint_uses_base_words_without_auxiliary_or_subject(self):
+        hints = build_site.base_word_hints(
+            "`Nous` (we) `avons` (have, helper) `parlé` (spoken)"
+        )
+        self.assertEqual(hints, [("parler", "to speak")])
+
+    def test_hint_is_collapsed_and_stays_in_english_cell(self):
+        rendered = build_site.markdown_to_html(
+            "| English | French |\n|---|---|\n"
+            "| 1. We spoke. | `Nous avons parlé.` Word by word: "
+            "`Nous` (we) `avons` (have, helper) `parlé` (spoken) |"
+        )
+        english, french = re.findall(r"<td>(.*?)</td>", rendered, re.S)
+        self.assertIn('<details class="vocabulary-hint">', english)
+        self.assertNotIn("<details open", english)
+        self.assertIn('lang="fr">parler</code>', english)
+        self.assertNotIn("vocabulary-hint", french)
+        self.assertIn("Nous avons parlé.", french)
+
+    def test_every_translation_row_has_nonempty_bounded_hints(self):
+        heading = TranslationPracticeContentTests.HEADING
+        count = 0
+        for path in sorted(build_site.ROOT.glob("chapter-*/lessons.md")):
+            section = path.read_text(encoding="utf-8").split(heading)[1]
+            for row in section.splitlines():
+                if not re.match(r"^\| \d+\. ", row):
+                    continue
+                with self.subTest(chapter=path.parent.name, row=row[:70]):
+                    hints = build_site.base_word_hints(row.split(" Word by word: ")[1])
+                    self.assertGreater(len(hints), 0)
+                    self.assertLessEqual(len(hints), 4)
+                    self.assertEqual(len(hints), len(set(hints)))
+                    count += 1
+        self.assertEqual(count, 2600)
+
+
 class AnswerBlockTests(unittest.TestCase):
     def test_answer_block_is_collapsed_details(self):
         html = build_site.markdown_to_html(

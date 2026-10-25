@@ -452,6 +452,41 @@ th { background: var(--surface-2); }
   z-index: 1;
 }
 .translation-table tbody tr:nth-child(even) { background: var(--surface-2); }
+.vocabulary-hint {
+  position: relative;
+  height: 36px;
+  margin-top: 6px;
+  font-size: .9rem;
+}
+.vocabulary-hint > summary {
+  position: absolute;
+  inset: 0 auto auto 0;
+  width: fit-content;
+  padding: 6px 0;
+  color: var(--primary-2);
+  cursor: pointer;
+  font-weight: 650;
+}
+.vocabulary-hint > summary:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+  border-radius: 3px;
+}
+.vocabulary-hint > ul {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  height: 36px;
+  margin: 0 0 0 56px;
+  padding: 0 3px;
+  overflow-x: auto;
+  list-style: none;
+}
+.vocabulary-hint li { flex: 0 0 auto; margin: 0; white-space: nowrap; }
+.vocabulary-hint > ul:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: -2px;
+}
 .conjugation-table th, .conjugation-table td { padding: 8px 10px; }
 .conjugation-table td { font-size: .9rem; color: var(--muted); }
 .conjugation-table td:first-child { color: inherit; }

@@ -5,6 +5,7 @@ import re
 from pathlib import Path
 
 from build_coach import write_coach
+from vocabulary_hints import base_word_hints
 
 ROOT = Path(__file__).parent
 OUTPUT = ROOT / "docs"
@@ -48,6 +49,23 @@ def word_gloss(source):
         for fr, en in pairs
     )
     return f'<span class="word-gloss" aria-label="Word by word">{chips}</span>'
+
+
+def vocabulary_hint(gloss):
+    hints = base_word_hints(gloss)
+    if not hints:
+        raise ValueError(f"No base vocabulary found for translation gloss: {gloss}")
+    entries = "".join(
+        f'<li><span lang="en">{html.escape(meaning, quote=False)}</span>'
+        f' → {inline(f"`{lemma}`")}</li>'
+        for lemma, meaning in hints
+    )
+    return (
+        '<details class="vocabulary-hint">'
+        '<summary title="Base words only — choose the tense and build the sentence.">'
+        'Hint</summary>'
+        f'<ul tabindex="0" aria-label="Base vocabulary hints">{entries}</ul></details>'
+    )
 
 
 def markdown_to_html(source):
@@ -182,7 +200,7 @@ def markdown_to_html(source):
                     if drill and cells and " Word by word: " in cells[-1]:
                         answer, gloss = cells[-1].split(" Word by word: ", 1)
                         cells[-1] = inline(answer) + word_gloss(gloss)
-                        output.extend(f"<td>{inline(cell)}</td>" for cell in cells[:-1])
+                        output.append(f"<td>{inline(cells[0])}{vocabulary_hint(gloss)}</td>")
                         output.append(f"<td>{cells[-1]}</td>")
                     else:
                         output.extend(f"<td>{inline(cell)}</td>" for cell in cells)

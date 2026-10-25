@@ -249,7 +249,7 @@ function bindTranslationTables() {
     sync();
     const hint = document.createElement("span");
     hint.className = "hint";
-    hint.textContent = "Translate aloud, then tap a French answer to reveal or hear it.";
+    hint.textContent = "Click Hint for base words, or tap the French answer to reveal it.";
     controls.append(toggle, hint);
     wrap.before(controls);
   });
@@ -340,6 +340,7 @@ function bindSpeakableExamples() {
     element.dataset.speechBound = "true";
     const row = element.closest(".translation-wrap tbody tr");
     const masked = () => row
+      && element.closest("td") === row.lastElementChild
       && row.closest(".translation-wrap").classList.contains("masked")
       && !row.classList.contains("revealed");
     element.tabIndex = 0;

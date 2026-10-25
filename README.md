@@ -79,6 +79,11 @@ Chapters 17-25 reteach and extend the tense system, including forms introduced e
 
 ## Recommended pacing
 
+Each English-to-French translation row includes a collapsed **Hint** beside
+the English prompt. It offers up to four base vocabulary items (verb
+infinitives and nouns), without revealing the full sentence or choosing its
+tense. French hint words support pronunciation even while the answer is hidden.
+
 Complete Chapter 0 first. It takes 3-7 days and is not optional for a true beginner.
 
 - **Light pace:** one chapter every two weeks
