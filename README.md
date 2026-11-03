@@ -77,6 +77,19 @@ Chapters 17-25 reteach and extend the tense system, including forms introduced e
 | 24 | Passé simple and passé antérieur recognition | [Chapter 24](chapter-24-literary-past-recognition/) |
 | 25 | Mixed tense selection and review | [Chapter 25](chapter-25-integrated-tense-review/) |
 
+## Quick-reference cheat sheets
+
+The original course home page and sidebar link to two searchable cheat sheets:
+
+- [General French](chapter-01-nouns-adjectives/general-french-cheat-sheet.md):
+  pronunciation, everyday expressions, and core patterns from Chapters 0–16.
+- [Grammar](chapter-17-present-tense/grammar-cheat-sheet.md):
+  tense selection, conjugation formulas, agreement, conditions, moods, and
+  literary-past recognition from Chapters 17–25.
+
+Both use section jump menus and tappable French pronunciation. They supplement
+the lessons rather than replace them and remain separate from the coach track.
+
 ## Recommended pacing
 
 Each English-to-French translation row includes a collapsed **Hint** beside

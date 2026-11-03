@@ -30,6 +30,10 @@ class DocumentTypeTests(unittest.TestCase):
     def test_review_plan_variants_stay_review(self):
         self.assert_type("7-day-plan.md", "Review")
 
+    def test_cheat_sheets_have_a_distinct_document_type(self):
+        self.assert_type("general-french-cheat-sheet.md", "Cheat sheet")
+        self.assert_type("grammar-cheat-sheet.md", "Cheat sheet")
+
 
 class ChapterOrderingTests(unittest.TestCase):
     """A beginner must meet documents in teaching order, not alphabetical order."""
@@ -74,6 +78,32 @@ class ChapterOrderingTests(unittest.TestCase):
 
 
 class CourseBuildTests(unittest.TestCase):
+    def test_cheat_sheets_are_available_in_the_original_course(self):
+        for folder_name, filename, section in (
+            (
+                "chapter-01-nouns-adjectives",
+                "general-french-cheat-sheet.md",
+                "Everyday phrases",
+            ),
+            (
+                "chapter-17-present-tense",
+                "grammar-cheat-sheet.md",
+                "Three si patterns",
+            ),
+        ):
+            with self.subTest(filename=filename):
+                chapter = build_site.chapter_data(build_site.ROOT / folder_name)
+                self.assertEqual(chapter["documents"][0]["type"], "Overview")
+                sheet = next(
+                    doc for doc in chapter["documents"]
+                    if doc["id"] == f"{folder_name}/{filename}"
+                )
+                self.assertEqual(sheet["type"], "Cheat sheet")
+                self.assertTrue(
+                    any(section in item["title"] for item in sheet["sections"])
+                )
+                self.assertIn('class="speakable" lang="fr"', sheet["html"])
+
     def test_prendre_family_introduction_includes_english_meanings(self):
         folder = build_site.ROOT / "chapter-09-partitives-object-pronouns"
         chapter = build_site.chapter_data(folder)

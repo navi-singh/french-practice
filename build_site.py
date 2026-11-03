@@ -244,6 +244,8 @@ def document_type(path):
     name = path.name.lower()
     if name == "readme.md":
         return "Overview"
+    if "cheat-sheet" in name:
+        return "Cheat sheet"
     if "lesson" in name:
         return "Lessons"
     if "phrase" in name:
@@ -297,6 +299,7 @@ def chapter_data(folder):
         "Audio": 7,
         "Narration": 8,
         "Reference": 9,
+        "Cheat sheet": 9,
         "Resource": 10,
     }
     documents = []

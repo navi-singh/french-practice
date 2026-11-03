@@ -134,6 +134,18 @@ function renderHome() {
         <h2>Original French course · Chapters 0–25</h2>
         <p>New to French? Start with Chapter 0 for pronunciation and your first phrases. Read, listen, write from memory, correct, and review. Your progress is saved on this device.</p>
       </div>
+      <h2>Quick-reference cheat sheets</h2>
+      <div class="home-grid">
+        ${course.chapters.flatMap((chapter) => chapter.documents
+          .filter((document) => document.type === "Cheat sheet")
+          .map((document) => `
+            <button type="button" class="home-card" data-route="${escapeAttribute(document.id)}">
+              <span>Original course · Quick reference</span>
+              <h2>${escapeHtml(document.title)}</h2>
+            </button>
+          `)).join("")}
+      </div>
+      <h2>Course chapters</h2>
       <div class="home-grid">
         ${course.chapters.map((chapter) => `
           <button type="button" class="home-card" data-route="${chapter.slug}">
@@ -294,7 +306,15 @@ function renderChapters(filter = "") {
   }
 
   const activeSlug = location.hash.split("/")[1] || "";
-  chapterList.innerHTML = course.chapters.map((chapter) => {
+  chapterList.innerHTML = course.chapters.flatMap((chapter) => chapter.documents
+    .filter((document) => document.type === "Cheat sheet")
+    .map((document) => `
+      <button class="chapter-link ${location.hash === `#/${document.id}` ? "active" : ""}"
+        data-route="${escapeAttribute(document.id)}">
+        <span class="chapter-number" aria-hidden="true">≡</span>
+        <span class="chapter-title">${escapeHtml(document.title)}</span>
+      </button>
+    `)).join("") + course.chapters.map((chapter) => {
     const done = chapter.documents.length > 0
       && chapter.documents.every((document) => completed.has(document.id));
     return `

@@ -32,7 +32,7 @@ function makeVoice(name, lang) {
 }
 
 /** Loads docs/app.js in a sandbox with just enough browser surface to run. */
-function loadApp(voices) {
+function loadApp(voices, content = { chapters: [] }) {
   const store = new Map();
   const elements = new Map();
   const getElement = (selector) => {
@@ -86,7 +86,7 @@ function loadApp(voices) {
     },
   };
   sandbox.window = sandbox;
-  sandbox.window.FRENCH_PRACTICE_CONTENT = { chapters: [] };
+  sandbox.window.FRENCH_PRACTICE_CONTENT = content;
   sandbox.globalThis = sandbox;
 
   vm.createContext(sandbox);
@@ -100,6 +100,31 @@ const FRENCH_SET = [
   makeVoice("Jacques", "fr-FR"),
   makeVoice("Alex", "en-US"),
 ];
+
+test("original course cheat sheets are linked and render without replacing lessons", () => {
+  const contentSource = readFileSync(join(root, "docs", "content.js"), "utf8");
+  const contentContext = { window: {} };
+  vm.runInNewContext(contentSource, contentContext);
+  const content = contentContext.window.FRENCH_PRACTICE_CONTENT;
+  const sheets = content.chapters.flatMap((chapter) => chapter.documents)
+    .filter((document) => document.type === "Cheat sheet");
+  assert.equal(sheets.length, 2);
+  const { sandbox, elements } = loadApp(FRENCH_SET, content);
+  const home = elements.get("#main").innerHTML;
+  for (const sheet of sheets) {
+    assert.ok(home.includes(`data-route="${sheet.id}"`));
+    assert.ok(elements.get("#chapter-list").innerHTML.includes(`data-route="${sheet.id}"`));
+    sandbox.location.hash = `#/${sheet.id}`;
+    sandbox.route();
+    assert.ok(elements.get("#main").innerHTML.includes(sheet.html));
+    assert.ok(elements.get("#main").innerHTML.includes("Cheat sheet"));
+  }
+  const chapter = content.chapters.find((item) => item.number === 17);
+  const lesson = chapter.documents.find((document) => document.type === "Lessons");
+  sandbox.location.hash = `#/${lesson.id}`;
+  sandbox.route();
+  assert.ok(elements.get("#main").innerHTML.includes(lesson.html));
+});
 
 test("only French voices are offered", () => {
   const { sandbox } = loadApp(FRENCH_SET);
